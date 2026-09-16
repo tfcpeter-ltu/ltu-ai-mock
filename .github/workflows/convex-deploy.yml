@@ -18,6 +18,11 @@ jobs:
         with:
           node-version: 24
       - run: npm install
-      - run: npx convex deploy
+      - name: Configure Convex Auth
+        run: npx @convex-dev/auth --skip-git-check --web-server-url https://ltuaimock.uwetw.com
+        env:
+          CONVEX_DEPLOY_KEY: ${{ secrets.CONVEX_DEPLOY_KEY }}
+      - name: Deploy Convex Backend
+        run: npx convex deploy
         env:
           CONVEX_DEPLOY_KEY: ${{ secrets.CONVEX_DEPLOY_KEY }}
