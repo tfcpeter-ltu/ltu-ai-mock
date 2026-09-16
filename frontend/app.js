@@ -9,7 +9,7 @@ const CONVEX_URL='https://dashing-quail-760.convex.cloud';
 const client=new ConvexReactClient(CONVEX_URL,{expectAuth:true});
 
 function PublicHome(){
- return html`<>
+ return html`<${React.Fragment}>
   <header className="nav"><div className="brand"><img src="assets/ltu-logo.jpg" onError=${e=>e.currentTarget.style.display='none'}/><div><b>LTU 國際學術中心</b><small>EPT AI MOCK · PERSONALISED LEARNING</small></div></div><a href="#login"><button className="btn gold">學生登入</button></a></header>
   <section className="hero"><div><div className="eyebrow">PERSONALISED 60-DAY PREPARATION</div><h1>不是只做模擬考<br/>而是讓 AI 找出你為什麼錯</h1><h2>29 套 Mock × AI 弱點修復 × 四能力訓練</h2><p>把歷次練習、閱讀與聽力作答、Writing、Speaking、單字與弱點集中在同一個個人帳號。AI 不只告訴你答案，而是協助你建立可重複複習的弱點模型。</p><a href="#login"><button className="btn gold">開始我的 EPT 計畫</button></a></div><div className="heroVisual"><div className="fallback"><b>LTU EPT AI Mock</b><br/>29 Sets · AI Review · Vocabulary · Writing · Speaking</div></div></section>
   <section className="features"><h2>一套系統完成 EPT 全程準備</h2><p className="sub">從今天要做什麼，到每一次錯題如何修復，都建立在同一個學生學習履歷中。</p><div className="grid">
@@ -17,7 +17,7 @@ function PublicHome(){
   </div></section>
   <section className="why"><h2>和一般線上題庫最大的不同</h2><div className="whyGrid"><div className="whyBox"><h3>錯題不是終點，而是下一次學習任務</h3><p>每一題錯誤都可以進入 Weakness Inbox。學生確認後才進正式弱點筆記，再依複習週期回來重新練習，避免錯題本越存越多卻沒有真正改善。</p></div><div className="whyBox"><h3>AI 參考答案不假裝是官方答案</h3><p>沒有官方答案鍵的題目，系統使用「本站 AI 參考答案」，保留證據與信心度，讓學生知道推導依據，而不是把 AI 判斷包裝成官方答案。</p></div></div></section>
   <section id="login" className="loginWrap"><div className="loginCard"><div className="loginPitch"><div className="eyebrow">LTU STUDENT ACCOUNT</div><h2>你的 EPT 學習紀錄，從今天開始累積。</h2><p>正式帳號會保存 Mock 作答、弱點、單字、Writing、Speaking 與會員期限，換電腦或手機後仍可接著學習。</p><p><b>會員方案：NT$5,000 / 30 天</b><br/>到期後保留學習資料，續費後恢復完整練習與 AI 功能。</p></div><${LoginForm}/></div></section>
- </>`;
+ </${React.Fragment}>`;
 }
 
 function LoginForm(){
