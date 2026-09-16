@@ -43,6 +43,31 @@ export const me = query({
   },
 });
 
+export const dashboard = query({
+  args: {},
+  handler: async (ctx) => {
+    const userId = await requireUser(ctx);
+    const profile = await getProfile(ctx, userId);
+    const attempts = await ctx.db.query("mockAttempts").withIndex("by_user", q => q.eq("userId", userId)).collect();
+    const weaknesses = await ctx.db.query("weaknesses").withIndex("by_user", q => q.eq("userId", userId)).collect();
+    const vocab = await ctx.db.query("vocabulary").withIndex("by_user", q => q.eq("userId", userId)).collect();
+    const writing = await ctx.db.query("writingRecords").withIndex("by_user", q => q.eq("userId", userId)).collect();
+    const speaking = await ctx.db.query("speakingRecords").withIndex("by_user", q => q.eq("userId", userId)).collect();
+    const completedMocks = new Set(attempts.filter(a => a.status === "submitted").map(a => a.mockNumber)).size;
+    const active = profile?.membershipStatus === "active" && !!profile.membershipEndAt && profile.membershipEndAt > Date.now();
+    return {
+      profile,
+      membershipActive: active,
+      completedMocks,
+      pendingWeaknesses: weaknesses.filter(w => w.status === "pending").length,
+      confirmedWeaknesses: weaknesses.filter(w => w.status === "confirmed").length,
+      vocabCount: vocab.length,
+      writingCount: writing.length,
+      speakingCount: speaking.length,
+    };
+  },
+});
+
 export const membershipStatus = query({
   args: {},
   handler: async (ctx) => {
@@ -70,6 +95,31 @@ export const activateMembership30Days = mutation({
       membershipEndAt: now + 30 * 24 * 60 * 60 * 1000,
     });
     return true;
+  },
+});
+
+export const saveCloudState = mutation({
+  args: { stateJson: v.string() },
+  handler: async (ctx, { stateJson }) => {
+    const userId = await requireUser(ctx);
+    if (stateJson.length > 900_000) throw new Error("Cloud state is too large");
+    const existing = await ctx.db.query("cloudState").withIndex("by_user", q => q.eq("userId", userId)).unique();
+    const updatedAt = Date.now();
+    if (existing) {
+      await ctx.db.patch(existing._id, { stateJson, updatedAt });
+      return { id: existing._id, updatedAt };
+    }
+    const id = await ctx.db.insert("cloudState", { userId, stateJson, updatedAt });
+    return { id, updatedAt };
+  },
+});
+
+export const getCloudState = query({
+  args: {},
+  handler: async (ctx) => {
+    const userId = await requireUser(ctx);
+    const row = await ctx.db.query("cloudState").withIndex("by_user", q => q.eq("userId", userId)).unique();
+    return row ? { stateJson: row.stateJson, updatedAt: row.updatedAt } : null;
   },
 });
 
