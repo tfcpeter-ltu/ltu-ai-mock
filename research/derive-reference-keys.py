@@ -287,6 +287,96 @@ for n in [11,13]:
  r=next(r for r in records if r['mockId']=='mock-04' and r['q']==n)
  for mid in ['mock-07','mock-15']:add(mid,n,'|'.join(r['acceptedAnswers']),r['evidence'],r['explanation'],r['confidence'])
 
+rows=[
+(1,'v','intelligent packing is key','B 段提供打包建議。'),
+(2,'ii','Other Spanish routes','C 段列出多種路線。'),
+(3,'vi','The network is similar to a river system','D 段用溪流匯聚比喻路線。'),
+(4,'viii','led to the construction of lots of hospitals, churches','E 段說明朝聖者促成沿途建設。'),
+(5,'iii','thanks to its spiritual significance','F 段提醒路線的精神意義。'),
+(6,'fairly flat','most of the stages are fairly flat','路線大部分平坦，困難在連日行走。'),
+(7,'cheap air travel','cheap air travel has given many the opportunity','便宜航空讓起點更有彈性。'),
+(8,'different sections','different sections in successive years','可分段在不同年份完成。'),
+(9,'modifications and repairs|repairs','useful for modifications and repairs','裝備可能需要修補。'),
+(10,'organized tour','peace of mind will benefit from an organized tour','參加安排好的旅行可減少規劃負擔。'),
+(11,'NOT GIVEN','dates back to the beginning of the 9th century','文中提供歷史起源，未說是否存在爭議；有可能被解讀為 NO，待核對。','medium'),
+(12,'NOT GIVEN','Many hostels don’t keep blankets','未提供多數朝聖者住哪裡的比例。'),
+(13,'NO','Some hostels run out so be prepared!','原文指出有些會用完衛生紙，但不直接否定 usually，待核對。','medium'),
+(14,'NOT GIVEN','the route gained international attention','未比較現在與歷史所有時期的人數。'),
+(15,'A','everyday language','作品使用日常語言。'),
+(16,'B','variations on classic stories of fantasy and horror','部分作品取材於經典故事。'),
+(17,'C','He likes to frighten his readers after he has made them love his characters.','C 強調人物連結，但 A 嚇讀者同樣獲原文支持，選項不互斥，待核對。','medium'),
+(18,'B','retirement is not always permanent','作者暗示退休未必永久。'),
+(19,'C','fiction features everyday language','C 段列出作品構成要素。'),
+(20,'F','made into movies for both Hollywood and for television','F 段涵蓋影視、網路與電子形式。'),
+(21,'F','On Writing: A Memoir of the Craft','F 段提及寫作建議這部非小說作品。'),
+(22,'B','allowed King to quit his other jobs','Carrie 成功改變職業生活。'),
+(23,'G','The ideal format for horror tales used to be the short story','G 段討論以長篇挑戰短篇慣例；題目卻限制 A-F，暫不扣分。','medium'),
+(24,'ordinary situations','evil occurs in ordinary situations','在平凡場景呈現邪惡。'),
+(25,'contemporary version','a contemporary version of Bram','原文以直撇號拼寫 Stoker，現代版本是所求概念。'),
+(26,'his own experiences','based on his own experiences','寫作建議取自本人經驗。'),
+(27,'the ideal format|ideal format','The ideal format for horror tales used to be the short story','題幹說 novella，原文是 short story，題目不一致，待核對。','medium'),
+(28,'F',"there's a handful of possible reasons",'F 段提出午餐吃河粉的原因。'),
+(29,'C','shops often extend out onto the sidewalks','C 段描述店面延伸到人行道的狹小空間。'),
+(30,'A','rice noodles, herbs, and thinly sliced meats','A 段列出河粉材料。'),
+(31,'D','these are the coolest times of day','D 段將喝熱湯時間與氣候連結。'),
+(32,'D','Vendors rise early to get their ingredients','D 段描述攤商一天的工作安排。'),
+(33,'B','The history of pho is imprecise.','B 段比較河內與南定的起源說。'),
+(34,'E','Newer enterprises stay open all day.','E 段說明全天營業，不限早餐。'),
+(35,'motorbike-choked|frenetic motorbike-choked','the frenetic motorbike-choked streets','機車擁擠的街道。'),
+(36,'early riser','Vietnam rewards an early riser.','早起者。'),
+(37,'most famous dish','Easily the most famous dish of Vietnam','三字，最知名的菜餚。'),
+(38,'originated','Some believe pho originated on the streets of Hanoi','關於起源地有所爭議。'),
+(39,'rice fields','those who worked in the rice fields','原為稻田工作者的早餐。'),
+(40,'Vietnamese','still distinctively Vietnamese','傳統吃法仍具有越南特色。')]
+for r in rows:add('mock-11',*r)
+
+for r in records:
+ if r['mockId']=='mock-01' and r['q']==38:
+  r['questionPrompt']='Roberts (2009) found that there are still variations between the (38) ______ of children from richer and poorer backgrounds, as well as from different ethnic groups.'
+
+rows16=[
+(1,'C','others have found alternate uses','C 段列出求偶、避開交配與誘捕獵物的用途。'),
+(2,'D','larvae that played dead longer','D 段以實驗比較裝死與存活。'),
+(3,'B','61 minutes','B 段列出61分鐘與23分鐘。'),
+(4,'A','ethical concerns','A 段說明野外紀錄困難與實驗倫理限制。'),
+(5,'A','Japanese quail','A 段列舉各地動物。'),
+(6,'D','Moving guarantees death','D 段以逃生最後機會作結；B 段也有近似引言，保留段落選擇歧義。','medium'),
+(7,'fluids','foul-smelling fluids','負鼠排出難聞的液體。'),
+(8,'swallow','impossible for frogs to swallow them','伸展肢體使青蛙難以吞嚥。'),
+(9,'food','attaches himself to it','it 指前面的食物包。'),
+(10,'mate','so to mate','雄蜘蛛裝死是為了交配。'),
+(11,'female','female moorland hawker dragonfly','題目要填性別。'),
+(12,'mating|aggressive males','avoid\n mating','雌蜻蜓藉此避免交配或躲開具攻擊性的雄性。'),
+(13,'comb grouper','comb grouper of\n Brazil','另一種魚是巴西的 comb grouper。'),
+(14,'lure fish|attract fish|attract prey','to lure fish and other prey','題本表格合併兩種魚的目的，原文動詞與限字的搭配需核對。','medium'),
+(15,'TRUE','reduce our risk of illness and prolong our lives','社交支持與健康和壽命有關。'),
+(16,'TRUE','With the largest brains, humans have the largest','文中把較大腦部與較大社群連結。'),
+(17,'FALSE','maximum size of intentional','文中是最大規模，並非最少人數。'),
+(18,'FALSE','meaningful connections\nwe can manage has stayed the same','社群媒體並未增加可維持的有意義關係數。'),
+(19,'concentric social circles|social circles','concentric social circles','模型以同心社交圈呈現。'),
+(20,'static','The circles aren’t static','圈層關係並非固定。'),
+(21,'sympathy group','sympathy group','15人的圈層稱為 sympathy group。'),
+(22,'emotional and physiological','emotional and\nphysiological benefits','最內圈提供情緒與生理益處。'),
+(23,'A','you can’t just pre-program them','Dunbar 說社交技能無法預先編程。'),
+(24,'B','minimum collective investment of 3,000 hours','Hall 估算建立15人圈層需要至少3000小時。'),
+(25,'B','A college freshman is not meeting nearly as many people','Hall 說新生遇到的人變少。'),
+(26,'C','Harris found, was the quality of relationships','Harris 對中年人的研究重視關係品質。'),
+(27,'B','requires complicated calculations','Hall 指出管理分層社交網絡需要複雜計算。'),
+(28,'TRUE',"we're reading each other's minds",'日常生活會推測他人想法。'),
+(29,'TRUE',"collecting clues to what's on the other person's mind",'對話時收集他人的心理線索。'),
+(30,'FALSE',"we're all street-corner psychics",'作者把這項能力視為普遍的人類技能。'),
+(31,'NOT GIVEN',"Mind reading enables us to negotiate",'全文列舉理解玩笑與受引誘，沒有比较難易度。'),
+(32,'FALSE','perhaps the most urgent element','原文 perhaps 帶有保留，題目 undoubtedly 過於確定。','medium'),
+(33,'H',"It's astonishing that we can peer",'astonishing 對應 amazing。'),
+(34,'D','Close friends and married couples','married couples 對應 spouses。'),
+(35,'C','grew more sophisticated','溝通變得更進階、複雜。'),
+(36,'B','and even to lie','lie about feelings 符合原文與句法。'),
+(37,'E','to develop mindsight','能力名稱是 mindsight。'),
+(38,'A','we comprehend the\nmeaning of the words being spoken','作者提到語意、表情肢體及語調，沒有要求快速辨認語言種類。'),
+(39,'C','all your other points of accuracy may be blown','錯過互動轉折可能抵銷其餘判斷。'),
+(40,'C',"it's the content of speech that contributes most",'Ickes 認為言語內容最有幫助，對應 C。')]
+for row in rows16:add('mock-16',*row)
+
 keys={m['id']:{'reading':{'status':'ai-derived','version':'2026-09-16-r1','source':'supplied-reading-passage','records':{}}} for m in mocks}
 for record in records:
  for m in mocks:

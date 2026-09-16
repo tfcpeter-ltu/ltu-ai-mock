@@ -13,54 +13,54 @@
   },
   "mock-04": {
     "reading": 40,
-    "listening": 0
+    "listening": 40
   },
   "mock-05": {
     "reading": 40,
-    "listening": 20
+    "listening": 40
   },
   "mock-06": {
     "reading": 40,
-    "listening": 10
+    "listening": 40
   },
   "mock-07": {
     "reading": 40,
-    "listening": 20
+    "listening": 40
   },
   "mock-08": {
     "reading": 40,
-    "listening": 30
+    "listening": 40
   },
   "mock-09": {
     "reading": 40,
-    "listening": 30
+    "listening": 40
   },
   "mock-10": {
     "reading": 40,
-    "listening": 0
+    "listening": 40
   },
   "mock-11": {
-    "reading": 0,
-    "listening": 0
+    "reading": 40,
+    "listening": 40
   },
   "mock-12": {
     "reading": 40,
-    "listening": 20
+    "listening": 40
   },
   "mock-13": {
     "reading": 40,
-    "listening": 7
+    "listening": 40
   },
   "mock-14": {
     "reading": 40,
-    "listening": 20
+    "listening": 40
   },
   "mock-15": {
     "reading": 40,
-    "listening": 20
+    "listening": 40
   },
   "mock-16": {
-    "reading": 0,
+    "reading": 40,
     "listening": 0
   },
   "mock-17": {
@@ -68,7 +68,7 @@
     "listening": 0
   },
   "mock-18": {
-    "reading": 0,
+    "reading": 13,
     "listening": 0
   },
   "mock-19": {
@@ -80,7 +80,7 @@
     "listening": 0
   },
   "mock-21": {
-    "reading": 0,
+    "reading": 13,
     "listening": 0
   },
   "mock-22": {
