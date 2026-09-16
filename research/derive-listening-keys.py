@@ -9,12 +9,14 @@ def add(mock,n,answers,at,reason,confidence='high'):
  m=next(x for x in mocks if x['id']==mock);q=m['questionData']['listening'][n-1]
  track=next(t for t in maps[mock] if t['from']<=n<=t['to'])
  transcript=json.loads((ROOT/'research/transcripts'/(pathlib.Path(track['src']).stem+'.json')).read_text())
- segments=[s for s in transcript['segments'] if s['start']<=at<s['end']]
- assert segments,(n,at)
+ matched=[i for i,s in enumerate(transcript['segments']) if s['start']<=at<s['end']]
+ assert matched,(n,at)
+ # Sentences often span ASR segments: retain surrounding context in review clips.
+ segments=transcript['segments'][max(0,matched[0]-1):matched[-1]+3]
  evidence=' '.join(s['text'] for s in segments)
  for target in mocks:
   for tq in target['questionData']['listening']:
-   if norm(tq['prompt'])!=norm(q['prompt']) or norm(tq['instruction'])!=norm(q['instruction']):continue
+   if tq['number']!=n or norm(tq['prompt'])!=norm(q['prompt']) or norm(tq['instruction'])!=norm(q['instruction']):continue
    tt=next(t for t in maps[target['id']] if t['from']<=tq['number']<=t['to'])
    if tt['src']!=track['src']:continue
    dest=keys[target['id']].setdefault('listening',dict(status='ai-derived',version='2026-09-16-r1',source='original-recording-machine-transcript',records={}))
@@ -211,6 +213,10 @@ for mid,sets in keys.items():
    r['figure']='assets/question-figures/audio-tour-player.png'
    r['figureProvenance']='Original supplied PDF: 21.04.2021/Listening/Question Papers/Section 2.pdf, page 1.'
   if r['audioSrc']=='assets/audio/10852bad20f3a23e.mp3' and q=='25':r['questionPrompt']='Unfairness was present before (25) ______.'
+
+extra_path=ROOT/'research/additional-listening-keys.json'
+if extra_path.exists():
+ for row in json.loads(extra_path.read_text()):add(*row)
 
 # ASR timestamps can slightly exceed the actual MP3 end; clamp review clips.
 durations={}

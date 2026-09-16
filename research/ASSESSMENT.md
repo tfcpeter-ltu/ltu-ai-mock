@@ -1,11 +1,13 @@
 # AI reference assessment
 
-These answers are AI deductions from the supplied reading passages and original recordings, not official keys. All evidence spans are validated against their associated source before the asset is generated. Reuse requires identical question and instruction text; listening reuse additionally requires the same original recording. NOT GIVEN reading reuse requires the whole relevant passage to match. Explicitly inspected wording variants are separate records.
+These answers are AI deductions from the supplied reading passages and original recordings, not official keys. All evidence spans are validated against their associated source before the asset is generated. Reuse requires identical question number, question and instruction text; listening reuse additionally requires the same original recording. NOT GIVEN reading reuse requires the whole relevant passage to match. Explicitly inspected wording variants are separate records.
 
 Rebuild in order (Python 3 and ffprobe from FFmpeg are required):
 
     python research/derive-reference-keys.py
     python research/derive-listening-keys.py
+    python research/finalize-reference-keys.py
+    node tests/assessment.test.cjs
 
 The latter requires `research/transcripts/*.json`. Transcripts are machine-generated using faster-whisper small.en and may contain recognition errors. Their timestamps point to original source audio. They are source material, not answer keys.
 
@@ -16,3 +18,5 @@ Only high-confidence, exact accepted variants are auto-credited. Unrecognised fr
 The IELTS table display is an uncalibrated raw-score comparison, not a validated EPT equivalence. It uses only official published anchor values (Listening 16/23/30/35 and Academic Reading 15/23/30/35 for Bands 5/6/7/8). It displays wide ranges, only when all 40 reference records exist; uncertainty in unresolved answers widens the range. No overall score is computed without four valid skill assessments. Writing and Speaking live model integration remains unavailable.
 
 To regenerate machine transcripts, install `faster-whisper` and run `python research/transcribe-originals.py`. Existing completed transcripts are reused; original MP3s remain the authoritative listening source.
+
+Inspected additions are stored in `additional-reading-keys.json` and `additional-listening-keys.json`. The finalizer repairs malformed extracted prompts, assigns unordered answer groups, and records source gaps. Group answers are matched to distinct answer families; aliases of the same answer cannot earn a second point. Repeated matching answers remain pending review.

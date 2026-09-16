@@ -420,11 +420,14 @@ rows17=[
 (40,'D|A','why does the number\nof bystanders influence','全文旨在說明旁觀者效應；原題最後選項誤標為 A，與第一項重複，不能自動判分。','medium')]
 for row in rows17:add('mock-17',*row)
 
-keys={m['id']:{'reading':{'status':'ai-derived','version':'2026-09-16-r1','source':'supplied-reading-passage','records':{}}} for m in mocks}
+extra_path=ROOT/'research/additional-reading-keys.json'
+if extra_path.exists():
+ for row in json.loads(extra_path.read_text()):add(*row)
+keys={m['id']:{'reading':{'status':'ai-derived','version':'2026-09-16-r2','source':'supplied-reading-passage','records':{}}} for m in mocks}
 for record in records:
  for m in mocks:
   for q in m['questionData']['reading']:
-   if norm(q['prompt'])!=norm(record['originalPrompt']) or norm(q['instruction'])!=norm(record['instruction']):continue
+   if q['number']!=record['q'] or norm(q['prompt'])!=norm(record['originalPrompt']) or norm(q['instruction'])!=norm(record['instruction']):continue
    if norm(record['evidence']) not in norm(m['contexts']['reading']):continue
    # Evidence matching alone cannot validate NOT GIVEN. Require full source on reuse.
    src=next(x for x in mocks if x['id']==record['mockId'])

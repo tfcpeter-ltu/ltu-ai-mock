@@ -61,58 +61,58 @@
   },
   "mock-16": {
     "reading": 40,
-    "listening": 0
+    "listening": 40
   },
   "mock-17": {
     "reading": 40,
-    "listening": 0
+    "listening": 40
   },
   "mock-18": {
-    "reading": 22,
-    "listening": 0
+    "reading": 40,
+    "listening": 35
   },
   "mock-19": {
-    "reading": 13,
-    "listening": 0
+    "reading": 40,
+    "listening": 40
   },
   "mock-20": {
-    "reading": 0,
-    "listening": 0
+    "reading": 40,
+    "listening": 40
   },
   "mock-21": {
-    "reading": 13,
-    "listening": 0
+    "reading": 40,
+    "listening": 40
   },
   "mock-22": {
-    "reading": 0,
-    "listening": 0
+    "reading": 39,
+    "listening": 40
   },
   "mock-23": {
-    "reading": 0,
-    "listening": 0
+    "reading": 40,
+    "listening": 40
   },
   "mock-24": {
-    "reading": 0,
-    "listening": 0
+    "reading": 40,
+    "listening": 40
   },
   "mock-25": {
     "reading": 40,
-    "listening": 0
+    "listening": 40
   },
   "mock-26": {
-    "reading": 0,
-    "listening": 0
+    "reading": 40,
+    "listening": 40
   },
   "mock-27": {
-    "reading": 0,
-    "listening": 0
+    "reading": 40,
+    "listening": 26
   },
   "mock-28": {
-    "reading": 0,
-    "listening": 0
+    "reading": 40,
+    "listening": 34
   },
   "mock-29": {
     "reading": 40,
-    "listening": 0
+    "listening": 40
   }
 }

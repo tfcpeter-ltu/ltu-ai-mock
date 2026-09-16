@@ -6,17 +6,44 @@ window.LTUAssessment = (() => {
     if(record.confidence!=='high')return 'review';
     const value=normalize(answer);
     if(!value)return 'unanswered';
-    const limit=record.instruction?.match(/NO MORE THAN (ONE|TWO|THREE|FOUR|FIVE) WORDS?/i);
-    if(limit){const max={ONE:1,TWO:2,THREE:3,FOUR:4,FIVE:5}[limit[1].toUpperCase()];const words=value.split(/\s+/).filter(w=>!(/AND\/OR A NUMBER|OR A NUMBER/i.test(record.instruction)&&/^[£$]?\d[\d.,%:–-]*$/.test(w)));if(words.length>max)return 'review';}
+    const instruction=record.instruction||'';
+    const limit=instruction.match(/(?:NO MORE THAN\s+)?(ONE|TWO|THREE|FOUR|FIVE) WORDS?(?:\s+ONLY)?/i);
+    if(limit&&!/matching|choice/i.test(record.type||'')){
+      const max={ONE:1,TWO:2,THREE:3,FOUR:4,FIVE:5}[limit[1].toUpperCase()];
+      const tokens=value.split(/\s+/),numbers=tokens.filter(w=>/^[£$€]?\d[\d.,%:–-]*(?:st|nd|rd|th|am|pm)?$/.test(w));
+      const numberAllowed=/AND\/OR A NUMBER|AND A NUMBER|OR A NUMBER/i.test(instruction);
+      const count=tokens.length-(numberAllowed?numbers.length:0);
+      if(count>max || (numberAllowed&&numbers.length>1) || (/WORDS? OR A NUMBER/i.test(instruction)&&numbers.length&&count))return 'review';
+    }
     if(record.acceptedAnswers.some(a=>normalize(a)===value))return 'correct';
     // Alternative free-text answers require review; an absent variant is not proof of error.
-    const closed=/matching|choice|true|false|yes\/no/i.test(record.type||'') || record.acceptedAnswers.every(a=>/^(?:[a-z]{1,2}|[ivx]+|yes|no|true|false|not given)$/i.test(a));
+    const closed=/matching|choice|true|false|yes\/no/i.test(record.type||'');
     return closed?'incorrect':'review';
   }
   function objective(answers,keySet,submitted) {
     const records=keySet?.status==='ai-derived'?keySet.records||{}:{};
     const rows=Array.from({length:40},(_,i)=>{const q=i+1;return {q,status:submitted?grade(answers?.[q],records[q]):'not_submitted',answer:String(answers?.[q]||'')};});
-    const covered=Object.keys(records).length,correct=rows.filter(r=>r.status==='correct').length;
+    if(submitted){
+      const groups=new Map();
+      for(const r of Object.values(records))if(r.answerGroup)groups.set(r.answerGroup.id,r.answerGroup);
+      for(const group of groups.values()){
+        // Match submitted slots to distinct answer families. Synonyms share one family.
+        const owner=new Map();
+        function assign(q,seen){
+          const value=normalize(answers?.[q]);
+          for(let i=0;i<group.choices.length;i++){
+            if(seen.has(i)||!group.choices[i].some(a=>normalize(a)===value))continue;
+            seen.add(i);
+            if(!owner.has(i)||assign(owner.get(i),seen)){owner.set(i,q);return true;}
+          }
+          return false;
+        }
+        for(const q of group.questions)if(rows[q-1].status==='correct')assign(q,new Set());
+        const credited=new Set(owner.values());
+        for(const q of group.questions)if(rows[q-1].status==='correct'&&!credited.has(q))rows[q-1].status='review';
+      }
+    }
+    const covered=Object.values(records).filter(r=>r.evidence&&r.acceptedAnswers?.length).length,correct=rows.filter(r=>r.status==='correct').length;
     const pending=rows.filter(r=>['review','unverified'].includes(r.status)).length;
     const assessed=rows.filter(r=>['correct','incorrect','unanswered'].includes(r.status)).length;
     return {answered:Object.values(answers||{}).filter(v=>normalize(v)).length,total:40,covered,correct,assessed,pending,rows,status:!submitted?'not_submitted':pending?'partial_reference':'ai_reference',score:submitted&&!pending?correct:null,range:submitted?[correct,correct+pending]:null,official:false};
@@ -57,8 +84,8 @@ function showAssessmentReport(){
 function showReferenceAnswer(skill,q){
  if(current.mode==='strict'&&!state.submitted[key(current.mock.id,skill)]){toast('請先提交本部分再查看參考答案');return;}
  const r=referenceFor(skill,q);$('#aiModalTitle').textContent=`${current.mock.code} · ${skill} Q${q}`;
- if(!r){$('#aiModalBody').innerHTML='<div class="notice">此題尚在建立來源依據，暫不提供猜測答案或扣分。</div><button class="btn outline" onclick="showAssessmentReport()">返回成績</button>';openModal('aiModal');return;}
- const answer=state.answers[key(current.mock.id,skill)]?.[q]||'',status=LTUAssessment.grade(answer,r);
- $('#aiModalBody').innerHTML=`<div class="notice"><b>AI 推導參考答案，非官方答案</b><br>可信度：${r.confidence==='high'?'高':'需複核'} · ${status==='correct'?'符合參考答案':status==='incorrect'?'與參考答案不符':status==='unanswered'?'未作答':'待核對，不自動扣分'}</div><h3>參考答案：${escapeHtml(r.acceptedAnswers.join(' / '))}</h3><p>你的作答：${escapeHtml(answer||'尚未作答')}</p><p>${escapeHtml(r.explanation)}</p><blockquote>${escapeHtml(r.evidence)}</blockquote>${r.audioSrc?`<p>依據為原始錄音的機器轉錄，辨識仍可能有誤。原音位置 ${Math.floor(r.audioStart/60)}:${String(Math.floor(r.audioStart%60)).padStart(2,'0')}。</p><audio controls preload="none" style="width:100%" src="${escapeAttr(r.audioSrc)}#t=${r.audioStart},${r.audioEnd}"></audio>`:'<p>依據：本套模考閱讀文章。</p>'}<button class="btn outline" onclick="showAssessmentReport()">返回成績</button>`;openModal('aiModal');
+ if(!r?.acceptedAnswers?.length){const reason=r?.explanation||window.LTU_AI_KEYS?.[current.mock.id]?.[skill]?.unavailable?.[q]||'此題尚在建立來源依據，暫不提供猜測答案或扣分。';$('#aiModalBody').innerHTML=`<div class="notice">${escapeHtml(reason)} 本題待核對，不扣分。</div><button class="btn outline" onclick="showAssessmentReport()">返回成績</button>`;openModal('aiModal');return;}
+ const answer=state.answers[key(current.mock.id,skill)]?.[q]||'',status=LTUAssessment.objective(state.answers[key(current.mock.id,skill)],window.LTU_AI_KEYS[current.mock.id][skill],true).rows[q-1].status;
+ $('#aiModalBody').innerHTML=`<div class="notice"><b>AI 推導參考答案，非官方答案</b><br>可信度：${r.confidence==='high'?'高':'需複核'} · ${status==='correct'?'符合參考答案':status==='incorrect'?'與參考答案不符':status==='unanswered'?'未作答':'待核對，不自動扣分'}</div><h3>${r.answerGroup?'題組可用答案（每格填一項，不重複）':'參考答案'}：${escapeHtml(r.acceptedAnswers.join(' / '))}</h3><p>你的作答：${escapeHtml(answer||'尚未作答')}</p><p>${escapeHtml(r.explanation)}</p><blockquote>${escapeHtml(r.evidence)}</blockquote>${r.audioSrc?`<p>依據為原始錄音的機器轉錄，辨識仍可能有誤。原音位置 ${Math.floor(r.audioStart/60)}:${String(Math.floor(r.audioStart%60)).padStart(2,'0')}。</p><audio controls preload="none" style="width:100%" src="${escapeAttr(r.audioSrc)}#t=${r.audioStart},${r.audioEnd}"></audio>`:'<p>依據：本套模考閱讀文章。</p>'}<button class="btn outline" onclick="showAssessmentReport()">返回成績</button>`;openModal('aiModal');
 }
 function exportAssessmentReport(){downloadJSON(currentAssessmentReport(),current.mock.code.replace(' ','_')+'_assessment.json')}
