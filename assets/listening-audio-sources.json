@@ -1,0 +1,1633 @@
+{
+  "mock-01": [
+    {
+      "src": "assets/audio/b464603eb020226c.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 245.39,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-1.pdf",
+      "sourceSha256": "b464603eb020226c67e3439f76029be69114cd9a58830f770553c0127180a2fb"
+    },
+    {
+      "src": "assets/audio/cbba58458d5538d8.mp3",
+      "label": "Q11–13 · 原始錄音",
+      "from": 11,
+      "to": 13,
+      "duration": 119.95,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-2.pdf",
+      "sourceSha256": "cbba58458d5538d88f2850a8943d8db35bf0daddbe2883955a9b4db272c5d68b"
+    },
+    {
+      "src": "assets/audio/a1a27834f3bfd906.mp3",
+      "label": "Q14–20 · 原始錄音",
+      "from": 14,
+      "to": 20,
+      "duration": 166.66,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-2.pdf",
+      "sourceSha256": "a1a27834f3bfd9060c37f0bace4f7f51dc5d8cc5123e69c2b098c2c1c6aeb2ba"
+    },
+    {
+      "src": "assets/audio/21b7a0cf0ef85289.mp3",
+      "label": "Q21–24 · 原始錄音",
+      "from": 21,
+      "to": 24,
+      "duration": 182.23,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "21b7a0cf0ef8528943865460ca5365483b8a42e868c85d773f88b99567856534"
+    },
+    {
+      "src": "assets/audio/4c5ae2c9a90224a3.mp3",
+      "label": "Q25–30 · 原始錄音",
+      "from": 25,
+      "to": 30,
+      "duration": 90.91,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "4c5ae2c9a90224a32a0faf4c50d36ef2c0263fd5323287765697d7d0ec13e712"
+    },
+    {
+      "src": "assets/audio/4ba067039b465656.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 341.21,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-04-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/21-04-2021-listening-4.pdf",
+      "sourceSha256": "4ba067039b46565693364fc0f56ee0d401dd6869c6f14a2a46d4f12d29346f58"
+    }
+  ],
+  "mock-02": [
+    {
+      "src": "assets/audio/80f16355966ec96b.mp3",
+      "label": "Q1–5 · 原始錄音",
+      "from": 1,
+      "to": 5,
+      "duration": 128.08,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-1.pdf",
+      "sourceSha256": "80f16355966ec96b851b5734b1a4004733ddb9ccb7a74cff84a04901624b30df"
+    },
+    {
+      "src": "assets/audio/ffa23afd670ffb82.mp3",
+      "label": "Q6–10 · 原始錄音",
+      "from": 6,
+      "to": 10,
+      "duration": 233.56,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-1.pdf",
+      "sourceSha256": "ffa23afd670ffb8251b8148fa6d904f459fb06a6a87a4ac753cacb523640cfc5"
+    },
+    {
+      "src": "assets/audio/56a0ac70464286db.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 240.85,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-2.pdf",
+      "sourceSha256": "56a0ac70464286dbc11363075086df83a09c641455a30dfc580c33db53f233f6"
+    },
+    {
+      "src": "assets/audio/d2398d40199a2cbc.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 78.47,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-2.pdf",
+      "sourceSha256": "d2398d40199a2cbca0f50e46a514d876d5cb553557ad2a4025be9906b631a60f"
+    },
+    {
+      "src": "assets/audio/21b7a0cf0ef85289.mp3",
+      "label": "Q21–24 · 原始錄音",
+      "from": 21,
+      "to": 24,
+      "duration": 182.23,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "21b7a0cf0ef8528943865460ca5365483b8a42e868c85d773f88b99567856534"
+    },
+    {
+      "src": "assets/audio/4c5ae2c9a90224a3.mp3",
+      "label": "Q25–30 · 原始錄音",
+      "from": 25,
+      "to": 30,
+      "duration": 90.91,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "4c5ae2c9a90224a32a0faf4c50d36ef2c0263fd5323287765697d7d0ec13e712"
+    },
+    {
+      "src": "assets/audio/4ba067039b465656.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 341.21,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-04-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/21-04-2021-listening-4.pdf",
+      "sourceSha256": "4ba067039b46565693364fc0f56ee0d401dd6869c6f14a2a46d4f12d29346f58"
+    }
+  ],
+  "mock-03": [
+    {
+      "src": "assets/audio/b464603eb020226c.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 245.39,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-1.pdf",
+      "sourceSha256": "b464603eb020226c67e3439f76029be69114cd9a58830f770553c0127180a2fb"
+    },
+    {
+      "src": "assets/audio/56a0ac70464286db.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 240.85,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-2.pdf",
+      "sourceSha256": "56a0ac70464286dbc11363075086df83a09c641455a30dfc580c33db53f233f6"
+    },
+    {
+      "src": "assets/audio/d2398d40199a2cbc.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 78.47,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-2.pdf",
+      "sourceSha256": "d2398d40199a2cbca0f50e46a514d876d5cb553557ad2a4025be9906b631a60f"
+    },
+    {
+      "src": "assets/audio/ba79244637bcce21.mp3",
+      "label": "Q21–23 · 原始錄音",
+      "from": 21,
+      "to": 23,
+      "duration": 63.16,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-3.pdf",
+      "sourceSha256": "ba79244637bcce2120f3ebdfa942a75cc8f6e8953794254a584e4c887cae5b25"
+    },
+    {
+      "src": "assets/audio/93fe1393c23ba294.mp3",
+      "label": "Q24–30 · 原始錄音",
+      "from": 24,
+      "to": 30,
+      "duration": 259.11,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-3.pdf",
+      "sourceSha256": "93fe1393c23ba294ac02b8579fabeecfa84e74f2fe57bcace864793f2df4ad8c"
+    },
+    {
+      "src": "assets/audio/4ba067039b465656.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 341.21,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-04-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/21-04-2021-listening-4.pdf",
+      "sourceSha256": "4ba067039b46565693364fc0f56ee0d401dd6869c6f14a2a46d4f12d29346f58"
+    }
+  ],
+  "mock-04": [
+    {
+      "src": "assets/audio/2f38cea5dbb0283d.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 188.16,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-1.pdf",
+      "sourceSha256": "2f38cea5dbb0283da92601cec402e14046893fbc7206dd0964e3006796539487"
+    },
+    {
+      "src": "assets/audio/70e27279413a82b2.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 145.71,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-2.pdf",
+      "sourceSha256": "70e27279413a82b2f9f58c02ac804db3b7448e0ec2bcab5678187fd4578422ab"
+    },
+    {
+      "src": "assets/audio/140051c6aedd08d0.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 205.98,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-2.pdf",
+      "sourceSha256": "140051c6aedd08d08a579409117253519b01d954b85c8f8c2c2f5d8211867071"
+    },
+    {
+      "src": "assets/audio/8351ca8819b3b649.mp3",
+      "label": "Q21–24 · 原始錄音",
+      "from": 21,
+      "to": 24,
+      "duration": 141.61,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-3.pdf",
+      "sourceSha256": "8351ca8819b3b649a32b79be597e434cc287f6a0b2bff5d9a01796cc106b4c03"
+    },
+    {
+      "src": "assets/audio/10852bad20f3a23e.mp3",
+      "label": "Q25–30 · 原始錄音",
+      "from": 25,
+      "to": 30,
+      "duration": 112.14,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-3.pdf",
+      "sourceSha256": "10852bad20f3a23e19f27c45baccfded157c837e3b339df9c950fd669239074e"
+    },
+    {
+      "src": "assets/audio/51b88b09f1d401bb.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 275.72,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-7.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-4.pdf",
+      "sourceSha256": "51b88b09f1d401bb774b619781786fe38d96afef7e61c7eff09d8efd419c133a"
+    }
+  ],
+  "mock-05": [
+    {
+      "src": "assets/audio/116c9088de068824.mp3",
+      "label": "Q1–4 · 原始錄音",
+      "from": 1,
+      "to": 4,
+      "duration": 94.48,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-1.pdf",
+      "sourceSha256": "116c9088de0688248e6e568e4a7b18e4d6f65807b5b1f42c4a2bd59afb5227b2"
+    },
+    {
+      "src": "assets/audio/92c10613c7845633.mp3",
+      "label": "Q5–10 · 原始錄音",
+      "from": 5,
+      "to": 10,
+      "duration": 141.17,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-1.pdf",
+      "sourceSha256": "92c10613c7845633c037679e85f662c023e2f1dcbd2412e189ceb2baea46ea9d"
+    },
+    {
+      "src": "assets/audio/cbba58458d5538d8.mp3",
+      "label": "Q11–13 · 原始錄音",
+      "from": 11,
+      "to": 13,
+      "duration": 119.95,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-2.pdf",
+      "sourceSha256": "cbba58458d5538d88f2850a8943d8db35bf0daddbe2883955a9b4db272c5d68b"
+    },
+    {
+      "src": "assets/audio/a1a27834f3bfd906.mp3",
+      "label": "Q14–20 · 原始錄音",
+      "from": 14,
+      "to": 20,
+      "duration": 166.66,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-2.pdf",
+      "sourceSha256": "a1a27834f3bfd9060c37f0bace4f7f51dc5d8cc5123e69c2b098c2c1c6aeb2ba"
+    },
+    {
+      "src": "assets/audio/ba79244637bcce21.mp3",
+      "label": "Q21–23 · 原始錄音",
+      "from": 21,
+      "to": 23,
+      "duration": 63.16,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-3.pdf",
+      "sourceSha256": "ba79244637bcce2120f3ebdfa942a75cc8f6e8953794254a584e4c887cae5b25"
+    },
+    {
+      "src": "assets/audio/93fe1393c23ba294.mp3",
+      "label": "Q24–30 · 原始錄音",
+      "from": 24,
+      "to": 30,
+      "duration": 259.11,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-3.pdf",
+      "sourceSha256": "93fe1393c23ba294ac02b8579fabeecfa84e74f2fe57bcace864793f2df4ad8c"
+    },
+    {
+      "src": "assets/audio/51b88b09f1d401bb.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 275.72,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-7.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-4.pdf",
+      "sourceSha256": "51b88b09f1d401bb774b619781786fe38d96afef7e61c7eff09d8efd419c133a"
+    }
+  ],
+  "mock-06": [
+    {
+      "src": "assets/audio/80f16355966ec96b.mp3",
+      "label": "Q1–5 · 原始錄音",
+      "from": 1,
+      "to": 5,
+      "duration": 128.08,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-1.pdf",
+      "sourceSha256": "80f16355966ec96b851b5734b1a4004733ddb9ccb7a74cff84a04901624b30df"
+    },
+    {
+      "src": "assets/audio/ffa23afd670ffb82.mp3",
+      "label": "Q6–10 · 原始錄音",
+      "from": 6,
+      "to": 10,
+      "duration": 233.56,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-1.pdf",
+      "sourceSha256": "ffa23afd670ffb8251b8148fa6d904f459fb06a6a87a4ac753cacb523640cfc5"
+    },
+    {
+      "src": "assets/audio/de2901e7c9a21786.mp3",
+      "label": "Q11–13 · 原始錄音",
+      "from": 11,
+      "to": 13,
+      "duration": 46.45,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-2.pdf",
+      "sourceSha256": "de2901e7c9a2178686b2752d9c9ec538d56b19410da14cd200dadd0969a4b503"
+    },
+    {
+      "src": "assets/audio/4f3efb4de38fa356.mp3",
+      "label": "Q14–20 · 原始錄音",
+      "from": 14,
+      "to": 20,
+      "duration": 114.7,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-2.pdf",
+      "sourceSha256": "4f3efb4de38fa356cc96b5dff1e6549e0826d1a3539298193eb842d3bb8060ef"
+    },
+    {
+      "src": "assets/audio/b37fa1723ba4deba.mp3",
+      "label": "Q21–25 · 原始錄音",
+      "from": 21,
+      "to": 25,
+      "duration": 152.22,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-3.pdf",
+      "sourceSha256": "b37fa1723ba4deba7ce8a42a66828a14800be8b1e027f2e6ab5291b70f900c0d"
+    },
+    {
+      "src": "assets/audio/faedd1981866b5b1.mp3",
+      "label": "Q26–30 · 原始錄音",
+      "from": 26,
+      "to": 30,
+      "duration": 135.71,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-3.pdf",
+      "sourceSha256": "faedd1981866b5b15dd9a6458e9c0d772c75dfcd51480a0b6a25cb3fc4bf1cdd"
+    },
+    {
+      "src": "assets/audio/f045797715810fa3.mp3",
+      "label": "Q31–33 · 原始錄音",
+      "from": 31,
+      "to": 33,
+      "duration": 90.78,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-4.pdf",
+      "sourceSha256": "f045797715810fa36252ce65ca67838d5a297a5dee10d914eb0c8db0317fa2b8"
+    },
+    {
+      "src": "assets/audio/e68f4361a76f835a.mp3",
+      "label": "Q34–40 · 原始錄音",
+      "from": 34,
+      "to": 40,
+      "duration": 128.81,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-7.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-4.pdf",
+      "sourceSha256": "e68f4361a76f835a7ab9ef05b5f9a739c39178911048cfd24ce4e48d90ef2d71"
+    }
+  ],
+  "mock-07": [
+    {
+      "src": "assets/audio/2f38cea5dbb0283d.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 188.16,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-1.pdf",
+      "sourceSha256": "2f38cea5dbb0283da92601cec402e14046893fbc7206dd0964e3006796539487"
+    },
+    {
+      "src": "assets/audio/cbba58458d5538d8.mp3",
+      "label": "Q11–13 · 原始錄音",
+      "from": 11,
+      "to": 13,
+      "duration": 119.95,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-2.pdf",
+      "sourceSha256": "cbba58458d5538d88f2850a8943d8db35bf0daddbe2883955a9b4db272c5d68b"
+    },
+    {
+      "src": "assets/audio/a1a27834f3bfd906.mp3",
+      "label": "Q14–20 · 原始錄音",
+      "from": 14,
+      "to": 20,
+      "duration": 166.66,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-2.pdf",
+      "sourceSha256": "a1a27834f3bfd9060c37f0bace4f7f51dc5d8cc5123e69c2b098c2c1c6aeb2ba"
+    },
+    {
+      "src": "assets/audio/21b7a0cf0ef85289.mp3",
+      "label": "Q21–24 · 原始錄音",
+      "from": 21,
+      "to": 24,
+      "duration": 182.23,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "21b7a0cf0ef8528943865460ca5365483b8a42e868c85d773f88b99567856534"
+    },
+    {
+      "src": "assets/audio/4c5ae2c9a90224a3.mp3",
+      "label": "Q25–30 · 原始錄音",
+      "from": 25,
+      "to": 30,
+      "duration": 90.91,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "4c5ae2c9a90224a32a0faf4c50d36ef2c0263fd5323287765697d7d0ec13e712"
+    },
+    {
+      "src": "assets/audio/9f13c64e16b0568c.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 450.14,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-4.pdf",
+      "sourceSha256": "9f13c64e16b0568cd23260ee72bb63641ac60b537f471519b4cad8277f4c1646"
+    }
+  ],
+  "mock-08": [
+    {
+      "src": "assets/audio/b464603eb020226c.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 245.39,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-1.pdf",
+      "sourceSha256": "b464603eb020226c67e3439f76029be69114cd9a58830f770553c0127180a2fb"
+    },
+    {
+      "src": "assets/audio/70e27279413a82b2.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 145.71,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-2.pdf",
+      "sourceSha256": "70e27279413a82b2f9f58c02ac804db3b7448e0ec2bcab5678187fd4578422ab"
+    },
+    {
+      "src": "assets/audio/140051c6aedd08d0.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 205.98,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-2.pdf",
+      "sourceSha256": "140051c6aedd08d08a579409117253519b01d954b85c8f8c2c2f5d8211867071"
+    },
+    {
+      "src": "assets/audio/21b7a0cf0ef85289.mp3",
+      "label": "Q21–24 · 原始錄音",
+      "from": 21,
+      "to": 24,
+      "duration": 182.23,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "21b7a0cf0ef8528943865460ca5365483b8a42e868c85d773f88b99567856534"
+    },
+    {
+      "src": "assets/audio/4c5ae2c9a90224a3.mp3",
+      "label": "Q25–30 · 原始錄音",
+      "from": 25,
+      "to": 30,
+      "duration": 90.91,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "4c5ae2c9a90224a32a0faf4c50d36ef2c0263fd5323287765697d7d0ec13e712"
+    },
+    {
+      "src": "assets/audio/4ba067039b465656.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 341.21,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-04-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/21-04-2021-listening-4.pdf",
+      "sourceSha256": "4ba067039b46565693364fc0f56ee0d401dd6869c6f14a2a46d4f12d29346f58"
+    }
+  ],
+  "mock-09": [
+    {
+      "src": "assets/audio/80f16355966ec96b.mp3",
+      "label": "Q1–5 · 原始錄音",
+      "from": 1,
+      "to": 5,
+      "duration": 128.08,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-1.pdf",
+      "sourceSha256": "80f16355966ec96b851b5734b1a4004733ddb9ccb7a74cff84a04901624b30df"
+    },
+    {
+      "src": "assets/audio/ffa23afd670ffb82.mp3",
+      "label": "Q6–10 · 原始錄音",
+      "from": 6,
+      "to": 10,
+      "duration": 233.56,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-1.pdf",
+      "sourceSha256": "ffa23afd670ffb8251b8148fa6d904f459fb06a6a87a4ac753cacb523640cfc5"
+    },
+    {
+      "src": "assets/audio/56a0ac70464286db.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 240.85,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-2.pdf",
+      "sourceSha256": "56a0ac70464286dbc11363075086df83a09c641455a30dfc580c33db53f233f6"
+    },
+    {
+      "src": "assets/audio/d2398d40199a2cbc.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 78.47,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-2.pdf",
+      "sourceSha256": "d2398d40199a2cbca0f50e46a514d876d5cb553557ad2a4025be9906b631a60f"
+    },
+    {
+      "src": "assets/audio/ba79244637bcce21.mp3",
+      "label": "Q21–23 · 原始錄音",
+      "from": 21,
+      "to": 23,
+      "duration": 63.16,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-3.pdf",
+      "sourceSha256": "ba79244637bcce2120f3ebdfa942a75cc8f6e8953794254a584e4c887cae5b25"
+    },
+    {
+      "src": "assets/audio/93fe1393c23ba294.mp3",
+      "label": "Q24–30 · 原始錄音",
+      "from": 24,
+      "to": 30,
+      "duration": 259.11,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-3.pdf",
+      "sourceSha256": "93fe1393c23ba294ac02b8579fabeecfa84e74f2fe57bcace864793f2df4ad8c"
+    },
+    {
+      "src": "assets/audio/51b88b09f1d401bb.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 275.72,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-7.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-4.pdf",
+      "sourceSha256": "51b88b09f1d401bb774b619781786fe38d96afef7e61c7eff09d8efd419c133a"
+    }
+  ],
+  "mock-10": [
+    {
+      "src": "assets/audio/2f38cea5dbb0283d.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 188.16,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-1.pdf",
+      "sourceSha256": "2f38cea5dbb0283da92601cec402e14046893fbc7206dd0964e3006796539487"
+    },
+    {
+      "src": "assets/audio/de2901e7c9a21786.mp3",
+      "label": "Q11–13 · 原始錄音",
+      "from": 11,
+      "to": 13,
+      "duration": 46.45,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-2.pdf",
+      "sourceSha256": "de2901e7c9a2178686b2752d9c9ec538d56b19410da14cd200dadd0969a4b503"
+    },
+    {
+      "src": "assets/audio/4f3efb4de38fa356.mp3",
+      "label": "Q14–20 · 原始錄音",
+      "from": 14,
+      "to": 20,
+      "duration": 114.7,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-2.pdf",
+      "sourceSha256": "4f3efb4de38fa356cc96b5dff1e6549e0826d1a3539298193eb842d3bb8060ef"
+    },
+    {
+      "src": "assets/audio/8351ca8819b3b649.mp3",
+      "label": "Q21–24 · 原始錄音",
+      "from": 21,
+      "to": 24,
+      "duration": 141.61,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-3.pdf",
+      "sourceSha256": "8351ca8819b3b649a32b79be597e434cc287f6a0b2bff5d9a01796cc106b4c03"
+    },
+    {
+      "src": "assets/audio/10852bad20f3a23e.mp3",
+      "label": "Q25–30 · 原始錄音",
+      "from": 25,
+      "to": 30,
+      "duration": 112.14,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-3.pdf",
+      "sourceSha256": "10852bad20f3a23e19f27c45baccfded157c837e3b339df9c950fd669239074e"
+    },
+    {
+      "src": "assets/audio/f045797715810fa3.mp3",
+      "label": "Q31–33 · 原始錄音",
+      "from": 31,
+      "to": 33,
+      "duration": 90.78,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-4.pdf",
+      "sourceSha256": "f045797715810fa36252ce65ca67838d5a297a5dee10d914eb0c8db0317fa2b8"
+    },
+    {
+      "src": "assets/audio/e68f4361a76f835a.mp3",
+      "label": "Q34–40 · 原始錄音",
+      "from": 34,
+      "to": 40,
+      "duration": 128.81,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-7.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-4.pdf",
+      "sourceSha256": "e68f4361a76f835a7ab9ef05b5f9a739c39178911048cfd24ce4e48d90ef2d71"
+    }
+  ],
+  "mock-11": [
+    {
+      "src": "assets/audio/2f38cea5dbb0283d.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 188.16,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-1.pdf",
+      "sourceSha256": "2f38cea5dbb0283da92601cec402e14046893fbc7206dd0964e3006796539487"
+    },
+    {
+      "src": "assets/audio/de2901e7c9a21786.mp3",
+      "label": "Q11–13 · 原始錄音",
+      "from": 11,
+      "to": 13,
+      "duration": 46.45,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-2.pdf",
+      "sourceSha256": "de2901e7c9a2178686b2752d9c9ec538d56b19410da14cd200dadd0969a4b503"
+    },
+    {
+      "src": "assets/audio/4f3efb4de38fa356.mp3",
+      "label": "Q14–20 · 原始錄音",
+      "from": 14,
+      "to": 20,
+      "duration": 114.7,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-2.pdf",
+      "sourceSha256": "4f3efb4de38fa356cc96b5dff1e6549e0826d1a3539298193eb842d3bb8060ef"
+    },
+    {
+      "src": "assets/audio/b37fa1723ba4deba.mp3",
+      "label": "Q21–25 · 原始錄音",
+      "from": 21,
+      "to": 25,
+      "duration": 152.22,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-3.pdf",
+      "sourceSha256": "b37fa1723ba4deba7ce8a42a66828a14800be8b1e027f2e6ab5291b70f900c0d"
+    },
+    {
+      "src": "assets/audio/faedd1981866b5b1.mp3",
+      "label": "Q26–30 · 原始錄音",
+      "from": 26,
+      "to": 30,
+      "duration": 135.71,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-3.pdf",
+      "sourceSha256": "faedd1981866b5b15dd9a6458e9c0d772c75dfcd51480a0b6a25cb3fc4bf1cdd"
+    },
+    {
+      "src": "assets/audio/51b88b09f1d401bb.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 275.72,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-7.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-4.pdf",
+      "sourceSha256": "51b88b09f1d401bb774b619781786fe38d96afef7e61c7eff09d8efd419c133a"
+    }
+  ],
+  "mock-12": [
+    {
+      "src": "assets/audio/80f16355966ec96b.mp3",
+      "label": "Q1–5 · 原始錄音",
+      "from": 1,
+      "to": 5,
+      "duration": 128.08,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-1.pdf",
+      "sourceSha256": "80f16355966ec96b851b5734b1a4004733ddb9ccb7a74cff84a04901624b30df"
+    },
+    {
+      "src": "assets/audio/ffa23afd670ffb82.mp3",
+      "label": "Q6–10 · 原始錄音",
+      "from": 6,
+      "to": 10,
+      "duration": 233.56,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-1.pdf",
+      "sourceSha256": "ffa23afd670ffb8251b8148fa6d904f459fb06a6a87a4ac753cacb523640cfc5"
+    },
+    {
+      "src": "assets/audio/70e27279413a82b2.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 145.71,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-2.pdf",
+      "sourceSha256": "70e27279413a82b2f9f58c02ac804db3b7448e0ec2bcab5678187fd4578422ab"
+    },
+    {
+      "src": "assets/audio/140051c6aedd08d0.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 205.98,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-2.pdf",
+      "sourceSha256": "140051c6aedd08d08a579409117253519b01d954b85c8f8c2c2f5d8211867071"
+    },
+    {
+      "src": "assets/audio/ba79244637bcce21.mp3",
+      "label": "Q21–23 · 原始錄音",
+      "from": 21,
+      "to": 23,
+      "duration": 63.16,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-3.pdf",
+      "sourceSha256": "ba79244637bcce2120f3ebdfa942a75cc8f6e8953794254a584e4c887cae5b25"
+    },
+    {
+      "src": "assets/audio/93fe1393c23ba294.mp3",
+      "label": "Q24–30 · 原始錄音",
+      "from": 24,
+      "to": 30,
+      "duration": 259.11,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-03-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/31-03-2021-listening-3.pdf",
+      "sourceSha256": "93fe1393c23ba294ac02b8579fabeecfa84e74f2fe57bcace864793f2df4ad8c"
+    },
+    {
+      "src": "assets/audio/f045797715810fa3.mp3",
+      "label": "Q31–33 · 原始錄音",
+      "from": 31,
+      "to": 33,
+      "duration": 90.78,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-4.pdf",
+      "sourceSha256": "f045797715810fa36252ce65ca67838d5a297a5dee10d914eb0c8db0317fa2b8"
+    },
+    {
+      "src": "assets/audio/e68f4361a76f835a.mp3",
+      "label": "Q34–40 · 原始錄音",
+      "from": 34,
+      "to": 40,
+      "duration": 128.81,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-7.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-4.pdf",
+      "sourceSha256": "e68f4361a76f835a7ab9ef05b5f9a739c39178911048cfd24ce4e48d90ef2d71"
+    }
+  ],
+  "mock-13": [
+    {
+      "src": "assets/audio/b464603eb020226c.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 245.39,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-1.pdf",
+      "sourceSha256": "b464603eb020226c67e3439f76029be69114cd9a58830f770553c0127180a2fb"
+    },
+    {
+      "src": "assets/audio/70e27279413a82b2.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 145.71,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-2.pdf",
+      "sourceSha256": "70e27279413a82b2f9f58c02ac804db3b7448e0ec2bcab5678187fd4578422ab"
+    },
+    {
+      "src": "assets/audio/140051c6aedd08d0.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 205.98,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-2.pdf",
+      "sourceSha256": "140051c6aedd08d08a579409117253519b01d954b85c8f8c2c2f5d8211867071"
+    },
+    {
+      "src": "assets/audio/b37fa1723ba4deba.mp3",
+      "label": "Q21–25 · 原始錄音",
+      "from": 21,
+      "to": 25,
+      "duration": 152.22,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-3.pdf",
+      "sourceSha256": "b37fa1723ba4deba7ce8a42a66828a14800be8b1e027f2e6ab5291b70f900c0d"
+    },
+    {
+      "src": "assets/audio/faedd1981866b5b1.mp3",
+      "label": "Q26–30 · 原始錄音",
+      "from": 26,
+      "to": 30,
+      "duration": 135.71,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-3.pdf",
+      "sourceSha256": "faedd1981866b5b15dd9a6458e9c0d772c75dfcd51480a0b6a25cb3fc4bf1cdd"
+    },
+    {
+      "src": "assets/audio/9f13c64e16b0568c.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 450.14,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-4.pdf",
+      "sourceSha256": "9f13c64e16b0568cd23260ee72bb63641ac60b537f471519b4cad8277f4c1646"
+    }
+  ],
+  "mock-14": [
+    {
+      "src": "assets/audio/2f38cea5dbb0283d.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 188.16,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-1.pdf",
+      "sourceSha256": "2f38cea5dbb0283da92601cec402e14046893fbc7206dd0964e3006796539487"
+    },
+    {
+      "src": "assets/audio/70e27279413a82b2.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 145.71,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-2.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-2.pdf",
+      "sourceSha256": "70e27279413a82b2f9f58c02ac804db3b7448e0ec2bcab5678187fd4578422ab"
+    },
+    {
+      "src": "assets/audio/140051c6aedd08d0.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 205.98,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-07-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/21-07-2021-listening-2.pdf",
+      "sourceSha256": "140051c6aedd08d08a579409117253519b01d954b85c8f8c2c2f5d8211867071"
+    },
+    {
+      "src": "assets/audio/21b7a0cf0ef85289.mp3",
+      "label": "Q21–24 · 原始錄音",
+      "from": 21,
+      "to": 24,
+      "duration": 182.23,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "21b7a0cf0ef8528943865460ca5365483b8a42e868c85d773f88b99567856534"
+    },
+    {
+      "src": "assets/audio/4c5ae2c9a90224a3.mp3",
+      "label": "Q25–30 · 原始錄音",
+      "from": 25,
+      "to": 30,
+      "duration": 90.91,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "4c5ae2c9a90224a32a0faf4c50d36ef2c0263fd5323287765697d7d0ec13e712"
+    },
+    {
+      "src": "assets/audio/4ba067039b465656.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 341.21,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-04-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/21-04-2021-listening-4.pdf",
+      "sourceSha256": "4ba067039b46565693364fc0f56ee0d401dd6869c6f14a2a46d4f12d29346f58"
+    }
+  ],
+  "mock-15": [
+    {
+      "src": "assets/audio/2f38cea5dbb0283d.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 188.16,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-1.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-1.pdf",
+      "sourceSha256": "2f38cea5dbb0283da92601cec402e14046893fbc7206dd0964e3006796539487"
+    },
+    {
+      "src": "assets/audio/56a0ac70464286db.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 240.85,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-3.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-2.pdf",
+      "sourceSha256": "56a0ac70464286dbc11363075086df83a09c641455a30dfc580c33db53f233f6"
+    },
+    {
+      "src": "assets/audio/d2398d40199a2cbc.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 78.47,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-04-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/28-04-2021-listening-2.pdf",
+      "sourceSha256": "d2398d40199a2cbca0f50e46a514d876d5cb553557ad2a4025be9906b631a60f"
+    },
+    {
+      "src": "assets/audio/21b7a0cf0ef85289.mp3",
+      "label": "Q21–24 · 原始錄音",
+      "from": 21,
+      "to": 24,
+      "duration": 182.23,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-4.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "21b7a0cf0ef8528943865460ca5365483b8a42e868c85d773f88b99567856534"
+    },
+    {
+      "src": "assets/audio/4c5ae2c9a90224a3.mp3",
+      "label": "Q25–30 · 原始錄音",
+      "from": 25,
+      "to": 30,
+      "duration": 90.91,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/25-08-2021-listening-5.mp3",
+      "sourcePaper": "assets/papers/25-08-2021-listening-3.pdf",
+      "sourceSha256": "4c5ae2c9a90224a32a0faf4c50d36ef2c0263fd5323287765697d7d0ec13e712"
+    },
+    {
+      "src": "assets/audio/f045797715810fa3.mp3",
+      "label": "Q31–33 · 原始錄音",
+      "from": 31,
+      "to": 33,
+      "duration": 90.78,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-6.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-4.pdf",
+      "sourceSha256": "f045797715810fa36252ce65ca67838d5a297a5dee10d914eb0c8db0317fa2b8"
+    },
+    {
+      "src": "assets/audio/e68f4361a76f835a.mp3",
+      "label": "Q34–40 · 原始錄音",
+      "from": 34,
+      "to": 40,
+      "duration": 128.81,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/26-05-2021-listening-7.mp3",
+      "sourcePaper": "assets/papers/26-05-2021-listening-4.pdf",
+      "sourceSha256": "e68f4361a76f835a7ab9ef05b5f9a739c39178911048cfd24ce4e48d90ef2d71"
+    }
+  ],
+  "mock-16": [
+    {
+      "src": "assets/audio/fb886ec41ba53e85.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 387.08,
+      "source": "wetransfer_27-10-2021_2021-10-26_0826(1).zip",
+      "sourceAudio": "originals/wetransfer_27-10-2021_2021-10-26_0826(1)/27.10.2021/Listening/Audio Files/Listening Part 1.wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "fb886ec41ba53e8579c4ca8fb4b178edc0f832ce265a1c679c060dee03bfb31f"
+    },
+    {
+      "src": "assets/audio/1420c319b8a8fffe.mp3",
+      "label": "Q11–14 · 原始錄音",
+      "from": 11,
+      "to": 14,
+      "duration": 126.82,
+      "source": "wetransfer_27-10-2021_2021-10-26_0826(1).zip",
+      "sourceAudio": "originals/wetransfer_27-10-2021_2021-10-26_0826(1)/27.10.2021/Listening/Audio Files/Listening Part 2 #11-14.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "1420c319b8a8fffefe110d93cfeb729b22b127d6f642f95f35f763c00bbb6cff"
+    },
+    {
+      "src": "assets/audio/253abe696f6386a8.mp3",
+      "label": "Q15–20 · 原始錄音",
+      "from": 15,
+      "to": 20,
+      "duration": 144.29,
+      "source": "wetransfer_27-10-2021_2021-10-26_0826(1).zip",
+      "sourceAudio": "originals/wetransfer_27-10-2021_2021-10-26_0826(1)/27.10.2021/Listening/Audio Files/Listening Part 2 #15-20.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "253abe696f6386a89a533ad65b35d3cd1822c82719cbd48b06024e5f2da3c713"
+    },
+    {
+      "src": "assets/audio/5f60c7608c2f95f5.mp3",
+      "label": "Q21–30 · 原始錄音",
+      "from": 21,
+      "to": 30,
+      "duration": 521.43,
+      "source": "wetransfer_27-10-2021_2021-10-26_0826(1).zip",
+      "sourceAudio": "originals/wetransfer_27-10-2021_2021-10-26_0826(1)/27.10.2021/Listening/Audio Files/Listening Part 3.wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "5f60c7608c2f95f5d365315ea64c71e7d04e90bacb34562d9443ecee8bfb8674"
+    },
+    {
+      "src": "assets/audio/8bd8bce00af179b1.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 253.27,
+      "source": "wetransfer_27-10-2021_2021-10-26_0826(1).zip",
+      "sourceAudio": "originals/wetransfer_27-10-2021_2021-10-26_0826(1)/27.10.2021/Listening/Audio Files/Listening Part 4.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "8bd8bce00af179b110eafbb5944f07fce923202ef39593bf74851dc7b8c9da3c"
+    }
+  ],
+  "mock-17": [
+    {
+      "src": "assets/audio/dffcfafdc1db55e0.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 317.83,
+      "source": "wetransfer_24-11-2021_2021-11-23_0419(1).zip",
+      "sourceAudio": "originals/wetransfer_24-11-2021_2021-11-23_0419(1)/24.11.2021/Listening/Audio Files/Part 1.wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "dffcfafdc1db55e01c765be7b29c7809edfe5485fbf743f3761c778660650e22"
+    },
+    {
+      "src": "assets/audio/0e9808e8f8242323.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 167.59,
+      "source": "wetransfer_24-11-2021_2021-11-23_0419(1).zip",
+      "sourceAudio": "originals/wetransfer_24-11-2021_2021-11-23_0419(1)/24.11.2021/Listening/Audio Files/Part 2 #11-15.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "0e9808e8f8242323f2ec3881839088e3da1bc2a6c07d64be1dbbcdcce465b7e5"
+    },
+    {
+      "src": "assets/audio/a42b123bb2db56bb.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 138.89,
+      "source": "wetransfer_24-11-2021_2021-11-23_0419(1).zip",
+      "sourceAudio": "originals/wetransfer_24-11-2021_2021-11-23_0419(1)/24.11.2021/Listening/Audio Files/Part 2 #16-20.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "a42b123bb2db56bb50330234980f2cbc5017e0924828f02a6c0040cd2f69990c"
+    },
+    {
+      "src": "assets/audio/02fe40bab31cc8e4.mp3",
+      "label": "Q21–30 · 原始錄音",
+      "from": 21,
+      "to": 30,
+      "duration": 520.62,
+      "source": "wetransfer_24-11-2021_2021-11-23_0419(1).zip",
+      "sourceAudio": "originals/wetransfer_24-11-2021_2021-11-23_0419(1)/24.11.2021/Listening/Audio Files/Part 3.wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "02fe40bab31cc8e490e948eb70275b375a1448c0379fa699a30a9404c1bd313f"
+    },
+    {
+      "src": "assets/audio/427cd305b3daecb9.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 298.68,
+      "source": "wetransfer_24-11-2021_2021-11-23_0419(1).zip",
+      "sourceAudio": "originals/wetransfer_24-11-2021_2021-11-23_0419(1)/24.11.2021/Listening/Audio Files/Part 4.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "427cd305b3daecb94537cb1f68334b8ca4d3105b3e5914b473829f542bb823ca"
+    }
+  ],
+  "mock-18": [
+    {
+      "src": "assets/audio/fb886ec41ba53e85.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 387.08,
+      "source": "wetransfer_12-01-2022_2022-01-11_0330.zip",
+      "sourceAudio": "originals/wetransfer_12-01-2022_2022-01-11_0330/12.01.2022/Listening/Audio Files/Listening Part 1.wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "fb886ec41ba53e8579c4ca8fb4b178edc0f832ce265a1c679c060dee03bfb31f"
+    },
+    {
+      "src": "assets/audio/4b56927a15e54006.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 130.63,
+      "source": "wetransfer_12-01-2022_2022-01-11_0330.zip",
+      "sourceAudio": "originals/wetransfer_12-01-2022_2022-01-11_0330/12.01.2022/Listening/Audio Files/Listening Part 2 #11-15.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "4b56927a15e540062c7b34a833c510bb731cd204b565a8e3d89ede366a3f6887"
+    },
+    {
+      "src": "assets/audio/16515786b90e4aee.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 107.42,
+      "source": "wetransfer_12-01-2022_2022-01-11_0330.zip",
+      "sourceAudio": "originals/wetransfer_12-01-2022_2022-01-11_0330/12.01.2022/Listening/Audio Files/Listening Part 2 #16-20.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "16515786b90e4aeed71de4d692916dba646bacdda839f5782c3c63c21a8ac7b4"
+    },
+    {
+      "src": "assets/audio/a768b836fb4570ba.mp3",
+      "label": "Q21–30 · 原始錄音",
+      "from": 21,
+      "to": 30,
+      "duration": 370.65,
+      "source": "wetransfer_12-01-2022_2022-01-11_0330.zip",
+      "sourceAudio": "originals/wetransfer_12-01-2022_2022-01-11_0330/12.01.2022/Listening/Audio Files/Listening Part 3.wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "a768b836fb4570ba3a145b52a99be27fb709f75676b9b8d1b5e5767794a77e14"
+    },
+    {
+      "src": "assets/audio/427cd305b3daecb9.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 298.68,
+      "source": "wetransfer_12-01-2022_2022-01-11_0330.zip",
+      "sourceAudio": "originals/wetransfer_12-01-2022_2022-01-11_0330/12.01.2022/Listening/Audio Files/Listening Part 4.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "427cd305b3daecb94537cb1f68334b8ca4d3105b3e5914b473829f542bb823ca"
+    }
+  ],
+  "mock-19": [
+    {
+      "src": "assets/audio/dffcfafdc1db55e0.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 317.83,
+      "source": "wetransfer_11-05-2022_2022-05-10_0522.zip",
+      "sourceAudio": "originals/wetransfer_11-05-2022_2022-05-10_0522/11.05.2022/Listening/Audio Files/Listening Part 1.wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "dffcfafdc1db55e01c765be7b29c7809edfe5485fbf743f3761c778660650e22"
+    },
+    {
+      "src": "assets/audio/0e9808e8f8242323.mp3",
+      "label": "Q11–15 · 原始錄音",
+      "from": 11,
+      "to": 15,
+      "duration": 167.59,
+      "source": "wetransfer_11-05-2022_2022-05-10_0522.zip",
+      "sourceAudio": "originals/wetransfer_11-05-2022_2022-05-10_0522/11.05.2022/Listening/Audio Files/Listening Part 2 #11-15.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "0e9808e8f8242323f2ec3881839088e3da1bc2a6c07d64be1dbbcdcce465b7e5"
+    },
+    {
+      "src": "assets/audio/a42b123bb2db56bb.mp3",
+      "label": "Q16–20 · 原始錄音",
+      "from": 16,
+      "to": 20,
+      "duration": 138.89,
+      "source": "wetransfer_11-05-2022_2022-05-10_0522.zip",
+      "sourceAudio": "originals/wetransfer_11-05-2022_2022-05-10_0522/11.05.2022/Listening/Audio Files/Listening Part 2 #16-20.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "a42b123bb2db56bb50330234980f2cbc5017e0924828f02a6c0040cd2f69990c"
+    },
+    {
+      "src": "assets/audio/a768b836fb4570ba.mp3",
+      "label": "Q21–30 · 原始錄音",
+      "from": 21,
+      "to": 30,
+      "duration": 370.65,
+      "source": "wetransfer_11-05-2022_2022-05-10_0522.zip",
+      "sourceAudio": "originals/wetransfer_11-05-2022_2022-05-10_0522/11.05.2022/Listening/Audio Files/Listening Part 3.wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "a768b836fb4570ba3a145b52a99be27fb709f75676b9b8d1b5e5767794a77e14"
+    },
+    {
+      "src": "assets/audio/fa27b9c0449a8777.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 358.69,
+      "source": "wetransfer_11-05-2022_2022-05-10_0522.zip",
+      "sourceAudio": "originals/wetransfer_11-05-2022_2022-05-10_0522/11.05.2022/Listening/Audio Files/Listening Part 4 #31-40.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "fa27b9c0449a8777930ca3ee1a162a2b197ec513de7fd11b12ae0bab2eb45d2f"
+    }
+  ],
+  "mock-20": [
+    {
+      "src": "assets/audio/52fc5bf80ba02af2.mp3",
+      "label": "Q1–4 · 原始錄音",
+      "from": 1,
+      "to": 4,
+      "duration": 94.48,
+      "source": "wetransfer_13-07-2022_2022-07-12_0043.zip",
+      "sourceAudio": "originals/wetransfer_13-07-2022_2022-07-12_0043/13.07.2022/Listening/Audio/Section 1 (Questions 1-4).wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "52fc5bf80ba02af272ec39655cba2036d0e47d47a6d44f235d329bd53de93609"
+    },
+    {
+      "src": "assets/audio/fcbaee2d92509731.mp3",
+      "label": "Q5–10 · 原始錄音",
+      "from": 5,
+      "to": 10,
+      "duration": 141.17,
+      "source": "wetransfer_13-07-2022_2022-07-12_0043.zip",
+      "sourceAudio": "originals/wetransfer_13-07-2022_2022-07-12_0043/13.07.2022/Listening/Audio/Section 1 (Questions 5-10).wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "fcbaee2d9250973103384cb36ffbeb412dabe344e8bcdab05e167e695cf75267"
+    },
+    {
+      "src": "assets/audio/74507b0ebb71e56e.mp3",
+      "label": "Q11–20 · 原始錄音",
+      "from": 11,
+      "to": 20,
+      "duration": 379.48,
+      "source": "wetransfer_13-07-2022_2022-07-12_0043.zip",
+      "sourceAudio": "originals/wetransfer_13-07-2022_2022-07-12_0043/13.07.2022/Listening/Audio/Section 2.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "74507b0ebb71e56edf46db93e7ea4a1d228fc37f3478346dae729caa793d950f"
+    },
+    {
+      "src": "assets/audio/78607b51dede22c2.mp3",
+      "label": "Q21–25 · 原始錄音",
+      "from": 21,
+      "to": 25,
+      "duration": 152.22,
+      "source": "wetransfer_13-07-2022_2022-07-12_0043.zip",
+      "sourceAudio": "originals/wetransfer_13-07-2022_2022-07-12_0043/13.07.2022/Listening/Audio/Section 3 (Questions 21-25).wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "78607b51dede22c27fc859b1f6599929c0e2328028b75f90d8c231fdeaea2217"
+    },
+    {
+      "src": "assets/audio/e118cce1010e3ebd.mp3",
+      "label": "Q26–30 · 原始錄音",
+      "from": 26,
+      "to": 30,
+      "duration": 135.71,
+      "source": "wetransfer_13-07-2022_2022-07-12_0043.zip",
+      "sourceAudio": "originals/wetransfer_13-07-2022_2022-07-12_0043/13.07.2022/Listening/Audio/Section 3 (Questions 26-30).wav",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "e118cce1010e3ebd218560567b8d8968b155e2a1818f8a73b956468c7d8f8a06"
+    },
+    {
+      "src": "assets/audio/a3e721ca7b501fc1.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 458.27,
+      "source": "wetransfer_13-07-2022_2022-07-12_0043.zip",
+      "sourceAudio": "originals/wetransfer_13-07-2022_2022-07-12_0043/13.07.2022/Listening/Audio/Section 4.m4a",
+      "sourcePaper": "Listening/Question Papers (matched to current listening text)",
+      "sourceSha256": "a3e721ca7b501fc10d5568c9c2c7f8ae45179dcfbd7f97bdd652fb484a57f47a"
+    }
+  ],
+  "mock-21": [
+    {
+      "src": "assets/audio/9d5fbc3a109035a0.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 377.57,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/19-04-2023-listening-1.mp3",
+      "sourcePaper": "assets/papers/19-04-2023-listening-1.pdf",
+      "sourceSha256": "9d5fbc3a109035a039d0c818f6f5e5a8cb94fe0b427118c5da0db2bc6d7d8fa0"
+    },
+    {
+      "src": "assets/audio/ee682f16707306dd.mp3",
+      "label": "Q11–20 · 原始錄音",
+      "from": 11,
+      "to": 20,
+      "duration": 409.31,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/19-04-2023-listening-2.mp3",
+      "sourcePaper": "assets/papers/19-04-2023-listening-2.pdf",
+      "sourceSha256": "ee682f16707306ddfd60023494b2b62ba002195087b04b05c1381182610c5ede"
+    },
+    {
+      "src": "assets/audio/2bb93e44f58fe63d.mp3",
+      "label": "Q21–30 · 原始錄音",
+      "from": 21,
+      "to": 30,
+      "duration": 502.36,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/19-04-2023-listening-3.mp3",
+      "sourcePaper": "assets/papers/19-04-2023-listening-3.pdf",
+      "sourceSha256": "2bb93e44f58fe63dfca8f40297f1f73bd108591f15a7d4a14bbc2a4ed40f308b"
+    },
+    {
+      "src": "assets/audio/31e481d59ef4ab79.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 458.29,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/19-04-2023-listening-4.mp3",
+      "sourcePaper": "assets/papers/19-04-2023-listening-4.pdf",
+      "sourceSha256": "31e481d59ef4ab79e9dec27c41a48d41781c015ed33d1b8396bd1d213555fd49"
+    }
+  ],
+  "mock-22": [
+    {
+      "src": "assets/audio/e1b317ce72348974.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 426.61,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/17-05-2023-listening-1.mp3",
+      "sourcePaper": "assets/papers/17-05-2023-listening-1.pdf",
+      "sourceSha256": "e1b317ce7234897466f9c4998a73c987db80fea41cca399014b1eb4346df94ea"
+    },
+    {
+      "src": "assets/audio/8dcae5cab89a3e58.mp3",
+      "label": "Q11–20 · 原始錄音",
+      "from": 11,
+      "to": 20,
+      "duration": 524.7,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/17-05-2023-listening-2.mp3",
+      "sourcePaper": "assets/papers/17-05-2023-listening-2.pdf",
+      "sourceSha256": "8dcae5cab89a3e58c2290f0afd4c6ecfd9e0addce67f168f9e2620b6c95c9627"
+    },
+    {
+      "src": "assets/audio/388eac1bb72e7b3e.mp3",
+      "label": "Q21–30 · 原始錄音",
+      "from": 21,
+      "to": 30,
+      "duration": 386.61,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/17-05-2023-listening-3.mp3",
+      "sourcePaper": "assets/papers/17-05-2023-listening-3.pdf",
+      "sourceSha256": "388eac1bb72e7b3e1986d8976e6a3a36a678cdbcb9c0429045f01ba3d1d047fa"
+    },
+    {
+      "src": "assets/audio/e007acade7f9f22e.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 560.35,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/17-05-2023-listening-4.mp3",
+      "sourcePaper": "assets/papers/17-05-2023-listening-4.pdf",
+      "sourceSha256": "e007acade7f9f22e5de1dea2479c5f286b1b3e8becc246758e57ef13afaf5dbe"
+    }
+  ],
+  "mock-23": [
+    {
+      "src": "assets/audio/f0044dc109f3c26a.mp3",
+      "label": "Q1–10 · 原始錄音",
+      "from": 1,
+      "to": 10,
+      "duration": 388.15,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/24-05-2023-listening-1.mp3",
+      "sourcePaper": "assets/papers/24-05-2023-listening-1.pdf",
+      "sourceSha256": "f0044dc109f3c26ae7f9cec9a095f3e1b7a36d1de79158b8226c2ed4b74ef0cb"
+    },
+    {
+      "src": "assets/audio/2a452772751a6bea.mp3",
+      "label": "Q11–20 · 原始錄音",
+      "from": 11,
+      "to": 20,
+      "duration": 438.52,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/24-05-2023-listening-2.mp3",
+      "sourcePaper": "assets/papers/24-05-2023-listening-2.pdf",
+      "sourceSha256": "2a452772751a6bea620ef9a121edb3f0dbc2c2e79e216314c3c95e324e25b499"
+    },
+    {
+      "src": "assets/audio/ea817dd4a68327af.mp3",
+      "label": "Q21–30 · 原始錄音",
+      "from": 21,
+      "to": 30,
+      "duration": 374.39,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/24-05-2023-listening-3.mp3",
+      "sourcePaper": "assets/papers/24-05-2023-listening-3.pdf",
+      "sourceSha256": "ea817dd4a68327af920f53ec0f9c6d1365bdaca0ebb538d567edeace376f793b"
+    },
+    {
+      "src": "assets/audio/72fc9a1cac7b4327.mp3",
+      "label": "Q31–40 · 原始錄音",
+      "from": 31,
+      "to": 40,
+      "duration": 460.8,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/24-05-2023-listening-4.mp3",
+      "sourcePaper": "assets/papers/24-05-2023-listening-4.pdf",
+      "sourceSha256": "72fc9a1cac7b43271461c08c416af922d33f26c4f34f919e18b84b777c5a5d98"
+    }
+  ],
+  "mock-24": [
+    {
+      "src": "assets/audio/a174a1cb02c0a825.mp3",
+      "label": "Q1–40 · 原始錄音",
+      "from": 1,
+      "to": 40,
+      "duration": 1687.43,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/31-05-2023-listening-1.mp3",
+      "sourcePaper": "assets/papers/31-05-2023-listening-1.pdf",
+      "sourceSha256": "a174a1cb02c0a8251e3190fe12f121ce1c82312f999916908a32729f882eb35d"
+    }
+  ],
+  "mock-25": [
+    {
+      "src": "assets/audio/d18f64b60694943e.mp3",
+      "label": "Q1–40 · 原始錄音",
+      "from": 1,
+      "to": 40,
+      "duration": 1675.26,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/07-06-2023-listening-1.mp3",
+      "sourcePaper": "assets/papers/07-06-2023-listening-1.pdf",
+      "sourceSha256": "d18f64b60694943ec1252872ae99b49a402a8bd4eb7eda71205c150ac32077a4"
+    }
+  ],
+  "mock-26": [
+    {
+      "src": "assets/audio/8ac5e1463402b23d.mp3",
+      "label": "Q1–40 · 原始錄音",
+      "from": 1,
+      "to": 40,
+      "duration": 1516.17,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/14-06-2023-listening-1.mp3",
+      "sourcePaper": "assets/papers/14-06-2023-listening-1.pdf",
+      "sourceSha256": "8ac5e1463402b23d58b71061f7d08bfbff53d14281b4f5f7882df2a819611b87"
+    }
+  ],
+  "mock-27": [
+    {
+      "src": "assets/audio/bb4075602b9e1493.mp3",
+      "label": "Q1–40 · 原始錄音",
+      "from": 1,
+      "to": 40,
+      "duration": 1116.5,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/21-06-2023-listening-1.mp3",
+      "sourcePaper": "assets/papers/21-06-2023-listening-1.pdf",
+      "sourceSha256": "bb4075602b9e14938f53afc92403337ffad76f11afcb0a4d253cc02a3195a12a"
+    }
+  ],
+  "mock-28": [
+    {
+      "src": "assets/audio/93088afa8a4051ad.mp3",
+      "label": "Q1–40 · 原始錄音",
+      "from": 1,
+      "to": 40,
+      "duration": 1758.59,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/28-06-2023-listening-1.mp3",
+      "sourcePaper": "assets/papers/28-06-2023-listening-1.pdf",
+      "sourceSha256": "93088afa8a4051ad0b0a5b0821423bb4862a173301fcd0d0176920d6df0a62d6"
+    }
+  ],
+  "mock-29": [
+    {
+      "src": "assets/audio/a174a1cb02c0a825.mp3",
+      "label": "Q1–40 · 原始錄音",
+      "from": 1,
+      "to": 40,
+      "duration": 1687.43,
+      "source": "UWE_EPT_AI_Prep_Designed_v8.zip",
+      "sourceAudio": "extracted/UWE_EPT_AI_Prep_Designed_v8/assets/audio/05-07-2023-listening-1.mp3",
+      "sourcePaper": "assets/papers/05-07-2023-listening-1.pdf",
+      "sourceSha256": "a174a1cb02c0a8251e3190fe12f121ce1c82312f999916908a32729f882eb35d"
+    }
+  ]
+}
