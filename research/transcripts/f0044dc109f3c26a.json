@@ -1,0 +1,391 @@
+{
+  "source": "assets/audio/f0044dc109f3c26a.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.87,
+      "end": 9.43,
+      "text": "Section 1. You will hear a conversation between two flatmates, Carl and Dave, who are looking",
+      "avgLogprob": -0.23509479065736136
+    },
+    {
+      "start": 9.43,
+      "end": 16.55,
+      "text": "for a third person to share their flat. You now have 60 seconds to look over questions",
+      "avgLogprob": -0.23509479065736136
+    },
+    {
+      "start": 16.55,
+      "end": 84.25,
+      "text": "1 to 10. Now listen carefully and answer questions 1 to 10.",
+      "avgLogprob": -0.23509479065736136
+    },
+    {
+      "start": 84.25,
+      "end": 87.05,
+      "text": "Hi Carl, you got home early?",
+      "avgLogprob": -0.23509479065736136
+    },
+    {
+      "start": 87.05,
+      "end": 91.37,
+      "text": "Yeah, my class was cancelled because Professor Brown is sick.",
+      "avgLogprob": -0.23509479065736136
+    },
+    {
+      "start": 91.37,
+      "end": 95.37,
+      "text": "Oh, I hope he will be fine. I really like his lectures.",
+      "avgLogprob": -0.2179755921076451
+    },
+    {
+      "start": 95.87,
+      "end": 98.97,
+      "text": "Well, did anyone call about renting the spare room?",
+      "avgLogprob": -0.2179755921076451
+    },
+    {
+      "start": 99.17,
+      "end": 101.77,
+      "text": "Yeah, we've had three phone calls about it.",
+      "avgLogprob": -0.2179755921076451
+    },
+    {
+      "start": 101.97,
+      "end": 103.37,
+      "text": "Really? Wow!",
+      "avgLogprob": -0.2179755921076451
+    },
+    {
+      "start": 103.87,
+      "end": 105.47,
+      "text": "Yeah? Do you want to hear about them?",
+      "avgLogprob": -0.2179755921076451
+    },
+    {
+      "start": 105.67,
+      "end": 109.57,
+      "text": "Sure. Who doesn't want to know about their potential flatmates?",
+      "avgLogprob": -0.2179755921076451
+    },
+    {
+      "start": 109.97,
+      "end": 113.17,
+      "text": "Right. The first one was Jack Harris.",
+      "avgLogprob": -0.2179755921076451
+    },
+    {
+      "start": 113.37,
+      "end": 113.97,
+      "text": "Uh-huh.",
+      "avgLogprob": -0.2179755921076451
+    },
+    {
+      "start": 114.77,
+      "end": 118.77,
+      "text": "He's from Newcastle. He's studying culinary arts third year.",
+      "avgLogprob": -0.2179755921076451
+    },
+    {
+      "start": 118.77,
+      "end": 125.27,
+      "text": "great he could take care of our meals actually I'm not so sure about him he's",
+      "avgLogprob": -0.15128087037139468
+    },
+    {
+      "start": 125.27,
+      "end": 129.73,
+      "text": "certainly sounded helpful in terms of cooking but he asked so many questions",
+      "avgLogprob": -0.15128087037139468
+    },
+    {
+      "start": 129.73,
+      "end": 134.47,
+      "text": "about whether we cleaned the house regularly or we took the trash out on",
+      "avgLogprob": -0.15128087037139468
+    },
+    {
+      "start": 134.47,
+      "end": 141.57,
+      "text": "time yeah I mean we don't exactly live on piles of dust or rubbish well not",
+      "avgLogprob": -0.15128087037139468
+    },
+    {
+      "start": 141.57,
+      "end": 147.39,
+      "text": "quite but but he might be a bit too obsessed with hygiene to really fit in",
+      "avgLogprob": -0.15128087037139468
+    },
+    {
+      "start": 147.39,
+      "end": 152.61,
+      "text": "with the sort of life we lead yeah and he asked a lot of questions about the",
+      "avgLogprob": -0.1349945068359375
+    },
+    {
+      "start": 152.61,
+      "end": 157.83,
+      "text": "kitchen he said he needs a fully equipped one you know microwave and",
+      "avgLogprob": -0.1349945068359375
+    },
+    {
+      "start": 157.83,
+      "end": 166.53,
+      "text": "oven and such well that's okay I mean we have all of the equipment kind of but I",
+      "avgLogprob": -0.1349945068359375
+    },
+    {
+      "start": 166.53,
+      "end": 172.71,
+      "text": "doubt they will really satisfy his requirements and to be honest I don't",
+      "avgLogprob": -0.1349945068359375
+    },
+    {
+      "start": 172.71,
+      "end": 178.11,
+      "text": "really want to replace them. I don't think he's the one. How about the second one?",
+      "avgLogprob": -0.17071431742774115
+    },
+    {
+      "start": 178.11,
+      "end": 189.33,
+      "text": "His name is Ramses. That sounds strange. How do you spell that? R A M Z E E S. It's",
+      "avgLogprob": -0.17071431742774115
+    },
+    {
+      "start": 189.33,
+      "end": 194.07,
+      "text": "an Indian name. He's an international student. He's coming to our country to",
+      "avgLogprob": -0.17071431742774115
+    },
+    {
+      "start": 194.07,
+      "end": 200.57,
+      "text": "study information technology. Oh India. I watch a lot of tutoring videos from",
+      "avgLogprob": -0.17071431742774115
+    },
+    {
+      "start": 200.57,
+      "end": 206.21,
+      "text": "Indian guys they are pretty good at this maybe this guy can help us with our",
+      "avgLogprob": -0.11805892153962018
+    },
+    {
+      "start": 206.21,
+      "end": 211.85,
+      "text": "laptops they don't function properly sometimes yeah I had the same thought",
+      "avgLogprob": -0.11805892153962018
+    },
+    {
+      "start": 211.85,
+      "end": 217.43,
+      "text": "but he seems to be quite an introvert you know he doesn't talk much I got the",
+      "avgLogprob": -0.11805892153962018
+    },
+    {
+      "start": 217.43,
+      "end": 224.09,
+      "text": "impression he was a serious person who focuses a lot on studying right he's",
+      "avgLogprob": -0.11805892153962018
+    },
+    {
+      "start": 224.09,
+      "end": 228.49,
+      "text": "He's spending a fortune to come here to learn, not to party.",
+      "avgLogprob": -0.2191403559459153
+    },
+    {
+      "start": 228.49,
+      "end": 235.29,
+      "text": "He sounded OK, I think. Oh, one thing though, he said he would be spending most of his time",
+      "avgLogprob": -0.2191403559459153
+    },
+    {
+      "start": 235.29,
+      "end": 241.29,
+      "text": "in the library, so he wants to pay reduced costs for electricity and internet.",
+      "avgLogprob": -0.2191403559459153
+    },
+    {
+      "start": 241.29,
+      "end": 248.13,
+      "text": "Mmm, it's understandable that he wants to save some money, but I'm not sure about that.",
+      "avgLogprob": -0.2191403559459153
+    },
+    {
+      "start": 248.13,
+      "end": 249.61,
+      "text": "What do you think?",
+      "avgLogprob": -0.2191403559459153
+    },
+    {
+      "start": 249.61,
+      "end": 254.15,
+      "text": "Well, I suppose it's fair, but it all sounds a bit complicated.",
+      "avgLogprob": -0.31946372277665847
+    },
+    {
+      "start": 255.07,
+      "end": 259.23,
+      "text": "Anyway, there was a third person, Hans Müller. He's from Germany.",
+      "avgLogprob": -0.31946372277665847
+    },
+    {
+      "start": 259.43,
+      "end": 260.39,
+      "text": "Yes?",
+      "avgLogprob": -0.31946372277665847
+    },
+    {
+      "start": 260.39,
+      "end": 263.15,
+      "text": "He's studying engineering, second year.",
+      "avgLogprob": -0.31946372277665847
+    },
+    {
+      "start": 263.55,
+      "end": 264.67,
+      "text": "And?",
+      "avgLogprob": -0.31946372277665847
+    },
+    {
+      "start": 264.67,
+      "end": 266.47,
+      "text": "What did he sound like?",
+      "avgLogprob": -0.31946372277665847
+    },
+    {
+      "start": 266.47,
+      "end": 271.55,
+      "text": "Well, he was really funny actually. He kept me laughing while talking to him.",
+      "avgLogprob": -0.31946372277665847
+    },
+    {
+      "start": 271.83,
+      "end": 276.03,
+      "text": "He said he was so lazy that he didn't want to wash dishes.",
+      "avgLogprob": -0.31946372277665847
+    },
+    {
+      "start": 276.03,
+      "end": 283.03,
+      "text": "That was also the reason why he wanted to leave his current room because his flatmates wanted him to wash the dishes.",
+      "avgLogprob": -0.11970928798501308
+    },
+    {
+      "start": 283.03,
+      "end": 285.03,
+      "text": "At least that's what he said.",
+      "avgLogprob": -0.11970928798501308
+    },
+    {
+      "start": 285.03,
+      "end": 288.03,
+      "text": "Well, that wouldn't be much of a problem here.",
+      "avgLogprob": -0.11970928798501308
+    },
+    {
+      "start": 288.03,
+      "end": 292.03,
+      "text": "We don't cook much and I don't mind doing the dishes.",
+      "avgLogprob": -0.11970928798501308
+    },
+    {
+      "start": 292.03,
+      "end": 295.03,
+      "text": "Maybe he's lazy only in terms of house chores.",
+      "avgLogprob": -0.11970928798501308
+    },
+    {
+      "start": 295.03,
+      "end": 296.03,
+      "text": "Right.",
+      "avgLogprob": -0.11970928798501308
+    },
+    {
+      "start": 296.03,
+      "end": 299.03,
+      "text": "He also sounded like an outdoor type.",
+      "avgLogprob": -0.11970928798501308
+    },
+    {
+      "start": 299.03,
+      "end": 302.03,
+      "text": "He likes cycling and playing sports.",
+      "avgLogprob": -0.11970928798501308
+    },
+    {
+      "start": 302.03,
+      "end": 307.03,
+      "text": "He asked if there was a safe place for his bicycle. That's not a problem.",
+      "avgLogprob": -0.15554801917370456
+    },
+    {
+      "start": 307.03,
+      "end": 311.03,
+      "text": "No. He can leave it in the garage with my car.",
+      "avgLogprob": -0.15554801917370456
+    },
+    {
+      "start": 311.03,
+      "end": 316.03,
+      "text": "So, did you get his contact details? I'm starting to like this guy already.",
+      "avgLogprob": -0.15554801917370456
+    },
+    {
+      "start": 316.03,
+      "end": 326.03,
+      "text": "Yes. His mobile number is 07598208186.",
+      "avgLogprob": -0.15554801917370456
+    },
+    {
+      "start": 326.03,
+      "end": 328.03,
+      "text": "Does he want to move in straight away?",
+      "avgLogprob": -0.15554801917370456
+    },
+    {
+      "start": 328.03,
+      "end": 334.75,
+      "text": "Well, he's paid his rent in his present place up to the 31st of August, but he said, if",
+      "avgLogprob": -0.20630924609200707
+    },
+    {
+      "start": 334.75,
+      "end": 340.55,
+      "text": "possible, he'd like to move in a bit earlier. He said the 29th of August.",
+      "avgLogprob": -0.20630924609200707
+    },
+    {
+      "start": 340.55,
+      "end": 342.43,
+      "text": "And he was okay about the rent?",
+      "avgLogprob": -0.20630924609200707
+    },
+    {
+      "start": 342.43,
+      "end": 344.19,
+      "text": "Yeah, he said it was fine.",
+      "avgLogprob": -0.20630924609200707
+    },
+    {
+      "start": 344.19,
+      "end": 351.46,
+      "text": "Right. So shall we call him and see if he wants to come round? And that is the end",
+      "avgLogprob": -0.20630924609200707
+    },
+    {
+      "start": 351.46,
+      "end": 385.46,
+      "text": "of part one. Now, you have half a minute to check your answers. Now, turn to section",
+      "avgLogprob": -0.20630924609200707
+    },
+    {
+      "start": 385.46,
+      "end": 385.96,
+      "text": "too.",
+      "avgLogprob": -0.6349416255950928
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "source": "assets/audio/2a452772751a6bea.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.43,
+      "end": 6.27,
+      "text": "Section 2. You will listen to a human resource staff member giving a brief",
+      "avgLogprob": -0.14645300554425528
+    },
+    {
+      "start": 6.27,
+      "end": 11.91,
+      "text": "introduction about a company to the interns. First you have some time to look",
+      "avgLogprob": -0.14645300554425528
+    },
+    {
+      "start": 11.91,
+      "end": 50.82,
+      "text": "at questions 11 to 50. Now listen carefully and answer questions 11 to 50.",
+      "avgLogprob": -0.14645300554425528
+    },
+    {
+      "start": 50.82,
+      "end": 58.69,
+      "text": "Good morning and welcome all to your company. My name is Billy Gray from the",
+      "avgLogprob": -0.14645300554425528
+    },
+    {
+      "start": 58.69,
+      "end": 63.57,
+      "text": "HR department and today I would like to run through some policies that you must",
+      "avgLogprob": -0.14645300554425528
+    },
+    {
+      "start": 63.57,
+      "end": 71.81,
+      "text": "know during your time here. First, working hours. Unlike official staff whose working hours are from",
+      "avgLogprob": -0.10078325111951147
+    },
+    {
+      "start": 71.81,
+      "end": 80.37,
+      "text": "9 to 5, interns can come one hour later and leave one hour earlier. However, since I started working",
+      "avgLogprob": -0.10078325111951147
+    },
+    {
+      "start": 80.37,
+      "end": 87.17,
+      "text": "here, I've seen no interns follow the 10 to 4 working hours as they want to spend more time",
+      "avgLogprob": -0.10078325111951147
+    },
+    {
+      "start": 87.17,
+      "end": 92.21,
+      "text": "getting familiar with their jobs and earning as much experience as possible.",
+      "avgLogprob": -0.11301445372310685
+    },
+    {
+      "start": 93.01,
+      "end": 99.33,
+      "text": "Hunger for work practice is good but remember that the company policies do not allow interns",
+      "avgLogprob": -0.11301445372310685
+    },
+    {
+      "start": 99.33,
+      "end": 106.93,
+      "text": "to work overtime. Despite that you can get to the office 30 minutes earlier than normal working time",
+      "avgLogprob": -0.11301445372310685
+    },
+    {
+      "start": 106.93,
+      "end": 114.37,
+      "text": "to prepare for your day. Now it's fine if you want to take some days off to care for your personal",
+      "avgLogprob": -0.11301445372310685
+    },
+    {
+      "start": 114.37,
+      "end": 121.65,
+      "text": "business. If it is a planned leave, you are required to send a leave form to the HR department",
+      "avgLogprob": -0.07987638763202135
+    },
+    {
+      "start": 121.65,
+      "end": 128.21,
+      "text": "at least two days in advance. If it is an emergency, inform directly to your supervisor",
+      "avgLogprob": -0.07987638763202135
+    },
+    {
+      "start": 128.21,
+      "end": 134.85,
+      "text": "in person or via phone call. However, you still have to complete a form when you get back to work.",
+      "avgLogprob": -0.07987638763202135
+    },
+    {
+      "start": 135.97,
+      "end": 141.89,
+      "text": "Some of you have already asked me about dress code. As you can see, we don't really have",
+      "avgLogprob": -0.07987638763202135
+    },
+    {
+      "start": 141.89,
+      "end": 147.01,
+      "text": "a formal uniform here. You may wear casual clothes as long as they're practical.",
+      "avgLogprob": -0.108233177544255
+    },
+    {
+      "start": 148.13,
+      "end": 153.01,
+      "text": "The only restriction is on high heels for health and safety reasons.",
+      "avgLogprob": -0.108233177544255
+    },
+    {
+      "start": 154.13,
+      "end": 162.13,
+      "text": "Comfortable footwear like trainers is preferred. Talking about company facilities we have a state",
+      "avgLogprob": -0.108233177544255
+    },
+    {
+      "start": 162.13,
+      "end": 168.77,
+      "text": "of the art canteen which provides a wide variety of healthy meals with a low price for employees.",
+      "avgLogprob": -0.108233177544255
+    },
+    {
+      "start": 168.77,
+      "end": 174.85,
+      "text": "snacks and drinks are also available through a vending machine system in every",
+      "avgLogprob": -0.13506313302051062
+    },
+    {
+      "start": 174.85,
+      "end": 182.53,
+      "text": "rest zone. Therefore we decided to apply a no outside food policy. This is partly",
+      "avgLogprob": -0.13506313302051062
+    },
+    {
+      "start": 182.53,
+      "end": 187.47,
+      "text": "to encourage healthy eating at work and partly to stop people from eating at",
+      "avgLogprob": -0.13506313302051062
+    },
+    {
+      "start": 187.47,
+      "end": 193.49,
+      "text": "their desk which is unhygienic. Those are some general policies you should",
+      "avgLogprob": -0.13506313302051062
+    },
+    {
+      "start": 193.49,
+      "end": 198.65,
+      "text": "notice. If you have any questions about company procedures don't hesitate to",
+      "avgLogprob": -0.13506313302051062
+    },
+    {
+      "start": 198.65,
+      "end": 203.45,
+      "text": "contact me. Each of you is also assigned a mentor who will provide help and",
+      "avgLogprob": -0.11444182958867814
+    },
+    {
+      "start": 203.45,
+      "end": 208.53,
+      "text": "support through your internship, but remember your supervisor is the one you",
+      "avgLogprob": -0.11444182958867814
+    },
+    {
+      "start": 208.53,
+      "end": 214.55,
+      "text": "report to, not your mentor. I've seen many interns having misunderstood their",
+      "avgLogprob": -0.11444182958867814
+    },
+    {
+      "start": 214.55,
+      "end": 221.29,
+      "text": "mentor as their boss, so please don't make the same mistakes. You now have some",
+      "avgLogprob": -0.11444182958867814
+    },
+    {
+      "start": 221.29,
+      "end": 262.0,
+      "text": "time to look at questions 16 to 20. Now listen carefully and answer questions 16",
+      "avgLogprob": -0.11444182958867814
+    },
+    {
+      "start": 262.0,
+      "end": 270.27,
+      "text": "to 20. Our company has recently gone through an all-out renovation. Several",
+      "avgLogprob": -0.12374755918331769
+    },
+    {
+      "start": 270.27,
+      "end": 274.59,
+      "text": "rooms across the building have been relocated, so I'm now going to mention",
+      "avgLogprob": -0.12374755918331769
+    },
+    {
+      "start": 274.59,
+      "end": 279.67,
+      "text": "the location of some common places you might frequently go during your time",
+      "avgLogprob": -0.12374755918331769
+    },
+    {
+      "start": 279.67,
+      "end": 285.99,
+      "text": "here. First, the canteen. Most of the big firms I know locate their canteen in",
+      "avgLogprob": -0.12374755918331769
+    },
+    {
+      "start": 285.99,
+      "end": 291.79,
+      "text": "the basement because there's plenty of space down there. However, our CEO saw",
+      "avgLogprob": -0.12374755918331769
+    },
+    {
+      "start": 291.79,
+      "end": 297.49,
+      "text": "importance of lunch to the productivity of staff, he decided to move the canteen",
+      "avgLogprob": -0.11489003619704491
+    },
+    {
+      "start": 297.49,
+      "end": 303.55,
+      "text": "to the top floor. Enjoying a meal with a bird's-eye view, you don't often get",
+      "avgLogprob": -0.11489003619704491
+    },
+    {
+      "start": 303.55,
+      "end": 309.87,
+      "text": "that experience on a daily basis. Each floor has its own meeting room and all",
+      "avgLogprob": -0.11489003619704491
+    },
+    {
+      "start": 309.87,
+      "end": 315.31,
+      "text": "the biggest meetings and events of our company are hosted in the function room",
+      "avgLogprob": -0.11489003619704491
+    },
+    {
+      "start": 315.31,
+      "end": 322.83,
+      "text": "which can hold up to 500 people. It is right next to the canteen so an event can",
+      "avgLogprob": -0.09223482440760795
+    },
+    {
+      "start": 322.83,
+      "end": 328.33,
+      "text": "easily end with a lovely buffet. The next place I'd like to mention is a new",
+      "avgLogprob": -0.09223482440760795
+    },
+    {
+      "start": 328.33,
+      "end": 333.35,
+      "text": "feature of the building. Starting from this year a library is available which",
+      "avgLogprob": -0.09223482440760795
+    },
+    {
+      "start": 333.35,
+      "end": 339.19,
+      "text": "will be useful for you interns to do research and it is where the canteen was",
+      "avgLogprob": -0.09223482440760795
+    },
+    {
+      "start": 339.19,
+      "end": 344.43,
+      "text": "previously located in the basement. There you can find all kinds of",
+      "avgLogprob": -0.09223482440760795
+    },
+    {
+      "start": 344.43,
+      "end": 350.83,
+      "text": "documents and archives. So make sure to take advantage of this amazing new area.",
+      "avgLogprob": -0.11576257435939251
+    },
+    {
+      "start": 350.83,
+      "end": 356.75,
+      "text": "Another new area I'm sure you will love is the napping room. A quick nap after",
+      "avgLogprob": -0.11576257435939251
+    },
+    {
+      "start": 356.75,
+      "end": 362.47,
+      "text": "lunch is proved to boost productivity so the old function room in the basement has",
+      "avgLogprob": -0.11576257435939251
+    },
+    {
+      "start": 362.47,
+      "end": 367.91,
+      "text": "been converted into a napping room. Just follow the sign and the canteen on the",
+      "avgLogprob": -0.11576257435939251
+    },
+    {
+      "start": 367.91,
+      "end": 374.55,
+      "text": "top floor to find your way to your nap. Last but not least, the medical room. If",
+      "avgLogprob": -0.1173548039935884
+    },
+    {
+      "start": 374.55,
+      "end": 379.75,
+      "text": "you ever find yourself in a situation where you need a doctor, go down to the",
+      "avgLogprob": -0.1173548039935884
+    },
+    {
+      "start": 379.75,
+      "end": 384.61,
+      "text": "ground floor and you can see Dr. White's room just around the corner from the",
+      "avgLogprob": -0.1173548039935884
+    },
+    {
+      "start": 384.61,
+      "end": 390.75,
+      "text": "elevator. We really do hope that you don't have to see him too much. Now let's",
+      "avgLogprob": -0.1173548039935884
+    },
+    {
+      "start": 390.75,
+      "end": 399.34,
+      "text": "move on. That is the end of section 2. You now have 30 seconds to check your",
+      "avgLogprob": -0.1173548039935884
+    },
+    {
+      "start": 399.34,
+      "end": 438.52,
+      "text": "answers to section 2. Now turn to section 3.",
+      "avgLogprob": -0.394013238804681
+    }
+  ]
+}

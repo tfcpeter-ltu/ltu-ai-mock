@@ -1,0 +1,169 @@
+{
+  "source": "assets/audio/1420c319b8a8fffe.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 2.38,
+      "end": 6.78,
+      "text": "Thank you for calling the line for Bristol City Bus Tour.",
+      "avgLogprob": -0.1118229328793414
+    },
+    {
+      "start": 6.78,
+      "end": 9.38,
+      "text": "This is a recorded message.",
+      "avgLogprob": -0.1118229328793414
+    },
+    {
+      "start": 9.38,
+      "end": 15.66,
+      "text": "In about four minutes, we will provide you what you need to know about the tour.",
+      "avgLogprob": -0.1118229328793414
+    },
+    {
+      "start": 15.66,
+      "end": 20.3,
+      "text": "Being one of the best cities to live in Britain, Bristol has attracted tourists from all over",
+      "avgLogprob": -0.1118229328793414
+    },
+    {
+      "start": 20.3,
+      "end": 22.98,
+      "text": "the world for many years.",
+      "avgLogprob": -0.1118229328793414
+    },
+    {
+      "start": 22.98,
+      "end": 27.76,
+      "text": "One of the best ways to get to know the city is to take the bus tour, which provides",
+      "avgLogprob": -0.1118229328793414
+    },
+    {
+      "start": 27.76,
+      "end": 33.32,
+      "text": "It's a delightful viewing experience from one of our open-top buses.",
+      "avgLogprob": -0.12854552589437013
+    },
+    {
+      "start": 33.32,
+      "end": 38.32,
+      "text": "The round-trip tour of the city includes five stops where passengers can get on and",
+      "avgLogprob": -0.12854552589437013
+    },
+    {
+      "start": 38.32,
+      "end": 40.32,
+      "text": "off the bus.",
+      "avgLogprob": -0.12854552589437013
+    },
+    {
+      "start": 40.32,
+      "end": 44.84,
+      "text": "The first stop is where many people arrive in the city, Bristol Temple Mead's railway",
+      "avgLogprob": -0.12854552589437013
+    },
+    {
+      "start": 44.84,
+      "end": 49.32,
+      "text": "station, the oldest and largest in the city.",
+      "avgLogprob": -0.12854552589437013
+    },
+    {
+      "start": 49.32,
+      "end": 55.68,
+      "text": "While waiting for the bus, visitors can enjoy the historical design of the station.",
+      "avgLogprob": -0.12854552589437013
+    },
+    {
+      "start": 55.68,
+      "end": 61.74,
+      "text": "The next stop is the city's most iconic structure, the Clifton Suspension Bridge.",
+      "avgLogprob": -0.1335925342989903
+    },
+    {
+      "start": 61.74,
+      "end": 66.8,
+      "text": "Along with beautiful pictures you might take here, adventurous and adrenaline-seeking tourists",
+      "avgLogprob": -0.1335925342989903
+    },
+    {
+      "start": 66.8,
+      "end": 70.0,
+      "text": "can't miss the opportunity for a bungee jump.",
+      "avgLogprob": -0.1335925342989903
+    },
+    {
+      "start": 70.0,
+      "end": 74.5,
+      "text": "However, you need to book in advance to do this.",
+      "avgLogprob": -0.1335925342989903
+    },
+    {
+      "start": 74.5,
+      "end": 79.02,
+      "text": "Passing the bridge, the bus tour continues towards Bristol Zoo.",
+      "avgLogprob": -0.1335925342989903
+    },
+    {
+      "start": 79.02,
+      "end": 84.74,
+      "text": "Here there's a variety of animals, ranging from small bugs to big gorillas, from flying",
+      "avgLogprob": -0.1335925342989903
+    },
+    {
+      "start": 84.74,
+      "end": 88.38,
+      "text": "birds to swimming penguins.",
+      "avgLogprob": -0.089960734711753
+    },
+    {
+      "start": 88.38,
+      "end": 94.72,
+      "text": "For those who are interested in fancy clothes and big brands, the next stop is for you.",
+      "avgLogprob": -0.089960734711753
+    },
+    {
+      "start": 94.72,
+      "end": 99.54,
+      "text": "After leaving the zoo, the bus takes you to Cabot Circus, the biggest shopping mall in",
+      "avgLogprob": -0.089960734711753
+    },
+    {
+      "start": 99.54,
+      "end": 101.2,
+      "text": "the city.",
+      "avgLogprob": -0.089960734711753
+    },
+    {
+      "start": 101.2,
+      "end": 104.94,
+      "text": "Our advice is to go here in the morning when it is rather quiet.",
+      "avgLogprob": -0.089960734711753
+    },
+    {
+      "start": 104.94,
+      "end": 110.41,
+      "text": "It gets busy in the afternoons, especially in the summer.",
+      "avgLogprob": -0.089960734711753
+    },
+    {
+      "start": 110.41,
+      "end": 116.09,
+      "text": "The last stop is Bristol's Harbourside, where many restaurants and pubs are located.",
+      "avgLogprob": -0.1364423283990824
+    },
+    {
+      "start": 116.09,
+      "end": 120.65,
+      "text": "The Bristol Museum and Art Gallery, which is a few minutes' walk away from the harbour,",
+      "avgLogprob": -0.1364423283990824
+    },
+    {
+      "start": 120.65,
+      "end": 123.05,
+      "text": "is also a great place to spend time in.",
+      "avgLogprob": -0.1364423283990824
+    }
+  ]
+}

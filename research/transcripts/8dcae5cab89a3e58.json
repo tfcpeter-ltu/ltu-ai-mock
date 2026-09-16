@@ -1,0 +1,433 @@
+{
+  "source": "assets/audio/8dcae5cab89a3e58.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 2.16,
+      "end": 9.16,
+      "text": "Section 2. You will listen to a talk about managing your life as a student.",
+      "avgLogprob": -0.15031937878210466
+    },
+    {
+      "start": 9.16,
+      "end": 13.16,
+      "text": "First, you have some time to look at questions 11 to 15.",
+      "avgLogprob": -0.15031937878210466
+    },
+    {
+      "start": 13.16,
+      "end": 47.41,
+      "text": "Now, listen carefully and answer questions 11 to 15.",
+      "avgLogprob": -0.15031937878210466
+    },
+    {
+      "start": 47.41,
+      "end": 53.38,
+      "text": "Good afternoon, first years.",
+      "avgLogprob": -0.15031937878210466
+    },
+    {
+      "start": 53.38,
+      "end": 57.38,
+      "text": "To continue our series about how to manage your life as a student,",
+      "avgLogprob": -0.15031937878210466
+    },
+    {
+      "start": 57.38,
+      "end": 62.38,
+      "text": "this afternoon I'll give you some advice on how to manage your money.",
+      "avgLogprob": -0.15031937878210466
+    },
+    {
+      "start": 62.38,
+      "end": 66.38,
+      "text": "one of the biggest challenges a student like you will encounter.",
+      "avgLogprob": -0.15385340361655514
+    },
+    {
+      "start": 66.38,
+      "end": 71.38,
+      "text": "The first question is, what costs do you need to consider?",
+      "avgLogprob": -0.15385340361655514
+    },
+    {
+      "start": 71.38,
+      "end": 76.38,
+      "text": "Well, first up, rent and essential bills.",
+      "avgLogprob": -0.15385340361655514
+    },
+    {
+      "start": 76.38,
+      "end": 85.14,
+      "text": "These are all-inclusive in most student halls, as well as some student houses.",
+      "avgLogprob": -0.15385340361655514
+    },
+    {
+      "start": 85.14,
+      "end": 90.14,
+      "text": "But otherwise, you and your housemates will need to organize payments for",
+      "avgLogprob": -0.15385340361655514
+    },
+    {
+      "start": 90.14,
+      "end": 98.82,
+      "text": "for broadband, gas and electricity, water, streaming services and a TV licence if you",
+      "avgLogprob": -0.13088159759839377
+    },
+    {
+      "start": 98.82,
+      "end": 103.43,
+      "text": "want to watch the BBC and football.",
+      "avgLogprob": -0.13088159759839377
+    },
+    {
+      "start": 103.43,
+      "end": 109.83,
+      "text": "To give you an idea of cost, the student's union reckons the typical student will pay",
+      "avgLogprob": -0.13088159759839377
+    },
+    {
+      "start": 109.83,
+      "end": 115.87,
+      "text": "around £70 a month for their essential bills, though you might pay less by going without",
+      "avgLogprob": -0.13088159759839377
+    },
+    {
+      "start": 115.87,
+      "end": 123.63,
+      "text": "a TV or streaming service and by using less water and energy, for example. Taking showers",
+      "avgLogprob": -0.13073921987884923
+    },
+    {
+      "start": 123.63,
+      "end": 128.39,
+      "text": "instead of baths is one example of how you can save money.",
+      "avgLogprob": -0.13073921987884923
+    },
+    {
+      "start": 128.39,
+      "end": 133.65,
+      "text": "And don't forget your personal bills like mobile contracts and subscriptions. It's important",
+      "avgLogprob": -0.13073921987884923
+    },
+    {
+      "start": 133.65,
+      "end": 142.54,
+      "text": "to remember all of your outgoings. You may also have travel and course expenses on top",
+      "avgLogprob": -0.13073921987884923
+    },
+    {
+      "start": 142.54,
+      "end": 149.92,
+      "text": "of your day-to-day costs. Plus, I strongly recommend Student Insurance for things like",
+      "avgLogprob": -0.1305895212572068
+    },
+    {
+      "start": 149.92,
+      "end": 158.15,
+      "text": "laptops as well as antivirus software and a hard drive to back up your work. The handy",
+      "avgLogprob": -0.1305895212572068
+    },
+    {
+      "start": 158.15,
+      "end": 167.53,
+      "text": "Student Finance Calculator at www.gov.uk can help you to work out the financial support",
+      "avgLogprob": -0.1305895212572068
+    },
+    {
+      "start": 167.53,
+      "end": 175.3,
+      "text": "you could get. Two loans are available to full-time students. One to cover the tuition",
+      "avgLogprob": -0.12943939010748703
+    },
+    {
+      "start": 175.3,
+      "end": 185.08,
+      "text": "fees of up to £9,250 and a maintenance loan towards living expenses of up to £9,500 if",
+      "avgLogprob": -0.12943939010748703
+    },
+    {
+      "start": 185.08,
+      "end": 193.02,
+      "text": "you live away from home and also there's £8,000 if you live with your parents.",
+      "avgLogprob": -0.12943939010748703
+    },
+    {
+      "start": 193.02,
+      "end": 201.0,
+      "text": "Student packages do differ in Wales, Northern Ireland and Scotland however. If you're going",
+      "avgLogprob": -0.12943939010748703
+    },
+    {
+      "start": 201.0,
+      "end": 206.4,
+      "text": "to manage to live on student loans, plus any grants and money from your parents, you'll",
+      "avgLogprob": -0.12447665763251922
+    },
+    {
+      "start": 206.4,
+      "end": 212.84,
+      "text": "need to budget. Try using an online student budget calculator such as those offered by",
+      "avgLogprob": -0.12447665763251922
+    },
+    {
+      "start": 212.84,
+      "end": 223.88,
+      "text": "UCAS at www.ucas.ac.uk. Then consider these tips. When going out partying, take only the",
+      "avgLogprob": -0.12447665763251922
+    },
+    {
+      "start": 223.88,
+      "end": 230.72,
+      "text": "To set amount of cash you're happy to spend and no plastic cards.",
+      "avgLogprob": -0.18630267288535834
+    },
+    {
+      "start": 230.72,
+      "end": 235.32,
+      "text": "Flash your student card to get all the discounts you can.",
+      "avgLogprob": -0.18630267288535834
+    },
+    {
+      "start": 235.32,
+      "end": 239.52,
+      "text": "If a discount isn't offered, just ask for one.",
+      "avgLogprob": -0.18630267288535834
+    },
+    {
+      "start": 239.52,
+      "end": 246.36,
+      "text": "Secondly, before you buy anything, ask yourself, do I really need it?",
+      "avgLogprob": -0.18630267288535834
+    },
+    {
+      "start": 246.36,
+      "end": 247.98,
+      "text": "Can I afford it?",
+      "avgLogprob": -0.18630267288535834
+    },
+    {
+      "start": 247.98,
+      "end": 251.32,
+      "text": "Is this the cheapest price?",
+      "avgLogprob": -0.18630267288535834
+    },
+    {
+      "start": 251.32,
+      "end": 255.18,
+      "text": "If any one answer is no, don't buy it.",
+      "avgLogprob": -0.22427733315796147
+    },
+    {
+      "start": 255.18,
+      "end": 260.98,
+      "text": "Check out the best value contract and pay as you go mobile for students at specialist",
+      "avgLogprob": -0.22427733315796147
+    },
+    {
+      "start": 260.98,
+      "end": 273.34,
+      "text": "websites such as www.mobilephonesforstudents.co.uk and also www.studentphones.co.uk.",
+      "avgLogprob": -0.22427733315796147
+    },
+    {
+      "start": 273.34,
+      "end": 285.44,
+      "text": "And don't forget, sign up to Skype at www.Skype.com for free calls from your PC.",
+      "avgLogprob": -0.15833950348389456
+    },
+    {
+      "start": 285.44,
+      "end": 291.0,
+      "text": "Before you listen to the rest of the talk, you have some time to look at questions 16-20.",
+      "avgLogprob": -0.15833950348389456
+    },
+    {
+      "start": 291.0,
+      "end": 328.67,
+      "text": "Now, listen carefully and answer questions 16-20.",
+      "avgLogprob": -0.15833950348389456
+    },
+    {
+      "start": 328.67,
+      "end": 333.35,
+      "text": "The next thing to consider is to open a bank account.",
+      "avgLogprob": -0.15833950348389456
+    },
+    {
+      "start": 333.35,
+      "end": 340.17,
+      "text": "The banks are all out to lure you with perks on their student accounts, but don't be swayed",
+      "avgLogprob": -0.10273317604848783
+    },
+    {
+      "start": 340.17,
+      "end": 342.91,
+      "text": "by useless gimmicks.",
+      "avgLogprob": -0.10273317604848783
+    },
+    {
+      "start": 342.91,
+      "end": 349.55,
+      "text": "The size of interest-free overdrafts on offer should be the deciding factor when choosing",
+      "avgLogprob": -0.10273317604848783
+    },
+    {
+      "start": 349.55,
+      "end": 352.59,
+      "text": "an account.",
+      "avgLogprob": -0.10273317604848783
+    },
+    {
+      "start": 352.59,
+      "end": 358.11,
+      "text": "Most allow you to go overdrawn for free up to an agreed limit.",
+      "avgLogprob": -0.10273317604848783
+    },
+    {
+      "start": 358.11,
+      "end": 365.0,
+      "text": "When it comes to freebies, only go for those you'll really use.",
+      "avgLogprob": -0.12774273916915224
+    },
+    {
+      "start": 365.0,
+      "end": 370.24,
+      "text": "You need a TV license to watch or record programs as they're being shown on TV, whether you",
+      "avgLogprob": -0.12774273916915224
+    },
+    {
+      "start": 370.24,
+      "end": 375.28,
+      "text": "use a laptop, mobile phone or any other device.",
+      "avgLogprob": -0.12774273916915224
+    },
+    {
+      "start": 375.28,
+      "end": 382.24,
+      "text": "A license covering communal areas and halls of residence won't cover your room.",
+      "avgLogprob": -0.12774273916915224
+    },
+    {
+      "start": 382.24,
+      "end": 387.46,
+      "text": "If you live in a private shared house, you only need one license between everybody unless",
+      "avgLogprob": -0.12774273916915224
+    },
+    {
+      "start": 387.46,
+      "end": 395.02,
+      "text": "you have a separate tenancy agreement for your room, in which case you need your own.",
+      "avgLogprob": -0.13692594718101414
+    },
+    {
+      "start": 395.02,
+      "end": 400.96,
+      "text": "But you don't need a licence at all if you only watch downloaded or streamed TV after",
+      "avgLogprob": -0.13692594718101414
+    },
+    {
+      "start": 400.96,
+      "end": 406.7,
+      "text": "it's been broadcast using websites such as YouTube and on-demand internet services such",
+      "avgLogprob": -0.13692594718101414
+    },
+    {
+      "start": 406.7,
+      "end": 409.54,
+      "text": "as 4OD.",
+      "avgLogprob": -0.13692594718101414
+    },
+    {
+      "start": 409.54,
+      "end": 415.4,
+      "text": "You can apply for a refund if your licence is still valid for at least three whole months",
+      "avgLogprob": -0.13692594718101414
+    },
+    {
+      "start": 415.4,
+      "end": 419.04,
+      "text": "and you no longer need it.",
+      "avgLogprob": -0.1579699432148653
+    },
+    {
+      "start": 419.04,
+      "end": 424.92,
+      "text": "If you work for an employer during term time, you'll pay income tax on any earnings over",
+      "avgLogprob": -0.1579699432148653
+    },
+    {
+      "start": 424.92,
+      "end": 427.64,
+      "text": "your personal allowance.",
+      "avgLogprob": -0.1579699432148653
+    },
+    {
+      "start": 427.64,
+      "end": 435.8,
+      "text": "You'll also pay National Insurance Contributions, NICs, if you earn over £120 a week.",
+      "avgLogprob": -0.1579699432148653
+    },
+    {
+      "start": 435.8,
+      "end": 444.41,
+      "text": "Both are deducted from your wages under the Pay As You Earn, P-A-Y-E, system.",
+      "avgLogprob": -0.1579699432148653
+    },
+    {
+      "start": 444.41,
+      "end": 449.65,
+      "text": "If you're a full-time student and only work in the holidays and your total income for",
+      "avgLogprob": -0.15867135673761368
+    },
+    {
+      "start": 449.65,
+      "end": 457.81,
+      "text": "the year is below the personal allowance, you won't need to pay tax through PAYE if",
+      "avgLogprob": -0.15867135673761368
+    },
+    {
+      "start": 457.81,
+      "end": 463.29,
+      "text": "you fill out form P38S.",
+      "avgLogprob": -0.15867135673761368
+    },
+    {
+      "start": 463.29,
+      "end": 474.21,
+      "text": "Ask an employer for one or download it at www.hmrc.gov.uk.",
+      "avgLogprob": -0.15867135673761368
+    },
+    {
+      "start": 474.21,
+      "end": 480.01,
+      "text": "If you think you've paid too much tax, use the student tax checker online at the same",
+      "avgLogprob": -0.21582106997569403
+    },
+    {
+      "start": 480.01,
+      "end": 484.03,
+      "text": "website.",
+      "avgLogprob": -0.21582106997569403
+    },
+    {
+      "start": 484.03,
+      "end": 518.37,
+      "text": "You now have 30 seconds to check your answers for Section 2.",
+      "avgLogprob": -0.21582106997569403
+    },
+    {
+      "start": 518.37,
+      "end": 520.73,
+      "text": "That is the end of Section 2.",
+      "avgLogprob": -0.21582106997569403
+    },
+    {
+      "start": 520.73,
+      "end": 522.13,
+      "text": "Now turn to Section 3.",
+      "avgLogprob": -0.21582106997569403
+    }
+  ]
+}

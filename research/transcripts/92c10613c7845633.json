@@ -1,0 +1,175 @@
+{
+  "source": "assets/audio/92c10613c7845633.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 3.18,
+      "text": "And what visits are planned for this term?",
+      "avgLogprob": -0.20925253629684448
+    },
+    {
+      "start": 3.18,
+      "end": 10.34,
+      "text": "Right, well, I'm afraid the schedule hasn't been printed out yet, but we have confirmed",
+      "avgLogprob": -0.20925253629684448
+    },
+    {
+      "start": 10.34,
+      "end": 15.22,
+      "text": "the dates and planned the optional extra visits, which you can also book in advance if you",
+      "avgLogprob": -0.20925253629684448
+    },
+    {
+      "start": 15.22,
+      "end": 16.22,
+      "text": "want to.",
+      "avgLogprob": -0.20925253629684448
+    },
+    {
+      "start": 16.22,
+      "end": 18.26,
+      "text": "Oh, that's all right.",
+      "avgLogprob": -0.20925253629684448
+    },
+    {
+      "start": 18.26,
+      "end": 23.66,
+      "text": "If you can just give some idea of the weekend ones, so I can, you know, work out when to",
+      "avgLogprob": -0.20925253629684448
+    },
+    {
+      "start": 23.66,
+      "end": 25.26,
+      "text": "see friends, etc.",
+      "avgLogprob": -0.20925253629684448
+    },
+    {
+      "start": 25.26,
+      "end": 35.46,
+      "text": "Well, the first one is St Ives, that's on the 13th of February and we'll have only 16",
+      "avgLogprob": -0.22470680497428205
+    },
+    {
+      "start": 35.46,
+      "end": 38.78,
+      "text": "places available because we're going by minibus.",
+      "avgLogprob": -0.22470680497428205
+    },
+    {
+      "start": 38.78,
+      "end": 43.82,
+      "text": "And that's a day in town with the optional extra of visiting the Hepworth Museum.",
+      "avgLogprob": -0.22470680497428205
+    },
+    {
+      "start": 43.82,
+      "end": 47.46,
+      "text": "All right, yeah, that sounds good.",
+      "avgLogprob": -0.22470680497428205
+    },
+    {
+      "start": 47.46,
+      "end": 53.26,
+      "text": "Then there's a London trip on the 16th of February and we'll be taking a medium-sized",
+      "avgLogprob": -0.22470680497428205
+    },
+    {
+      "start": 53.26,
+      "end": 60.58,
+      "text": "coach so there'll be 45 places on that and let's see the optional extra is the",
+      "avgLogprob": -0.15816561969709986
+    },
+    {
+      "start": 60.58,
+      "end": 66.0,
+      "text": "Tower of London oh I've already been there yeah after that there's Bristol",
+      "avgLogprob": -0.15816561969709986
+    },
+    {
+      "start": 66.0,
+      "end": 75.94,
+      "text": "on the 3rd of March well Bristol B R I S T O L okay that's in a different mini",
+      "avgLogprob": -0.15816561969709986
+    },
+    {
+      "start": 75.94,
+      "end": 82.56,
+      "text": "bus with 18 places available oh and the optional extra is a visit to the SS",
+      "avgLogprob": -0.15816561969709986
+    },
+    {
+      "start": 82.56,
+      "end": 90.64,
+      "text": "Great Britain. Okay. We're going to Salisbury on the 18th of March and that's always a popular",
+      "avgLogprob": -0.14480597927020147
+    },
+    {
+      "start": 90.64,
+      "end": 96.64,
+      "text": "one because the optional extra is Stonehenge. So we're taking the large coach with 50 seats.",
+      "avgLogprob": -0.14480597927020147
+    },
+    {
+      "start": 96.64,
+      "end": 105.44,
+      "text": "Oh good. And then the last one is to Bath on the 23rd of March. Oh yes. Is Bath the Roman City?",
+      "avgLogprob": -0.14480597927020147
+    },
+    {
+      "start": 105.44,
+      "end": 111.44,
+      "text": "Yes that's right and that's in the 16-seater minibus. And where's the optional visit?",
+      "avgLogprob": -0.14480597927020147
+    },
+    {
+      "start": 111.44,
+      "end": 114.64,
+      "text": "It's to the American Museum. Well worth a visit.",
+      "avgLogprob": -0.16481060383375734
+    },
+    {
+      "start": 114.64,
+      "end": 118.4,
+      "text": "OK. Well, that's great. Thanks for all that.",
+      "avgLogprob": -0.16481060383375734
+    },
+    {
+      "start": 118.4,
+      "end": 123.44,
+      "text": "My pleasure. By the way, if you want more information about any of the trips,",
+      "avgLogprob": -0.16481060383375734
+    },
+    {
+      "start": 123.44,
+      "end": 125.28,
+      "text": "have a look in the student newspaper.",
+      "avgLogprob": -0.16481060383375734
+    },
+    {
+      "start": 125.28,
+      "end": 126.16,
+      "text": "OK.",
+      "avgLogprob": -0.16481060383375734
+    },
+    {
+      "start": 126.16,
+      "end": 134.16,
+      "text": "Or have a word with my assistant. Her name is Jane Yentob. That's Y-E-N-T-O-B.",
+      "avgLogprob": -0.16481060383375734
+    },
+    {
+      "start": 134.16,
+      "end": 137.76,
+      "text": "Right. I've got that. Thank you very much for all your help.",
+      "avgLogprob": -0.16481060383375734
+    },
+    {
+      "start": 137.76,
+      "end": 140.4,
+      "text": "You're very welcome. I hope you enjoy the trips.",
+      "avgLogprob": -0.16481060383375734
+    }
+  ]
+}

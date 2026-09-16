@@ -1,0 +1,331 @@
+{
+  "source": "assets/audio/b464603eb020226c.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.14,
+      "end": 3.14,
+      "text": "Good morning, can I help you?",
+      "avgLogprob": -0.14494357186815013
+    },
+    {
+      "start": 3.14,
+      "end": 7.14,
+      "text": "Yes, I'm looking for a book on business management,",
+      "avgLogprob": -0.14494357186815013
+    },
+    {
+      "start": 7.14,
+      "end": 10.14,
+      "text": "but I don't know how the UE library system works,",
+      "avgLogprob": -0.14494357186815013
+    },
+    {
+      "start": 10.14,
+      "end": 14.14,
+      "text": "as I've just arrived in the UK, and I missed the library induction session.",
+      "avgLogprob": -0.14494357186815013
+    },
+    {
+      "start": 14.14,
+      "end": 18.14,
+      "text": "OK, that's fine. Do you know the name of the book you need to borrow?",
+      "avgLogprob": -0.14494357186815013
+    },
+    {
+      "start": 18.14,
+      "end": 22.14,
+      "text": "Yes, I think it's called Strategic Management,",
+      "avgLogprob": -0.14494357186815013
+    },
+    {
+      "start": 22.14,
+      "end": 24.14,
+      "text": "Creating Competitive Advantages.",
+      "avgLogprob": -0.14494357186815013
+    },
+    {
+      "start": 24.14,
+      "end": 28.14,
+      "text": "OK, let me look it up for you on the website.",
+      "avgLogprob": -0.14494357186815013
+    },
+    {
+      "start": 28.14,
+      "end": 35.14,
+      "text": "Here it is, Strategic Management, Creating Competitive Advantages, by Gregory White.",
+      "avgLogprob": -0.1884244921568193
+    },
+    {
+      "start": 35.14,
+      "end": 38.14,
+      "text": "That sounds perfect. How can I find it?",
+      "avgLogprob": -0.1884244921568193
+    },
+    {
+      "start": 38.14,
+      "end": 42.14,
+      "text": "Right, I'll just show you how to look it up on the library catalogue.",
+      "avgLogprob": -0.1884244921568193
+    },
+    {
+      "start": 42.14,
+      "end": 52.14,
+      "text": "So, first you go into the library website, click on Using the Library, and then Borrow Things.",
+      "avgLogprob": -0.1884244921568193
+    },
+    {
+      "start": 52.14,
+      "end": 58.38,
+      "text": "Now you can use the library catalogue to find books, e-books, journals and e-journals.",
+      "avgLogprob": -0.17504048888005463
+    },
+    {
+      "start": 58.38,
+      "end": 63.26,
+      "text": "Oh, I see. That looks straightforward. It's good to know all that is available.",
+      "avgLogprob": -0.17504048888005463
+    },
+    {
+      "start": 63.82,
+      "end": 67.02,
+      "text": "So where exactly do I find the book on strategic management?",
+      "avgLogprob": -0.17504048888005463
+    },
+    {
+      "start": 67.66,
+      "end": 71.5,
+      "text": "OK, let's have a look at the catalogue information for your book.",
+      "avgLogprob": -0.17504048888005463
+    },
+    {
+      "start": 72.54,
+      "end": 78.78,
+      "text": "Can you see the number 6397012WHI?",
+      "avgLogprob": -0.17504048888005463
+    },
+    {
+      "start": 79.5,
+      "end": 80.94,
+      "text": "Yes. What does it all mean?",
+      "avgLogprob": -0.17504048888005463
+    },
+    {
+      "start": 80.94,
+      "end": 92.08,
+      "text": "Well, 639 is the shelf number, 7012 is the book number and WHI is the call number. This",
+      "avgLogprob": -0.18498448353438152
+    },
+    {
+      "start": 92.08,
+      "end": 94.84,
+      "text": "relates to the author's surname.",
+      "avgLogprob": -0.18498448353438152
+    },
+    {
+      "start": 94.84,
+      "end": 97.92,
+      "text": "So the surname is white, not Gregory?",
+      "avgLogprob": -0.18498448353438152
+    },
+    {
+      "start": 97.92,
+      "end": 103.34,
+      "text": "Yes, surnames are used for referencing and cataloging, so you need to be clear about which",
+      "avgLogprob": -0.18498448353438152
+    },
+    {
+      "start": 103.34,
+      "end": 107.62,
+      "text": "is the author's surname and which is their first name.",
+      "avgLogprob": -0.18498448353438152
+    },
+    {
+      "start": 107.62,
+      "end": 112.3,
+      "text": "I always get confused about that, and are the business books on level 2?",
+      "avgLogprob": -0.22971791476011277
+    },
+    {
+      "start": 112.3,
+      "end": 116.56,
+      "text": "No, the location for business books is level 5.",
+      "avgLogprob": -0.22971791476011277
+    },
+    {
+      "start": 116.56,
+      "end": 119.78,
+      "text": "You can also see here that there are 5 books available.",
+      "avgLogprob": -0.22971791476011277
+    },
+    {
+      "start": 119.78,
+      "end": 123.14,
+      "text": "Great, so how long can I borrow the book for?",
+      "avgLogprob": -0.22971791476011277
+    },
+    {
+      "start": 123.14,
+      "end": 129.3,
+      "text": "Well, the take-out time is 4 weeks, or 7 days, or overnight.",
+      "avgLogprob": -0.22971791476011277
+    },
+    {
+      "start": 129.3,
+      "end": 131.72,
+      "text": "There are fines for overdue books.",
+      "avgLogprob": -0.22971791476011277
+    },
+    {
+      "start": 131.72,
+      "end": 138.86,
+      "text": "For a 7 day loan it's 55 pence per day, 30 pence per day for a 4 week loan and 40 pence",
+      "avgLogprob": -0.1815797983109951
+    },
+    {
+      "start": 138.86,
+      "end": 143.1,
+      "text": "per hour or part hour for an overnight loan.",
+      "avgLogprob": -0.1815797983109951
+    },
+    {
+      "start": 143.1,
+      "end": 148.86,
+      "text": "The maximum fines for the first two loans is £10 and £20 for the last one.",
+      "avgLogprob": -0.1815797983109951
+    },
+    {
+      "start": 148.86,
+      "end": 152.74,
+      "text": "Oh, I have to be careful not to return the books late then.",
+      "avgLogprob": -0.1815797983109951
+    },
+    {
+      "start": 152.74,
+      "end": 159.62,
+      "text": "Yes, remember you can only pay fines once your overdue items are returned or renewed.",
+      "avgLogprob": -0.1815797983109951
+    },
+    {
+      "start": 159.62,
+      "end": 164.3,
+      "text": "You can use the self-service machines in the library to do this, but they only take coins",
+      "avgLogprob": -0.1665841104570499
+    },
+    {
+      "start": 164.3,
+      "end": 166.62,
+      "text": "and do not give change.",
+      "avgLogprob": -0.1665841104570499
+    },
+    {
+      "start": 166.62,
+      "end": 169.78,
+      "text": "Or you can log into your library account and pay online.",
+      "avgLogprob": -0.1665841104570499
+    },
+    {
+      "start": 169.78,
+      "end": 173.38,
+      "text": "There's a minimum of £5 to do this.",
+      "avgLogprob": -0.1665841104570499
+    },
+    {
+      "start": 173.38,
+      "end": 176.02,
+      "text": "That could be expensive if I forget too often.",
+      "avgLogprob": -0.1665841104570499
+    },
+    {
+      "start": 176.02,
+      "end": 179.02,
+      "text": "Oh, I just remembered a couple more things.",
+      "avgLogprob": -0.1665841104570499
+    },
+    {
+      "start": 179.02,
+      "end": 182.38,
+      "text": "Where is the scanner and can I borrow a laptop?",
+      "avgLogprob": -0.1665841104570499
+    },
+    {
+      "start": 182.38,
+      "end": 186.98,
+      "text": "The scanner is on the fourth floor by the student IT services desk.",
+      "avgLogprob": -0.1665841104570499
+    },
+    {
+      "start": 186.98,
+      "end": 189.3,
+      "text": "You can use this for free.",
+      "avgLogprob": -0.1665841104570499
+    },
+    {
+      "start": 189.3,
+      "end": 194.1,
+      "text": "forget if you have any IT problems the student IT services staff are always",
+      "avgLogprob": -0.14182040959596634
+    },
+    {
+      "start": 194.1,
+      "end": 199.08,
+      "text": "there to help you. The laptops can also be booked online and you'll see the",
+      "avgLogprob": -0.14182040959596634
+    },
+    {
+      "start": 199.08,
+      "end": 205.52,
+      "text": "lockers holding them by the IT desk also. How long can I use a laptop for? You can",
+      "avgLogprob": -0.14182040959596634
+    },
+    {
+      "start": 205.52,
+      "end": 209.94,
+      "text": "take one out until midnight. If you return it late the fine is 50p per hour.",
+      "avgLogprob": -0.14182040959596634
+    },
+    {
+      "start": 209.94,
+      "end": 216.36,
+      "text": "If you damage lose or do not return it the replacement cost fine is 70 pounds.",
+      "avgLogprob": -0.14182040959596634
+    },
+    {
+      "start": 216.36,
+      "end": 220.6,
+      "text": "PC's can be accessed with a UE username and password.",
+      "avgLogprob": -0.20641471066002576
+    },
+    {
+      "start": 220.6,
+      "end": 225.96,
+      "text": "Thank you, that's good to know. Are there different floors in the library used for different things?",
+      "avgLogprob": -0.20641471066002576
+    },
+    {
+      "start": 225.96,
+      "end": 231.32,
+      "text": "Yes, Level 2 is Quiet Study, Level 3 is Group Study,",
+      "avgLogprob": -0.20641471066002576
+    },
+    {
+      "start": 231.32,
+      "end": 237.28,
+      "text": "Level 4 is Silent Study and Level 3 is also available for bookable rooms.",
+      "avgLogprob": -0.20641471066002576
+    },
+    {
+      "start": 237.28,
+      "end": 241.44,
+      "text": "Great, thank you for all your help. I have to go to my lecture now.",
+      "avgLogprob": -0.20641471066002576
+    },
+    {
+      "start": 241.44,
+      "end": 244.96,
+      "text": "That's fine, we're always here to help.",
+      "avgLogprob": -0.20641471066002576
+    }
+  ]
+}

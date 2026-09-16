@@ -1,0 +1,85 @@
+{
+  "source": "assets/audio/d2398d40199a2cbc.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 5.18,
+      "text": "Can you recommend any outdoor sporting activities for those who like to keep fit?",
+      "avgLogprob": -0.13310177006372592
+    },
+    {
+      "start": 5.18,
+      "end": 11.18,
+      "text": "Yes. Bristol has a wide range of rock climbing opportunities on a variety of cliffs.",
+      "avgLogprob": -0.13310177006372592
+    },
+    {
+      "start": 11.18,
+      "end": 18.18,
+      "text": "The Avon Gorge is a key historic British climbing site and the West Country's most famous cliff",
+      "avgLogprob": -0.13310177006372592
+    },
+    {
+      "start": 18.18,
+      "end": 25.18,
+      "text": "and is unique in that it lies within the boundary of a major city and serves a large immediate population.",
+      "avgLogprob": -0.13310177006372592
+    },
+    {
+      "start": 25.18,
+      "end": 29.78,
+      "text": "Although Bristol's relatively dry and mild climate favours outdoor climbing,",
+      "avgLogprob": -0.1907397200201833
+    },
+    {
+      "start": 29.78,
+      "end": 34.98,
+      "text": "many people learn to climb by taking their first steps on indoor climbing walls.",
+      "avgLogprob": -0.1907397200201833
+    },
+    {
+      "start": 34.98,
+      "end": 41.98,
+      "text": "Indoor walls are also useful for training and pushing performance levels, especially during winter time.",
+      "avgLogprob": -0.1907397200201833
+    },
+    {
+      "start": 41.98,
+      "end": 45.78,
+      "text": "That sounds like fun. How can anyone get started?",
+      "avgLogprob": -0.1907397200201833
+    },
+    {
+      "start": 45.78,
+      "end": 51.58,
+      "text": "Well, Bristol has a choice of climbing clubs that welcome new members, including beginners.",
+      "avgLogprob": -0.1907397200201833
+    },
+    {
+      "start": 51.58,
+      "end": 57.58,
+      "text": "Joining a climbing club is an effective, sociable and traditional way for newcomers to get to learn the ropes.",
+      "avgLogprob": -0.12697563935252068
+    },
+    {
+      "start": 57.58,
+      "end": 67.58,
+      "text": "Being guided by an experienced climber or undertaking a climbing course or employing a qualified instructor or mountain guide are proven ways to learn climbing.",
+      "avgLogprob": -0.12697563935252068
+    },
+    {
+      "start": 67.58,
+      "end": 73.58,
+      "text": "Great. That's all we have time for today. Thank you, Gemma. There's certainly a lot to do in Bristol.",
+      "avgLogprob": -0.12697563935252068
+    },
+    {
+      "start": 73.58,
+      "end": 78.58,
+      "text": "That's been very interesting and helpful. And thank you for coming into the studio.",
+      "avgLogprob": -0.12697563935252068
+    }
+  ]
+}

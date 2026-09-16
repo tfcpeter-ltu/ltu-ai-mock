@@ -1,0 +1,529 @@
+{
+  "source": "assets/audio/e1b317ce72348974.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.59,
+      "end": 8.09,
+      "text": "Section 1. You're going to listen to a telephone conversation between two students about a job agency.",
+      "avgLogprob": -0.18451791799937686
+    },
+    {
+      "start": 8.09,
+      "end": 47.48,
+      "text": "First, you have some time to look at questions 1 to 10. Now listen carefully and answer questions 1 to 10.",
+      "avgLogprob": -0.18451791799937686
+    },
+    {
+      "start": 47.48,
+      "end": 52.72,
+      "text": "Hi Becky, it's Adam from Economics Class.",
+      "avgLogprob": -0.18451791799937686
+    },
+    {
+      "start": 52.72,
+      "end": 56.22,
+      "text": "Oh, hi Adam. How are you getting on with university life?",
+      "avgLogprob": -0.18451791799937686
+    },
+    {
+      "start": 56.22,
+      "end": 59.72,
+      "text": "Great thanks. It's getting better now that I'm more used to it.",
+      "avgLogprob": -0.18451791799937686
+    },
+    {
+      "start": 59.72,
+      "end": 64.92,
+      "text": "actually since I'm settling down in the city I want to find a part-time job you",
+      "avgLogprob": -0.12861090936238254
+    },
+    {
+      "start": 64.92,
+      "end": 68.52,
+      "text": "said that you're working for a job agency earlier right I'd like to have",
+      "avgLogprob": -0.12861090936238254
+    },
+    {
+      "start": 68.52,
+      "end": 72.96,
+      "text": "more information about it if you don't mind yeah of course so the agency I was",
+      "avgLogprob": -0.12861090936238254
+    },
+    {
+      "start": 72.96,
+      "end": 78.8,
+      "text": "talking about is named back to front it's based in the city centre let me see",
+      "avgLogprob": -0.12861090936238254
+    },
+    {
+      "start": 78.8,
+      "end": 93.8,
+      "text": "The address is 111A High Street and its postcode is BS15 3QG. It's pretty close to the bus stop.",
+      "avgLogprob": -0.18268244320087218
+    },
+    {
+      "start": 93.8,
+      "end": 96.8,
+      "text": "You can find the bus route to their office online.",
+      "avgLogprob": -0.18268244320087218
+    },
+    {
+      "start": 96.8,
+      "end": 100.8,
+      "text": "Great, thanks. And who should I speak to you when I get there?",
+      "avgLogprob": -0.18268244320087218
+    },
+    {
+      "start": 100.8,
+      "end": 104.8,
+      "text": "I always work with an agent called Lindsay Broden.",
+      "avgLogprob": -0.18268244320087218
+    },
+    {
+      "start": 104.8,
+      "end": 107.8,
+      "text": "Wait, let me write that down. Was it Linda?",
+      "avgLogprob": -0.18268244320087218
+    },
+    {
+      "start": 107.8,
+      "end": 118.8,
+      "text": "No, it's Lindsay. L-Y-N-S-E-Y. And Broden. B-R-A-W-D-E-N.",
+      "avgLogprob": -0.16040466276996107
+    },
+    {
+      "start": 118.8,
+      "end": 121.8,
+      "text": "Sound. And do you have a phone number?",
+      "avgLogprob": -0.16040466276996107
+    },
+    {
+      "start": 121.8,
+      "end": 133.8,
+      "text": "We usually contact each other via email. Her email address is Lindsay Broden, her full name, at backtofront.co.uk.",
+      "avgLogprob": -0.16040466276996107
+    },
+    {
+      "start": 133.8,
+      "end": 138.2,
+      "text": "Lindsay Broden at backtofront.co.uk",
+      "avgLogprob": -0.29819597176143103
+    },
+    {
+      "start": 138.2,
+      "end": 143.2,
+      "text": "You should call her number in an emergency, but I'll give you that too.",
+      "avgLogprob": -0.29819597176143103
+    },
+    {
+      "start": 143.2,
+      "end": 152.2,
+      "text": "It's 077-121-672-55.",
+      "avgLogprob": -0.29819597176143103
+    },
+    {
+      "start": 152.2,
+      "end": 158.8,
+      "text": "That's 077-121-672-55.",
+      "avgLogprob": -0.29819597176143103
+    },
+    {
+      "start": 158.8,
+      "end": 161.8,
+      "text": "What kind of jobs do they offer?",
+      "avgLogprob": -0.29819597176143103
+    },
+    {
+      "start": 161.8,
+      "end": 173.8,
+      "text": "They have a wide variety of jobs to choose from. Basically when an event is short of staff, they call back to front, then the company will inform us about posts that are available.",
+      "avgLogprob": -0.13342263010588098
+    },
+    {
+      "start": 173.8,
+      "end": 178.8,
+      "text": "You can pick ones that are suitable to your skills and confirm back to them.",
+      "avgLogprob": -0.13342263010588098
+    },
+    {
+      "start": 178.8,
+      "end": 182.8,
+      "text": "What's the rate? Minimum wage, I suppose.",
+      "avgLogprob": -0.13342263010588098
+    },
+    {
+      "start": 182.8,
+      "end": 188.8,
+      "text": "Yes, most of them. How old are you exactly? Because minimum wage varies by age.",
+      "avgLogprob": -0.13342263010588098
+    },
+    {
+      "start": 188.8,
+      "end": 192.8,
+      "text": "I'm 20 now, turning 21 next week.",
+      "avgLogprob": -0.21510441007989425
+    },
+    {
+      "start": 192.8,
+      "end": 202.2,
+      "text": "Ah, lucky you. Your minimum pay will be £8.36 when you turn 21, instead of only £6.56.",
+      "avgLogprob": -0.21510441007989425
+    },
+    {
+      "start": 202.2,
+      "end": 207.5,
+      "text": "But there are posts with higher rates. I once worked in a horse racing stadium with an hourly",
+      "avgLogprob": -0.21510441007989425
+    },
+    {
+      "start": 207.5,
+      "end": 212.8,
+      "text": "rate of £10, and I got tipped £20 at the end of the day.",
+      "avgLogprob": -0.21510441007989425
+    },
+    {
+      "start": 212.8,
+      "end": 217.8,
+      "text": "Sounds great. Now, let's say I'm going to have an interview. What do I need to prepare",
+      "avgLogprob": -0.21510441007989425
+    },
+    {
+      "start": 217.8,
+      "end": 224.52,
+      "text": "for it. You're an international student so you must bring your passport. You don't",
+      "avgLogprob": -0.12431214734761402
+    },
+    {
+      "start": 224.52,
+      "end": 229.28,
+      "text": "need to have a national insurance number for the interview but it's necessary to",
+      "avgLogprob": -0.12431214734761402
+    },
+    {
+      "start": 229.28,
+      "end": 233.92,
+      "text": "have one if you want to get paid. I highly recommend you apply for it as soon",
+      "avgLogprob": -0.12431214734761402
+    },
+    {
+      "start": 233.92,
+      "end": 238.44,
+      "text": "as possible since it might take a few weeks to come through. Okay sure I'll",
+      "avgLogprob": -0.12431214734761402
+    },
+    {
+      "start": 238.44,
+      "end": 243.08,
+      "text": "do that first thing tomorrow. What about clothing? Should I get a suit for it? No",
+      "avgLogprob": -0.12431214734761402
+    },
+    {
+      "start": 243.08,
+      "end": 246.56,
+      "text": "No, no, you don't have to be too formal for the interview.",
+      "avgLogprob": -0.12228099351464691
+    },
+    {
+      "start": 246.56,
+      "end": 250.52,
+      "text": "In fact, besides communication skills, which are obvious,",
+      "avgLogprob": -0.12228099351464691
+    },
+    {
+      "start": 250.52,
+      "end": 254.72,
+      "text": "they'll ask you to demonstrate some physical serving skills,",
+      "avgLogprob": -0.12228099351464691
+    },
+    {
+      "start": 254.72,
+      "end": 258.3,
+      "text": "such as carrying plates of food or lifting objects,",
+      "avgLogprob": -0.12228099351464691
+    },
+    {
+      "start": 258.3,
+      "end": 260.68,
+      "text": "since most jobs require those.",
+      "avgLogprob": -0.12228099351464691
+    },
+    {
+      "start": 260.68,
+      "end": 264.08,
+      "text": "I think a suit might limit your movement too much.",
+      "avgLogprob": -0.12228099351464691
+    },
+    {
+      "start": 264.08,
+      "end": 267.0,
+      "text": "A white shirt and dark trousers would be perfect",
+      "avgLogprob": -0.12228099351464691
+    },
+    {
+      "start": 267.0,
+      "end": 268.76,
+      "text": "because those are the uniform",
+      "avgLogprob": -0.12228099351464691
+    },
+    {
+      "start": 268.76,
+      "end": 271.42,
+      "text": "and you have to buy them sooner or later.",
+      "avgLogprob": -0.12228099351464691
+    },
+    {
+      "start": 271.42,
+      "end": 273.02,
+      "text": "Don't worry too much anyway.",
+      "avgLogprob": -0.12228099351464691
+    },
+    {
+      "start": 273.02,
+      "end": 276.3,
+      "text": "it's highly unlikely you'll fail the interview.",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 276.3,
+      "end": 277.98,
+      "text": "Fantastic, thanks.",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 277.98,
+      "end": 279.3,
+      "text": "I'm usually really nervous",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 279.3,
+      "end": 281.28,
+      "text": "when it comes to tests and interviews.",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 282.5,
+      "end": 284.14,
+      "text": "Do you want me to tell you something",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 284.14,
+      "end": 286.22,
+      "text": "about the jobs I've been doing?",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 286.22,
+      "end": 287.42,
+      "text": "Yes, please.",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 287.42,
+      "end": 288.7,
+      "text": "You must have a ton of experience",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 288.7,
+      "end": 290.62,
+      "text": "doing all kinds of jobs, right?",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 290.62,
+      "end": 291.94,
+      "text": "Not that much, really.",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 291.94,
+      "end": 294.18,
+      "text": "I've only worked there for a few months.",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 294.18,
+      "end": 296.5,
+      "text": "At any rates, there are various jobs",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 296.5,
+      "end": 299.34,
+      "text": "and all of them are in the service category.",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 299.34,
+      "end": 301.92,
+      "text": "The most common post is catering,",
+      "avgLogprob": -0.1114664584174192
+    },
+    {
+      "start": 301.92,
+      "end": 305.58,
+      "text": "but my favorite is stewarding at the stadium.",
+      "avgLogprob": -0.1296906538631605
+    },
+    {
+      "start": 305.58,
+      "end": 308.36,
+      "text": "Wait, catering means I need to know how to cook, right?",
+      "avgLogprob": -0.1296906538631605
+    },
+    {
+      "start": 308.36,
+      "end": 309.44,
+      "text": "No, no.",
+      "avgLogprob": -0.1296906538631605
+    },
+    {
+      "start": 309.44,
+      "end": 311.8,
+      "text": "In fact, you'll get to do everything",
+      "avgLogprob": -0.1296906538631605
+    },
+    {
+      "start": 311.8,
+      "end": 315.72,
+      "text": "from table setting to dish washing, but not cooking.",
+      "avgLogprob": -0.1296906538631605
+    },
+    {
+      "start": 315.72,
+      "end": 318.48,
+      "text": "The event manager will assign your tasks",
+      "avgLogprob": -0.1296906538631605
+    },
+    {
+      "start": 318.48,
+      "end": 322.0,
+      "text": "based on the size of the event and the number of staff.",
+      "avgLogprob": -0.1296906538631605
+    },
+    {
+      "start": 322.0,
+      "end": 325.48,
+      "text": "You might end up doing multiple tasks, so be prepared.",
+      "avgLogprob": -0.1296906538631605
+    },
+    {
+      "start": 325.48,
+      "end": 326.32,
+      "text": "I see.",
+      "avgLogprob": -0.1296906538631605
+    },
+    {
+      "start": 326.32,
+      "end": 328.66,
+      "text": "Well, how about the second most common one?",
+      "avgLogprob": -0.1296906538631605
+    },
+    {
+      "start": 328.66,
+      "end": 336.26,
+      "text": "Ah yes, my favourite, stewarding at the stadium. Do you notice the people wearing orange or",
+      "avgLogprob": -0.20120938077117456
+    },
+    {
+      "start": 336.26,
+      "end": 341.5,
+      "text": "bright green outfits at the stadium on TV? That's what you'll look like if you get",
+      "avgLogprob": -0.20120938077117456
+    },
+    {
+      "start": 341.5,
+      "end": 342.5,
+      "text": "a steward shift.",
+      "avgLogprob": -0.20120938077117456
+    },
+    {
+      "start": 342.5,
+      "end": 348.9,
+      "text": "Ah I do, the ones at Ashton Gate. So it means I'll be like, guarding the place?",
+      "avgLogprob": -0.20120938077117456
+    },
+    {
+      "start": 348.9,
+      "end": 355.76,
+      "text": "Ah yeah, but not quite. For non-experienced staff like us, we'll get quick training",
+      "avgLogprob": -0.20120938077117456
+    },
+    {
+      "start": 355.76,
+      "end": 359.08,
+      "text": "and be fully briefed on our duties at the event.",
+      "avgLogprob": -0.12169169307800762
+    },
+    {
+      "start": 359.08,
+      "end": 362.6,
+      "text": "But mostly we're responsible for crowd control",
+      "avgLogprob": -0.12169169307800762
+    },
+    {
+      "start": 362.6,
+      "end": 366.16,
+      "text": "and the orderly evacuation of the public from the stadium",
+      "avgLogprob": -0.12169169307800762
+    },
+    {
+      "start": 366.16,
+      "end": 368.28,
+      "text": "in times of emergency.",
+      "avgLogprob": -0.12169169307800762
+    },
+    {
+      "start": 368.28,
+      "end": 372.08,
+      "text": "And don't worry, it's highly unlikely that will happen.",
+      "avgLogprob": -0.12169169307800762
+    },
+    {
+      "start": 372.08,
+      "end": 373.24,
+      "text": "And if you're lucky,",
+      "avgLogprob": -0.12169169307800762
+    },
+    {
+      "start": 373.24,
+      "end": 376.28,
+      "text": "you can watch the football match from your position.",
+      "avgLogprob": -0.12169169307800762
+    },
+    {
+      "start": 376.28,
+      "end": 378.8,
+      "text": "That's why it's my favourite job.",
+      "avgLogprob": -0.12169169307800762
+    },
+    {
+      "start": 378.8,
+      "end": 384.22,
+      "text": "I see. I remember you're a big football fan.",
+      "avgLogprob": -0.12169169307800762
+    },
+    {
+      "start": 384.22,
+      "end": 386.5,
+      "text": "That is the end of part one.",
+      "avgLogprob": -0.12169169307800762
+    },
+    {
+      "start": 386.5,
+      "end": 421.68,
+      "text": "Now you have half a minute to check your answers.",
+      "avgLogprob": -0.35301654176278546
+    },
+    {
+      "start": 421.68,
+      "end": 423.96,
+      "text": "Now turn to section 2.",
+      "avgLogprob": -0.35301654176278546
+    }
+  ]
+}

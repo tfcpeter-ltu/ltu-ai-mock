@@ -1,0 +1,133 @@
+{
+  "source": "assets/audio/10852bad20f3a23e.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "That's true Lucy, but that's not just from the internet.",
+      "avgLogprob": -0.12327694668564745
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "Unfairness and unfair advantages are a part of life.",
+      "avgLogprob": -0.12327694668564745
+    },
+    {
+      "start": 9.0,
+      "end": 15.0,
+      "text": "That's not to say that it's a good thing, but unfairness was there before the internet.",
+      "avgLogprob": -0.12327694668564745
+    },
+    {
+      "start": 15.0,
+      "end": 21.0,
+      "text": "So the internet itself is not the reason that non-western cultures are under pressure.",
+      "avgLogprob": -0.12327694668564745
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "text": "Yeah, but I mean, the English language isn't the main language on the net",
+      "avgLogprob": -0.12327694668564745
+    },
+    {
+      "start": 26.0,
+      "end": 31.0,
+      "text": "just because people magically think it's the best language.",
+      "avgLogprob": -0.11488070664927363
+    },
+    {
+      "start": 31.0,
+      "end": 34.0,
+      "text": "It's a vicious circle.",
+      "avgLogprob": -0.11488070664927363
+    },
+    {
+      "start": 34.0,
+      "end": 40.0,
+      "text": "Because there's so much English on the net, it makes it an English language environment.",
+      "avgLogprob": -0.11488070664927363
+    },
+    {
+      "start": 40.0,
+      "end": 45.0,
+      "text": "So you have no choice but to use English if you're using the net.",
+      "avgLogprob": -0.11488070664927363
+    },
+    {
+      "start": 45.0,
+      "end": 50.0,
+      "text": "People around the world think that they've got to learn English just to get ahead.",
+      "avgLogprob": -0.11488070664927363
+    },
+    {
+      "start": 50.0,
+      "end": 56.0,
+      "text": "English speakers, and Western culture in general, get an unfair advantage.",
+      "avgLogprob": -0.14174604340444638
+    },
+    {
+      "start": 56.0,
+      "end": 62.0,
+      "text": "Sergei, you're not from a first language English background. What do you think of that?",
+      "avgLogprob": -0.14174604340444638
+    },
+    {
+      "start": 62.0,
+      "end": 67.0,
+      "text": "Well, I think what Lucy says is true to an extent.",
+      "avgLogprob": -0.14174604340444638
+    },
+    {
+      "start": 67.0,
+      "end": 75.0,
+      "text": "There is a pressure to use English, and a lot of the interesting content on the net is carried in English.",
+      "avgLogprob": -0.14174604340444638
+    },
+    {
+      "start": 75.0,
+      "end": 80.52,
+      "text": "But, and this is a big thing Lucy, you have this idea that those of us from the non-Western",
+      "avgLogprob": -0.12445681500766012
+    },
+    {
+      "start": 80.52,
+      "end": 86.52,
+      "text": "world are just passive objects who soak up whatever is given to us, and have no power",
+      "avgLogprob": -0.12445681500766012
+    },
+    {
+      "start": 86.52,
+      "end": 92.9,
+      "text": "to decide what we want to use the net for ourselves.",
+      "avgLogprob": -0.12445681500766012
+    },
+    {
+      "start": 92.9,
+      "end": 98.0,
+      "text": "In fact it's a lot more dynamic than that, you know?",
+      "avgLogprob": -0.12445681500766012
+    },
+    {
+      "start": 98.0,
+      "end": 103.62,
+      "text": "We can use the net too, to make websites in our own languages, and maybe express things",
+      "avgLogprob": -0.12445681500766012
+    },
+    {
+      "start": 103.62,
+      "end": 106.9,
+      "text": "that were never possible without the internet.",
+      "avgLogprob": -0.12445681500766012
+    },
+    {
+      "start": 106.9,
+      "end": 111.84,
+      "text": "our own point of view across. We don't just accept Western culture passively.",
+      "avgLogprob": -0.2534926376844707
+    }
+  ]
+}

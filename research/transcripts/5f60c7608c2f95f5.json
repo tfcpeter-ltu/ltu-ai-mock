@@ -1,0 +1,553 @@
+{
+  "source": "assets/audio/5f60c7608c2f95f5.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.75,
+      "end": 10.23,
+      "text": "Part 3. You are going to listen to two students talking about their university lives. First,",
+      "avgLogprob": -0.23632091058548108
+    },
+    {
+      "start": 10.23,
+      "end": 46.98,
+      "text": "you have some time to look at questions 21 to 24. Now listen carefully and answer questions",
+      "avgLogprob": -0.23632091058548108
+    },
+    {
+      "start": 46.98,
+      "end": 55.09,
+      "text": "21 to 24. Oh, hi Fiona. How's it going? How's university life?",
+      "avgLogprob": -0.23632091058548108
+    },
+    {
+      "start": 55.09,
+      "end": 61.69,
+      "text": "I love it. Nobody tells you what to do and you can do whatever you want, right?",
+      "avgLogprob": -0.23632091058548108
+    },
+    {
+      "start": 61.69,
+      "end": 67.49,
+      "text": "Sure, but just a friendly reminder, don't forget to spend some time studying.",
+      "avgLogprob": -0.1924670868449741
+    },
+    {
+      "start": 67.49,
+      "end": 73.99,
+      "text": "Yeah, yeah, I know. It's just hard to get settled into the day-to-day life.",
+      "avgLogprob": -0.1924670868449741
+    },
+    {
+      "start": 73.99,
+      "end": 80.39,
+      "text": "What are you studying? I remember your amazing painting for the High School Fair. Are you studying art?",
+      "avgLogprob": -0.1924670868449741
+    },
+    {
+      "start": 80.39,
+      "end": 88.39,
+      "text": "Oh, thank you, but I'm afraid you guessed wrong. I'm good at art, and that was my favourite subject at school,",
+      "avgLogprob": -0.1924670868449741
+    },
+    {
+      "start": 88.39,
+      "end": 92.39,
+      "text": "but I only see painting as a hobby, not a career.",
+      "avgLogprob": -0.1359186315074049
+    },
+    {
+      "start": 92.39,
+      "end": 94.23,
+      "text": "Okay, so what did you choose?",
+      "avgLogprob": -0.1359186315074049
+    },
+    {
+      "start": 94.87,
+      "end": 96.79,
+      "text": "Well, that was a tough choice.",
+      "avgLogprob": -0.1359186315074049
+    },
+    {
+      "start": 97.43,
+      "end": 99.99,
+      "text": "My best subject at school was maths,",
+      "avgLogprob": -0.1359186315074049
+    },
+    {
+      "start": 99.99,
+      "end": 102.79,
+      "text": "and both my mum and my maths teacher",
+      "avgLogprob": -0.1359186315074049
+    },
+    {
+      "start": 102.79,
+      "end": 105.27,
+      "text": "thought I would make a brilliant accountant,",
+      "avgLogprob": -0.1359186315074049
+    },
+    {
+      "start": 105.27,
+      "end": 109.19,
+      "text": "but I have to admit, I don't really fancy working with numbers.",
+      "avgLogprob": -0.1359186315074049
+    },
+    {
+      "start": 109.91,
+      "end": 114.07,
+      "text": "So I finally decided to choose business and management,",
+      "avgLogprob": -0.1359186315074049
+    },
+    {
+      "start": 114.07,
+      "end": 116.95,
+      "text": "which is the most common field to make money in.",
+      "avgLogprob": -0.1359186315074049
+    },
+    {
+      "start": 116.95,
+      "end": 117.99,
+      "text": "Don't you think?",
+      "avgLogprob": -0.1359186315074049
+    },
+    {
+      "start": 117.99,
+      "end": 120.99,
+      "text": "Yeah, I agree. It's the fastest way, in my opinion.",
+      "avgLogprob": -0.1179892797996332
+    },
+    {
+      "start": 120.99,
+      "end": 123.99,
+      "text": "I suppose it's easier to study than my subject.",
+      "avgLogprob": -0.1179892797996332
+    },
+    {
+      "start": 123.99,
+      "end": 127.99,
+      "text": "Oh, what are you studying? Is it difficult?",
+      "avgLogprob": -0.1179892797996332
+    },
+    {
+      "start": 127.99,
+      "end": 129.99,
+      "text": "Well, you know I'm a bit of a gamer.",
+      "avgLogprob": -0.1179892797996332
+    },
+    {
+      "start": 129.99,
+      "end": 133.99,
+      "text": "So instead of choosing law, as my father always wanted me to,",
+      "avgLogprob": -0.1179892797996332
+    },
+    {
+      "start": 133.99,
+      "end": 135.99,
+      "text": "I opted for games technology.",
+      "avgLogprob": -0.1179892797996332
+    },
+    {
+      "start": 135.99,
+      "end": 141.99,
+      "text": "The lectures are amazing, but computer science isn't my strong suit.",
+      "avgLogprob": -0.1179892797996332
+    },
+    {
+      "start": 141.99,
+      "end": 144.99,
+      "text": "Designing games is much harder than playing them.",
+      "avgLogprob": -0.1179892797996332
+    },
+    {
+      "start": 144.99,
+      "end": 152.51,
+      "text": "I guess so. I would be frustrated too, because I know nothing at all about computers or games.",
+      "avgLogprob": -0.1533087089049573
+    },
+    {
+      "start": 152.51,
+      "end": 158.59,
+      "text": "At least you have played a lot. You must have an understanding of how games work.",
+      "avgLogprob": -0.1533087089049573
+    },
+    {
+      "start": 158.59,
+      "end": 162.27,
+      "text": "Not to mention you are such a creative student.",
+      "avgLogprob": -0.1533087089049573
+    },
+    {
+      "start": 162.27,
+      "end": 167.95,
+      "text": "You won a prize designing new board games back in secondary school, right?",
+      "avgLogprob": -0.1533087089049573
+    },
+    {
+      "start": 167.95,
+      "end": 174.19,
+      "text": "Well yeah, but I only won third prize. But now you mention it, I feel a lot better.",
+      "avgLogprob": -0.1533087089049573
+    },
+    {
+      "start": 174.19,
+      "end": 177.69,
+      "text": "I definitely have what it takes to succeed in this field.",
+      "avgLogprob": -0.15188231131043098
+    },
+    {
+      "start": 177.69,
+      "end": 181.19,
+      "text": "I just need to work a little harder every day.",
+      "avgLogprob": -0.15188231131043098
+    },
+    {
+      "start": 181.19,
+      "end": 182.19,
+      "text": "Thanks.",
+      "avgLogprob": -0.15188231131043098
+    },
+    {
+      "start": 182.19,
+      "end": 184.19,
+      "text": "You're welcome.",
+      "avgLogprob": -0.15188231131043098
+    },
+    {
+      "start": 184.19,
+      "end": 186.69,
+      "text": "Before you listen to the rest of the audio,",
+      "avgLogprob": -0.15188231131043098
+    },
+    {
+      "start": 186.69,
+      "end": 190.69,
+      "text": "you have some time to look at questions 25 to 30.",
+      "avgLogprob": -0.15188231131043098
+    },
+    {
+      "start": 190.69,
+      "end": 223.83,
+      "text": "Now listen carefully and answer questions 25 to 30.",
+      "avgLogprob": -0.15188231131043098
+    },
+    {
+      "start": 223.83,
+      "end": 227.59,
+      "text": "So how about you?",
+      "avgLogprob": -0.15188231131043098
+    },
+    {
+      "start": 227.59,
+      "end": 229.59,
+      "text": "How's it going with business?",
+      "avgLogprob": -0.15188231131043098
+    },
+    {
+      "start": 229.59,
+      "end": 231.09,
+      "text": "Not so bad.",
+      "avgLogprob": -0.15188231131043098
+    },
+    {
+      "start": 231.09,
+      "end": 237.09,
+      "text": "I've got a grasp of the basic concepts of business but what bothers me most is",
+      "avgLogprob": -0.2026760505269403
+    },
+    {
+      "start": 237.09,
+      "end": 243.39,
+      "text": "the business law class. The lecturer has such a heavy accent that I barely get",
+      "avgLogprob": -0.2026760505269403
+    },
+    {
+      "start": 243.39,
+      "end": 248.39,
+      "text": "what he says. Luckily, the way he presents the ideas through slides is",
+      "avgLogprob": -0.2026760505269403
+    },
+    {
+      "start": 248.39,
+      "end": 251.77,
+      "text": "outstanding. I learn a lot from them.",
+      "avgLogprob": -0.2026760505269403
+    },
+    {
+      "start": 251.77,
+      "end": 259.47,
+      "text": "Oh that's nice, you know. My lecturers are all very knowledgeable and have their own ways to deliver their",
+      "avgLogprob": -0.2026760505269403
+    },
+    {
+      "start": 259.47,
+      "end": 265.99,
+      "text": "lectures. It's just that I'm still overwhelmed by the amount of information in each class.",
+      "avgLogprob": -0.14835270392267327
+    },
+    {
+      "start": 265.99,
+      "end": 271.31,
+      "text": "It requires you to read a lot in advance, which I haven't gotten used to.",
+      "avgLogprob": -0.14835270392267327
+    },
+    {
+      "start": 271.31,
+      "end": 275.51,
+      "text": "I thought the course would be more practical, but apparently that's not going to happen",
+      "avgLogprob": -0.14835270392267327
+    },
+    {
+      "start": 275.51,
+      "end": 279.79,
+      "text": "this semester. I suppose we need to learn the basics first.",
+      "avgLogprob": -0.14835270392267327
+    },
+    {
+      "start": 279.79,
+      "end": 284.19,
+      "text": "Of course we do. Have you seen anyone to help you with your reading?",
+      "avgLogprob": -0.14835270392267327
+    },
+    {
+      "start": 284.19,
+      "end": 289.19,
+      "text": "Well, I've talked to the university counsellor and she gave me some options.",
+      "avgLogprob": -0.1327881545561259
+    },
+    {
+      "start": 289.19,
+      "end": 294.19,
+      "text": "First, there are academic support classes that help students deal with study problems like mine.",
+      "avgLogprob": -0.1327881545561259
+    },
+    {
+      "start": 294.19,
+      "end": 298.19,
+      "text": "And then there is a reading club run by the Students' Union.",
+      "avgLogprob": -0.1327881545561259
+    },
+    {
+      "start": 298.19,
+      "end": 305.19,
+      "text": "It's not really about academic reading, but its members do know how to read critically and are always willing to help.",
+      "avgLogprob": -0.1327881545561259
+    },
+    {
+      "start": 305.19,
+      "end": 307.19,
+      "text": "So, what do you think?",
+      "avgLogprob": -0.1327881545561259
+    },
+    {
+      "start": 307.19,
+      "end": 310.19,
+      "text": "Well, I think I'll go with the support classes.",
+      "avgLogprob": -0.1327881545561259
+    },
+    {
+      "start": 310.19,
+      "end": 313.19,
+      "text": "You know, I'm not really that of a sociable guy.",
+      "avgLogprob": -0.1327881545561259
+    },
+    {
+      "start": 313.19,
+      "end": 317.59,
+      "text": "And I believe in professional help rather than sharing experiences.",
+      "avgLogprob": -0.18005590106165686
+    },
+    {
+      "start": 317.59,
+      "end": 324.75,
+      "text": "Right. I would do the same. I might even join you because I have to hand in my first assignment",
+      "avgLogprob": -0.18005590106165686
+    },
+    {
+      "start": 324.75,
+      "end": 330.03,
+      "text": "at the end of next month and I have a lot of reading to do.",
+      "avgLogprob": -0.18005590106165686
+    },
+    {
+      "start": 330.03,
+      "end": 331.99,
+      "text": "What's your assignment about?",
+      "avgLogprob": -0.18005590106165686
+    },
+    {
+      "start": 331.99,
+      "end": 338.03,
+      "text": "It's about analysing an organisation. But I haven't decided which one I'm going to",
+      "avgLogprob": -0.18005590106165686
+    },
+    {
+      "start": 338.03,
+      "end": 344.27,
+      "text": "look into and I have to write at least two thousand words. Wow well mine's about",
+      "avgLogprob": -0.17359267071922227
+    },
+    {
+      "start": 344.27,
+      "end": 351.59,
+      "text": "the evolution of gaming design. I chose my favorite game franchise GTA but it's",
+      "avgLogprob": -0.17359267071922227
+    },
+    {
+      "start": 351.59,
+      "end": 356.27,
+      "text": "a bit difficult studying in my room. What's wrong? Where are you living? Well",
+      "avgLogprob": -0.17359267071922227
+    },
+    {
+      "start": 356.27,
+      "end": 361.13,
+      "text": "I'm living in a shared house with three other students. They're really noisy with",
+      "avgLogprob": -0.17359267071922227
+    },
+    {
+      "start": 361.13,
+      "end": 366.35,
+      "text": "all their music and friends. That's too bad. Why don't you move to the Hall of",
+      "avgLogprob": -0.17359267071922227
+    },
+    {
+      "start": 366.35,
+      "end": 371.99,
+      "text": "residents. It's close to the University and it's definitely quieter.",
+      "avgLogprob": -0.19510507827455348
+    },
+    {
+      "start": 371.99,
+      "end": 377.43,
+      "text": "I have thought of that but I can't afford a room in the dorm. I'm thinking of living",
+      "avgLogprob": -0.19510507827455348
+    },
+    {
+      "start": 377.43,
+      "end": 382.91,
+      "text": "with an old couple. You know, children moved out, available room for rent.",
+      "avgLogprob": -0.19510507827455348
+    },
+    {
+      "start": 382.91,
+      "end": 387.55,
+      "text": "And people around you so you don't feel lonely. That's a great idea.",
+      "avgLogprob": -0.19510507827455348
+    },
+    {
+      "start": 387.55,
+      "end": 393.19,
+      "text": "Yeah, so how about you? Where are you living? I know you love socialising so in the whole",
+      "avgLogprob": -0.19510507827455348
+    },
+    {
+      "start": 393.19,
+      "end": 395.67,
+      "text": "of residents I imagine.",
+      "avgLogprob": -0.19510507827455348
+    },
+    {
+      "start": 395.67,
+      "end": 402.23,
+      "text": "know me, I love living there. My flatmates are really friendly and funny. Most of them are",
+      "avgLogprob": -0.09663955206723557
+    },
+    {
+      "start": 402.23,
+      "end": 408.23,
+      "text": "international students, so I learn a lot about their cultures as well. And because the dorm is",
+      "avgLogprob": -0.09663955206723557
+    },
+    {
+      "start": 408.23,
+      "end": 415.83,
+      "text": "located inside the campus, if I need to study, I'll just go to the library. The room is a bit",
+      "avgLogprob": -0.09663955206723557
+    },
+    {
+      "start": 415.83,
+      "end": 422.87,
+      "text": "small for the price, but it doesn't bother me too much. Also, the opening hours are a bit too",
+      "avgLogprob": -0.09663955206723557
+    },
+    {
+      "start": 422.87,
+      "end": 427.91,
+      "text": "strict. You have to get back before midnight and the bars only get fun",
+      "avgLogprob": -0.11531467055097039
+    },
+    {
+      "start": 427.91,
+      "end": 433.51,
+      "text": "after midnight. I wish the dorm would extend the closing time a little to like",
+      "avgLogprob": -0.11531467055097039
+    },
+    {
+      "start": 433.51,
+      "end": 440.99,
+      "text": "2 a.m. Not to mention exam time. What if I need to study late in the library? Many",
+      "avgLogprob": -0.11531467055097039
+    },
+    {
+      "start": 440.99,
+      "end": 447.27,
+      "text": "of my friends find that inconvenient too. You're right. I think you should all",
+      "avgLogprob": -0.11531467055097039
+    },
+    {
+      "start": 447.27,
+      "end": 453.15,
+      "text": "write a letter to the principal. Hmm, actually no, that would be too serious. You'd better",
+      "avgLogprob": -0.22510764256436774
+    },
+    {
+      "start": 453.15,
+      "end": 458.19,
+      "text": "contact the student's union. I'm sure they'll know what to do and who to talk to about",
+      "avgLogprob": -0.22510764256436774
+    },
+    {
+      "start": 458.19,
+      "end": 464.75,
+      "text": "that problem. I suppose the dorm secretary is the one they will contact first.",
+      "avgLogprob": -0.22510764256436774
+    },
+    {
+      "start": 464.75,
+      "end": 471.43,
+      "text": "Yeah, I'll go there right now. I have some time left before my next lecture. Thanks for",
+      "avgLogprob": -0.22510764256436774
+    },
+    {
+      "start": 471.43,
+      "end": 473.31,
+      "text": "your advice.",
+      "avgLogprob": -0.22510764256436774
+    },
+    {
+      "start": 473.31,
+      "end": 478.85,
+      "text": "you for encouraging me. I've got to go to my lecture as well, so see you around.",
+      "avgLogprob": -0.29809194130282246
+    },
+    {
+      "start": 478.85,
+      "end": 482.19,
+      "text": "Bye, see you.",
+      "avgLogprob": -0.29809194130282246
+    },
+    {
+      "start": 482.19,
+      "end": 486.69,
+      "text": "That's the end of part three. You now have thirty seconds to check your answers to part",
+      "avgLogprob": -0.29809194130282246
+    },
+    {
+      "start": 486.69,
+      "end": 520.43,
+      "text": "three. Now turn to part four.",
+      "avgLogprob": -0.29809194130282246
+    }
+  ]
+}

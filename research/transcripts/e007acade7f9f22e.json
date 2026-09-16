@@ -1,0 +1,415 @@
+{
+  "source": "assets/audio/e007acade7f9f22e.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.72,
+      "end": 7.2,
+      "text": "section 4. You are going to listen to a lecture on the topic of cerebral palsy.",
+      "avgLogprob": -0.20244159262913924
+    },
+    {
+      "start": 7.2,
+      "end": 45.3,
+      "text": "First you have some time to look at questions 31 to 40. Now listen carefully",
+      "avgLogprob": -0.20244159262913924
+    },
+    {
+      "start": 45.3,
+      "end": 53.01,
+      "text": "and answer questions 31 to 40. Today I'm going to talk about the most common",
+      "avgLogprob": -0.20244159262913924
+    },
+    {
+      "start": 53.01,
+      "end": 60.21,
+      "text": "modes of disability in childhood, cerebral palsy or CP. In medical terms,",
+      "avgLogprob": -0.20244159262913924
+    },
+    {
+      "start": 60.21,
+      "end": 67.21,
+      "text": "terms, cerebral, means relating to the brain and palsy means weakness or problems with",
+      "avgLogprob": -0.15780058018863202
+    },
+    {
+      "start": 67.21,
+      "end": 74.35,
+      "text": "using the muscles. So, in fact, it's not solely a disease, but a group of disorders",
+      "avgLogprob": -0.15780058018863202
+    },
+    {
+      "start": 74.35,
+      "end": 80.81,
+      "text": "that affect our ability to move and maintain balance and posture.",
+      "avgLogprob": -0.15780058018863202
+    },
+    {
+      "start": 80.81,
+      "end": 88.03,
+      "text": "In the US, 3 in 1,000 children have cerebral palsy according to the Centers for Disease",
+      "avgLogprob": -0.15780058018863202
+    },
+    {
+      "start": 88.03,
+      "end": 98.09,
+      "text": "control and prevention, the CDC. The condition is more common in boys than in girls.",
+      "avgLogprob": -0.1206503574337278
+    },
+    {
+      "start": 98.09,
+      "end": 106.13,
+      "text": "What causes CP in the first place? Cerebral palsy, CP, is caused by abnormal development",
+      "avgLogprob": -0.1206503574337278
+    },
+    {
+      "start": 106.13,
+      "end": 112.51,
+      "text": "of the brain or damage to the developing brain that affects a child's ability to control",
+      "avgLogprob": -0.1206503574337278
+    },
+    {
+      "start": 112.51,
+      "end": 120.51,
+      "text": "his or her muscles. There are several possible causes of the abnormal development or damage.",
+      "avgLogprob": -0.10493318658126027
+    },
+    {
+      "start": 122.27,
+      "end": 129.55,
+      "text": "People used to think that CP was mainly caused by lack of oxygen during the birth process.",
+      "avgLogprob": -0.10493318658126027
+    },
+    {
+      "start": 130.99,
+      "end": 136.19,
+      "text": "Now scientists think that this causes only a small number of CP cases.",
+      "avgLogprob": -0.10493318658126027
+    },
+    {
+      "start": 136.19,
+      "end": 142.19,
+      "text": "According to the National Institutes of Neurological Disorders and Strokes,",
+      "avgLogprob": -0.12815388854669066
+    },
+    {
+      "start": 142.19,
+      "end": 152.19,
+      "text": "the main causes of cerebral palsy during pregnancy, birth and infancy include first, infections.",
+      "avgLogprob": -0.12815388854669066
+    },
+    {
+      "start": 152.19,
+      "end": 157.19,
+      "text": "Infections can happen during pregnancy or after birth.",
+      "avgLogprob": -0.12815388854669066
+    },
+    {
+      "start": 157.19,
+      "end": 168.65,
+      "text": "birth. Second is problems with blood flow to the brain such as a stroke or bleeding",
+      "avgLogprob": -0.11476805351548276
+    },
+    {
+      "start": 168.65,
+      "end": 176.37,
+      "text": "in the brain associated with a blood clotting problem. The last one is injuries which are",
+      "avgLogprob": -0.11476805351548276
+    },
+    {
+      "start": 176.37,
+      "end": 184.57,
+      "text": "often head injuries from vehicle accidents. The brain damage that leads to CP can happen",
+      "avgLogprob": -0.11476805351548276
+    },
+    {
+      "start": 184.57,
+      "end": 192.17,
+      "text": "before birth, during birth, within a month after birth, or during the first years of",
+      "avgLogprob": -0.15740842269412403
+    },
+    {
+      "start": 192.17,
+      "end": 197.97,
+      "text": "a child's life while the brain is still developing.",
+      "avgLogprob": -0.15740842269412403
+    },
+    {
+      "start": 197.97,
+      "end": 206.53,
+      "text": "Based on the time the damage occurs, we can divide CP into two types. Congenital CP and",
+      "avgLogprob": -0.15740842269412403
+    },
+    {
+      "start": 206.53,
+      "end": 217.33,
+      "text": "acquired CP. The majority of CP cases around 90% are congenital which means the brain damage",
+      "avgLogprob": -0.11470955345899828
+    },
+    {
+      "start": 217.33,
+      "end": 226.13,
+      "text": "happens before or during birth. The causes for this type of CP are largely unknown but",
+      "avgLogprob": -0.11470955345899828
+    },
+    {
+      "start": 226.13,
+      "end": 233.17,
+      "text": "scientists have figured out some factors that may put a baby in risk of congenital CP.",
+      "avgLogprob": -0.11470955345899828
+    },
+    {
+      "start": 233.17,
+      "end": 243.65,
+      "text": "The first one is low birth weight. Children who weigh less than 2.5 kilograms at birth,",
+      "avgLogprob": -0.1543678430410532
+    },
+    {
+      "start": 243.65,
+      "end": 252.09,
+      "text": "especially those who weigh less than 1.5 kilograms, have a greater chance of having CP.",
+      "avgLogprob": -0.1543678430410532
+    },
+    {
+      "start": 252.09,
+      "end": 259.57,
+      "text": "Then we have premature birth. Children who are born before the 37th week of pregnancy,",
+      "avgLogprob": -0.1543678430410532
+    },
+    {
+      "start": 259.57,
+      "end": 265.45,
+      "text": "especially if they were born before the 32nd week of pregnancy, have a greater chance of",
+      "avgLogprob": -0.10903888627102501
+    },
+    {
+      "start": 265.45,
+      "end": 274.45,
+      "text": "having CP. Some other common risk factors are multiple births, infection during pregnancy",
+      "avgLogprob": -0.10903888627102501
+    },
+    {
+      "start": 274.45,
+      "end": 282.41,
+      "text": "and birth complications. A small percentage of CP is caused by brain damage that occurs",
+      "avgLogprob": -0.10903888627102501
+    },
+    {
+      "start": 282.41,
+      "end": 290.61,
+      "text": "more than 28 days after birth. This is called acquired CP and usually is",
+      "avgLogprob": -0.11603064148833878
+    },
+    {
+      "start": 290.61,
+      "end": 299.83,
+      "text": "associated with an infection such as meningitis or head injury. If we look at",
+      "avgLogprob": -0.11603064148833878
+    },
+    {
+      "start": 299.83,
+      "end": 304.43,
+      "text": "the areas of the brain that are affected we can separate CP into three",
+      "avgLogprob": -0.11603064148833878
+    },
+    {
+      "start": 304.43,
+      "end": 313.15,
+      "text": "different types spastic, dyskinetic and ataxic. Spastic CP is the most common",
+      "avgLogprob": -0.11603064148833878
+    },
+    {
+      "start": 313.15,
+      "end": 322.95,
+      "text": "type of CP. It accounts for about 80% of people with CP. Spastic CP patients have increased",
+      "avgLogprob": -0.15280737449873738
+    },
+    {
+      "start": 322.95,
+      "end": 330.91,
+      "text": "muscle tone. This means their muscles are stiff and, as a result, their movements can",
+      "avgLogprob": -0.15280737449873738
+    },
+    {
+      "start": 330.91,
+      "end": 339.27,
+      "text": "be awkward. There are three types of spastic CP, classified by what parts of the body are",
+      "avgLogprob": -0.15280737449873738
+    },
+    {
+      "start": 339.27,
+      "end": 345.23,
+      "text": "affected. The first type of spastic CP is spastic",
+      "avgLogprob": -0.11364570385973219
+    },
+    {
+      "start": 345.23,
+      "end": 351.97,
+      "text": "diplegia. In this type of CP, muscle stiffness is mainly in the legs with the",
+      "avgLogprob": -0.11364570385973219
+    },
+    {
+      "start": 351.97,
+      "end": 358.75,
+      "text": "arms less affected or not affected at all. People with spastic diplegia might",
+      "avgLogprob": -0.11364570385973219
+    },
+    {
+      "start": 358.75,
+      "end": 363.83,
+      "text": "have difficulty walking because tight hip and leg muscles cause their legs to",
+      "avgLogprob": -0.11364570385973219
+    },
+    {
+      "start": 363.83,
+      "end": 370.27,
+      "text": "pulled together turn inwards and cross at the knees also known as scissoring.",
+      "avgLogprob": -0.14414958252626306
+    },
+    {
+      "start": 370.27,
+      "end": 378.43,
+      "text": "The second one is spastic hemiplegia. This type of CP affects only one side of",
+      "avgLogprob": -0.14414958252626306
+    },
+    {
+      "start": 378.43,
+      "end": 386.37,
+      "text": "a person's body usually the arm which is more effective than the leg. The last",
+      "avgLogprob": -0.14414958252626306
+    },
+    {
+      "start": 386.37,
+      "end": 394.45,
+      "text": "and also the most severe form of spastic CP is spastic quadriplegia. It affects",
+      "avgLogprob": -0.14414958252626306
+    },
+    {
+      "start": 394.45,
+      "end": 403.45,
+      "text": "all four limbs, the trunk and the face. People with spastic quadriplegia usually",
+      "avgLogprob": -0.11687825951311323
+    },
+    {
+      "start": 403.45,
+      "end": 408.75,
+      "text": "cannot walk and often have other developmental disabilities such as",
+      "avgLogprob": -0.11687825951311323
+    },
+    {
+      "start": 408.75,
+      "end": 415.33,
+      "text": "intellectual disabilities, seizures or problems with vision, hearing or speech.",
+      "avgLogprob": -0.11687825951311323
+    },
+    {
+      "start": 415.33,
+      "end": 425.48,
+      "text": "The second type of CP after spastic is dyskinetic. People with dyskinetic CP",
+      "avgLogprob": -0.11687825951311323
+    },
+    {
+      "start": 425.48,
+      "end": 432.76,
+      "text": "have problems controlling the movement of their hands, arms, feet and legs, making it",
+      "avgLogprob": -0.10704850204087593
+    },
+    {
+      "start": 432.76,
+      "end": 439.68,
+      "text": "difficult to sit and walk. The movements are uncontrollable and can be slow and",
+      "avgLogprob": -0.10704850204087593
+    },
+    {
+      "start": 439.68,
+      "end": 448.53,
+      "text": "writhing or rapid and jerky. Sometimes the face and tongue are affected and the",
+      "avgLogprob": -0.10704850204087593
+    },
+    {
+      "start": 448.53,
+      "end": 455.49,
+      "text": "person has a hard time sucking, swallowing and talking. A person with",
+      "avgLogprob": -0.10704850204087593
+    },
+    {
+      "start": 455.49,
+      "end": 463.01,
+      "text": "dyskinetic CP has muscle tone that can change varying from too tight to loose",
+      "avgLogprob": -0.17812018023162593
+    },
+    {
+      "start": 463.01,
+      "end": 471.86,
+      "text": "not only from day to day but even during a single day. The last type of CP is",
+      "avgLogprob": -0.17812018023162593
+    },
+    {
+      "start": 471.86,
+      "end": 482.66,
+      "text": "ataxic CP. People with ataxic CP have problems with balance and coordination.",
+      "avgLogprob": -0.17812018023162593
+    },
+    {
+      "start": 482.66,
+      "end": 486.5,
+      "text": "They might be unsteady when they walk.",
+      "avgLogprob": -0.16909967009554205
+    },
+    {
+      "start": 486.5,
+      "end": 492.3,
+      "text": "They might have a hard time with quick movements or movements that need a lot of control, like",
+      "avgLogprob": -0.16909967009554205
+    },
+    {
+      "start": 492.3,
+      "end": 494.46,
+      "text": "writing.",
+      "avgLogprob": -0.16909967009554205
+    },
+    {
+      "start": 494.46,
+      "end": 500.06,
+      "text": "They might have a hard time controlling their hands or arms when they reach for something.",
+      "avgLogprob": -0.16909967009554205
+    },
+    {
+      "start": 500.06,
+      "end": 504.06,
+      "text": "Right, let's take a break.",
+      "avgLogprob": -0.16909967009554205
+    },
+    {
+      "start": 504.06,
+      "end": 513.81,
+      "text": "When we come back, we'll look at the ways doctors diagnose and treat CP.",
+      "avgLogprob": -0.16909967009554205
+    },
+    {
+      "start": 513.81,
+      "end": 515.89,
+      "text": "That is the end of part four.",
+      "avgLogprob": -0.16909967009554205
+    },
+    {
+      "start": 515.89,
+      "end": 551.74,
+      "text": "now have half a minute to check your answers. That is the end of the listening",
+      "avgLogprob": -0.17637057714164256
+    },
+    {
+      "start": 551.74,
+      "end": 556.76,
+      "text": "tests. You now have 10 minutes to transfer your answers onto the answer",
+      "avgLogprob": -0.17637057714164256
+    },
+    {
+      "start": 556.76,
+      "end": 559.04,
+      "text": "sheet.",
+      "avgLogprob": -0.17637057714164256
+    }
+  ]
+}

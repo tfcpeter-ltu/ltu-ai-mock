@@ -1,0 +1,193 @@
+{
+  "source": "assets/audio/a42b123bb2db56bb.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.74,
+      "end": 6.22,
+      "text": "Alright, those are some important changes I'd like you all to know.",
+      "avgLogprob": -0.10305207475609736
+    },
+    {
+      "start": 6.22,
+      "end": 12.66,
+      "text": "Now, if you have any further questions, do first log on to the library website and check",
+      "avgLogprob": -0.10305207475609736
+    },
+    {
+      "start": 12.66,
+      "end": 17.62,
+      "text": "the FAQs for answers before you contact our librarians.",
+      "avgLogprob": -0.10305207475609736
+    },
+    {
+      "start": 17.62,
+      "end": 22.24,
+      "text": "Of course, the library staff will do their best to answer your questions, but it's better",
+      "avgLogprob": -0.10305207475609736
+    },
+    {
+      "start": 22.24,
+      "end": 25.42,
+      "text": "to save us all some time, right?",
+      "avgLogprob": -0.10305207475609736
+    },
+    {
+      "start": 25.42,
+      "end": 29.9,
+      "text": "If there is any problem that cannot be answered by the librarians, they will direct you to",
+      "avgLogprob": -0.10305207475609736
+    },
+    {
+      "start": 29.9,
+      "end": 37.06,
+      "text": "our specialists. Jamie Moss is our buyer. He's responsible for purchasing new items",
+      "avgLogprob": -0.11036115163250973
+    },
+    {
+      "start": 37.06,
+      "end": 43.78,
+      "text": "for the library. So, if you think of any items that should be on the shelves, contact him.",
+      "avgLogprob": -0.11036115163250973
+    },
+    {
+      "start": 43.78,
+      "end": 49.06,
+      "text": "We cannot promise to buy everything you ask for, but your request will be taken into careful",
+      "avgLogprob": -0.11036115163250973
+    },
+    {
+      "start": 49.06,
+      "end": 53.94,
+      "text": "consideration. If you encounter technical issues with the",
+      "avgLogprob": -0.11036115163250973
+    },
+    {
+      "start": 53.94,
+      "end": 59.78,
+      "text": "computers during your study at the library, Alice Turner is the one you call. She's",
+      "avgLogprob": -0.11036115163250973
+    },
+    {
+      "start": 59.78,
+      "end": 64.9,
+      "text": "She's our IT expert, and she can handle almost every computer problem.",
+      "avgLogprob": -0.1007733564627798
+    },
+    {
+      "start": 64.9,
+      "end": 67.1,
+      "text": "She cannot deal with printers, though.",
+      "avgLogprob": -0.1007733564627798
+    },
+    {
+      "start": 67.1,
+      "end": 70.72,
+      "text": "We need to call our supplier for that.",
+      "avgLogprob": -0.1007733564627798
+    },
+    {
+      "start": 70.72,
+      "end": 75.78,
+      "text": "The library staff can give you access to almost every study room, except for the Bloomberg",
+      "avgLogprob": -0.1007733564627798
+    },
+    {
+      "start": 75.78,
+      "end": 77.14,
+      "text": "Trading Room.",
+      "avgLogprob": -0.1007733564627798
+    },
+    {
+      "start": 77.14,
+      "end": 81.3,
+      "text": "You have to meet certain requirements to gain access to that one.",
+      "avgLogprob": -0.1007733564627798
+    },
+    {
+      "start": 81.3,
+      "end": 86.54,
+      "text": "But if you do, contact Jamal Saeed and follow his instructions.",
+      "avgLogprob": -0.1007733564627798
+    },
+    {
+      "start": 86.54,
+      "end": 92.34,
+      "text": "The requirements can be found on our website or you can ask any of our staff.",
+      "avgLogprob": -0.09156256914138794
+    },
+    {
+      "start": 92.34,
+      "end": 97.82,
+      "text": "For those of you seeking advice for writing a good CV and tips on interviews, Tina Bell",
+      "avgLogprob": -0.09156256914138794
+    },
+    {
+      "start": 97.82,
+      "end": 100.3,
+      "text": "is the one to contact.",
+      "avgLogprob": -0.09156256914138794
+    },
+    {
+      "start": 100.3,
+      "end": 104.98,
+      "text": "Many senior students have met her and they all found her really helpful in this particular",
+      "avgLogprob": -0.09156256914138794
+    },
+    {
+      "start": 104.98,
+      "end": 105.98,
+      "text": "field.",
+      "avgLogprob": -0.09156256914138794
+    },
+    {
+      "start": 105.98,
+      "end": 109.66,
+      "text": "She's working on her own book about this subject and it will soon be available on",
+      "avgLogprob": -0.09156256914138794
+    },
+    {
+      "start": 109.66,
+      "end": 112.26,
+      "text": "our shelves.",
+      "avgLogprob": -0.09156256914138794
+    },
+    {
+      "start": 112.26,
+      "end": 115.92,
+      "text": "Last but not least, Thomas Cook is our handyman.",
+      "avgLogprob": -0.09156256914138794
+    },
+    {
+      "start": 115.92,
+      "end": 121.24,
+      "text": "He can fix almost every malfunction of the library facilities, such as unstable desks,",
+      "avgLogprob": -0.1586043600241343
+    },
+    {
+      "start": 121.24,
+      "end": 123.86,
+      "text": "plumbing or electrical issues.",
+      "avgLogprob": -0.1586043600241343
+    },
+    {
+      "start": 123.86,
+      "end": 128.56,
+      "text": "He has another job as a plumber, so he may be unavailable at times.",
+      "avgLogprob": -0.1586043600241343
+    },
+    {
+      "start": 128.56,
+      "end": 131.32,
+      "text": "Well, that's enough for now.",
+      "avgLogprob": -0.1586043600241343
+    },
+    {
+      "start": 131.32,
+      "end": 135.52,
+      "text": "If you have any questions, don't hesitate to contact our staff, or even me.",
+      "avgLogprob": -0.1586043600241343
+    }
+  ]
+}

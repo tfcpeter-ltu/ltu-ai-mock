@@ -1,0 +1,295 @@
+{
+  "source": "assets/audio/8bd8bce00af179b1.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.87,
+      "end": 7.79,
+      "text": "Alright, to continue our series about wildlife, today I'll be talking about the rhinos in",
+      "avgLogprob": -0.14938987661333916
+    },
+    {
+      "start": 7.79,
+      "end": 11.19,
+      "text": "Kruger, one of South Africa's national parks.",
+      "avgLogprob": -0.14938987661333916
+    },
+    {
+      "start": 11.19,
+      "end": 16.39,
+      "text": "I'll go through some problems the rhinos are facing, some new ways to help them, and",
+      "avgLogprob": -0.14938987661333916
+    },
+    {
+      "start": 16.39,
+      "end": 18.51,
+      "text": "some threats to our mission.",
+      "avgLogprob": -0.14938987661333916
+    },
+    {
+      "start": 18.51,
+      "end": 22.19,
+      "text": "First, let me show you some statistics.",
+      "avgLogprob": -0.14938987661333916
+    },
+    {
+      "start": 22.19,
+      "end": 30.99,
+      "text": "Currently, there are fewer than 4,000 rhinos in Kruger, compared to over 10,000 in 2010.",
+      "avgLogprob": -0.14938987661333916
+    },
+    {
+      "start": 30.99,
+      "end": 39.49,
+      "text": "The population is divided between 3,549 white rhinos, those are grazers with square lips,",
+      "avgLogprob": -0.12516946993864975
+    },
+    {
+      "start": 39.49,
+      "end": 44.93,
+      "text": "and 2,068 black rhinos, which have pointed upper lips that help them pluck leaves and",
+      "avgLogprob": -0.12516946993864975
+    },
+    {
+      "start": 44.93,
+      "end": 46.63,
+      "text": "fruit from trees.",
+      "avgLogprob": -0.12516946993864975
+    },
+    {
+      "start": 46.63,
+      "end": 55.43,
+      "text": "Kruger's rhinos account for about 30% of the world's estimated 18,000 wild rhinos.",
+      "avgLogprob": -0.12516946993864975
+    },
+    {
+      "start": 55.43,
+      "end": 62.39,
+      "text": "The number of rhinos in Kruger has declined by approximately 70% in the last 10 years.",
+      "avgLogprob": -0.0914054136527212
+    },
+    {
+      "start": 62.39,
+      "end": 65.09,
+      "text": "This is mainly due to poaching.",
+      "avgLogprob": -0.0914054136527212
+    },
+    {
+      "start": 65.09,
+      "end": 70.63,
+      "text": "Poachers hunt rhinos for their horns because they are used in traditional medicine or carvings,",
+      "avgLogprob": -0.0914054136527212
+    },
+    {
+      "start": 70.63,
+      "end": 73.23,
+      "text": "mostly in China and Vietnam.",
+      "avgLogprob": -0.0914054136527212
+    },
+    {
+      "start": 73.23,
+      "end": 79.11,
+      "text": "The largest number of rhinos killed by poachers was recorded in Kruger in 2014 when over",
+      "avgLogprob": -0.0914054136527212
+    },
+    {
+      "start": 79.11,
+      "end": 84.19,
+      "text": "800 rhinos were slaughtered for their horns.",
+      "avgLogprob": -0.0914054136527212
+    },
+    {
+      "start": 84.19,
+      "end": 89.27,
+      "text": "The second largest reason are the knock-on consequences of poaching on breeding and calf",
+      "avgLogprob": -0.11985772258632786
+    },
+    {
+      "start": 89.27,
+      "end": 90.63,
+      "text": "survival.",
+      "avgLogprob": -0.11985772258632786
+    },
+    {
+      "start": 90.63,
+      "end": 96.23,
+      "text": "Specifically, the poaching of rhino cows has been doing harm to the population because",
+      "avgLogprob": -0.11985772258632786
+    },
+    {
+      "start": 96.23,
+      "end": 101.55,
+      "text": "each female may give birth to as many as 10 calves in her lifetime, and calves without",
+      "avgLogprob": -0.11985772258632786
+    },
+    {
+      "start": 101.55,
+      "end": 106.79,
+      "text": "their mothers often die due to predators or hunger.",
+      "avgLogprob": -0.11985772258632786
+    },
+    {
+      "start": 106.79,
+      "end": 111.15,
+      "text": "Another reason for the decline in the number of rhinos is climate change.",
+      "avgLogprob": -0.11985772258632786
+    },
+    {
+      "start": 111.15,
+      "end": 117.73,
+      "text": "A drought that stretched through 2015 to 2016 caused further losses.",
+      "avgLogprob": -0.1770063946221737
+    },
+    {
+      "start": 117.73,
+      "end": 123.55,
+      "text": "Rhinos bred less, and dehydrated mothers produced less milk, causing malnourished calves to",
+      "avgLogprob": -0.1770063946221737
+    },
+    {
+      "start": 123.55,
+      "end": 125.31,
+      "text": "die.",
+      "avgLogprob": -0.1770063946221737
+    },
+    {
+      "start": 125.31,
+      "end": 129.79,
+      "text": "During the drought, food was scarce, and white rhinos were particularly hard hit by",
+      "avgLogprob": -0.1770063946221737
+    },
+    {
+      "start": 129.79,
+      "end": 131.79,
+      "text": "the lack of grass to eat.",
+      "avgLogprob": -0.1770063946221737
+    },
+    {
+      "start": 131.79,
+      "end": 136.59,
+      "text": "They died at twice their normal rate, according to South Africa's Department of Environment",
+      "avgLogprob": -0.1770063946221737
+    },
+    {
+      "start": 136.59,
+      "end": 139.59,
+      "text": "Forestry and Fisheries.",
+      "avgLogprob": -0.1770063946221737
+    },
+    {
+      "start": 139.59,
+      "end": 145.03,
+      "text": "So what measures have been taken to protect the rhinos, you may ask?",
+      "avgLogprob": -0.13559269653745445
+    },
+    {
+      "start": 145.03,
+      "end": 150.91,
+      "text": "Despite the grim news overall, targeted surveillance technology in the park, which often focuses",
+      "avgLogprob": -0.13559269653745445
+    },
+    {
+      "start": 150.91,
+      "end": 157.89,
+      "text": "on saving breeding-age females, and some high-level arrests of poachers have been helping.",
+      "avgLogprob": -0.13559269653745445
+    },
+    {
+      "start": 157.89,
+      "end": 167.37,
+      "text": "According to Sandparks, poaching was reduced by 21.6% between 2018 and 2019, and also",
+      "avgLogprob": -0.13559269653745445
+    },
+    {
+      "start": 167.37,
+      "end": 172.79,
+      "text": "elephant poaching declined by 43.8%.",
+      "avgLogprob": -0.08833233464038236
+    },
+    {
+      "start": 172.79,
+      "end": 178.07,
+      "text": "Another way to protect rhinos is to move some of them from Kruger to safer areas, such",
+      "avgLogprob": -0.08833233464038236
+    },
+    {
+      "start": 178.07,
+      "end": 180.71,
+      "text": "as other national parks.",
+      "avgLogprob": -0.08833233464038236
+    },
+    {
+      "start": 180.71,
+      "end": 185.63,
+      "text": "This strategy has been stalled for years, however, because of an outbreak of tuberculosis",
+      "avgLogprob": -0.08833233464038236
+    },
+    {
+      "start": 185.63,
+      "end": 188.59,
+      "text": "among rhinos.",
+      "avgLogprob": -0.08833233464038236
+    },
+    {
+      "start": 188.59,
+      "end": 193.25,
+      "text": "Perhaps many of you have heard of dehorning, a common anti-poaching strategy in which",
+      "avgLogprob": -0.08833233464038236
+    },
+    {
+      "start": 193.25,
+      "end": 199.57,
+      "text": "park rangers saw off rhinos' horns so that they have no value to poachers. This method is only",
+      "avgLogprob": -0.10258354317574274
+    },
+    {
+      "start": 199.57,
+      "end": 206.53,
+      "text": "applied to small private parks since it can be extremely expensive. It requires a helicopter,",
+      "avgLogprob": -0.10258354317574274
+    },
+    {
+      "start": 206.53,
+      "end": 214.05,
+      "text": "a skilled veterinarian, and costs between 600 and 1000 dollars per rhino. Moreover,",
+      "avgLogprob": -0.10258354317574274
+    },
+    {
+      "start": 214.05,
+      "end": 218.37,
+      "text": "it's not a one-time solution because the horns grow back every few years.",
+      "avgLogprob": -0.10258354317574274
+    },
+    {
+      "start": 218.37,
+      "end": 224.85,
+      "text": "The threats that lie ahead are not to be considered lightly. Poachers are still the",
+      "avgLogprob": -0.1261718725649322
+    },
+    {
+      "start": 224.85,
+      "end": 232.25,
+      "text": "biggest enemies of Rangers. Or are they? As evidenced by arrests, poaching gangs have",
+      "avgLogprob": -0.1261718725649322
+    },
+    {
+      "start": 232.25,
+      "end": 238.41,
+      "text": "clearly been able to infiltrate the Ranger force within Kruger, along with other parks and reserves.",
+      "avgLogprob": -0.1261718725649322
+    },
+    {
+      "start": 238.41,
+      "end": 247.05,
+      "text": "Sandparks calls internal corruption a scourge and says it severely impacts staff and anti-poaching",
+      "avgLogprob": -0.1261718725649322
+    },
+    {
+      "start": 247.05,
+      "end": 250.49,
+      "text": "operations, as well as Sand Park's reputation.",
+      "avgLogprob": -0.3489636732981755
+    }
+  ]
+}

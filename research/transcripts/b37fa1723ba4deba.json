@@ -1,0 +1,181 @@
+{
+  "source": "assets/audio/b37fa1723ba4deba.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 3.05,
+      "text": "Hello, I'm Dawn Matthews.",
+      "avgLogprob": -0.14159424551602068
+    },
+    {
+      "start": 3.05,
+      "end": 9.05,
+      "text": "Yes, hello. I've been referred to you because I'm inquiring about the refresher courses that you run.",
+      "avgLogprob": -0.14159424551602068
+    },
+    {
+      "start": 9.05,
+      "end": 12.05,
+      "text": "I'd like to find out a bit more about them.",
+      "avgLogprob": -0.14159424551602068
+    },
+    {
+      "start": 12.05,
+      "end": 21.05,
+      "text": "OK. Well, we run quite a few different short courses for students who are either returning to study or studying part-time.",
+      "avgLogprob": -0.14159424551602068
+    },
+    {
+      "start": 21.05,
+      "end": 24.05,
+      "text": "Tell me about your situation.",
+      "avgLogprob": -0.14159424551602068
+    },
+    {
+      "start": 24.05,
+      "end": 29.65,
+      "text": "Well, I think that I really need some help in preparing for the coming semester, especially",
+      "avgLogprob": -0.14168355709467179
+    },
+    {
+      "start": 29.65,
+      "end": 35.05,
+      "text": "to build up my confidence a bit and help me study effectively because, you see, I've",
+      "avgLogprob": -0.14168355709467179
+    },
+    {
+      "start": 35.05,
+      "end": 39.77,
+      "text": "been out in the workforce for nearly 12 years now, so it really is a long time since I was",
+      "avgLogprob": -0.14168355709467179
+    },
+    {
+      "start": 39.77,
+      "end": 40.77,
+      "text": "last a student.",
+      "avgLogprob": -0.14168355709467179
+    },
+    {
+      "start": 40.77,
+      "end": 47.05,
+      "text": "Yes, it can seem like a long time, can't it? Well, let me start by telling you what",
+      "avgLogprob": -0.14168355709467179
+    },
+    {
+      "start": 47.05,
+      "end": 53.61,
+      "text": "courses we have that might suit you. Are you an undergraduate or a postgraduate, arts",
+      "avgLogprob": -0.14168355709467179
+    },
+    {
+      "start": 53.61,
+      "end": 59.97,
+      "text": "or sciences undergraduate and I'm in the business faculty right then first of all",
+      "avgLogprob": -0.135126743725566
+    },
+    {
+      "start": 59.97,
+      "end": 65.25,
+      "text": "there's our intensive study for success seminar on the first and second of",
+      "avgLogprob": -0.135126743725566
+    },
+    {
+      "start": 65.25,
+      "end": 69.45,
+      "text": "February mm-hmm it's aimed at students like you who are uncertain about what",
+      "avgLogprob": -0.135126743725566
+    },
+    {
+      "start": 69.45,
+      "end": 73.91,
+      "text": "to expect at college and looks at a fairly wide range of approaches to",
+      "avgLogprob": -0.135126743725566
+    },
+    {
+      "start": 73.91,
+      "end": 79.17,
+      "text": "university learning to motivate you to begin your study and build on your own",
+      "avgLogprob": -0.135126743725566
+    },
+    {
+      "start": 79.17,
+      "end": 85.09,
+      "text": "learning strategies hmm that sounds good what are some of the strategies that are",
+      "avgLogprob": -0.1552567476263413
+    },
+    {
+      "start": 85.09,
+      "end": 90.65,
+      "text": "presented well we try to cover all aspects of study some of the strategies",
+      "avgLogprob": -0.1552567476263413
+    },
+    {
+      "start": 90.65,
+      "end": 95.93,
+      "text": "in writing for example would be improving your planning for writing",
+      "avgLogprob": -0.1552567476263413
+    },
+    {
+      "start": 95.93,
+      "end": 100.37,
+      "text": "organizing your thinking and building some techniques to help you write more",
+      "avgLogprob": -0.1552567476263413
+    },
+    {
+      "start": 100.37,
+      "end": 105.57,
+      "text": "clearly with reading they'll be sessions aimed at getting into the habit of",
+      "avgLogprob": -0.1552567476263413
+    },
+    {
+      "start": 105.57,
+      "end": 111.49,
+      "text": "analysing material as you read it and tips to help you record and remember what you've read.",
+      "avgLogprob": -0.11204881742596626
+    },
+    {
+      "start": 112.29,
+      "end": 116.37,
+      "text": "It really is very important to begin reading confidently right from the beginning.",
+      "avgLogprob": -0.11204881742596626
+    },
+    {
+      "start": 117.65,
+      "end": 123.17,
+      "text": "There's also advice on how to get the most from your lectures and practice in giving confident",
+      "avgLogprob": -0.11204881742596626
+    },
+    {
+      "start": 123.17,
+      "end": 129.33,
+      "text": "presentations as well as how to prepare for exams. What about the motivational side of things?",
+      "avgLogprob": -0.11204881742596626
+    },
+    {
+      "start": 129.33,
+      "end": 135.97,
+      "text": "Ah, well, there's a range of motivational exercises that we do to help the students",
+      "avgLogprob": -0.10425440574947156
+    },
+    {
+      "start": 135.97,
+      "end": 141.91,
+      "text": "feel positive and enthusiastic about their study. The process of learning and exploring",
+      "avgLogprob": -0.10425440574947156
+    },
+    {
+      "start": 141.91,
+      "end": 147.65,
+      "text": "a subject can lead to a whole new way of looking at the world, and the study skills and techniques",
+      "avgLogprob": -0.10425440574947156
+    },
+    {
+      "start": 147.65,
+      "end": 151.57,
+      "text": "that you build up can be applied in all sorts of different ways.",
+      "avgLogprob": -0.10425440574947156
+    }
+  ]
+}

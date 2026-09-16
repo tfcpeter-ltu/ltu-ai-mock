@@ -1,0 +1,229 @@
+{
+  "source": "assets/audio/51b88b09f1d401bb.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.68,
+      "text": "First, then, I'd like to look at the general picture of the immigrant communities in New",
+      "avgLogprob": -0.15551349723880942
+    },
+    {
+      "start": 4.68,
+      "end": 14.05,
+      "text": "Zealand. Most of the recent migration to New Zealand has traditionally come from the Pacific,",
+      "avgLogprob": -0.15551349723880942
+    },
+    {
+      "start": 14.05,
+      "end": 20.77,
+      "text": "with areas such as the Cook Islands, Niu, Tokulau, Samoa, Tonga and Fiji being the",
+      "avgLogprob": -0.15551349723880942
+    },
+    {
+      "start": 20.77,
+      "end": 29.48,
+      "text": "main sources. People from the Cook Islands, Niu and Tokulau actually held New Zealand",
+      "avgLogprob": -0.15551349723880942
+    },
+    {
+      "start": 29.48,
+      "end": 34.68,
+      "text": "citizenship, and therefore had unrestricted rights of entry and settlement in New Zealand.",
+      "avgLogprob": -0.10222774979315306
+    },
+    {
+      "start": 37.53,
+      "end": 44.01,
+      "text": "People from other Pacific nations, particularly Samoa, Tonga and Fiji, entered New Zealand in a",
+      "avgLogprob": -0.10222774979315306
+    },
+    {
+      "start": 44.01,
+      "end": 51.21,
+      "text": "variety of ways, including temporary permits, quota schemes and family reunification policies.",
+      "avgLogprob": -0.10222774979315306
+    },
+    {
+      "start": 54.17,
+      "end": 59.13,
+      "text": "There is also evidence of small-scale illegal immigrant entry from these areas before the",
+      "avgLogprob": -0.10222774979315306
+    },
+    {
+      "start": 59.13,
+      "end": 69.05,
+      "text": "1960s. So by the 2006 census, Pacific people in New Zealand numbered 266,000 and made up",
+      "avgLogprob": -0.17150253146442015
+    },
+    {
+      "start": 69.05,
+      "end": 77.08,
+      "text": "6.9% of the population. This is one of the highest proportions of immigrant population",
+      "avgLogprob": -0.17150253146442015
+    },
+    {
+      "start": 77.08,
+      "end": 83.76,
+      "text": "in the world and has been a highly contentious issue. Some parts of which I'd like to explore",
+      "avgLogprob": -0.17150253146442015
+    },
+    {
+      "start": 83.76,
+      "end": 91.84,
+      "text": "now. This migration fueled population growth in the 1960s and 1970s, so that by the time",
+      "avgLogprob": -0.10755884006272914
+    },
+    {
+      "start": 91.84,
+      "end": 100.0,
+      "text": "of the 1976 census, there were almost 65,700 Pacific people living in New Zealand, which",
+      "avgLogprob": -0.10755884006272914
+    },
+    {
+      "start": 100.0,
+      "end": 109.22,
+      "text": "was about 2% of the total population. An economic downturn in the 1970s resulted in a more restrictive",
+      "avgLogprob": -0.10755884006272914
+    },
+    {
+      "start": 109.22,
+      "end": 116.34,
+      "text": "immigration policy. But even so, many Pacific people retained their rights of entry to",
+      "avgLogprob": -0.10755884006272914
+    },
+    {
+      "start": 116.34,
+      "end": 122.98,
+      "text": "New Zealand, so migration continued, albeit at lower levels.",
+      "avgLogprob": -0.15934925820482404
+    },
+    {
+      "start": 122.98,
+      "end": 129.7,
+      "text": "Since the mid-1990s, net migration gains from the Pacific have risen, averaging about 3,300",
+      "avgLogprob": -0.15934925820482404
+    },
+    {
+      "start": 129.7,
+      "end": 138.58,
+      "text": "per year. The Pacific population in New Zealand has therefore continued to grow rapidly, and",
+      "avgLogprob": -0.15934925820482404
+    },
+    {
+      "start": 138.58,
+      "end": 146.29,
+      "text": "this has led to opponents calling for tighter control over immigration. However, much of",
+      "avgLogprob": -0.15934925820482404
+    },
+    {
+      "start": 146.29,
+      "end": 151.41,
+      "text": "the evidence suggests that it is actually not the recent immigration that has caused",
+      "avgLogprob": -0.13093689299491515
+    },
+    {
+      "start": 151.41,
+      "end": 159.68,
+      "text": "the overall rise in numbers, but the high rate of natural increase of these populations.",
+      "avgLogprob": -0.13093689299491515
+    },
+    {
+      "start": 159.68,
+      "end": 166.72,
+      "text": "For example, as the graph shows, Samoans are by far the largest Pacific group in New Zealand,",
+      "avgLogprob": -0.13093689299491515
+    },
+    {
+      "start": 166.72,
+      "end": 174.64,
+      "text": "with over 130,000 people at the time of the 2006 census. The Samoan population grew by",
+      "avgLogprob": -0.13093689299491515
+    },
+    {
+      "start": 174.64,
+      "end": 186.4,
+      "text": "64,800 people, that's 98% between 1986 and 2006. This group in particular is a young",
+      "avgLogprob": -0.12992129763287882
+    },
+    {
+      "start": 186.4,
+      "end": 194.86,
+      "text": "population with low rates of mortality and high rates of fertility. Pacific people are",
+      "avgLogprob": -0.12992129763287882
+    },
+    {
+      "start": 194.86,
+      "end": 200.3,
+      "text": "more likely than others to be in the age groups where most childbearing takes place and tend",
+      "avgLogprob": -0.12992129763287882
+    },
+    {
+      "start": 200.3,
+      "end": 207.2,
+      "text": "to have more children, with a fertility rate of three births per woman, compared with two",
+      "avgLogprob": -0.14278423638991367
+    },
+    {
+      "start": 207.2,
+      "end": 213.72,
+      "text": "births per woman for the total population. Because of their younger age structure, they",
+      "avgLogprob": -0.14278423638991367
+    },
+    {
+      "start": 213.72,
+      "end": 220.4,
+      "text": "also have a lower crude death rate of 3.2 deaths per thousand people per year, compared with",
+      "avgLogprob": -0.14278423638991367
+    },
+    {
+      "start": 220.4,
+      "end": 229.4,
+      "text": "6.6 per thousand for the total population. Such figures provoked fierce debate, with",
+      "avgLogprob": -0.14278423638991367
+    },
+    {
+      "start": 229.4,
+      "end": 235.32,
+      "text": "several political parties such as right New Zealand calling for a rethink on immigration policy at",
+      "avgLogprob": -0.11169467886833295
+    },
+    {
+      "start": 235.32,
+      "end": 243.92,
+      "text": "the time. However these views drew widespread criticism from trade union leaders and the",
+      "avgLogprob": -0.11169467886833295
+    },
+    {
+      "start": 243.92,
+      "end": 250.08,
+      "text": "immigrant communities themselves who argued that without the immigrant population the New Zealand",
+      "avgLogprob": -0.11169467886833295
+    },
+    {
+      "start": 250.08,
+      "end": 259.68,
+      "text": "economy would be unable to function properly in a number of key aspects. In May 2008 Dr Greg",
+      "avgLogprob": -0.11169467886833295
+    },
+    {
+      "start": 259.68,
+      "end": 264.9,
+      "text": "Clydesdale released a report which saw Pacific Islanders as forming an",
+      "avgLogprob": -0.22220533154904842
+    },
+    {
+      "start": 264.9,
+      "end": 270.84,
+      "text": "underclass. Pacific Islands community leaders and others however strongly",
+      "avgLogprob": -0.22220533154904842
+    },
+    {
+      "start": 270.84,
+      "end": 276.78,
+      "text": "criticized the report suggesting it was racially motivated.",
+      "avgLogprob": -0.22220533154904842
+    }
+  ]
+}

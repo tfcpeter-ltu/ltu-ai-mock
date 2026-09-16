@@ -1,0 +1,349 @@
+{
+  "source": "assets/audio/9d5fbc3a109035a0.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.37,
+      "end": 7.37,
+      "text": "Section 1. You're going to listen to a conversation between a student and an advisor about a language course.",
+      "avgLogprob": -0.1597026136632149
+    },
+    {
+      "start": 7.37,
+      "end": 47.69,
+      "text": "First you have some time to look at questions 1 to 5. Now listen carefully and answer questions 1 to 5.",
+      "avgLogprob": -0.1597026136632149
+    },
+    {
+      "start": 47.69,
+      "end": 50.69,
+      "text": "Good morning, UWE Information Centre. How can I help you?",
+      "avgLogprob": -0.1597026136632149
+    },
+    {
+      "start": 50.69,
+      "end": 55.69,
+      "text": "Good morning. I'd like some information about academic supporting classes, please.",
+      "avgLogprob": -0.1597026136632149
+    },
+    {
+      "start": 55.69,
+      "end": 59.69,
+      "text": "I'm new at the University and I don't think my study skills are good enough.",
+      "avgLogprob": -0.1597026136632149
+    },
+    {
+      "start": 59.69,
+      "end": 71.69,
+      "text": "Sure. We offer tutor classes to help freshmen, especially international students, improve their academic skills for university life. Are there any particular skills you want to improve?",
+      "avgLogprob": -0.1058636092580855
+    },
+    {
+      "start": 71.69,
+      "end": 83.69,
+      "text": "Well, a lot actually. I'm having trouble with textbooks and materials. It's not that I don't understand what they say, but it takes me longer to finish a chapter than my native speaking friends.",
+      "avgLogprob": -0.1058636092580855
+    },
+    {
+      "start": 83.69,
+      "end": 89.81,
+      "text": "friends? Yes, we do have classes called academic reading. They'll help you read",
+      "avgLogprob": -0.16471338952365128
+    },
+    {
+      "start": 89.81,
+      "end": 94.81,
+      "text": "more efficiently. Great. Also, I'm struggling with all the presentations.",
+      "avgLogprob": -0.16471338952365128
+    },
+    {
+      "start": 94.81,
+      "end": 99.29,
+      "text": "I have no problem creating content but speaking in front of an audience always",
+      "avgLogprob": -0.16471338952365128
+    },
+    {
+      "start": 99.29,
+      "end": 104.01,
+      "text": "makes me nervous. Well, we have a class on how to make good slides for your",
+      "avgLogprob": -0.16471338952365128
+    },
+    {
+      "start": 104.01,
+      "end": 109.01,
+      "text": "presentation but I'm afraid we don't have soft skills classes. Maybe you can",
+      "avgLogprob": -0.16471338952365128
+    },
+    {
+      "start": 109.01,
+      "end": 113.89,
+      "text": "ask your friends to help you practice. That would make you more confident.",
+      "avgLogprob": -0.16845121116123415
+    },
+    {
+      "start": 113.89,
+      "end": 118.37,
+      "text": "That's a great idea, thanks. One more problem is that I'm not good at writing",
+      "avgLogprob": -0.16845121116123415
+    },
+    {
+      "start": 118.37,
+      "end": 122.97,
+      "text": "research papers either. Yes, that's the most common problem for many",
+      "avgLogprob": -0.16845121116123415
+    },
+    {
+      "start": 122.97,
+      "end": 128.37,
+      "text": "international students. The academic writing class is exactly what you need.",
+      "avgLogprob": -0.16845121116123415
+    },
+    {
+      "start": 128.37,
+      "end": 135.29,
+      "text": "Lovely. When do classes begin? Well, the reading class takes place every",
+      "avgLogprob": -0.16845121116123415
+    },
+    {
+      "start": 135.29,
+      "end": 142.85,
+      "text": "Tuesday from 4 to 5 30 p.m. oh no sorry that was last term this term it is",
+      "avgLogprob": -0.1914801549835083
+    },
+    {
+      "start": 142.85,
+      "end": 150.29,
+      "text": "Wednesday's same time and the writing classes on Mondays from 1 to 3 p.m. both",
+      "avgLogprob": -0.1914801549835083
+    },
+    {
+      "start": 150.29,
+      "end": 155.65,
+      "text": "classes start next week great they don't coincide with my schedule actually",
+      "avgLogprob": -0.1914801549835083
+    },
+    {
+      "start": 155.65,
+      "end": 162.85,
+      "text": "where do the sessions take place sorry I forgot to mention that there are usually",
+      "avgLogprob": -0.1914801549835083
+    },
+    {
+      "start": 162.85,
+      "end": 167.65,
+      "text": "not many students who sign up for the reading class so it will take place in",
+      "avgLogprob": -0.13935772760046852
+    },
+    {
+      "start": 167.65,
+      "end": 175.35,
+      "text": "block Q room 401 the writing class however is very popular so only the",
+      "avgLogprob": -0.13935772760046852
+    },
+    {
+      "start": 175.35,
+      "end": 183.07,
+      "text": "lecture hall in block B can fit everyone in thank you and how about the fees how",
+      "avgLogprob": -0.13935772760046852
+    },
+    {
+      "start": 183.07,
+      "end": 188.13,
+      "text": "much do I need to pay for each class they're free for you each students there",
+      "avgLogprob": -0.13935772760046852
+    },
+    {
+      "start": 188.13,
+      "end": 192.37,
+      "text": "will be some materials you might want to purchase but they are optional since",
+      "avgLogprob": -0.13935772760046852
+    },
+    {
+      "start": 192.37,
+      "end": 197.67,
+      "text": "you can borrow them from the library. However, I recommend buying those because the number",
+      "avgLogprob": -0.2075220939603824
+    },
+    {
+      "start": 197.67,
+      "end": 203.69,
+      "text": "of students often exceeds the number of copies in the library. They're not expensive, just",
+      "avgLogprob": -0.2075220939603824
+    },
+    {
+      "start": 203.69,
+      "end": 206.05,
+      "text": "under £30, I believe.",
+      "avgLogprob": -0.2075220939603824
+    },
+    {
+      "start": 206.05,
+      "end": 213.6,
+      "text": "Oh, OK. I'll consider that then. Thank you very much. Before you listen to the rest of",
+      "avgLogprob": -0.2075220939603824
+    },
+    {
+      "start": 213.6,
+      "end": 251.08,
+      "text": "the conversation, you have some time to look at questions 6 to 10. Now listen carefully",
+      "avgLogprob": -0.2075220939603824
+    },
+    {
+      "start": 251.08,
+      "end": 253.58,
+      "text": "and answer questions 6 to 10.",
+      "avgLogprob": -0.2075220939603824
+    },
+    {
+      "start": 253.58,
+      "end": 258.2,
+      "text": "Oh, and how can I register for the classes?",
+      "avgLogprob": -0.23644065561373373
+    },
+    {
+      "start": 258.2,
+      "end": 263.52,
+      "text": "You can log on to the Blackboard and follow the steps online, or I can fill in a paper",
+      "avgLogprob": -0.23644065561373373
+    },
+    {
+      "start": 263.52,
+      "end": 265.36,
+      "text": "form for you right now.",
+      "avgLogprob": -0.23644065561373373
+    },
+    {
+      "start": 265.36,
+      "end": 266.36,
+      "text": "Yes, please.",
+      "avgLogprob": -0.23644065561373373
+    },
+    {
+      "start": 266.36,
+      "end": 268.6,
+      "text": "I haven't got used to the website yet.",
+      "avgLogprob": -0.23644065561373373
+    },
+    {
+      "start": 268.6,
+      "end": 269.6,
+      "text": "Alright.",
+      "avgLogprob": -0.23644065561373373
+    },
+    {
+      "start": 269.6,
+      "end": 271.36,
+      "text": "Could you tell me your name, please?",
+      "avgLogprob": -0.23644065561373373
+    },
+    {
+      "start": 271.36,
+      "end": 273.92,
+      "text": "Yes, it's Marcus Lopez.",
+      "avgLogprob": -0.23644065561373373
+    },
+    {
+      "start": 273.92,
+      "end": 276.92,
+      "text": "Is it L-O-P-E-Z?",
+      "avgLogprob": -0.23644065561373373
+    },
+    {
+      "start": 276.92,
+      "end": 281.52,
+      "text": "No, it's an S, not a Z.",
+      "avgLogprob": -0.23644065561373373
+    },
+    {
+      "start": 281.52,
+      "end": 282.52,
+      "text": "Ah, OK.",
+      "avgLogprob": -0.23644065561373373
+    },
+    {
+      "start": 282.52,
+      "end": 289.44,
+      "text": "what's your student number? Is it on my student card? Yes it should be under your",
+      "avgLogprob": -0.22865087692351901
+    },
+    {
+      "start": 289.44,
+      "end": 300.4,
+      "text": "photo on your student card. Oh yeah here it is it's 202 70519. Okay have you got",
+      "avgLogprob": -0.22865087692351901
+    },
+    {
+      "start": 300.4,
+      "end": 307.12,
+      "text": "a UK phone number yet? Yes I bought it yesterday let me see here you go it's",
+      "avgLogprob": -0.22865087692351901
+    },
+    {
+      "start": 307.12,
+      "end": 313.44,
+      "text": "It's our 0759-820-8186.",
+      "avgLogprob": -0.2579200051578821
+    },
+    {
+      "start": 313.44,
+      "end": 317.28,
+      "text": "And where do you live? I mean your current address.",
+      "avgLogprob": -0.2579200051578821
+    },
+    {
+      "start": 317.28,
+      "end": 322.64,
+      "text": "Now this, I remember, is number 25, 4th Avenue in Filton.",
+      "avgLogprob": -0.2579200051578821
+    },
+    {
+      "start": 322.64,
+      "end": 326.4,
+      "text": "The postcode is BS70RN.",
+      "avgLogprob": -0.2579200051578821
+    },
+    {
+      "start": 326.4,
+      "end": 330.8,
+      "text": "Alright. Everything's done. You are now enlisted in the classes.",
+      "avgLogprob": -0.2579200051578821
+    },
+    {
+      "start": 330.8,
+      "end": 332.88,
+      "text": "Is there anything else I can help you with?",
+      "avgLogprob": -0.2579200051578821
+    },
+    {
+      "start": 332.88,
+      "end": 335.68,
+      "text": "No, no. Thank you very much. Have a great day.",
+      "avgLogprob": -0.2579200051578821
+    },
+    {
+      "start": 335.68,
+      "end": 339.12,
+      "text": "Thank you, you're welcome.",
+      "avgLogprob": -0.17777874702360572
+    },
+    {
+      "start": 339.12,
+      "end": 341.12,
+      "text": "That is the end of part one.",
+      "avgLogprob": -0.17777874702360572
+    },
+    {
+      "start": 341.12,
+      "end": 344.12,
+      "text": "Now you have half a minute to check your answers.",
+      "avgLogprob": -0.17777874702360572
+    },
+    {
+      "start": 344.12,
+      "end": 375.78,
+      "text": "Now turn to section two.",
+      "avgLogprob": -0.17777874702360572
+    }
+  ]
+}

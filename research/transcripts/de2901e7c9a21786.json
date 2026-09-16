@@ -1,0 +1,55 @@
+{
+  "source": "assets/audio/de2901e7c9a21786.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.4,
+      "text": "This is the 6 o'clock news for Tuesday the 10th of December, and first, the headlines.",
+      "avgLogprob": -0.18397936738770584
+    },
+    {
+      "start": 8.4,
+      "end": 13.38,
+      "text": "The Prime Minister has promised to help the drought-stricken farmers in the northern part",
+      "avgLogprob": -0.18397936738770584
+    },
+    {
+      "start": 13.38,
+      "end": 18.78,
+      "text": "of the country who haven't seen rain for nearly three years.",
+      "avgLogprob": -0.18397936738770584
+    },
+    {
+      "start": 18.78,
+      "end": 24.86,
+      "text": "And in Sydney, a group of students are successfully rescued from a plane which landed in the",
+      "avgLogprob": -0.18397936738770584
+    },
+    {
+      "start": 24.86,
+      "end": 28.8,
+      "text": "sea shortly after takeoff.",
+      "avgLogprob": -0.18397936738770584
+    },
+    {
+      "start": 28.8,
+      "end": 34.92,
+      "text": "All miners are on strike in Queensland over a pay claim and the strike looks set to spread",
+      "avgLogprob": -0.14917479482564058
+    },
+    {
+      "start": 34.92,
+      "end": 40.84,
+      "text": "to other states. And on a fashionable note, there's to be a",
+      "avgLogprob": -0.14917479482564058
+    },
+    {
+      "start": 40.84,
+      "end": 46.2,
+      "text": "new look for the staff of Qantas, Australia's national airline.",
+      "avgLogprob": -0.14917479482564058
+    }
+  ]
+}

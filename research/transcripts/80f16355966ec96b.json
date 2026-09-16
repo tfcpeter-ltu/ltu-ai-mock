@@ -1,0 +1,163 @@
+{
+  "source": "assets/audio/80f16355966ec96b.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Good morning. Mobile for you, customer services. Peter speaking. How may I help you today?",
+      "avgLogprob": -0.15320111936833486
+    },
+    {
+      "start": 7.0,
+      "end": 12.0,
+      "text": "Good morning. I've got a few problems with my mobile phone account.",
+      "avgLogprob": -0.15320111936833486
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "OK. What is your mobile phone number?",
+      "avgLogprob": -0.15320111936833486
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": "Let's see. It's quite new so I haven't memorised it yet.",
+      "avgLogprob": -0.15320111936833486
+    },
+    {
+      "start": 21.0,
+      "end": 25.0,
+      "text": "Not your account number, just the phone number.",
+      "avgLogprob": -0.15320111936833486
+    },
+    {
+      "start": 25.0,
+      "end": 42.52,
+      "text": "Oh yes, it's 01330. 01330. 725. 725. 293. 293. Yes.",
+      "avgLogprob": -0.37598808606465656
+    },
+    {
+      "start": 42.52,
+      "end": 55.52,
+      "text": "OK. Can I just check that with you? 01330725293",
+      "avgLogprob": -0.17828311398625374
+    },
+    {
+      "start": 55.52,
+      "end": 56.52,
+      "text": "That's correct.",
+      "avgLogprob": -0.17828311398625374
+    },
+    {
+      "start": 56.52,
+      "end": 57.52,
+      "text": "And your name?",
+      "avgLogprob": -0.17828311398625374
+    },
+    {
+      "start": 57.52,
+      "end": 59.52,
+      "text": "Cherry Williams.",
+      "avgLogprob": -0.17828311398625374
+    },
+    {
+      "start": 59.52,
+      "end": 68.52,
+      "text": "OK Mrs Williams, I just need to go through a few security details with you. It won't take long.",
+      "avgLogprob": -0.17828311398625374
+    },
+    {
+      "start": 68.52,
+      "end": 69.52,
+      "text": "Alright.",
+      "avgLogprob": -0.17828311398625374
+    },
+    {
+      "start": 69.52,
+      "end": 72.52,
+      "text": "What's your postcode?",
+      "avgLogprob": -0.17533098143267345
+    },
+    {
+      "start": 72.52,
+      "end": 76.52,
+      "text": "B-S-3-9-1-T-P",
+      "avgLogprob": -0.17533098143267345
+    },
+    {
+      "start": 76.52,
+      "end": 83.52,
+      "text": "B-S-3-9-1-T-P",
+      "avgLogprob": -0.17533098143267345
+    },
+    {
+      "start": 83.52,
+      "end": 85.52,
+      "text": "Yes",
+      "avgLogprob": -0.17533098143267345
+    },
+    {
+      "start": 85.52,
+      "end": 88.52,
+      "text": "Gromit Way, Bristol",
+      "avgLogprob": -0.17533098143267345
+    },
+    {
+      "start": 88.52,
+      "end": 89.52,
+      "text": "Yes",
+      "avgLogprob": -0.17533098143267345
+    },
+    {
+      "start": 89.52,
+      "end": 91.52,
+      "text": "And the house number?",
+      "avgLogprob": -0.17533098143267345
+    },
+    {
+      "start": 91.52,
+      "end": 94.52,
+      "text": "It's a flat. Number 6B",
+      "avgLogprob": -0.17533098143267345
+    },
+    {
+      "start": 94.52,
+      "end": 98.52,
+      "text": "What's your date of birth, Mrs Williams?",
+      "avgLogprob": -0.17533098143267345
+    },
+    {
+      "start": 98.52,
+      "end": 104.76,
+      "text": "Oh, the 13th of May, 1967.",
+      "avgLogprob": -0.22247388997635284
+    },
+    {
+      "start": 104.76,
+      "end": 111.16,
+      "text": "And one more thing, if I may. Can you give me your mother's maiden name?",
+      "avgLogprob": -0.22247388997635284
+    },
+    {
+      "start": 111.16,
+      "end": 114.64,
+      "text": "Yes, it's Smythe.",
+      "avgLogprob": -0.22247388997635284
+    },
+    {
+      "start": 114.64,
+      "end": 119.04,
+      "text": "Is that S-M-I-T-H-E?",
+      "avgLogprob": -0.22247388997635284
+    },
+    {
+      "start": 119.04,
+      "end": 121.84,
+      "text": "No, it's S-M-Y-T-H-E.",
+      "avgLogprob": -0.22247388997635284
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "source": "assets/audio/8351ca8819b3b649.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.08,
+      "text": "Okay so today we're going to take a look at how the internet is affecting cultures around the world.",
+      "avgLogprob": -0.1330605022523595
+    },
+    {
+      "start": 7.92,
+      "end": 11.04,
+      "text": "Is it changing them in any way and if that's a good thing or not?",
+      "avgLogprob": -0.1330605022523595
+    },
+    {
+      "start": 13.36,
+      "end": 18.0,
+      "text": "In particular I want you to come back to that question about westernisation.",
+      "avgLogprob": -0.1330605022523595
+    },
+    {
+      "start": 20.0,
+      "end": 23.28,
+      "text": "Is the internet a one-way medium for westernisation?",
+      "avgLogprob": -0.1330605022523595
+    },
+    {
+      "start": 25.2,
+      "end": 27.28,
+      "text": "Maybe Lucy would you like to start us off?",
+      "avgLogprob": -0.1330605022523595
+    },
+    {
+      "start": 27.28,
+      "end": 34.08,
+      "text": "Okay, well, I don't think the internet is a force for good, really. I'd say it's certainly",
+      "avgLogprob": -0.13635732855611635
+    },
+    {
+      "start": 34.08,
+      "end": 41.73,
+      "text": "having an impact, and that impact is the domination of other cultures by the West. Most of the",
+      "avgLogprob": -0.13635732855611635
+    },
+    {
+      "start": 41.73,
+      "end": 48.77,
+      "text": "information on the net is English, and a lot of it is pop culture stuff, so it's too overwhelming.",
+      "avgLogprob": -0.13635732855611635
+    },
+    {
+      "start": 48.77,
+      "end": 52.09,
+      "text": "It makes the young people who use the net in other countries forget about their own",
+      "avgLogprob": -0.13635732855611635
+    },
+    {
+      "start": 52.09,
+      "end": 55.05,
+      "text": "cultures and try to imitate the West.",
+      "avgLogprob": -0.13635732855611635
+    },
+    {
+      "start": 55.05,
+      "end": 62.87,
+      "text": "Well, I think it's true that it exposes people around the world to a lot of Western pop culture.",
+      "avgLogprob": -0.11005222797393799
+    },
+    {
+      "start": 62.87,
+      "end": 67.87,
+      "text": "That's inevitable when so much of it is in the English language.",
+      "avgLogprob": -0.11005222797393799
+    },
+    {
+      "start": 67.87,
+      "end": 70.87,
+      "text": "I suppose it's not just pop culture either.",
+      "avgLogprob": -0.11005222797393799
+    },
+    {
+      "start": 70.87,
+      "end": 75.87,
+      "text": "I mean, most scientific information on the net is written in English too.",
+      "avgLogprob": -0.11005222797393799
+    },
+    {
+      "start": 75.87,
+      "end": 80.87,
+      "text": "But I disagree with you Lucy that it's a bad thing.",
+      "avgLogprob": -0.11005222797393799
+    },
+    {
+      "start": 80.87,
+      "end": 85.59,
+      "text": "There are obvious benefits from having this greater worldwide sense of sharing in a common",
+      "avgLogprob": -0.1098573103081435
+    },
+    {
+      "start": 85.59,
+      "end": 92.31,
+      "text": "global culture. You know, more people agree about the important things like human rights and so on.",
+      "avgLogprob": -0.1098573103081435
+    },
+    {
+      "start": 94.23,
+      "end": 99.27,
+      "text": "But that's a different thing, Simon. I agree that common values are a good thing,",
+      "avgLogprob": -0.1098573103081435
+    },
+    {
+      "start": 99.27,
+      "end": 102.31,
+      "text": "but they don't have to be spread exclusively by the internet.",
+      "avgLogprob": -0.1098573103081435
+    },
+    {
+      "start": 104.23,
+      "end": 108.47,
+      "text": "The internet is basically a pop culture thing, and for any good that it offers,",
+      "avgLogprob": -0.1098573103081435
+    },
+    {
+      "start": 108.47,
+      "end": 115.09,
+      "text": "There are many other bad things. It helps to promote Western culture at the expense of",
+      "avgLogprob": -0.12686302264531454
+    },
+    {
+      "start": 115.09,
+      "end": 121.55,
+      "text": "other cultures, which is unfair. It makes Western businesses stronger at the expense",
+      "avgLogprob": -0.12686302264531454
+    },
+    {
+      "start": 121.55,
+      "end": 129.23,
+      "text": "of local businesses. And anyway, good values, like respect for the law or human rights or",
+      "avgLogprob": -0.12686302264531454
+    },
+    {
+      "start": 129.23,
+      "end": 135.73,
+      "text": "things like that, they're not exclusively Western values. It's arrogant to think that",
+      "avgLogprob": -0.12686302264531454
+    },
+    {
+      "start": 135.73,
+      "end": 140.25,
+      "text": "all that's good in the world comes from the west and other cultures need to learn it from",
+      "avgLogprob": -0.17774086086838334
+    },
+    {
+      "start": 140.25,
+      "end": 141.05,
+      "text": "us somehow.",
+      "avgLogprob": -0.17774086086838334
+    }
+  ]
+}

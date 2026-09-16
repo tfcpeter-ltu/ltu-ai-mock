@@ -1,0 +1,127 @@
+{
+  "source": "assets/audio/16515786b90e4aee.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.58,
+      "end": 6.62,
+      "text": "Now, let's get to it and check the library out ourselves.",
+      "avgLogprob": -0.11187550926876959
+    },
+    {
+      "start": 6.62,
+      "end": 9.06,
+      "text": "We are now at the main door.",
+      "avgLogprob": -0.11187550926876959
+    },
+    {
+      "start": 9.06,
+      "end": 13.62,
+      "text": "Right before we get in the library through the turnstile gates, you can see a set of",
+      "avgLogprob": -0.11187550926876959
+    },
+    {
+      "start": 13.62,
+      "end": 16.02,
+      "text": "computers on your left.",
+      "avgLogprob": -0.11187550926876959
+    },
+    {
+      "start": 16.02,
+      "end": 21.26,
+      "text": "They can only be used to log on to your library account, so you can browse for items or check",
+      "avgLogprob": -0.11187550926876959
+    },
+    {
+      "start": 21.26,
+      "end": 24.14,
+      "text": "your borrowing status.",
+      "avgLogprob": -0.11187550926876959
+    },
+    {
+      "start": 24.14,
+      "end": 28.78,
+      "text": "These computers used to be right next to the turnstiles inside the library, but we've",
+      "avgLogprob": -0.11187550926876959
+    },
+    {
+      "start": 28.78,
+      "end": 33.12,
+      "text": "moved them, so you don't need to bring your student card to browse for books.",
+      "avgLogprob": -0.12130554371020373
+    },
+    {
+      "start": 33.12,
+      "end": 39.28,
+      "text": "Right, do you all have your student cards here? Good! Let's get past these",
+      "avgLogprob": -0.12130554371020373
+    },
+    {
+      "start": 39.28,
+      "end": 45.36,
+      "text": "turnstiles. Alright, as you can see, right in the middle of the floor is our help",
+      "avgLogprob": -0.12130554371020373
+    },
+    {
+      "start": 45.36,
+      "end": 50.8,
+      "text": "desk. Many of your questions regarding the library can be answered here, but",
+      "avgLogprob": -0.12130554371020373
+    },
+    {
+      "start": 50.8,
+      "end": 57.36,
+      "text": "remember that our staff are only available until 6.30 p.m. On both sides",
+      "avgLogprob": -0.12130554371020373
+    },
+    {
+      "start": 57.36,
+      "end": 62.88,
+      "text": "of the helpdesk just across the paths are the self-service machines which I've just mentioned.",
+      "avgLogprob": -0.09937583470857271
+    },
+    {
+      "start": 63.6,
+      "end": 69.44,
+      "text": "The only way for you to borrow and return items is using these machines. If you walk along the",
+      "avgLogprob": -0.09937583470857271
+    },
+    {
+      "start": 69.44,
+      "end": 75.28,
+      "text": "left path from the turnstiles you'll end up in the reference room where you can find new magazines",
+      "avgLogprob": -0.09937583470857271
+    },
+    {
+      "start": 75.28,
+      "end": 81.92,
+      "text": "and journals for reference. This is a read-only room which means you cannot take any items out.",
+      "avgLogprob": -0.09937583470857271
+    },
+    {
+      "start": 81.92,
+      "end": 89.56,
+      "text": "Now let's take the right path toward the lift and stairs at the end. Walking past the help desk,",
+      "avgLogprob": -0.13776803852581396
+    },
+    {
+      "start": 89.56,
+      "end": 95.56,
+      "text": "you can see on your right the print hub where you can print, scan, or make copies of the materials",
+      "avgLogprob": -0.13776803852581396
+    },
+    {
+      "start": 95.56,
+      "end": 102.32,
+      "text": "you need. The room after that next to the stairs is the supply room. Let's get to the stairs and",
+      "avgLogprob": -0.13776803852581396
+    },
+    {
+      "start": 102.32,
+      "end": 104.04,
+      "text": "advance to the next level.",
+      "avgLogprob": -0.13776803852581396
+    }
+  ]
+}

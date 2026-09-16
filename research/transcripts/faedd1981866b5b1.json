@@ -1,0 +1,151 @@
+{
+  "source": "assets/audio/faedd1981866b5b1.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 7.0,
+      "text": "Actually, I'm very excited about the whole thing of taking up studying again, but, you",
+      "avgLogprob": -0.16612245318564503
+    },
+    {
+      "start": 7.0,
+      "end": 12.12,
+      "text": "know, I'm a little nervous about whether I'll manage to get everything done. I suppose",
+      "avgLogprob": -0.16612245318564503
+    },
+    {
+      "start": 12.12,
+      "end": 14.1,
+      "text": "it's the same for all my dear students.",
+      "avgLogprob": -0.16612245318564503
+    },
+    {
+      "start": 14.1,
+      "end": 21.2,
+      "text": "Of course it is. Two of the key components of the course are time management and overcoming",
+      "avgLogprob": -0.16612245318564503
+    },
+    {
+      "start": 21.2,
+      "end": 27.34,
+      "text": "procrastination. People discover that once they learn to plan their days, all the work",
+      "avgLogprob": -0.16612245318564503
+    },
+    {
+      "start": 27.34,
+      "end": 30.28,
+      "text": "can be accomplished and there'll still be time for leisure.",
+      "avgLogprob": -0.16612245318564503
+    },
+    {
+      "start": 30.28,
+      "end": 39.76,
+      "text": "they're an enrolment fee? Well, just a minute, let's see. The cost is 30 pounds, which includes",
+      "avgLogprob": -0.19139422567523257
+    },
+    {
+      "start": 39.76,
+      "end": 45.2,
+      "text": "all course materials and morning tea. You have to arrange your own lunch. Well, that wouldn't",
+      "avgLogprob": -0.19139422567523257
+    },
+    {
+      "start": 45.2,
+      "end": 49.64,
+      "text": "be a problem. I already make sandwiches for my three kids and my wife and myself every",
+      "avgLogprob": -0.19139422567523257
+    },
+    {
+      "start": 49.64,
+      "end": 55.2,
+      "text": "day. I won't have to change my routine. No. Now, I need to tell you that this is a very",
+      "avgLogprob": -0.19139422567523257
+    },
+    {
+      "start": 55.2,
+      "end": 60.22,
+      "text": "popular course and it's essential that you book well ahead of time. In fact the",
+      "avgLogprob": -0.147353438467815
+    },
+    {
+      "start": 60.22,
+      "end": 66.22,
+      "text": "course convener tells me that there are only five places left. What other",
+      "avgLogprob": -0.147353438467815
+    },
+    {
+      "start": 66.22,
+      "end": 71.88,
+      "text": "course might be good for me? There is one other that you could benefit from. It's",
+      "avgLogprob": -0.147353438467815
+    },
+    {
+      "start": 71.88,
+      "end": 77.46,
+      "text": "simply called Learning Skills for University Study and is on three",
+      "avgLogprob": -0.147353438467815
+    },
+    {
+      "start": 77.46,
+      "end": 84.9,
+      "text": "consecutive mornings starting on a Monday from 9 to 12 and costs 25",
+      "avgLogprob": -0.147353438467815
+    },
+    {
+      "start": 84.9,
+      "end": 92.42,
+      "text": "pounds. This is aimed at upgrading the study skills most school leavers have and help them",
+      "avgLogprob": -0.1724159090549915
+    },
+    {
+      "start": 92.42,
+      "end": 98.3,
+      "text": "cope with the increased demands of university study. It focuses mainly on making students",
+      "avgLogprob": -0.1724159090549915
+    },
+    {
+      "start": 98.3,
+      "end": 103.66,
+      "text": "more responsible for their own success. What sort of things are covered in this course?",
+      "avgLogprob": -0.1724159090549915
+    },
+    {
+      "start": 103.66,
+      "end": 111.06,
+      "text": "Well basically it's more advanced thinking, note-taking, reading and writing strategies,",
+      "avgLogprob": -0.1724159090549915
+    },
+    {
+      "start": 111.06,
+      "end": 117.02,
+      "text": "also some input about stress management hmm I think I'd be better off starting",
+      "avgLogprob": -0.13354102051121064
+    },
+    {
+      "start": 117.02,
+      "end": 121.66,
+      "text": "from the basics and looking at all the strategies don't you yes from what",
+      "avgLogprob": -0.13354102051121064
+    },
+    {
+      "start": 121.66,
+      "end": 125.7,
+      "text": "you've told me I think that's more in line with your situation all right then",
+      "avgLogprob": -0.13354102051121064
+    },
+    {
+      "start": 125.7,
+      "end": 131.5,
+      "text": "um can I book a place on the study for success seminar course now yes let me",
+      "avgLogprob": -0.13354102051121064
+    },
+    {
+      "start": 131.5,
+      "end": 136.82,
+      "text": "just get out a registration form and take down your details",
+      "avgLogprob": -0.13354102051121064
+    }
+  ]
+}

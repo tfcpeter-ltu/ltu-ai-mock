@@ -1,0 +1,325 @@
+{
+  "source": "assets/audio/93fe1393c23ba294.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Okay, now, how are you both getting on with the assignment?",
+      "avgLogprob": -0.10953258703584257
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Well, to be honest, I'm getting a bit muddled up.",
+      "avgLogprob": -0.10953258703584257
+    },
+    {
+      "start": 8.0,
+      "end": 15.0,
+      "text": "I've done loads of reading and taken notes, but I'm still confused about what to include.",
+      "avgLogprob": -0.10953258703584257
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "It's only a 3,000-word essay, isn't it?",
+      "avgLogprob": -0.10953258703584257
+    },
+    {
+      "start": 18.0,
+      "end": 23.0,
+      "text": "Yes, it is, but it's worth 50% of the module marks,",
+      "avgLogprob": -0.10953258703584257
+    },
+    {
+      "start": 23.0,
+      "end": 28.0,
+      "text": "so you need to get good marks for this in case you don't do so well in the exam.",
+      "avgLogprob": -0.10953258703584257
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "Have you identified the main points you want to include?",
+      "avgLogprob": -0.12001177229379353
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "Well, no, not really. That's what I'm having trouble with.",
+      "avgLogprob": -0.12001177229379353
+    },
+    {
+      "start": 36.0,
+      "end": 40.0,
+      "text": "I thought that if I did lots of reading and took good notes,",
+      "avgLogprob": -0.12001177229379353
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": "it would be easy to write, but I'm still confused.",
+      "avgLogprob": -0.12001177229379353
+    },
+    {
+      "start": 44.0,
+      "end": 48.0,
+      "text": "Did you analyse the question before you started reading?",
+      "avgLogprob": -0.12001177229379353
+    },
+    {
+      "start": 48.0,
+      "end": 53.0,
+      "text": "You know, to make sure you really understood it, and then make a plan.",
+      "avgLogprob": -0.12001177229379353
+    },
+    {
+      "start": 53.0,
+      "end": 57.28,
+      "text": "Er, not exactly. No-one's ever shown me how to do that before.",
+      "avgLogprob": -0.25124314461631336
+    },
+    {
+      "start": 57.28,
+      "end": 59.88,
+      "text": "I'm not sure what you mean.",
+      "avgLogprob": -0.25124314461631336
+    },
+    {
+      "start": 59.88,
+      "end": 65.4,
+      "text": "No, me neither. I'm having trouble too.",
+      "avgLogprob": -0.25124314461631336
+    },
+    {
+      "start": 65.4,
+      "end": 71.04,
+      "text": "It sounds like you two need to do a course in study skills, especially academic writing.",
+      "avgLogprob": -0.25124314461631336
+    },
+    {
+      "start": 71.04,
+      "end": 78.48,
+      "text": "Oh, Sarah, do you remember that guy I was telling you about who had done a course in",
+      "avgLogprob": -0.25124314461631336
+    },
+    {
+      "start": 78.48,
+      "end": 86.04,
+      "text": "writing skills. He says that his marks have improved a lot since then, so maybe we need",
+      "avgLogprob": -0.1414813737695416
+    },
+    {
+      "start": 86.04,
+      "end": 92.76,
+      "text": "to get ourselves enrolled as soon as possible. I think he said he went for just two hours",
+      "avgLogprob": -0.1414813737695416
+    },
+    {
+      "start": 92.76,
+      "end": 96.56,
+      "text": "a week for a term and it really helped.",
+      "avgLogprob": -0.1414813737695416
+    },
+    {
+      "start": 96.56,
+      "end": 102.46,
+      "text": "Well, I definitely recommend that you do that. You might surprise yourself and realise",
+      "avgLogprob": -0.1414813737695416
+    },
+    {
+      "start": 102.46,
+      "end": 106.96,
+      "text": "you do have some of the skills already, but I'm sure there will also be things you can",
+      "avgLogprob": -0.1414813737695416
+    },
+    {
+      "start": 106.96,
+      "end": 113.22,
+      "text": "learn. Think of it as an investment. Time spent now will hopefully make your studies",
+      "avgLogprob": -0.17016146253137027
+    },
+    {
+      "start": 113.22,
+      "end": 120.72,
+      "text": "here easier and more successful. Now, let's get back to this essay. James, can you help",
+      "avgLogprob": -0.17016146253137027
+    },
+    {
+      "start": 120.72,
+      "end": 125.16,
+      "text": "Sarah out by outlining all the main points that need to go into the essay?",
+      "avgLogprob": -0.17016146253137027
+    },
+    {
+      "start": 125.16,
+      "end": 134.68,
+      "text": "I'll have a go. I think that after the introduction, we need to describe what happened in the",
+      "avgLogprob": -0.17016146253137027
+    },
+    {
+      "start": 134.68,
+      "end": 141.58,
+      "text": "past, you know, give the background. Can I interrupt you there James? What is the",
+      "avgLogprob": -0.1306571550183482
+    },
+    {
+      "start": 141.58,
+      "end": 146.26,
+      "text": "main part of the question you are being asked in the title? I mean, what words",
+      "avgLogprob": -0.1306571550183482
+    },
+    {
+      "start": 146.26,
+      "end": 155.54,
+      "text": "exactly are used? Evaluate the reasons why the phenomenon has reappeared and",
+      "avgLogprob": -0.1306571550183482
+    },
+    {
+      "start": 155.54,
+      "end": 162.88,
+      "text": "assess the implications for future practice. Yes, so what does that mean?",
+      "avgLogprob": -0.1306571550183482
+    },
+    {
+      "start": 162.88,
+      "end": 165.88,
+      "text": "What are you being asked to do?",
+      "avgLogprob": -0.12513037544229758
+    },
+    {
+      "start": 165.88,
+      "end": 167.88,
+      "text": "Erm...",
+      "avgLogprob": -0.12513037544229758
+    },
+    {
+      "start": 167.88,
+      "end": 168.88,
+      "text": "Sarah?",
+      "avgLogprob": -0.12513037544229758
+    },
+    {
+      "start": 168.88,
+      "end": 170.88,
+      "text": "Erm...",
+      "avgLogprob": -0.12513037544229758
+    },
+    {
+      "start": 170.88,
+      "end": 173.88,
+      "text": "Well, are you being asked to describe anything?",
+      "avgLogprob": -0.12513037544229758
+    },
+    {
+      "start": 173.88,
+      "end": 175.88,
+      "text": "I don't think so.",
+      "avgLogprob": -0.12513037544229758
+    },
+    {
+      "start": 175.88,
+      "end": 177.88,
+      "text": "I suppose not.",
+      "avgLogprob": -0.12513037544229758
+    },
+    {
+      "start": 177.88,
+      "end": 182.88,
+      "text": "So, do you think it's necessary to write about the past, give background in the main section?",
+      "avgLogprob": -0.12513037544229758
+    },
+    {
+      "start": 182.88,
+      "end": 189.88,
+      "text": "No. But I thought you always had to put things into a context.",
+      "avgLogprob": -0.12513037544229758
+    },
+    {
+      "start": 189.88,
+      "end": 196.32,
+      "text": "Well, that's right, you do, but in this essay you can do that briefly in the introduction",
+      "avgLogprob": -0.16774406276568019
+    },
+    {
+      "start": 196.32,
+      "end": 200.48,
+      "text": "and not waste too many words by putting it in the main body.",
+      "avgLogprob": -0.16774406276568019
+    },
+    {
+      "start": 200.48,
+      "end": 203.4,
+      "text": "Are you going to offer a definition of the concept?",
+      "avgLogprob": -0.16774406276568019
+    },
+    {
+      "start": 203.4,
+      "end": 209.52,
+      "text": "Yes, I learned at school that you should do that, but for my reading I've seen different",
+      "avgLogprob": -0.16774406276568019
+    },
+    {
+      "start": 209.52,
+      "end": 213.88,
+      "text": "definitions, so which one am I supposed to use?",
+      "avgLogprob": -0.16774406276568019
+    },
+    {
+      "start": 213.88,
+      "end": 216.44,
+      "text": "Which one are you using, James?",
+      "avgLogprob": -0.16774406276568019
+    },
+    {
+      "start": 216.44,
+      "end": 223.96,
+      "text": "one I understand best. Holmes, 2007, is the one I'm using.",
+      "avgLogprob": -0.14344385616025146
+    },
+    {
+      "start": 223.96,
+      "end": 229.4,
+      "text": "That's fine, James, but make sure you acknowledge that there are several definitions available.",
+      "avgLogprob": -0.14344385616025146
+    },
+    {
+      "start": 229.4,
+      "end": 234.58,
+      "text": "Just make it clear which one you are using for the purpose of this essay. I really do",
+      "avgLogprob": -0.14344385616025146
+    },
+    {
+      "start": 234.58,
+      "end": 239.72,
+      "text": "think that you two would benefit enormously from a course in academic writing skills.",
+      "avgLogprob": -0.14344385616025146
+    },
+    {
+      "start": 239.72,
+      "end": 244.48,
+      "text": "It would cover all the issues you are having trouble with. Go along to the Centre for",
+      "avgLogprob": -0.14344385616025146
+    },
+    {
+      "start": 244.48,
+      "end": 249.88,
+      "text": "English language and academic skills after you've left me and enrol on a course, they're",
+      "avgLogprob": -0.18371907519359215
+    },
+    {
+      "start": 249.88,
+      "end": 255.68,
+      "text": "really helpful in there and they know exactly what you need to write more successfully.",
+      "avgLogprob": -0.18371907519359215
+    },
+    {
+      "start": 255.68,
+      "end": 258.2,
+      "text": "Now let's get back to those main points.",
+      "avgLogprob": -0.18371907519359215
+    }
+  ]
+}

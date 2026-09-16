@@ -1,0 +1,163 @@
+{
+  "source": "assets/audio/a1a27834f3bfd906.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 3.6,
+      "end": 6.6,
+      "text": "So, what did you try next?",
+      "avgLogprob": -0.12504430959622065
+    },
+    {
+      "start": 6.6,
+      "end": 13.6,
+      "text": "Well, I started putting my meals onto a smaller plate, to reduce the portion sizes, you know?",
+      "avgLogprob": -0.12504430959622065
+    },
+    {
+      "start": 13.6,
+      "end": 18.6,
+      "text": "And then I started to take brisk walk round my village after dinner every evening.",
+      "avgLogprob": -0.12504430959622065
+    },
+    {
+      "start": 18.6,
+      "end": 23.6,
+      "text": "It was difficult at first, but when I realised it got me out of the washing up every night,",
+      "avgLogprob": -0.12504430959622065
+    },
+    {
+      "start": 23.6,
+      "end": 28.6,
+      "text": "I started to enjoy escaping for half an hour every evening.",
+      "avgLogprob": -0.12504430959622065
+    },
+    {
+      "start": 28.6,
+      "end": 39.6,
+      "text": "Some friends decided to join me, and before I knew it, I was seeing more of my friends, losing some weight, and becoming less breathless.",
+      "avgLogprob": -0.11959402387340863
+    },
+    {
+      "start": 39.6,
+      "end": 47.6,
+      "text": "Then my husband bought me a gym subscription for my birthday, and that was it. There was no stopping me.",
+      "avgLogprob": -0.11959402387340863
+    },
+    {
+      "start": 47.6,
+      "end": 53.6,
+      "text": "They say that exercise is addictive. Did you find that was true for you?",
+      "avgLogprob": -0.11959402387340863
+    },
+    {
+      "start": 53.6,
+      "end": 60.48,
+      "text": "Definitely. It gave me a new lease of life. I realised I was hooked when I was so full",
+      "avgLogprob": -0.13642384128256158
+    },
+    {
+      "start": 60.48,
+      "end": 66.48,
+      "text": "of energy that I just didn't want to sit down. I clearly remember going for my six-month",
+      "avgLogprob": -0.13642384128256158
+    },
+    {
+      "start": 66.48,
+      "end": 72.6,
+      "text": "check-up at the surgery and when they said I was no longer obese, I almost hugged the",
+      "avgLogprob": -0.13642384128256158
+    },
+    {
+      "start": 72.6,
+      "end": 79.2,
+      "text": "doctor. It was amazing. I felt so much better about myself and was so relieved to feel",
+      "avgLogprob": -0.13642384128256158
+    },
+    {
+      "start": 79.2,
+      "end": 86.2,
+      "text": "healthy again. I think I drove my family a bit mad at the beginning. I was so enthusiastic",
+      "avgLogprob": -0.1404018372624785
+    },
+    {
+      "start": 86.2,
+      "end": 91.56,
+      "text": "and wanted everyone I met to join me in feeling that good. But I know that some people have",
+      "avgLogprob": -0.1404018372624785
+    },
+    {
+      "start": 91.56,
+      "end": 96.84,
+      "text": "serious health problems which prevent them from taking exercise, so that's why I decided",
+      "avgLogprob": -0.1404018372624785
+    },
+    {
+      "start": 96.84,
+      "end": 98.68,
+      "text": "to run the marathons.",
+      "avgLogprob": -0.1404018372624785
+    },
+    {
+      "start": 98.68,
+      "end": 104.96,
+      "text": "Yes, tell us some more about that Gina. How did that come about?",
+      "avgLogprob": -0.1404018372624785
+    },
+    {
+      "start": 104.96,
+      "end": 110.8,
+      "text": "Well, I was watching the London Marathon on the TV, and my youngest son said,",
+      "avgLogprob": -0.12663706507947708
+    },
+    {
+      "start": 110.8,
+      "end": 117.12,
+      "text": "Mum, you can do that. I'd started running, rather than walking around the village by then,",
+      "avgLogprob": -0.12663706507947708
+    },
+    {
+      "start": 117.92,
+      "end": 122.56,
+      "text": "so it seemed like a good thing to aim for, and a good way of raising money for people",
+      "avgLogprob": -0.12663706507947708
+    },
+    {
+      "start": 122.56,
+      "end": 130.32,
+      "text": "with serious heart problems. I ran my first marathon in 2007, and I've done five so far.",
+      "avgLogprob": -0.12663706507947708
+    },
+    {
+      "start": 130.32,
+      "end": 137.68,
+      "text": "7 in 7 days is a bit daunting, but I've been training hard and all my family is supporting",
+      "avgLogprob": -0.16439729281093762
+    },
+    {
+      "start": 137.68,
+      "end": 145.92,
+      "text": "me. I've already raised over £3,000, so I can't let anyone down and back out now.",
+      "avgLogprob": -0.16439729281093762
+    },
+    {
+      "start": 145.92,
+      "end": 154.35,
+      "text": "Well, you're certainly an inspiration to us all. Gina, we wish you every success for",
+      "avgLogprob": -0.16439729281093762
+    },
+    {
+      "start": 154.35,
+      "end": 160.37,
+      "text": "your amazing challenge. We'll be cheering you on. Will you come back to the studio",
+      "avgLogprob": -0.16439729281093762
+    },
+    {
+      "start": 160.37,
+      "end": 167.51,
+      "text": "tell us how you got on. Of course Peter, as soon as I've caught my breath",
+      "avgLogprob": -0.29846995256163855
+    }
+  ]
+}

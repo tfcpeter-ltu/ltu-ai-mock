@@ -1,0 +1,1645 @@
+{
+  "source": "assets/audio/a174a1cb02c0a825.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 6.96,
+      "text": "listening. You will hear a number of different recordings and you will have to answer questions",
+      "avgLogprob": -0.1298471586335273
+    },
+    {
+      "start": 6.96,
+      "end": 12.54,
+      "text": "on what you hear. There will be time for you to read the instructions and questions and",
+      "avgLogprob": -0.1298471586335273
+    },
+    {
+      "start": 12.54,
+      "end": 19.74,
+      "text": "you will have a chance to check your work. All the recordings will be played once only.",
+      "avgLogprob": -0.1298471586335273
+    },
+    {
+      "start": 19.74,
+      "end": 26.04,
+      "text": "The test is in four sections. At the end of the test you will be given ten minutes to",
+      "avgLogprob": -0.1298471586335273
+    },
+    {
+      "start": 26.04,
+      "end": 37.61,
+      "text": "transfer your answers to an answer sheet. Now turn to section 1. Section 1. You will",
+      "avgLogprob": -0.1092792419065912
+    },
+    {
+      "start": 37.61,
+      "end": 43.37,
+      "text": "hear a conversation between a travel agent and a customer. The customer wants to book",
+      "avgLogprob": -0.1092792419065912
+    },
+    {
+      "start": 43.37,
+      "end": 82.59,
+      "text": "a coach ticket. First you have some time to look at questions 1 to 7. Now we shall begin.",
+      "avgLogprob": -0.1092792419065912
+    },
+    {
+      "start": 82.59,
+      "end": 86.75,
+      "text": "You should answer the questions as you listen because you will not hear the recording a",
+      "avgLogprob": -0.1092792419065912
+    },
+    {
+      "start": 86.75,
+      "end": 96.68,
+      "text": "second time. Listen carefully and answer questions one to seven.",
+      "avgLogprob": -0.18856938201047124
+    },
+    {
+      "start": 96.68,
+      "end": 101.84,
+      "text": "Good morning. I'd like to book a coach to London. I was hoping you had something available",
+      "avgLogprob": -0.18856938201047124
+    },
+    {
+      "start": 101.84,
+      "end": 103.74,
+      "text": "this Saturday afternoon.",
+      "avgLogprob": -0.18856938201047124
+    },
+    {
+      "start": 103.74,
+      "end": 107.84,
+      "text": "Good morning, sir. Take a seat and I'll just check for you.",
+      "avgLogprob": -0.18856938201047124
+    },
+    {
+      "start": 107.84,
+      "end": 114.66,
+      "text": "Er, yes. We still have several free seats for Saturday. Where will you be leaving from?",
+      "avgLogprob": -0.18856938201047124
+    },
+    {
+      "start": 114.66,
+      "end": 120.98,
+      "text": "There are three pick-up points in town, Main Street, Centenary Square or the Central Bus",
+      "avgLogprob": -0.19720432860357268
+    },
+    {
+      "start": 120.98,
+      "end": 121.98,
+      "text": "Station.",
+      "avgLogprob": -0.19720432860357268
+    },
+    {
+      "start": 121.98,
+      "end": 127.02,
+      "text": "From Centenary Square, please. That's easier for me to get to than the bus station.",
+      "avgLogprob": -0.19720432860357268
+    },
+    {
+      "start": 127.02,
+      "end": 132.82,
+      "text": "And what time would you like to leave? There are coaches on the hour every hour from 12",
+      "avgLogprob": -0.19720432860357268
+    },
+    {
+      "start": 132.82,
+      "end": 134.42,
+      "text": "through till 6pm.",
+      "avgLogprob": -0.19720432860357268
+    },
+    {
+      "start": 134.42,
+      "end": 141.06,
+      "text": "Well, I'm meeting someone at the station in London and I need to be there for 4.30.",
+      "avgLogprob": -0.19720432860357268
+    },
+    {
+      "start": 141.06,
+      "end": 143.5,
+      "text": "So which one would you recommend?",
+      "avgLogprob": -0.19720432860357268
+    },
+    {
+      "start": 143.5,
+      "end": 150.5,
+      "text": "Hmm. Well, there's one leaving at one that arrives at Victoria Station at 4.10, if that's any good.",
+      "avgLogprob": -0.14557953953158623
+    },
+    {
+      "start": 150.5,
+      "end": 159.0,
+      "text": "Traffic is usually quite light at the weekend, and the drivers tend to make good time, so I think you'd certainly be there for 4.30.",
+      "avgLogprob": -0.14557953953158623
+    },
+    {
+      "start": 159.0,
+      "end": 166.5,
+      "text": "Okay. That sounds just right. I think I'll take that. I can always phone ahead if I'm going to be late.",
+      "avgLogprob": -0.14557953953158623
+    },
+    {
+      "start": 166.5,
+      "end": 168.5,
+      "text": "And when are you returning, sir?",
+      "avgLogprob": -0.14557953953158623
+    },
+    {
+      "start": 168.5,
+      "end": 174.58,
+      "text": "Actually, I'm not sure when I'll be coming back, so I won't book a return ticket, just one way.",
+      "avgLogprob": -0.09129228699021041
+    },
+    {
+      "start": 174.58,
+      "end": 179.86,
+      "text": "I can always book you an open return if you'd like. You can use this at any time within the",
+      "avgLogprob": -0.09129228699021041
+    },
+    {
+      "start": 179.86,
+      "end": 184.18,
+      "text": "next month, as long as you contact us first to reserve a seat.",
+      "avgLogprob": -0.09129228699021041
+    },
+    {
+      "start": 184.18,
+      "end": 187.54,
+      "text": "Well, there's a chance I might be getting a lift back, you see,",
+      "avgLogprob": -0.09129228699021041
+    },
+    {
+      "start": 188.1,
+      "end": 193.22,
+      "text": "so I'll just pay for one way. I don't want to buy a return if I don't need it.",
+      "avgLogprob": -0.09129228699021041
+    },
+    {
+      "start": 193.22,
+      "end": 196.66,
+      "text": "Okay, no problem. Are you travelling alone?",
+      "avgLogprob": -0.09129228699021041
+    },
+    {
+      "start": 196.66,
+      "end": 201.94,
+      "text": "Just the one ticket, please. I'm going down to visit my daughter at university.",
+      "avgLogprob": -0.14074006998861158
+    },
+    {
+      "start": 201.94,
+      "end": 205.94,
+      "text": "My son's meeting me at the station, so it's a proper family reunion.",
+      "avgLogprob": -0.14074006998861158
+    },
+    {
+      "start": 207.3,
+      "end": 214.34,
+      "text": "Very nice. Okay. Well, I can book that for you if you like, sir. That'll be £23.50.",
+      "avgLogprob": -0.14074006998861158
+    },
+    {
+      "start": 215.06,
+      "end": 219.54,
+      "text": "Now, I just need to take down some details. Can I have your name, please?",
+      "avgLogprob": -0.14074006998861158
+    },
+    {
+      "start": 219.54,
+      "end": 226.26,
+      "text": "Yes, it's Matthew Upton. That's U-P-T-O-N.",
+      "avgLogprob": -0.14074006998861158
+    },
+    {
+      "start": 226.66,
+      "end": 228.66,
+      "text": "And your address?",
+      "avgLogprob": -0.23025545608866346
+    },
+    {
+      "start": 228.66,
+      "end": 235.66,
+      "text": "34 Allersley Road, Allersley, that's A-L-L-E-S-L-E-Y.",
+      "avgLogprob": -0.23025545608866346
+    },
+    {
+      "start": 235.66,
+      "end": 237.66,
+      "text": "And your telephone number?",
+      "avgLogprob": -0.23025545608866346
+    },
+    {
+      "start": 237.66,
+      "end": 242.66,
+      "text": "01732 558 997.",
+      "avgLogprob": -0.23025545608866346
+    },
+    {
+      "start": 242.66,
+      "end": 248.66,
+      "text": "And your email address? We'll use this to send confirmation of your travel details.",
+      "avgLogprob": -0.23025545608866346
+    },
+    {
+      "start": 248.66,
+      "end": 252.66,
+      "text": "mat257 at yahoo.co.uk",
+      "avgLogprob": -0.23025545608866346
+    },
+    {
+      "start": 252.66,
+      "end": 254.66,
+      "text": "Okay, thanks.",
+      "avgLogprob": -0.23025545608866346
+    },
+    {
+      "start": 254.66,
+      "end": 294.01,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 8 to 10.",
+      "avgLogprob": -0.11915195707617135
+    },
+    {
+      "start": 294.01,
+      "end": 300.66,
+      "text": "Now listen and answer questions 8 to 10.",
+      "avgLogprob": -0.11915195707617135
+    },
+    {
+      "start": 300.66,
+      "end": 306.66,
+      "text": "Before I forget, I'll be taking a little luggage. Is there a set luggage allowance?",
+      "avgLogprob": -0.11915195707617135
+    },
+    {
+      "start": 306.66,
+      "end": 314.66,
+      "text": "We offer a very good luggage allowance. You can take two suitcases, as long as they're no more than 20 kilos each.",
+      "avgLogprob": -0.11915195707617135
+    },
+    {
+      "start": 314.66,
+      "end": 319.96,
+      "text": "That's 40 kilos in total, and one small item of hand luggage on the coach.",
+      "avgLogprob": -0.1413926229256542
+    },
+    {
+      "start": 320.46,
+      "end": 322.56,
+      "text": "Most people find that more than adequate.",
+      "avgLogprob": -0.1413926229256542
+    },
+    {
+      "start": 323.06,
+      "end": 327.86,
+      "text": "Any additional items carry an extra charge of £10 for each bag.",
+      "avgLogprob": -0.1413926229256542
+    },
+    {
+      "start": 328.16,
+      "end": 331.26,
+      "text": "I certainly won't be taking that much, so I should be okay.",
+      "avgLogprob": -0.1413926229256542
+    },
+    {
+      "start": 331.96,
+      "end": 334.46,
+      "text": "I was worried I might be taking too much.",
+      "avgLogprob": -0.1413926229256542
+    },
+    {
+      "start": 334.86,
+      "end": 337.76,
+      "text": "Would you like travel insurance included with your ticket?",
+      "avgLogprob": -0.1413926229256542
+    },
+    {
+      "start": 338.16,
+      "end": 339.86,
+      "text": "It's an additional £2.",
+      "avgLogprob": -0.1413926229256542
+    },
+    {
+      "start": 340.26,
+      "end": 341.66,
+      "text": "No, I don't think so.",
+      "avgLogprob": -0.1413926229256542
+    },
+    {
+      "start": 341.86,
+      "end": 343.76,
+      "text": "No problem. It's not compulsory.",
+      "avgLogprob": -0.1413926229256542
+    },
+    {
+      "start": 343.76,
+      "end": 346.76,
+      "text": "Okay, how will you be paying?",
+      "avgLogprob": -0.1403716519935844
+    },
+    {
+      "start": 346.76,
+      "end": 357.76,
+      "text": "Actually, I've been having trouble with my debit card today, and I've left my checkbook at home, so I'd better pay in cash. You'll give me a receipt, won't you?",
+      "avgLogprob": -0.1403716519935844
+    },
+    {
+      "start": 357.76,
+      "end": 367.76,
+      "text": "Certainly, and we'll send confirmation to your email address as well. So that's £23.50, sir. If you just wait a minute, I'll print you off a receipt.",
+      "avgLogprob": -0.1403716519935844
+    },
+    {
+      "start": 367.76,
+      "end": 407.18,
+      "text": "That is the end of section 1. You now have half a minute to check your answers.",
+      "avgLogprob": -0.14744312594186015
+    },
+    {
+      "start": 407.18,
+      "end": 415.97,
+      "text": "Now turn to section 2.",
+      "avgLogprob": -0.14744312594186015
+    },
+    {
+      "start": 415.97,
+      "end": 423.97,
+      "text": "Section 2. You will hear a woman talking about health and safety when using a computer.",
+      "avgLogprob": -0.14744312594186015
+    },
+    {
+      "start": 423.97,
+      "end": 458.2,
+      "text": "First, you have some time to look at questions 11 to 17.",
+      "avgLogprob": -0.14744312594186015
+    },
+    {
+      "start": 458.2,
+      "end": 464.44,
+      "text": "Listen carefully to the first part of the talk and answer questions 11 to 17.",
+      "avgLogprob": -0.1579107533038502
+    },
+    {
+      "start": 467.73,
+      "end": 473.17,
+      "text": "Hello everyone and welcome to the second session on health and safety.",
+      "avgLogprob": -0.1579107533038502
+    },
+    {
+      "start": 473.17,
+      "end": 477.89,
+      "text": "And today we're focusing on health and safety when using a computer.",
+      "avgLogprob": -0.1579107533038502
+    },
+    {
+      "start": 478.61,
+      "end": 482.05,
+      "text": "Now can you all gather round this workstation here?",
+      "avgLogprob": -0.1579107533038502
+    },
+    {
+      "start": 483.09,
+      "end": 484.37,
+      "text": "That's great thanks.",
+      "avgLogprob": -0.1579107533038502
+    },
+    {
+      "start": 484.37,
+      "end": 491.57,
+      "text": "OK, now, let's look at some equipment that is specifically designed for safe computer",
+      "avgLogprob": -0.1730185550534063
+    },
+    {
+      "start": 491.57,
+      "end": 501.69,
+      "text": "use. Firstly, take a look at this item here. Yes, the sloped slab in front of the keyboard.",
+      "avgLogprob": -0.1730185550534063
+    },
+    {
+      "start": 501.69,
+      "end": 509.85,
+      "text": "Does anyone know what it is? That's right, it's a wrist rest. And it does a lot more",
+      "avgLogprob": -0.1730185550534063
+    },
+    {
+      "start": 509.85,
+      "end": 514.45,
+      "text": "than take up room on your desk, I can tell you.",
+      "avgLogprob": -0.22300806838077503
+    },
+    {
+      "start": 514.45,
+      "end": 518.07,
+      "text": "Well, what does it do, exactly?",
+      "avgLogprob": -0.22300806838077503
+    },
+    {
+      "start": 518.07,
+      "end": 525.37,
+      "text": "In actual fact, it's specifically designed to support your wrist when you're typing or",
+      "avgLogprob": -0.22300806838077503
+    },
+    {
+      "start": 525.37,
+      "end": 528.49,
+      "text": "when you're using a computer mouse.",
+      "avgLogprob": -0.22300806838077503
+    },
+    {
+      "start": 528.49,
+      "end": 534.59,
+      "text": "Now, the one I'm holding in my hand is made of foam rubber.",
+      "avgLogprob": -0.22300806838077503
+    },
+    {
+      "start": 534.59,
+      "end": 538.79,
+      "text": "Come on now, have a feel, you know you want to.",
+      "avgLogprob": -0.22300806838077503
+    },
+    {
+      "start": 538.79,
+      "end": 546.43,
+      "text": "Now it's very flexible isn't it? The padding is firm but it also gives way when you press",
+      "avgLogprob": -0.17520613776785987
+    },
+    {
+      "start": 546.43,
+      "end": 556.01,
+      "text": "it just like this. Here's another type by the way this one is filled with gel. Now like",
+      "avgLogprob": -0.17520613776785987
+    },
+    {
+      "start": 556.01,
+      "end": 563.61,
+      "text": "the foam rubber type it's got a firm surface but when you press it like this it gives way",
+      "avgLogprob": -0.17520613776785987
+    },
+    {
+      "start": 563.61,
+      "end": 571.69,
+      "text": "with a little spring. However, not all wrist rests are flexible like that. Some are made",
+      "avgLogprob": -0.19658825997459262
+    },
+    {
+      "start": 571.69,
+      "end": 577.73,
+      "text": "from hard plastic. That doesn't sound like a comfortable support for your wrist, does",
+      "avgLogprob": -0.19658825997459262
+    },
+    {
+      "start": 577.73,
+      "end": 581.77,
+      "text": "it? So, not to be recommended.",
+      "avgLogprob": -0.19658825997459262
+    },
+    {
+      "start": 581.77,
+      "end": 590.13,
+      "text": "Okay, so we know what kind of material we're looking for in a wrist rest. But what else",
+      "avgLogprob": -0.19658825997459262
+    },
+    {
+      "start": 590.13,
+      "end": 594.13,
+      "text": "What else do we have to think about before we choose one?",
+      "avgLogprob": -0.1356408697914104
+    },
+    {
+      "start": 594.13,
+      "end": 599.13,
+      "text": "Now look again at the foam rubber wrist rest here.",
+      "avgLogprob": -0.1356408697914104
+    },
+    {
+      "start": 599.13,
+      "end": 605.13,
+      "text": "You can see that the slope of the wrist rest and the height and the width too,",
+      "avgLogprob": -0.1356408697914104
+    },
+    {
+      "start": 605.13,
+      "end": 609.13,
+      "text": "match the front edge of the keyboard here.",
+      "avgLogprob": -0.1356408697914104
+    },
+    {
+      "start": 609.13,
+      "end": 612.13,
+      "text": "And there are no sharp edges.",
+      "avgLogprob": -0.1356408697914104
+    },
+    {
+      "start": 612.13,
+      "end": 615.13,
+      "text": "Look, it's really nice and smooth.",
+      "avgLogprob": -0.1356408697914104
+    },
+    {
+      "start": 615.13,
+      "end": 619.13,
+      "text": "Now we know it's a busy time for you all at the moment.",
+      "avgLogprob": -0.1356408697914104
+    },
+    {
+      "start": 619.13,
+      "end": 624.41,
+      "text": "You're busy with assignments, in between the hours you're spending browsing the net and",
+      "avgLogprob": -0.20716907886358407
+    },
+    {
+      "start": 624.41,
+      "end": 627.57,
+      "text": "going on social networking sites?",
+      "avgLogprob": -0.20716907886358407
+    },
+    {
+      "start": 627.57,
+      "end": 633.53,
+      "text": "Well, just think about how hard your wrist has to work.",
+      "avgLogprob": -0.20716907886358407
+    },
+    {
+      "start": 633.53,
+      "end": 640.17,
+      "text": "So using a wrist rest like this one can really help in a number of ways.",
+      "avgLogprob": -0.20716907886358407
+    },
+    {
+      "start": 640.17,
+      "end": 645.89,
+      "text": "First of all, it helps you keep your wrist straight when you're using your computer.",
+      "avgLogprob": -0.20716907886358407
+    },
+    {
+      "start": 645.89,
+      "end": 648.37,
+      "text": "I'm demonstrating this now.",
+      "avgLogprob": -0.20716907886358407
+    },
+    {
+      "start": 648.37,
+      "end": 655.57,
+      "text": "As you can see, my wrist is neutral and straight rather than bent up and down.",
+      "avgLogprob": -0.12890336250788287
+    },
+    {
+      "start": 655.57,
+      "end": 657.45,
+      "text": "See what I mean?",
+      "avgLogprob": -0.12890336250788287
+    },
+    {
+      "start": 657.45,
+      "end": 661.81,
+      "text": "Now it can also provide padding for your hands.",
+      "avgLogprob": -0.12890336250788287
+    },
+    {
+      "start": 661.81,
+      "end": 668.93,
+      "text": "It works in much the same way as a cushion so it makes your desk much more comfortable.",
+      "avgLogprob": -0.12890336250788287
+    },
+    {
+      "start": 668.93,
+      "end": 674.33,
+      "text": "Now please note, I did say cushion rather than pillow.",
+      "avgLogprob": -0.12890336250788287
+    },
+    {
+      "start": 674.33,
+      "end": 678.93,
+      "text": "We don't want you students to be too comfortable.",
+      "avgLogprob": -0.1557261158907136
+    },
+    {
+      "start": 678.93,
+      "end": 684.29,
+      "text": "Another advantage of a wrist rest is that it stops your hands from dropping off the",
+      "avgLogprob": -0.1557261158907136
+    },
+    {
+      "start": 684.29,
+      "end": 687.05,
+      "text": "edge of the keyboard.",
+      "avgLogprob": -0.1557261158907136
+    },
+    {
+      "start": 687.05,
+      "end": 693.97,
+      "text": "A wrist rest can also relieve tension and soreness in your neck and shoulders.",
+      "avgLogprob": -0.1557261158907136
+    },
+    {
+      "start": 693.97,
+      "end": 696.41,
+      "text": "And how does it do that exactly?",
+      "avgLogprob": -0.1557261158907136
+    },
+    {
+      "start": 696.41,
+      "end": 704.11,
+      "text": "Well, it removes the weight of your arm from your shoulders and neck altogether.",
+      "avgLogprob": -0.1557261158907136
+    },
+    {
+      "start": 704.11,
+      "end": 707.23,
+      "text": "So there are a lot of benefits, aren't there?",
+      "avgLogprob": -0.17044411765204537
+    },
+    {
+      "start": 707.23,
+      "end": 712.91,
+      "text": "However, most people never learn how to use a wrist rest correctly.",
+      "avgLogprob": -0.17044411765204537
+    },
+    {
+      "start": 712.91,
+      "end": 719.75,
+      "text": "In fact, leaning your wrists on a wrist rest for long periods can put a lot of pressure",
+      "avgLogprob": -0.17044411765204537
+    },
+    {
+      "start": 719.75,
+      "end": 726.98,
+      "text": "on the undersides of your wrists, just here.",
+      "avgLogprob": -0.17044411765204537
+    },
+    {
+      "start": 726.98,
+      "end": 741.52,
+      "text": "Now you have some time to look at questions 18 to 20.",
+      "avgLogprob": -0.17044411765204537
+    },
+    {
+      "start": 741.52,
+      "end": 752.27,
+      "text": "listen to the rest of the talk and answer questions 18 to 20. So to make the most of",
+      "avgLogprob": -0.13842450734227896
+    },
+    {
+      "start": 752.27,
+      "end": 760.67,
+      "text": "your wrist rest it's really important to follow a few basic tips. First of all make sure you",
+      "avgLogprob": -0.13842450734227896
+    },
+    {
+      "start": 760.67,
+      "end": 768.11,
+      "text": "place your wrist rest approximately one and a half inches away from your keyboard like this",
+      "avgLogprob": -0.13842450734227896
+    },
+    {
+      "start": 768.11,
+      "end": 775.11,
+      "text": "And never ever place your wrists directly on your wrist rest.",
+      "avgLogprob": -0.13377005724530472
+    },
+    {
+      "start": 775.11,
+      "end": 781.11,
+      "text": "Instead, place the palm or ball of your hand on the rest.",
+      "avgLogprob": -0.13377005724530472
+    },
+    {
+      "start": 781.11,
+      "end": 788.11,
+      "text": "And another thing, don't use the wrist rest all the time, particularly when you're typing.",
+      "avgLogprob": -0.13377005724530472
+    },
+    {
+      "start": 788.11,
+      "end": 797.11,
+      "text": "Instead, your hands should be on the wrist rests during break periods, so between your typing sessions.",
+      "avgLogprob": -0.13377005724530472
+    },
+    {
+      "start": 797.11,
+      "end": 802.11,
+      "text": "This will avoid you putting strain on your wrists and fingers.",
+      "avgLogprob": -0.09472560891438098
+    },
+    {
+      "start": 802.11,
+      "end": 809.11,
+      "text": "Now, does anyone have any questions before we move on to computer glasses?",
+      "avgLogprob": -0.09472560891438098
+    },
+    {
+      "start": 809.11,
+      "end": 814.83,
+      "text": "That is the end of section 2.",
+      "avgLogprob": -0.09472560891438098
+    },
+    {
+      "start": 814.83,
+      "end": 818.83,
+      "text": "You now have half a minute to check your answers.",
+      "avgLogprob": -0.09472560891438098
+    },
+    {
+      "start": 818.83,
+      "end": 850.81,
+      "text": "Section 3",
+      "avgLogprob": -0.09472560891438098
+    },
+    {
+      "start": 850.81,
+      "end": 858.81,
+      "text": "You will hear two students, Brian and Emily, talking about penguins, the subject of their current assignment.",
+      "avgLogprob": -0.09472560891438098
+    },
+    {
+      "start": 858.81,
+      "end": 884.43,
+      "text": "First you have some time to look at questions 21 to 24.",
+      "avgLogprob": -0.12194187065650677
+    },
+    {
+      "start": 884.43,
+      "end": 890.43,
+      "text": "Now listen to the first part of the conversation and answer questions 21 to 24.",
+      "avgLogprob": -0.12194187065650677
+    },
+    {
+      "start": 890.43,
+      "end": 897.24,
+      "text": "So, Brian, how have you been doing with your reading on penguins?",
+      "avgLogprob": -0.12194187065650677
+    },
+    {
+      "start": 897.24,
+      "end": 899.24,
+      "text": "Not too bad, Emily. And you?",
+      "avgLogprob": -0.12194187065650677
+    },
+    {
+      "start": 899.24,
+      "end": 906.24,
+      "text": "Yeah, okay. I hadn't realised there were so many differences between the various types of penguin.",
+      "avgLogprob": -0.12194187065650677
+    },
+    {
+      "start": 906.24,
+      "end": 907.24,
+      "text": "No.",
+      "avgLogprob": -0.18472270800815366
+    },
+    {
+      "start": 907.24,
+      "end": 908.24,
+      "text": "Nor had I.",
+      "avgLogprob": -0.18472270800815366
+    },
+    {
+      "start": 908.24,
+      "end": 911.68,
+      "text": "Anyway, I started with the Gen 2.",
+      "avgLogprob": -0.18472270800815366
+    },
+    {
+      "start": 911.68,
+      "end": 913.56,
+      "text": "And me with the rock hopper.",
+      "avgLogprob": -0.18472270800815366
+    },
+    {
+      "start": 913.56,
+      "end": 916.32,
+      "text": "And it turns out they're rather cautious.",
+      "avgLogprob": -0.18472270800815366
+    },
+    {
+      "start": 916.32,
+      "end": 918.4,
+      "text": "Not scared of swimming, I trust.",
+      "avgLogprob": -0.18472270800815366
+    },
+    {
+      "start": 918.4,
+      "end": 919.72,
+      "text": "Oh no.",
+      "avgLogprob": -0.18472270800815366
+    },
+    {
+      "start": 919.72,
+      "end": 922.4,
+      "text": "But they don't like going about at night.",
+      "avgLogprob": -0.18472270800815366
+    },
+    {
+      "start": 922.4,
+      "end": 924.72,
+      "text": "Scared of the dark, I suppose.",
+      "avgLogprob": -0.18472270800815366
+    },
+    {
+      "start": 924.72,
+      "end": 930.5,
+      "text": "And if they're climbing over some rocky landscape, they'll only jump if they have to.",
+      "avgLogprob": -0.18472270800815366
+    },
+    {
+      "start": 930.5,
+      "end": 935.72,
+      "text": "And even then, they'll look carefully down and spend time deciding whether to or not.",
+      "avgLogprob": -0.18472270800815366
+    },
+    {
+      "start": 935.72,
+      "end": 936.72,
+      "text": "Is that common?",
+      "avgLogprob": -0.16202119339344112
+    },
+    {
+      "start": 936.72,
+      "end": 938.66,
+      "text": "I don't think so.",
+      "avgLogprob": -0.16202119339344112
+    },
+    {
+      "start": 938.66,
+      "end": 943.16,
+      "text": "The rockhopper will have a quick look if it's somewhere they haven't dropped down before,",
+      "avgLogprob": -0.16202119339344112
+    },
+    {
+      "start": 943.16,
+      "end": 945.32,
+      "text": "but they don't seem timid.",
+      "avgLogprob": -0.16202119339344112
+    },
+    {
+      "start": 945.32,
+      "end": 949.2,
+      "text": "In fact they're pretty determined, and if they're trying to get up somewhere they grip",
+      "avgLogprob": -0.16202119339344112
+    },
+    {
+      "start": 949.2,
+      "end": 953.72,
+      "text": "onto the stones with their slightly hooked bills as well as their nails when the surface",
+      "avgLogprob": -0.16202119339344112
+    },
+    {
+      "start": 953.72,
+      "end": 955.56,
+      "text": "gets very steep.",
+      "avgLogprob": -0.16202119339344112
+    },
+    {
+      "start": 955.56,
+      "end": 957.28,
+      "text": "Nothing stops them.",
+      "avgLogprob": -0.16202119339344112
+    },
+    {
+      "start": 957.28,
+      "end": 958.28,
+      "text": "Interesting.",
+      "avgLogprob": -0.16202119339344112
+    },
+    {
+      "start": 958.28,
+      "end": 963.32,
+      "text": "Because the other type I looked into, the Magalanic, tend to stick to the beach rather",
+      "avgLogprob": -0.16202119339344112
+    },
+    {
+      "start": 963.32,
+      "end": 964.92,
+      "text": "than going inland.",
+      "avgLogprob": -0.16202119339344112
+    },
+    {
+      "start": 964.92,
+      "end": 969.56,
+      "text": "So you see them walking along with their flippers at their sides, or a bit forward.",
+      "avgLogprob": -0.11433707074158722
+    },
+    {
+      "start": 969.56,
+      "end": 973.62,
+      "text": "If they come across something they haven't seen before, they cock their head first to",
+      "avgLogprob": -0.11433707074158722
+    },
+    {
+      "start": 973.62,
+      "end": 979.64,
+      "text": "one side, then the other, peering out of each eye in turn, as if they don't quite believe",
+      "avgLogprob": -0.11433707074158722
+    },
+    {
+      "start": 979.64,
+      "end": 982.56,
+      "text": "anything until they've double-checked it.",
+      "avgLogprob": -0.11433707074158722
+    },
+    {
+      "start": 982.56,
+      "end": 987.4,
+      "text": "And then, when they call to each other about anything, they arch their back strangely",
+      "avgLogprob": -0.11433707074158722
+    },
+    {
+      "start": 987.4,
+      "end": 991.28,
+      "text": "first before making a very loud noise indeed.",
+      "avgLogprob": -0.11433707074158722
+    },
+    {
+      "start": 991.28,
+      "end": 995.68,
+      "text": "because the king penguin stands very upright when it calls",
+      "avgLogprob": -0.21087727598522021
+    },
+    {
+      "start": 995.68,
+      "end": 999.68,
+      "text": "and they have the longest flippers which they hold towards the ground",
+      "avgLogprob": -0.21087727598522021
+    },
+    {
+      "start": 999.68,
+      "end": 1004.16,
+      "text": "as if they're worried about falling over, but it's quite dignified too.",
+      "avgLogprob": -0.21087727598522021
+    },
+    {
+      "start": 1004.16,
+      "end": 1009.8,
+      "text": "I think they're my favorite type.",
+      "avgLogprob": -0.21087727598522021
+    },
+    {
+      "start": 1009.8,
+      "end": 1014.5,
+      "text": "Now you have some time to look at questions 25 to 27.",
+      "avgLogprob": -0.21087727598522021
+    },
+    {
+      "start": 1014.5,
+      "end": 1035.13,
+      "text": "Now listen to the next part of the conversation and answer questions 25 to 27.",
+      "avgLogprob": -0.21087727598522021
+    },
+    {
+      "start": 1035.13,
+      "end": 1042.33,
+      "text": "Anyway, there are some things that they all do the same, aren't there?",
+      "avgLogprob": -0.11989456018219229
+    },
+    {
+      "start": 1042.33,
+      "end": 1044.33,
+      "text": "Oh yes. Eating fish, for example.",
+      "avgLogprob": -0.11989456018219229
+    },
+    {
+      "start": 1044.33,
+      "end": 1047.33,
+      "text": "Well, of course. But sleeping, say.",
+      "avgLogprob": -0.11989456018219229
+    },
+    {
+      "start": 1047.33,
+      "end": 1053.33,
+      "text": "Yes. Occasionally you might see one stretched out flat in the sun for a snooze.",
+      "avgLogprob": -0.11989456018219229
+    },
+    {
+      "start": 1053.33,
+      "end": 1057.33,
+      "text": "But normally you see them standing at night, even though they sound asleep.",
+      "avgLogprob": -0.11989456018219229
+    },
+    {
+      "start": 1057.33,
+      "end": 1059.33,
+      "text": "It seems odd, doesn't it?",
+      "avgLogprob": -0.11989456018219229
+    },
+    {
+      "start": 1059.33,
+      "end": 1063.33,
+      "text": "And then they're all liable to get aggressive if they feel invaded, aren't they?",
+      "avgLogprob": -0.11989456018219229
+    },
+    {
+      "start": 1063.33,
+      "end": 1066.33,
+      "text": "Yeah. Not quite so sweet then.",
+      "avgLogprob": -0.11989456018219229
+    },
+    {
+      "start": 1066.33,
+      "end": 1068.13,
+      "text": "And with the rockhopper?",
+      "avgLogprob": -0.1798393915339214
+    },
+    {
+      "start": 1068.13,
+      "end": 1071.21,
+      "text": "The one with the distinctive black and yellow feathers on its head.",
+      "avgLogprob": -0.1798393915339214
+    },
+    {
+      "start": 1071.21,
+      "end": 1072.21,
+      "text": "That's the one.",
+      "avgLogprob": -0.1798393915339214
+    },
+    {
+      "start": 1072.21,
+      "end": 1077.05,
+      "text": "If it gets annoyed about something, then the black feathers on the head point upwards,",
+      "avgLogprob": -0.1798393915339214
+    },
+    {
+      "start": 1077.05,
+      "end": 1079.17,
+      "text": "and the yellow feathers stick out.",
+      "avgLogprob": -0.1798393915339214
+    },
+    {
+      "start": 1079.17,
+      "end": 1081.81,
+      "text": "It all makes it look bigger or tougher.",
+      "avgLogprob": -0.1798393915339214
+    },
+    {
+      "start": 1081.81,
+      "end": 1083.85,
+      "text": "I wonder how often they get annoyed.",
+      "avgLogprob": -0.1798393915339214
+    },
+    {
+      "start": 1083.85,
+      "end": 1089.13,
+      "text": "Well, I don't know about annoyed, but they've plenty to get frightened of.",
+      "avgLogprob": -0.1798393915339214
+    },
+    {
+      "start": 1089.13,
+      "end": 1094.13,
+      "text": "They've got predators in the water, and on land, well, in the sky anyway.",
+      "avgLogprob": -0.1798393915339214
+    },
+    {
+      "start": 1094.13,
+      "end": 1098.13,
+      "text": "Oh yes, the great skewer bird. It's after the eggs.",
+      "avgLogprob": -0.11591040067844563
+    },
+    {
+      "start": 1098.13,
+      "end": 1104.13,
+      "text": "So the penguins have to keep a careful watch for the skewer all the time, especially when they're nesting?",
+      "avgLogprob": -0.11591040067844563
+    },
+    {
+      "start": 1104.13,
+      "end": 1108.13,
+      "text": "They can spot the white patches in its wings, can't they, as one flies over?",
+      "avgLogprob": -0.11591040067844563
+    },
+    {
+      "start": 1108.13,
+      "end": 1112.13,
+      "text": "Yes, and then they sit very closely on the eggs to protect them.",
+      "avgLogprob": -0.11591040067844563
+    },
+    {
+      "start": 1112.13,
+      "end": 1114.13,
+      "text": "Not an easy life, really?",
+      "avgLogprob": -0.11591040067844563
+    },
+    {
+      "start": 1114.13,
+      "end": 1118.04,
+      "text": "No.",
+      "avgLogprob": -0.11591040067844563
+    },
+    {
+      "start": 1118.04,
+      "end": 1122.04,
+      "text": "Now you have some time to look at questions 28 to 30.",
+      "avgLogprob": -0.11591040067844563
+    },
+    {
+      "start": 1122.04,
+      "end": 1142.5,
+      "text": "Now listen to the rest of the conversation and answer questions 28 to 30.",
+      "avgLogprob": -0.08620205192189467
+    },
+    {
+      "start": 1142.5,
+      "end": 1147.51,
+      "text": "So what else have we found out?",
+      "avgLogprob": -0.08620205192189467
+    },
+    {
+      "start": 1147.51,
+      "end": 1154.51,
+      "text": "Well, I was interested to see that, although they nest individually, they always go into the sea together, in large numbers.",
+      "avgLogprob": -0.08620205192189467
+    },
+    {
+      "start": 1154.51,
+      "end": 1157.51,
+      "text": "Even though it might make them more obvious to predators.",
+      "avgLogprob": -0.08620205192189467
+    },
+    {
+      "start": 1157.51,
+      "end": 1162.51,
+      "text": "That's the price to pay for the best way to find food. It means a bigger catch from each trip.",
+      "avgLogprob": -0.08620205192189467
+    },
+    {
+      "start": 1162.51,
+      "end": 1169.51,
+      "text": "I see. I watched a video too, just showing them on the beach, and I was struck by how calm they seemed to be.",
+      "avgLogprob": -0.12953202466706973
+    },
+    {
+      "start": 1169.51,
+      "end": 1171.51,
+      "text": "I thought they might have looked frightened.",
+      "avgLogprob": -0.12953202466706973
+    },
+    {
+      "start": 1171.51,
+      "end": 1176.51,
+      "text": "Perhaps it's because there are so many of them. Maybe that gives them a sense of security.",
+      "avgLogprob": -0.12953202466706973
+    },
+    {
+      "start": 1176.51,
+      "end": 1179.51,
+      "text": "In fact, all the types have a social nature.",
+      "avgLogprob": -0.12953202466706973
+    },
+    {
+      "start": 1179.51,
+      "end": 1183.51,
+      "text": "I guess that's why we humans find them so fascinating to observe.",
+      "avgLogprob": -0.12953202466706973
+    },
+    {
+      "start": 1183.51,
+      "end": 1188.51,
+      "text": "I guess so. So, shall we start to put all our notes together?",
+      "avgLogprob": -0.12953202466706973
+    },
+    {
+      "start": 1188.51,
+      "end": 1228.86,
+      "text": "That is the end of section 3. You now have half a minute to check your answers.",
+      "avgLogprob": -0.12531592983465928
+    },
+    {
+      "start": 1228.86,
+      "end": 1230.86,
+      "text": "Now turn to section 4.",
+      "avgLogprob": -0.12531592983465928
+    },
+    {
+      "start": 1230.86,
+      "end": 1243.33,
+      "text": "Section 4. You are going to hear a lecturer giving a talk on time management strategies.",
+      "avgLogprob": -0.12531592983465928
+    },
+    {
+      "start": 1243.33,
+      "end": 1308.1,
+      "text": "First, you have some time to look at questions 31 to 40.",
+      "avgLogprob": -0.12531592983465928
+    },
+    {
+      "start": 1308.1,
+      "end": 1312.1,
+      "text": "Now listen and answer questions 31 to 40.",
+      "avgLogprob": -0.12531592983465928
+    },
+    {
+      "start": 1312.1,
+      "end": 1318.28,
+      "text": "Hi everyone, today Mark has come in to talk to you about time management strategies. If",
+      "avgLogprob": -0.16508068290411257
+    },
+    {
+      "start": 1318.28,
+      "end": 1322.38,
+      "text": "you remember, in the introductory session, I told you the difference it can make to your",
+      "avgLogprob": -0.16508068290411257
+    },
+    {
+      "start": 1322.38,
+      "end": 1328.99,
+      "text": "studies, so this is an incredibly important session. Thanks, Mark.",
+      "avgLogprob": -0.16508068290411257
+    },
+    {
+      "start": 1328.99,
+      "end": 1335.71,
+      "text": "Hello. Yes, I'm Mark. I lecture over in the business school, but I have a bit of a reputation",
+      "avgLogprob": -0.16508068290411257
+    },
+    {
+      "start": 1335.71,
+      "end": 1341.31,
+      "text": "for being rather evangelical about time management, and I'm often invited into other courses",
+      "avgLogprob": -0.16508068290411257
+    },
+    {
+      "start": 1341.31,
+      "end": 1342.87,
+      "text": "to talk about it.",
+      "avgLogprob": -0.1071877303172131
+    },
+    {
+      "start": 1342.87,
+      "end": 1345.59,
+      "text": "So here I am.",
+      "avgLogprob": -0.1071877303172131
+    },
+    {
+      "start": 1345.59,
+      "end": 1351.59,
+      "text": "You've now come to the end of your first week at university, and you've probably noticed",
+      "avgLogprob": -0.1071877303172131
+    },
+    {
+      "start": 1351.59,
+      "end": 1355.03,
+      "text": "how different it is from school or college.",
+      "avgLogprob": -0.1071877303172131
+    },
+    {
+      "start": 1355.03,
+      "end": 1360.67,
+      "text": "For some people, this step-up comes very naturally, but in our experience, many students",
+      "avgLogprob": -0.1071877303172131
+    },
+    {
+      "start": 1360.67,
+      "end": 1364.05,
+      "text": "find this new regime a challenge.",
+      "avgLogprob": -0.1071877303172131
+    },
+    {
+      "start": 1364.05,
+      "end": 1368.83,
+      "text": "People aren't watching over you anywhere near as much, and you're expected to be far",
+      "avgLogprob": -0.1071877303172131
+    },
+    {
+      "start": 1368.83,
+      "end": 1377.15,
+      "text": "more responsible for your own learning. Research I've carried out shows that 65% of male students",
+      "avgLogprob": -0.11863971447072379
+    },
+    {
+      "start": 1377.15,
+      "end": 1383.19,
+      "text": "have poor time management skills. It's not quite so high for females, but still, a majority",
+      "avgLogprob": -0.11863971447072379
+    },
+    {
+      "start": 1383.19,
+      "end": 1390.19,
+      "text": "of 55% would benefit from developing these skills. Students who don't will see their",
+      "avgLogprob": -0.11863971447072379
+    },
+    {
+      "start": 1390.19,
+      "end": 1396.55,
+      "text": "grades and general progress suffer as deadlines are missed or work gets rushed, with the",
+      "avgLogprob": -0.11863971447072379
+    },
+    {
+      "start": 1396.55,
+      "end": 1400.91,
+      "text": "decline in the quality of work as a result.",
+      "avgLogprob": -0.08127113364636898
+    },
+    {
+      "start": 1400.91,
+      "end": 1405.79,
+      "text": "In a nutshell, you need to be aware of the big picture, to know what's coming down the",
+      "avgLogprob": -0.08127113364636898
+    },
+    {
+      "start": 1405.79,
+      "end": 1413.51,
+      "text": "line at any given time and what needs prioritizing. Start by creating that big picture, using",
+      "avgLogprob": -0.08127113364636898
+    },
+    {
+      "start": 1413.51,
+      "end": 1419.55,
+      "text": "our yearly academic planner, and don't hide it away in a drawer somewhere. Give it pride",
+      "avgLogprob": -0.08127113364636898
+    },
+    {
+      "start": 1419.55,
+      "end": 1425.23,
+      "text": "if placed somewhere like on the bedroom wall so you'll have daily reminders of what's approaching.",
+      "avgLogprob": -0.08127113364636898
+    },
+    {
+      "start": 1425.23,
+      "end": 1430.59,
+      "text": "During this first week you'll have been given seminar and lecture times, essay deadlines,",
+      "avgLogprob": -0.11945519042671274
+    },
+    {
+      "start": 1430.59,
+      "end": 1432.47,
+      "text": "exam dates, and so on.",
+      "avgLogprob": -0.11945519042671274
+    },
+    {
+      "start": 1432.47,
+      "end": 1437.75,
+      "text": "Add these dates to your planner and add any new deadlines, such as seminar presentations",
+      "avgLogprob": -0.11945519042671274
+    },
+    {
+      "start": 1437.75,
+      "end": 1440.83,
+      "text": "or tutorial dates, as you get them.",
+      "avgLogprob": -0.11945519042671274
+    },
+    {
+      "start": 1440.83,
+      "end": 1445.47,
+      "text": "Those important non-academic occasions shouldn't be ignored either.",
+      "avgLogprob": -0.11945519042671274
+    },
+    {
+      "start": 1445.47,
+      "end": 1450.27,
+      "text": "Trips back home for family celebrations need to be factored in.",
+      "avgLogprob": -0.11945519042671274
+    },
+    {
+      "start": 1450.27,
+      "end": 1454.47,
+      "text": "Looking at your planner, the first thing that will strike you is how much time you",
+      "avgLogprob": -0.11945519042671274
+    },
+    {
+      "start": 1454.47,
+      "end": 1460.19,
+      "text": "have on your hands. Just a few seminars here and there, a couple of lectures on Tuesday",
+      "avgLogprob": -0.07848872160643675
+    },
+    {
+      "start": 1460.19,
+      "end": 1467.29,
+      "text": "and Thursday. Easy, you think. But this is very misleading indeed. Your planner only",
+      "avgLogprob": -0.07848872160643675
+    },
+    {
+      "start": 1467.29,
+      "end": 1474.31,
+      "text": "looks empty because it doesn't show all that essential self-study you'll need to do. And,",
+      "avgLogprob": -0.07848872160643675
+    },
+    {
+      "start": 1474.31,
+      "end": 1480.25,
+      "text": "as there's no one else structuring this time for you, you'll need to manage this yourself.",
+      "avgLogprob": -0.07848872160643675
+    },
+    {
+      "start": 1480.25,
+      "end": 1484.25,
+      "text": "You don't want to waste those hours between lectures or seminars in the",
+      "avgLogprob": -0.14028566769350356
+    },
+    {
+      "start": 1484.25,
+      "end": 1486.11,
+      "text": "café.",
+      "avgLogprob": -0.14028566769350356
+    },
+    {
+      "start": 1486.11,
+      "end": 1490.53,
+      "text": "Use this time to read through your lecture notes, prepare for the next seminar, or do",
+      "avgLogprob": -0.14028566769350356
+    },
+    {
+      "start": 1490.53,
+      "end": 1493.29,
+      "text": "some research for that next assignment.",
+      "avgLogprob": -0.14028566769350356
+    },
+    {
+      "start": 1493.29,
+      "end": 1499.43,
+      "text": "Essentially, structure your days on a nine-to-five basis as if you were a full-time employee,",
+      "avgLogprob": -0.14028566769350356
+    },
+    {
+      "start": 1499.43,
+      "end": 1504.89,
+      "text": "and start to calculate how you're going to fill those gaps efficiently.",
+      "avgLogprob": -0.14028566769350356
+    },
+    {
+      "start": 1504.89,
+      "end": 1508.63,
+      "text": "Start by considering how you're going to meet all those deadlines.",
+      "avgLogprob": -0.14028566769350356
+    },
+    {
+      "start": 1508.63,
+      "end": 1513.03,
+      "text": "If there are any cooks among you, you'll know that putting a nice meal on the table requires",
+      "avgLogprob": -0.11069072955953223
+    },
+    {
+      "start": 1513.03,
+      "end": 1516.55,
+      "text": "more than just, well, cooking.",
+      "avgLogprob": -0.11069072955953223
+    },
+    {
+      "start": 1516.55,
+      "end": 1523.39,
+      "text": "You need to research the ingredients, buy them, chop, slice, mix, and so on.",
+      "avgLogprob": -0.11069072955953223
+    },
+    {
+      "start": 1523.39,
+      "end": 1527.63,
+      "text": "Cooking itself is a long way into the process.",
+      "avgLogprob": -0.11069072955953223
+    },
+    {
+      "start": 1527.63,
+      "end": 1531.19,
+      "text": "It's the same with that essay you have to write, or that presentation you might have",
+      "avgLogprob": -0.11069072955953223
+    },
+    {
+      "start": 1531.19,
+      "end": 1532.19,
+      "text": "to make.",
+      "avgLogprob": -0.11069072955953223
+    },
+    {
+      "start": 1532.19,
+      "end": 1538.55,
+      "text": "They need careful planning beforehand, and that time needs to be built into your preparation.",
+      "avgLogprob": -0.11069072955953223
+    },
+    {
+      "start": 1538.55,
+      "end": 1542.57,
+      "text": "Start prioritizing what needs doing and when.",
+      "avgLogprob": -0.17957384357548722
+    },
+    {
+      "start": 1542.57,
+      "end": 1547.97,
+      "text": "Download our monthly and weekly planners to help you map it all out.",
+      "avgLogprob": -0.17957384357548722
+    },
+    {
+      "start": 1547.97,
+      "end": 1550.41,
+      "text": "And here's an important point.",
+      "avgLogprob": -0.17957384357548722
+    },
+    {
+      "start": 1550.41,
+      "end": 1556.57,
+      "text": "When you're planning what to do, be task-oriented rather than time-oriented and set achievable",
+      "avgLogprob": -0.17957384357548722
+    },
+    {
+      "start": 1556.57,
+      "end": 1558.73,
+      "text": "goals.",
+      "avgLogprob": -0.17957384357548722
+    },
+    {
+      "start": 1558.73,
+      "end": 1563.49,
+      "text": "Finding images for a presentation, for example, is measurable.",
+      "avgLogprob": -0.17957384357548722
+    },
+    {
+      "start": 1563.49,
+      "end": 1567.99,
+      "text": "Simply writing, research, 10 a.m. to 11 a.m., isn't.",
+      "avgLogprob": -0.17957384357548722
+    },
+    {
+      "start": 1567.99,
+      "end": 1573.25,
+      "text": "This task-oriented approach will be immensely helpful, forcing you to break your preparation",
+      "avgLogprob": -0.11209737837955516
+    },
+    {
+      "start": 1573.25,
+      "end": 1577.39,
+      "text": "down into individual, achievable steps.",
+      "avgLogprob": -0.11209737837955516
+    },
+    {
+      "start": 1577.39,
+      "end": 1581.85,
+      "text": "Try to assess when busy periods are likely to occur, such as the week leading up to an",
+      "avgLogprob": -0.11209737837955516
+    },
+    {
+      "start": 1581.85,
+      "end": 1583.97,
+      "text": "assignment deadline.",
+      "avgLogprob": -0.11209737837955516
+    },
+    {
+      "start": 1583.97,
+      "end": 1589.33,
+      "text": "Are there any evenings during the week you could put aside for extra work?",
+      "avgLogprob": -0.11209737837955516
+    },
+    {
+      "start": 1589.33,
+      "end": 1594.97,
+      "text": "And just as importantly, make a note of any times you won't want to be working.",
+      "avgLogprob": -0.11209737837955516
+    },
+    {
+      "start": 1594.97,
+      "end": 1601.89,
+      "text": "need time for you, sessions in the gym, evenings when your favorite programs are on TV. Don't",
+      "avgLogprob": -0.1108581439917346
+    },
+    {
+      "start": 1601.89,
+      "end": 1607.61,
+      "text": "forget to schedule in time for non-academic activities like going shopping or doing the",
+      "avgLogprob": -0.1108581439917346
+    },
+    {
+      "start": 1607.61,
+      "end": 1613.97,
+      "text": "laundry. It's best to have a fixed time each week for jobs like these so they don't interfere",
+      "avgLogprob": -0.1108581439917346
+    },
+    {
+      "start": 1613.97,
+      "end": 1619.37,
+      "text": "with your academic work. Finally, decide where you're going to do",
+      "avgLogprob": -0.1108581439917346
+    },
+    {
+      "start": 1619.37,
+      "end": 1625.13,
+      "text": "your self-study. Will you be distracted by the TV, the Internet or friends if you stay",
+      "avgLogprob": -0.12987322201754184
+    },
+    {
+      "start": 1625.13,
+      "end": 1630.53,
+      "text": "in your room? Perhaps the library will be a better place. Anywhere that encourages",
+      "avgLogprob": -0.12987322201754184
+    },
+    {
+      "start": 1630.53,
+      "end": 1635.73,
+      "text": "you to prevaricate should be avoided at all costs.",
+      "avgLogprob": -0.12987322201754184
+    },
+    {
+      "start": 1635.73,
+      "end": 1640.81,
+      "text": "Starting with the big picture, and then working towards individual goals, will leave you",
+      "avgLogprob": -0.12987322201754184
+    },
+    {
+      "start": 1640.81,
+      "end": 1646.05,
+      "text": "feeling in control, rather than being pulled here and there, firefighting as the next",
+      "avgLogprob": -0.12987322201754184
+    },
+    {
+      "start": 1646.05,
+      "end": 1656.32,
+      "text": "That is the end of Section 4. You now have half a minute to check your answers.",
+      "avgLogprob": -0.353042486039075
+    }
+  ]
+}

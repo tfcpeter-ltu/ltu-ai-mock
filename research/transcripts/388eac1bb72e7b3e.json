@@ -1,0 +1,385 @@
+{
+  "source": "assets/audio/388eac1bb72e7b3e.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 5.72,
+      "text": "Section 3. You're going to listen to a conversation between two physiotherapy",
+      "avgLogprob": -0.17141189539562102
+    },
+    {
+      "start": 5.72,
+      "end": 11.72,
+      "text": "students discussing their final exams. First you have some time to look at",
+      "avgLogprob": -0.17141189539562102
+    },
+    {
+      "start": 11.72,
+      "end": 51.51,
+      "text": "questions 21 to 25. Now listen carefully and answer questions 21 to 25. So what",
+      "avgLogprob": -0.17141189539562102
+    },
+    {
+      "start": 51.51,
+      "end": 55.99,
+      "text": "did you think of the assessment last week? You mean the final exam? Yeah, yeah I",
+      "avgLogprob": -0.17141189539562102
+    },
+    {
+      "start": 55.99,
+      "end": 60.67,
+      "text": "thought some of them were a bit hard. They were certainly tough and generally",
+      "avgLogprob": -0.17141189539562102
+    },
+    {
+      "start": 60.67,
+      "end": 65.51,
+      "text": "they were very long yeah we didn't really have time to relax since they were",
+      "avgLogprob": -0.1535885126694389
+    },
+    {
+      "start": 65.51,
+      "end": 71.59,
+      "text": "spread all over the week right exactly but what did you think of each test of",
+      "avgLogprob": -0.1535885126694389
+    },
+    {
+      "start": 71.59,
+      "end": 77.55,
+      "text": "the six exams we did the least enjoyable for me were the two three-hour written",
+      "avgLogprob": -0.1535885126694389
+    },
+    {
+      "start": 77.55,
+      "end": 83.63,
+      "text": "exams why didn't you like the written exam assessments I'm not particularly",
+      "avgLogprob": -0.1535885126694389
+    },
+    {
+      "start": 83.63,
+      "end": 88.15,
+      "text": "good at writing things down like that in a short space of time and I don't",
+      "avgLogprob": -0.1535885126694389
+    },
+    {
+      "start": 88.15,
+      "end": 92.23,
+      "text": "think it's a good way of testing our theoretical knowledge of physiotherapy.",
+      "avgLogprob": -0.13338373943206366
+    },
+    {
+      "start": 92.23,
+      "end": 97.43,
+      "text": "I disagree, I'm afraid. I'm much keener on the written essay exams than the other",
+      "avgLogprob": -0.13338373943206366
+    },
+    {
+      "start": 97.43,
+      "end": 104.79,
+      "text": "types of tests. But what about the two multiple choice exam papers in basic anatomy and physiology?",
+      "avgLogprob": -0.13338373943206366
+    },
+    {
+      "start": 105.75,
+      "end": 110.31,
+      "text": "Yeah, they weren't too bad. If you didn't know the answer, all you had to do was guess.",
+      "avgLogprob": -0.13338373943206366
+    },
+    {
+      "start": 111.59,
+      "end": 116.87,
+      "text": "That's okay, but I never feel comfortable with guessing. And you know that there is research",
+      "avgLogprob": -0.13338373943206366
+    },
+    {
+      "start": 116.87,
+      "end": 122.63,
+      "text": "that shows that women are disadvantaged when doing multiple choice questions, compared to men.",
+      "avgLogprob": -0.14233395990572478
+    },
+    {
+      "start": 122.63,
+      "end": 127.51,
+      "text": "Yeah, you've mentioned this before, but I'm not sure I believe it to be honest.",
+      "avgLogprob": -0.14233395990572478
+    },
+    {
+      "start": 127.51,
+      "end": 133.99,
+      "text": "It's true. Multiple choice questions favour men rather than women. They are a male construct.",
+      "avgLogprob": -0.14233395990572478
+    },
+    {
+      "start": 134.63,
+      "end": 135.67,
+      "text": "Right, if you say so.",
+      "avgLogprob": -0.14233395990572478
+    },
+    {
+      "start": 136.47,
+      "end": 143.11,
+      "text": "It's not if I say so. Anyway, you have to be careful with multiple choice questions because of",
+      "avgLogprob": -0.14233395990572478
+    },
+    {
+      "start": 143.11,
+      "end": 148.39,
+      "text": "the negative marking. That can really bring the score down if you keep guessing and get",
+      "avgLogprob": -0.17009680378332473
+    },
+    {
+      "start": 148.39,
+      "end": 151.15,
+      "text": "all of the guesses wrong. It's double negative.",
+      "avgLogprob": -0.17009680378332473
+    },
+    {
+      "start": 151.15,
+      "end": 153.95,
+      "text": "You're right, that is a danger.",
+      "avgLogprob": -0.17009680378332473
+    },
+    {
+      "start": 153.95,
+      "end": 157.79,
+      "text": "What about practical exam assessments? Do you like that?",
+      "avgLogprob": -0.17009680378332473
+    },
+    {
+      "start": 157.79,
+      "end": 164.11,
+      "text": "Yeah, with the volunteers, as simulated patients, I thought that was by far the best part of",
+      "avgLogprob": -0.17009680378332473
+    },
+    {
+      "start": 164.11,
+      "end": 165.11,
+      "text": "the exam.",
+      "avgLogprob": -0.17009680378332473
+    },
+    {
+      "start": 165.11,
+      "end": 166.11,
+      "text": "Why was that?",
+      "avgLogprob": -0.17009680378332473
+    },
+    {
+      "start": 166.11,
+      "end": 171.83,
+      "text": "Well, what I liked about it was it was without risk to the patients. We had a chance to",
+      "avgLogprob": -0.17009680378332473
+    },
+    {
+      "start": 171.83,
+      "end": 176.83,
+      "text": "show what we know about communicating with patients and practice our physiology knowledge",
+      "avgLogprob": -0.16265430986881257
+    },
+    {
+      "start": 176.83,
+      "end": 177.83,
+      "text": "and so on.",
+      "avgLogprob": -0.16265430986881257
+    },
+    {
+      "start": 177.83,
+      "end": 183.57,
+      "text": "Yes, I think I agree with you there, but I can tell you I was tired after the practice",
+      "avgLogprob": -0.16265430986881257
+    },
+    {
+      "start": 183.57,
+      "end": 190.55,
+      "text": "exam with 15 test stations. It was exhausting, but also exhilarating.",
+      "avgLogprob": -0.16265430986881257
+    },
+    {
+      "start": 190.55,
+      "end": 197.99,
+      "text": "I completely agree. It lasted more than three hours in total without the break.",
+      "avgLogprob": -0.16265430986881257
+    },
+    {
+      "start": 197.99,
+      "end": 201.65,
+      "text": "Before listening to the rest of the conversation, you have some time to look at questions",
+      "avgLogprob": -0.16265430986881257
+    },
+    {
+      "start": 201.65,
+      "end": 240.51,
+      "text": "26 to 30. Now listen carefully and answer questions 26 to 30.",
+      "avgLogprob": -0.13408270869592223
+    },
+    {
+      "start": 240.51,
+      "end": 246.79,
+      "text": "What did you think of the other two exams? The two problem-solving tests. I didn't think",
+      "avgLogprob": -0.13408270869592223
+    },
+    {
+      "start": 246.79,
+      "end": 251.45,
+      "text": "I was going to handle them very well, but in the end I think they went better than I",
+      "avgLogprob": -0.13408270869592223
+    },
+    {
+      "start": 251.45,
+      "end": 256.95,
+      "text": "thought they would. What I liked most was the test where we had to work in groups of five",
+      "avgLogprob": -0.13408270869592223
+    },
+    {
+      "start": 256.95,
+      "end": 262.17,
+      "text": "and make adequate treatment decisions to solve a clinical problem.",
+      "avgLogprob": -0.13408270869592223
+    },
+    {
+      "start": 262.17,
+      "end": 268.93,
+      "text": "That was very interesting. I'm not sure I did it very well though. Did you feel comfortable",
+      "avgLogprob": -0.14656320060651326
+    },
+    {
+      "start": 268.93,
+      "end": 273.45,
+      "text": "being in a group of five and having three examiners watching you as you discussed the",
+      "avgLogprob": -0.14656320060651326
+    },
+    {
+      "start": 273.45,
+      "end": 274.45,
+      "text": "problem?",
+      "avgLogprob": -0.14656320060651326
+    },
+    {
+      "start": 274.45,
+      "end": 279.87,
+      "text": "Not a big problem. We did practice it several times before. You learn to forget that someone",
+      "avgLogprob": -0.14656320060651326
+    },
+    {
+      "start": 279.87,
+      "end": 280.97,
+      "text": "is watching you.",
+      "avgLogprob": -0.14656320060651326
+    },
+    {
+      "start": 280.97,
+      "end": 285.79,
+      "text": "But some people are better at speaking in group situations like that and they get the",
+      "avgLogprob": -0.14656320060651326
+    },
+    {
+      "start": 285.79,
+      "end": 287.49,
+      "text": "best marks.",
+      "avgLogprob": -0.14656320060651326
+    },
+    {
+      "start": 287.49,
+      "end": 293.05,
+      "text": "The test doesn't just assess whether people can talk a lot, it's about showing you can",
+      "avgLogprob": -0.2258031874143777
+    },
+    {
+      "start": 293.05,
+      "end": 298.93,
+      "text": "interact, organise your thoughts and then demonstrate you can co-operate with other",
+      "avgLogprob": -0.2258031874143777
+    },
+    {
+      "start": 298.93,
+      "end": 299.93,
+      "text": "team members.",
+      "avgLogprob": -0.2258031874143777
+    },
+    {
+      "start": 299.93,
+      "end": 303.65,
+      "text": "Well, I guess we'll just have to see how it goes.",
+      "avgLogprob": -0.2258031874143777
+    },
+    {
+      "start": 303.65,
+      "end": 305.97,
+      "text": "When did the results of the finals come out?",
+      "avgLogprob": -0.2258031874143777
+    },
+    {
+      "start": 305.97,
+      "end": 308.01,
+      "text": "The examiners said next week.",
+      "avgLogprob": -0.2258031874143777
+    },
+    {
+      "start": 308.01,
+      "end": 310.81,
+      "text": "Yeah, we've got that to look forward to then.",
+      "avgLogprob": -0.2258031874143777
+    },
+    {
+      "start": 310.81,
+      "end": 313.13,
+      "text": "Why is the policy on resets?",
+      "avgLogprob": -0.2258031874143777
+    },
+    {
+      "start": 313.13,
+      "end": 314.13,
+      "text": "Why?",
+      "avgLogprob": -0.2258031874143777
+    },
+    {
+      "start": 314.13,
+      "end": 315.69,
+      "text": "Are you planning to fail?",
+      "avgLogprob": -0.2258031874143777
+    },
+    {
+      "start": 315.69,
+      "end": 319.69,
+      "text": "No, but, well, you know what I mean.",
+      "avgLogprob": -0.16518154558928116
+    },
+    {
+      "start": 319.69,
+      "end": 327.69,
+      "text": "The resets are held on 15th August, and if there is any problem after that, it goes to appeal.",
+      "avgLogprob": -0.16518154558928116
+    },
+    {
+      "start": 327.69,
+      "end": 331.69,
+      "text": "We'll just have to make sure we don't fail any part of the whole examination.",
+      "avgLogprob": -0.16518154558928116
+    },
+    {
+      "start": 331.69,
+      "end": 334.69,
+      "text": "I certainly won't want to try to do any of it again.",
+      "avgLogprob": -0.16518154558928116
+    },
+    {
+      "start": 334.69,
+      "end": 340.69,
+      "text": "Me neither. It's hard when you are not allowed to fail any of the exams.",
+      "avgLogprob": -0.16518154558928116
+    },
+    {
+      "start": 340.69,
+      "end": 343.69,
+      "text": "Yeah, I bet they don't have that policy in any other subject.",
+      "avgLogprob": -0.16518154558928116
+    },
+    {
+      "start": 343.69,
+      "end": 385.5,
+      "text": "That's the end of section 3. You now have 30 seconds to check your answers. Now turn to section 4.",
+      "avgLogprob": -0.26835383750774244
+    }
+  ]
+}

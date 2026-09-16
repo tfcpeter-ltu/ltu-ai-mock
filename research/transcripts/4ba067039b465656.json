@@ -1,0 +1,349 @@
+{
+  "source": "assets/audio/4ba067039b465656.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 7.14,
+      "text": "Good morning everyone. In today's lecture we will be looking at the topic of meat production.",
+      "avgLogprob": -0.12445502767437383
+    },
+    {
+      "start": 7.14,
+      "end": 15.14,
+      "text": "New research reveals that the environmental impact of beef is much more than that of other meat, including chicken or pork,",
+      "avgLogprob": -0.12445502767437383
+    },
+    {
+      "start": 15.14,
+      "end": 24.14,
+      "text": "with one expert saying that eating less red meat would be a better way for people to cook carbon emissions than giving up their cars.",
+      "avgLogprob": -0.12445502767437383
+    },
+    {
+      "start": 24.14,
+      "end": 29.42,
+      "text": "So, today we are going to look at why this might be.",
+      "avgLogprob": -0.1934320214547609
+    },
+    {
+      "start": 29.42,
+      "end": 35.22,
+      "text": "First, I'll examine the impact of meat consumption on the environment.",
+      "avgLogprob": -0.1934320214547609
+    },
+    {
+      "start": 35.22,
+      "end": 38.82,
+      "text": "Next, I'll discuss the issue of health.",
+      "avgLogprob": -0.1934320214547609
+    },
+    {
+      "start": 38.82,
+      "end": 47.22,
+      "text": "Finally, I'll demonstrate how much meat is wasted in the production and consumption chain.",
+      "avgLogprob": -0.1934320214547609
+    },
+    {
+      "start": 47.22,
+      "end": 53.06,
+      "text": "Firstly, we need to understand that meat is bad for you and bad for the environment.",
+      "avgLogprob": -0.1934320214547609
+    },
+    {
+      "start": 53.06,
+      "end": 55.98,
+      "text": "At least that's the usual argument.",
+      "avgLogprob": -0.1934320214547609
+    },
+    {
+      "start": 55.98,
+      "end": 61.06,
+      "text": "A study of tens of thousands of British people's daily eating habits shows that meat lovers'",
+      "avgLogprob": -0.1350192986067059
+    },
+    {
+      "start": 61.06,
+      "end": 66.26,
+      "text": "diets cause double the climate warming emissions of vegetarian diets.",
+      "avgLogprob": -0.1350192986067059
+    },
+    {
+      "start": 66.26,
+      "end": 73.36,
+      "text": "The fact is that livestock farming accounts for a huge 15% of all greenhouse gas emissions.",
+      "avgLogprob": -0.1350192986067059
+    },
+    {
+      "start": 73.36,
+      "end": 76.02,
+      "text": "We can't all become vegetarian.",
+      "avgLogprob": -0.1350192986067059
+    },
+    {
+      "start": 76.02,
+      "end": 81.1,
+      "text": "So just how much meat is it okay for an eco-citizen to eat?",
+      "avgLogprob": -0.1350192986067059
+    },
+    {
+      "start": 81.1,
+      "end": 85.06,
+      "text": "It's not just pro-vegetarian demonstrators who are concerned about food's impact on",
+      "avgLogprob": -0.1350192986067059
+    },
+    {
+      "start": 85.06,
+      "end": 90.78,
+      "text": "the climate. A major report concludes that food production is too close to the limits",
+      "avgLogprob": -0.10608742522393785
+    },
+    {
+      "start": 90.78,
+      "end": 97.38,
+      "text": "of a safe operating space, defined by how much we need, how much we can produce, and",
+      "avgLogprob": -0.10608742522393785
+    },
+    {
+      "start": 97.38,
+      "end": 104.9,
+      "text": "its impact on the climate. Meat is a major contributor to that. 80% of agricultural emissions",
+      "avgLogprob": -0.10608742522393785
+    },
+    {
+      "start": 104.9,
+      "end": 113.24,
+      "text": "come from meat production, and the problem is getting worse. The heavy impact on the",
+      "avgLogprob": -0.10608742522393785
+    },
+    {
+      "start": 113.24,
+      "end": 118.48,
+      "text": "environment of meat production was known, but the research shows a new scale and scope",
+      "avgLogprob": -0.11894581457237144
+    },
+    {
+      "start": 118.48,
+      "end": 125.52,
+      "text": "of damage, particularly for beef. Production of this popular red meat requires 28 times",
+      "avgLogprob": -0.11894581457237144
+    },
+    {
+      "start": 125.52,
+      "end": 132.32,
+      "text": "more land and 11 times more water than pork or chicken, and results in 5 times more climate",
+      "avgLogprob": -0.11894581457237144
+    },
+    {
+      "start": 132.32,
+      "end": 139.32,
+      "text": "warming emissions. One compared to staples like potatoes, wheat and rice, the impact",
+      "avgLogprob": -0.11894581457237144
+    },
+    {
+      "start": 139.32,
+      "end": 146.52,
+      "text": "of beef per calorie is even more extreme, requiring 160 times more land and producing",
+      "avgLogprob": -0.10090523756839134
+    },
+    {
+      "start": 146.52,
+      "end": 155.56,
+      "text": "11 times more greenhouse gases. Agriculture is a significant driver of global warming",
+      "avgLogprob": -0.10090523756839134
+    },
+    {
+      "start": 155.56,
+      "end": 163.46,
+      "text": "and causes 15% of all emissions, half of which are from livestock. Furthermore, the huge",
+      "avgLogprob": -0.10090523756839134
+    },
+    {
+      "start": 163.46,
+      "end": 168.58,
+      "text": "amounts of grain and water needed to raise cattle are a concern for experts worried",
+      "avgLogprob": -0.10090523756839134
+    },
+    {
+      "start": 168.58,
+      "end": 173.68,
+      "text": "about feeding an extra 2 billion people by 2050.",
+      "avgLogprob": -0.12721115193868937
+    },
+    {
+      "start": 173.68,
+      "end": 178.4,
+      "text": "But previous calls for people to eat less meat in order to help the environment, or preserve",
+      "avgLogprob": -0.12721115193868937
+    },
+    {
+      "start": 178.4,
+      "end": 181.04,
+      "text": "grain stocks, have been highly controversial.",
+      "avgLogprob": -0.12721115193868937
+    },
+    {
+      "start": 181.04,
+      "end": 189.59,
+      "text": "Now, I'll turn to the issue of how much meat we consume.",
+      "avgLogprob": -0.12721115193868937
+    },
+    {
+      "start": 189.59,
+      "end": 194.31,
+      "text": "As people get richer, the demand for protein gets stronger.",
+      "avgLogprob": -0.12721115193868937
+    },
+    {
+      "start": 194.31,
+      "end": 199.15,
+      "text": "It's unrealistic to expect everyone to give up meat entirely, and many of the world's",
+      "avgLogprob": -0.12721115193868937
+    },
+    {
+      "start": 199.15,
+      "end": 206.43,
+      "text": "poor need to increase their meat consumption to overcome malnutrition and food insecurity.",
+      "avgLogprob": -0.14703744741586539
+    },
+    {
+      "start": 206.43,
+      "end": 211.99,
+      "text": "The solution is to eat less meat rather than no meat.",
+      "avgLogprob": -0.14703744741586539
+    },
+    {
+      "start": 211.99,
+      "end": 219.03,
+      "text": "A study in 2007 estimated that the average person consumed 100 grams of meat a day or",
+      "avgLogprob": -0.14703744741586539
+    },
+    {
+      "start": 219.03,
+      "end": 224.31,
+      "text": "about one burger, a quarter pounder is 113 grams.",
+      "avgLogprob": -0.14703744741586539
+    },
+    {
+      "start": 224.31,
+      "end": 226.91,
+      "text": "The rich eat ten times more than the poor.",
+      "avgLogprob": -0.1515642109881626
+    },
+    {
+      "start": 226.91,
+      "end": 234.09,
+      "text": "In other words, some people get ten burgers a day, while others get none.",
+      "avgLogprob": -0.1515642109881626
+    },
+    {
+      "start": 234.09,
+      "end": 239.59,
+      "text": "The study showed that if every person in the world ate 50 grams of red meat and 40 grams",
+      "avgLogprob": -0.1515642109881626
+    },
+    {
+      "start": 239.59,
+      "end": 246.67,
+      "text": "of white meat per day, by 2050 greenhouse gas emissions from meat production would stabilise",
+      "avgLogprob": -0.1515642109881626
+    },
+    {
+      "start": 246.67,
+      "end": 253.15,
+      "text": "at 2005 levels, a target cited in national plans for agricultural emissions.",
+      "avgLogprob": -0.1515642109881626
+    },
+    {
+      "start": 253.15,
+      "end": 260.07,
+      "text": "That's about one burger and one small chicken breast per person every two days.",
+      "avgLogprob": -0.13514204088010287
+    },
+    {
+      "start": 260.07,
+      "end": 264.33,
+      "text": "So have a think about how much meat you eat each day.",
+      "avgLogprob": -0.13514204088010287
+    },
+    {
+      "start": 264.33,
+      "end": 268.72,
+      "text": "Would you think about becoming a vegetarian?",
+      "avgLogprob": -0.13514204088010287
+    },
+    {
+      "start": 268.72,
+      "end": 272.84,
+      "text": "So let's now consider how much meat is wasted.",
+      "avgLogprob": -0.13514204088010287
+    },
+    {
+      "start": 272.84,
+      "end": 277.68,
+      "text": "The 2007 figures in the study didn't take into account the fact that we throw out a",
+      "avgLogprob": -0.13514204088010287
+    },
+    {
+      "start": 277.68,
+      "end": 283.84,
+      "text": "lot of the animal mass produced, because we consider it inedible.",
+      "avgLogprob": -0.13514204088010287
+    },
+    {
+      "start": 283.84,
+      "end": 288.9,
+      "text": "countries are the biggest offenders, whereas many other cultures are not put off by a meal",
+      "avgLogprob": -0.11919841784983873
+    },
+    {
+      "start": 288.9,
+      "end": 295.52,
+      "text": "of brains or testicles. It is estimated that Americans and Australians throw out up to",
+      "avgLogprob": -0.11919841784983873
+    },
+    {
+      "start": 295.52,
+      "end": 301.8,
+      "text": "half the cow mass they produce, and globally we discard between five and ten per cent of",
+      "avgLogprob": -0.11919841784983873
+    },
+    {
+      "start": 301.8,
+      "end": 307.84,
+      "text": "the animal. This means we can only allow ourselves eighty to eighty-five grams of red",
+      "avgLogprob": -0.11919841784983873
+    },
+    {
+      "start": 307.84,
+      "end": 314.7,
+      "text": "and white meat, or one burger and one chicken fillet every three days. Our allowance would",
+      "avgLogprob": -0.10751791771720437
+    },
+    {
+      "start": 314.7,
+      "end": 321.44,
+      "text": "drop further if more people were as wasteful as the Americans and Australians. Also, according",
+      "avgLogprob": -0.10751791771720437
+    },
+    {
+      "start": 321.44,
+      "end": 329.04,
+      "text": "to the research, one-third of all food produced is spoiled due to poor refrigeration, pests",
+      "avgLogprob": -0.10751791771720437
+    },
+    {
+      "start": 329.04,
+      "end": 336.16,
+      "text": "and bulk packaging. All of this wastage encourages consumers to buy more than they can eat.",
+      "avgLogprob": -0.10751791771720437
+    },
+    {
+      "start": 336.16,
+      "end": 341.16,
+      "text": "Okay, that's it for today. Any questions?",
+      "avgLogprob": -0.3463301020009177
+    }
+  ]
+}

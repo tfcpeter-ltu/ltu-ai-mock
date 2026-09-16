@@ -1,0 +1,1405 @@
+{
+  "source": "assets/audio/8ac5e1463402b23d.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.52,
+      "text": "section 1. You will hear a student, Claude, asking for information about the Healthy Eating Society.",
+      "avgLogprob": -0.1928874043126901
+    },
+    {
+      "start": 8.24,
+      "end": 39.89,
+      "text": "First you have some time to look at questions 1 to 5. Now listen carefully and answer questions 1 to 5.",
+      "avgLogprob": -0.1928874043126901
+    },
+    {
+      "start": 43.02,
+      "end": 49.66,
+      "text": "Hello, is that the healthy eating sock? Yes, it is. Catherine speaking. How can I help?",
+      "avgLogprob": -0.1928874043126901
+    },
+    {
+      "start": 49.66,
+      "end": 55.18,
+      "text": "I was given one of your leaflets and am interested in joining. I know you go out for dinner twice",
+      "avgLogprob": -0.1928874043126901
+    },
+    {
+      "start": 55.18,
+      "end": 62.06,
+      "text": "a week, but what else do you do? Well, we don't do anything on Sundays, Mondays or Tuesdays,",
+      "avgLogprob": -0.14337236291550576
+    },
+    {
+      "start": 62.06,
+      "end": 68.14,
+      "text": "but every Wednesday is our first restaurant visit of each week. It's not always the same place.",
+      "avgLogprob": -0.14337236291550576
+    },
+    {
+      "start": 68.7,
+      "end": 75.02,
+      "text": "Sometimes we'll go to the red tomato. Other times we go to herbs and flowers. But it's always",
+      "avgLogprob": -0.14337236291550576
+    },
+    {
+      "start": 75.02,
+      "end": 79.66,
+      "text": "somewhere that serves vegetarian food. We meet at half past seven on the high street.",
+      "avgLogprob": -0.14337236291550576
+    },
+    {
+      "start": 79.66,
+      "end": 82.66,
+      "text": "Sounds good. What about Thursdays?",
+      "avgLogprob": -0.14880525464771174
+    },
+    {
+      "start": 82.66,
+      "end": 86.66,
+      "text": "Well, on Thursdays we usually go off to my aunt's house.",
+      "avgLogprob": -0.14880525464771174
+    },
+    {
+      "start": 86.66,
+      "end": 90.66,
+      "text": "She lends us her kitchen and we all prepare a meal together.",
+      "avgLogprob": -0.14880525464771174
+    },
+    {
+      "start": 90.66,
+      "end": 92.66,
+      "text": "A big curry or something.",
+      "avgLogprob": -0.14880525464771174
+    },
+    {
+      "start": 92.66,
+      "end": 96.66,
+      "text": "There's a limit of twelve people so you need to put your name down.",
+      "avgLogprob": -0.14880525464771174
+    },
+    {
+      "start": 96.66,
+      "end": 98.66,
+      "text": "We get there for eight o'clock.",
+      "avgLogprob": -0.14880525464771174
+    },
+    {
+      "start": 98.66,
+      "end": 102.66,
+      "text": "She lives in Wensford, so you'll need money for the bus fare.",
+      "avgLogprob": -0.14880525464771174
+    },
+    {
+      "start": 102.66,
+      "end": 106.66,
+      "text": "Wensford? That's funny. It's like, when's the food?",
+      "avgLogprob": -0.14880525464771174
+    },
+    {
+      "start": 106.66,
+      "end": 118.82,
+      "text": "No. It's spelt W-E-D-N-E-S-F-O-R-D. It's a village a few miles out of town. Anyway,",
+      "avgLogprob": -0.1155379951143494
+    },
+    {
+      "start": 118.82,
+      "end": 125.22,
+      "text": "Friday is our other restaurant evening, not vegetarian this time. We usually meet around",
+      "avgLogprob": -0.1155379951143494
+    },
+    {
+      "start": 125.22,
+      "end": 130.74,
+      "text": "six o'clock in a juice bar, and once everyone has arrived, we'll head off to a fantastic",
+      "avgLogprob": -0.1155379951143494
+    },
+    {
+      "start": 130.74,
+      "end": 135.7,
+      "text": "restaurant in town that serves European food. We always sit down to eat at seven.",
+      "avgLogprob": -0.1155379951143494
+    },
+    {
+      "start": 135.7,
+      "end": 140.98,
+      "text": "and that's in town is it it's right in the center so you get the bus to Central",
+      "avgLogprob": -0.1409241541599234
+    },
+    {
+      "start": 140.98,
+      "end": 146.02,
+      "text": "Square which is where the juice bar is it's right next to the little theater",
+      "avgLogprob": -0.1409241541599234
+    },
+    {
+      "start": 146.02,
+      "end": 150.34,
+      "text": "the restaurant we go to is round the corner in the covered market it's",
+      "avgLogprob": -0.1409241541599234
+    },
+    {
+      "start": 150.34,
+      "end": 155.54,
+      "text": "opposite the cinema okay I think I've got that and do you do anything over",
+      "avgLogprob": -0.1409241541599234
+    },
+    {
+      "start": 155.54,
+      "end": 161.1,
+      "text": "the weekend not a lot it gets busy in town on a Saturday night so the only",
+      "avgLogprob": -0.1409241541599234
+    },
+    {
+      "start": 161.1,
+      "end": 166.14,
+      "text": "thing we do is meet at midday for what we call coffee club just in the canteen",
+      "avgLogprob": -0.14057336122758926
+    },
+    {
+      "start": 166.14,
+      "end": 173.06,
+      "text": "and the students union they do good pastries before you hear the rest of",
+      "avgLogprob": -0.14057336122758926
+    },
+    {
+      "start": 173.06,
+      "end": 203.03,
+      "text": "the conversation you have some time to look at questions six to ten now listen",
+      "avgLogprob": -0.14057336122758926
+    },
+    {
+      "start": 203.03,
+      "end": 210.11,
+      "text": "and answer questions six to ten well it all sounds lots of fun how much does it",
+      "avgLogprob": -0.14057336122758926
+    },
+    {
+      "start": 210.11,
+      "end": 216.23,
+      "text": "cost to join it depends if you go to all of the activities every week believe",
+      "avgLogprob": -0.14057336122758926
+    },
+    {
+      "start": 216.23,
+      "end": 222.43,
+      "text": "me, I know. It can cost you around £40 or more. I originally thought about charging",
+      "avgLogprob": -0.19436289689370564
+    },
+    {
+      "start": 222.43,
+      "end": 227.79,
+      "text": "people something like £5 per week as a membership fee, but it takes so much time to collect that",
+      "avgLogprob": -0.19436289689370564
+    },
+    {
+      "start": 227.79,
+      "end": 231.75,
+      "text": "it's not worth it. So it's actually free to be a member.",
+      "avgLogprob": -0.19436289689370564
+    },
+    {
+      "start": 231.75,
+      "end": 235.23,
+      "text": "Hmm. £40 is a bit above my budget.",
+      "avgLogprob": -0.19436289689370564
+    },
+    {
+      "start": 235.23,
+      "end": 239.77,
+      "text": "Oh, don't worry. You don't have to come to everything, and you don't have to come",
+      "avgLogprob": -0.19436289689370564
+    },
+    {
+      "start": 239.77,
+      "end": 242.65,
+      "text": "every week. It's entirely up to you.",
+      "avgLogprob": -0.19436289689370564
+    },
+    {
+      "start": 242.65,
+      "end": 244.95,
+      "text": "How long do you usually take to have dinner?",
+      "avgLogprob": -0.19436289689370564
+    },
+    {
+      "start": 244.95,
+      "end": 254.95,
+      "text": "We're usually in a restaurant for two hours having dinner, so the whole evening lasts about three hours, if you include the drink in the juice bar beforehand.",
+      "avgLogprob": -0.10527349024448755
+    },
+    {
+      "start": 254.95,
+      "end": 261.95,
+      "text": "And what about the service charge at the end of a meal? Do people in this country usually give something extra for the waiters?",
+      "avgLogprob": -0.10527349024448755
+    },
+    {
+      "start": 261.95,
+      "end": 273.95,
+      "text": "In general, people often leave a tip of about 12-15% of the total bill. On the other hand, if the service or the food has been bad, they may leave nothing.",
+      "avgLogprob": -0.10527349024448755
+    },
+    {
+      "start": 273.95,
+      "end": 283.95,
+      "text": "We always try to make sure we give our waiters ten percent. We'd like to give them fifteen or twenty percent, but we're not very rich. We're only students after all.",
+      "avgLogprob": -0.11440864811956356
+    },
+    {
+      "start": 283.95,
+      "end": 288.95,
+      "text": "So how do I book a place on these trips? Shall I give you a call?",
+      "avgLogprob": -0.11440864811956356
+    },
+    {
+      "start": 288.95,
+      "end": 301.95,
+      "text": "No, I don't always answer my phone. Some of our members send me a text message, which is fine, but I get so many that I might forget yours. The most reliable way to contact me is to send an email.",
+      "avgLogprob": -0.11440864811956356
+    },
+    {
+      "start": 301.95,
+      "end": 305.79,
+      "text": "Great. So is there anything else I need to know?",
+      "avgLogprob": -0.1352843529648251
+    },
+    {
+      "start": 305.79,
+      "end": 312.75,
+      "text": "No, I don't think so. Oh, there is one more thing. It's really important.",
+      "avgLogprob": -0.1352843529648251
+    },
+    {
+      "start": 312.75,
+      "end": 313.79,
+      "text": "What's that?",
+      "avgLogprob": -0.1352843529648251
+    },
+    {
+      "start": 313.79,
+      "end": 319.71,
+      "text": "Well, a lot of the people have very strong opinions about which is the best restaurant in town,",
+      "avgLogprob": -0.1352843529648251
+    },
+    {
+      "start": 319.71,
+      "end": 326.27,
+      "text": "which is the best national dish, which country has the best cooks. All of those things are fine,",
+      "avgLogprob": -0.1352843529648251
+    },
+    {
+      "start": 326.27,
+      "end": 332.43,
+      "text": "But if you want to fit in with the group, try to avoid talking about celebrity chefs.",
+      "avgLogprob": -0.11435385956161323
+    },
+    {
+      "start": 333.07,
+      "end": 335.47,
+      "text": "That's when the arguments really start.",
+      "avgLogprob": -0.11435385956161323
+    },
+    {
+      "start": 338.77,
+      "end": 344.13,
+      "text": "That is the end of section one. You will now have half a minute to check your answers.",
+      "avgLogprob": -0.11435385956161323
+    },
+    {
+      "start": 373.52,
+      "end": 375.04,
+      "text": "Now turn to section two.",
+      "avgLogprob": -0.11435385956161323
+    },
+    {
+      "start": 376.72,
+      "end": 384.16,
+      "text": "Section two. You will hear part of a talk given by a member of staff at a car rental company.",
+      "avgLogprob": -0.11435385956161323
+    },
+    {
+      "start": 384.16,
+      "end": 389.16,
+      "text": "First, you have some time to look at questions 11 to 16.",
+      "avgLogprob": -0.1596862048558567
+    },
+    {
+      "start": 389.16,
+      "end": 423.92,
+      "text": "Now, listen carefully and answer questions 11 to 16.",
+      "avgLogprob": -0.1596862048558567
+    },
+    {
+      "start": 423.92,
+      "end": 430.58,
+      "text": "Good morning listeners and welcome back to Star Radio.",
+      "avgLogprob": -0.1596862048558567
+    },
+    {
+      "start": 430.58,
+      "end": 434.58,
+      "text": "Today on the show we have a visitor from your zoo car rental,",
+      "avgLogprob": -0.1596862048558567
+    },
+    {
+      "start": 434.58,
+      "end": 440.58,
+      "text": "who is going to give us an insight into his company and into the public transport system.",
+      "avgLogprob": -0.1596862048558567
+    },
+    {
+      "start": 440.58,
+      "end": 442.58,
+      "text": "Welcome Jonathan.",
+      "avgLogprob": -0.1596862048558567
+    },
+    {
+      "start": 442.58,
+      "end": 444.58,
+      "text": "Thank you for having me.",
+      "avgLogprob": -0.1596862048558567
+    },
+    {
+      "start": 444.58,
+      "end": 449.22,
+      "text": "Yes, I would like to start by introducing my company, Yazoo Car Rental.",
+      "avgLogprob": -0.10593649167932716
+    },
+    {
+      "start": 449.86,
+      "end": 454.26,
+      "text": "We are the cheapest and most reliable rental company in the city",
+      "avgLogprob": -0.10593649167932716
+    },
+    {
+      "start": 454.26,
+      "end": 457.54,
+      "text": "and have won multiple awards for the quality of our services.",
+      "avgLogprob": -0.10593649167932716
+    },
+    {
+      "start": 458.5,
+      "end": 461.14,
+      "text": "This success did not come easily however,",
+      "avgLogprob": -0.10593649167932716
+    },
+    {
+      "start": 461.14,
+      "end": 464.26,
+      "text": "and it proved important that we stay fresh",
+      "avgLogprob": -0.10593649167932716
+    },
+    {
+      "start": 464.26,
+      "end": 467.46,
+      "text": "and are always thinking of ways to attract new customers.",
+      "avgLogprob": -0.10593649167932716
+    },
+    {
+      "start": 468.42,
+      "end": 473.3,
+      "text": "Our first attempt to do this was to offer a free gift with every car rental,",
+      "avgLogprob": -0.10593649167932716
+    },
+    {
+      "start": 473.3,
+      "end": 477.7,
+      "text": "which we were confident the customers would be very interested in.",
+      "avgLogprob": -0.10152435362000357
+    },
+    {
+      "start": 477.7,
+      "end": 480.82,
+      "text": "The offer of a free Hoover with each rental, however,",
+      "avgLogprob": -0.10152435362000357
+    },
+    {
+      "start": 480.82,
+      "end": 487.14,
+      "text": "did not attract any new customers so we quite quickly stopped offering it.",
+      "avgLogprob": -0.10152435362000357
+    },
+    {
+      "start": 487.14,
+      "end": 491.86,
+      "text": "In 2002 a new taxi company opened next door to us",
+      "avgLogprob": -0.10152435362000357
+    },
+    {
+      "start": 491.86,
+      "end": 494.74,
+      "text": "and we started losing a lot of business to them.",
+      "avgLogprob": -0.10152435362000357
+    },
+    {
+      "start": 494.74,
+      "end": 499.46,
+      "text": "So we introduced an offer that we hoped might compete with their service.",
+      "avgLogprob": -0.10152435362000357
+    },
+    {
+      "start": 499.46,
+      "end": 503.38,
+      "text": "We offered a new package where you could rent a car with a driver",
+      "avgLogprob": -0.08700800000452528
+    },
+    {
+      "start": 503.38,
+      "end": 508.1,
+      "text": "for a small extra fee. By introducing this offer we found that",
+      "avgLogprob": -0.08700800000452528
+    },
+    {
+      "start": 508.1,
+      "end": 511.86,
+      "text": "all of our customers preferred to drive the cars themselves",
+      "avgLogprob": -0.08700800000452528
+    },
+    {
+      "start": 511.86,
+      "end": 517.14,
+      "text": "so again this offer was unsuccessful in attracting more customers.",
+      "avgLogprob": -0.08700800000452528
+    },
+    {
+      "start": 517.14,
+      "end": 521.7,
+      "text": "Learning from these mistakes we decided to offer a package service",
+      "avgLogprob": -0.08700800000452528
+    },
+    {
+      "start": 521.7,
+      "end": 524.9,
+      "text": "where the customer no longer had to come to our offices",
+      "avgLogprob": -0.08700800000452528
+    },
+    {
+      "start": 524.9,
+      "end": 529.38,
+      "text": "to pick up the rental car. Instead we could drop off and pick up the",
+      "avgLogprob": -0.08700800000452528
+    },
+    {
+      "start": 529.38,
+      "end": 534.38,
+      "text": "car anywhere in the city to make the customers experience a lot more stress-free.",
+      "avgLogprob": -0.13047395341775633
+    },
+    {
+      "start": 534.38,
+      "end": 540.78,
+      "text": "This offer was very popular and increased our profits by 30%. In order to",
+      "avgLogprob": -0.13047395341775633
+    },
+    {
+      "start": 540.78,
+      "end": 545.46,
+      "text": "attract a younger demographic we updated the models of cars that we offered for",
+      "avgLogprob": -0.13047395341775633
+    },
+    {
+      "start": 545.46,
+      "end": 551.14,
+      "text": "rental. We began offering more trendy cars such as minis and smart cars that",
+      "avgLogprob": -0.13047395341775633
+    },
+    {
+      "start": 551.14,
+      "end": 555.42,
+      "text": "we thought might appeal to the younger crowd and we also purchased them in",
+      "avgLogprob": -0.13047395341775633
+    },
+    {
+      "start": 555.42,
+      "end": 561.94,
+      "text": "more fun colours like reds and greens. This offer attracted some new customers",
+      "avgLogprob": -0.10337332344573477
+    },
+    {
+      "start": 561.94,
+      "end": 567.96,
+      "text": "of a younger age group, however not as many as we hoped. Next I decided to offer",
+      "avgLogprob": -0.10337332344573477
+    },
+    {
+      "start": 567.96,
+      "end": 573.5,
+      "text": "our services at a discounted price on our website where it could be seen by",
+      "avgLogprob": -0.10337332344573477
+    },
+    {
+      "start": 573.5,
+      "end": 578.18,
+      "text": "thousands of people. I thought that this could be a great way to attract a number",
+      "avgLogprob": -0.10337332344573477
+    },
+    {
+      "start": 578.18,
+      "end": 582.66,
+      "text": "of new customers who would never have heard of us before and it worked",
+      "avgLogprob": -0.10337332344573477
+    },
+    {
+      "start": 582.66,
+      "end": 588.74,
+      "text": "fantastically well. Following the success of the discount offer we had so many",
+      "avgLogprob": -0.09559130804105238
+    },
+    {
+      "start": 588.74,
+      "end": 593.62,
+      "text": "customers that it became necessary to open a new branch of the company in the",
+      "avgLogprob": -0.09559130804105238
+    },
+    {
+      "start": 593.62,
+      "end": 598.42,
+      "text": "centre of the city. The cost of renting offices in the city centre was very",
+      "avgLogprob": -0.09559130804105238
+    },
+    {
+      "start": 598.42,
+      "end": 603.98,
+      "text": "high so we hoped that our profits would justify this expensive decision. We made",
+      "avgLogprob": -0.09559130804105238
+    },
+    {
+      "start": 603.98,
+      "end": 608.38,
+      "text": "enough profit to keep our city centre offices open but we had hoped for a",
+      "avgLogprob": -0.09559130804105238
+    },
+    {
+      "start": 608.38,
+      "end": 613.92,
+      "text": "greater increase in customer numbers.",
+      "avgLogprob": -0.16953120996922622
+    },
+    {
+      "start": 613.92,
+      "end": 619.36,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 17 to",
+      "avgLogprob": -0.16953120996922622
+    },
+    {
+      "start": 619.36,
+      "end": 647.24,
+      "text": "20. Now listen and answer questions 17 to 20.",
+      "avgLogprob": -0.16953120996922622
+    },
+    {
+      "start": 647.24,
+      "end": 653.04,
+      "text": "Now for the second part of my talk which is on the topic of public transport.",
+      "avgLogprob": -0.16953120996922622
+    },
+    {
+      "start": 653.04,
+      "end": 657.8,
+      "text": "There are many benefits to public transport. For example, the recent introduction of bus",
+      "avgLogprob": -0.16953120996922622
+    },
+    {
+      "start": 657.8,
+      "end": 662.78,
+      "text": "lanes has meant that buses are now unaffected by traffic jams and are able",
+      "avgLogprob": -0.08568935347720981
+    },
+    {
+      "start": 662.78,
+      "end": 668.72,
+      "text": "to stay on schedule. Unfortunately as fewer and fewer people are taking the",
+      "avgLogprob": -0.08568935347720981
+    },
+    {
+      "start": 668.72,
+      "end": 674.54,
+      "text": "bus nowadays the service has become quite inefficient. This reduction in",
+      "avgLogprob": -0.08568935347720981
+    },
+    {
+      "start": 674.54,
+      "end": 679.98,
+      "text": "passengers may be due to the stories in the newspaper about the dangers posed",
+      "avgLogprob": -0.08568935347720981
+    },
+    {
+      "start": 679.98,
+      "end": 686.24,
+      "text": "to pedestrian safety by the buses. However this is largely untrue as buses",
+      "avgLogprob": -0.08568935347720981
+    },
+    {
+      "start": 686.24,
+      "end": 692.46,
+      "text": "are responsible for far less pedestrian related accidents than cars. I use the",
+      "avgLogprob": -0.08847687351569701
+    },
+    {
+      "start": 692.46,
+      "end": 698.22,
+      "text": "bus service often as car petrol is so expensive nowadays that the bus is far",
+      "avgLogprob": -0.08847687351569701
+    },
+    {
+      "start": 698.22,
+      "end": 704.78,
+      "text": "more affordable. However if I am in a rush I prefer to take a taxi as they tend",
+      "avgLogprob": -0.08847687351569701
+    },
+    {
+      "start": 704.78,
+      "end": 709.58,
+      "text": "to get you to your destination very quickly so you can remain punctual for",
+      "avgLogprob": -0.08847687351569701
+    },
+    {
+      "start": 709.58,
+      "end": 715.58,
+      "text": "your appointments. I also very much enjoy flying to my destinations as the",
+      "avgLogprob": -0.08847687351569701
+    },
+    {
+      "start": 715.58,
+      "end": 721.3,
+      "text": "service is incredibly fast and the airports are always very easy to find.",
+      "avgLogprob": -0.09843704176236348
+    },
+    {
+      "start": 721.3,
+      "end": 727.34,
+      "text": "Personally my favorite mode of transportation is the bus. Due to the",
+      "avgLogprob": -0.09843704176236348
+    },
+    {
+      "start": 727.34,
+      "end": 731.1,
+      "text": "lack of people using the service I have found that the buses are never",
+      "avgLogprob": -0.09843704176236348
+    },
+    {
+      "start": 731.1,
+      "end": 736.62,
+      "text": "overcrowded so there is always a seat available. They are also never dirty as",
+      "avgLogprob": -0.09843704176236348
+    },
+    {
+      "start": 736.62,
+      "end": 741.7,
+      "text": "they get cleaned regularly. However I have found that sometimes the bus can",
+      "avgLogprob": -0.09843704176236348
+    },
+    {
+      "start": 741.7,
+      "end": 747.22,
+      "text": "be over a half hour behind schedule which can be very frustrating. There has",
+      "avgLogprob": -0.09990263279977736
+    },
+    {
+      "start": 747.22,
+      "end": 751.36,
+      "text": "been a lot of fluctuation in the price of bus tickets in the last couple of",
+      "avgLogprob": -0.09990263279977736
+    },
+    {
+      "start": 751.36,
+      "end": 757.28,
+      "text": "years. In the past £1.80 for a ticket was enough to sustain the bus",
+      "avgLogprob": -0.09990263279977736
+    },
+    {
+      "start": 757.28,
+      "end": 763.76,
+      "text": "companies. However as the price of fuel increased so did the ticket prices. Now",
+      "avgLogprob": -0.09990263279977736
+    },
+    {
+      "start": 763.76,
+      "end": 768.24,
+      "text": "the ticket prices are declining as the bus companies try to encourage more",
+      "avgLogprob": -0.09990263279977736
+    },
+    {
+      "start": 768.24,
+      "end": 777.89,
+      "text": "people to use their service again. Well, that's all from me today. Thank you for listening.",
+      "avgLogprob": -0.1877199181880074
+    },
+    {
+      "start": 777.89,
+      "end": 814.46,
+      "text": "That is the end of section two. You now have half a minute to check your answers. Now turn",
+      "avgLogprob": -0.1877199181880074
+    },
+    {
+      "start": 814.46,
+      "end": 823.07,
+      "text": "to section three. Section three. You'll hear a tutor and some students discussing eating",
+      "avgLogprob": -0.1877199181880074
+    },
+    {
+      "start": 823.07,
+      "end": 850.78,
+      "text": "disorders. First you have some time to look at questions 21 to 23. Now listen carefully",
+      "avgLogprob": -0.1877199181880074
+    },
+    {
+      "start": 850.78,
+      "end": 853.98,
+      "text": "and answer questions 21 to 23.",
+      "avgLogprob": -0.24578054823602238
+    },
+    {
+      "start": 855.88,
+      "end": 856.88,
+      "text": "Good afternoon.",
+      "avgLogprob": -0.24578054823602238
+    },
+    {
+      "start": 857.08,
+      "end": 858.88,
+      "text": "I hope everything is going well.",
+      "avgLogprob": -0.24578054823602238
+    },
+    {
+      "start": 859.78,
+      "end": 860.48,
+      "text": "Right.",
+      "avgLogprob": -0.24578054823602238
+    },
+    {
+      "start": 860.68,
+      "end": 864.08,
+      "text": "We've been looking at problems some people have with eating.",
+      "avgLogprob": -0.24578054823602238
+    },
+    {
+      "start": 864.48,
+      "end": 868.88,
+      "text": "And today I'd like to focus on one you've probably come across in your reading.",
+      "avgLogprob": -0.24578054823602238
+    },
+    {
+      "start": 869.58,
+      "end": 874.38,
+      "text": "It is sometimes called Binge Eating Disorder, or BED.",
+      "avgLogprob": -0.24578054823602238
+    },
+    {
+      "start": 874.98,
+      "end": 879.28,
+      "text": "As you know, I am not a particular fan of these acronyms.",
+      "avgLogprob": -0.24578054823602238
+    },
+    {
+      "start": 879.28,
+      "end": 885.28,
+      "text": "So I will refer to it by the alternative name compulsive eating disorder.",
+      "avgLogprob": -0.12464824831113219
+    },
+    {
+      "start": 885.28,
+      "end": 887.28,
+      "text": "Has anybody heard of it?",
+      "avgLogprob": -0.12464824831113219
+    },
+    {
+      "start": 887.28,
+      "end": 889.28,
+      "text": "Yes, I have.",
+      "avgLogprob": -0.12464824831113219
+    },
+    {
+      "start": 889.28,
+      "end": 896.28,
+      "text": "In fact, I read a case study of a first year university student who was diagnosed with it.",
+      "avgLogprob": -0.12464824831113219
+    },
+    {
+      "start": 896.28,
+      "end": 899.28,
+      "text": "Do you remember what the symptoms are?",
+      "avgLogprob": -0.12464824831113219
+    },
+    {
+      "start": 899.28,
+      "end": 904.28,
+      "text": "Well, of course, one symptom is that the person eats too much,",
+      "avgLogprob": -0.12464824831113219
+    },
+    {
+      "start": 904.28,
+      "end": 908.28,
+      "text": "although that's true for other eating disorders as well.",
+      "avgLogprob": -0.12464824831113219
+    },
+    {
+      "start": 908.28,
+      "end": 910.84,
+      "text": "They also put on weight.",
+      "avgLogprob": -0.1536498763059315
+    },
+    {
+      "start": 910.84,
+      "end": 917.12,
+      "text": "That's right, whereas in some other conditions, such as bulimia, they don't, and can actually",
+      "avgLogprob": -0.1536498763059315
+    },
+    {
+      "start": 917.12,
+      "end": 919.26,
+      "text": "lose weight.",
+      "avgLogprob": -0.1536498763059315
+    },
+    {
+      "start": 919.26,
+      "end": 924.32,
+      "text": "One thing that compulsive eating disorder and bulimia have in common, though, is that",
+      "avgLogprob": -0.1536498763059315
+    },
+    {
+      "start": 924.32,
+      "end": 929.22,
+      "text": "the person with the condition often becomes clinically depressed.",
+      "avgLogprob": -0.1536498763059315
+    },
+    {
+      "start": 929.22,
+      "end": 934.1,
+      "text": "Are you saying that everybody who is overweight is suffering from the disorder?",
+      "avgLogprob": -0.1536498763059315
+    },
+    {
+      "start": 934.1,
+      "end": 935.54,
+      "text": "Not at all.",
+      "avgLogprob": -0.1536498763059315
+    },
+    {
+      "start": 935.54,
+      "end": 941.3,
+      "text": "What makes the compulsive eater different is the pattern of the disorder. Initially,",
+      "avgLogprob": -0.08423389467809882
+    },
+    {
+      "start": 941.3,
+      "end": 947.62,
+      "text": "as we've said, the compulsive eater starts eating too much. This seems to be because",
+      "avgLogprob": -0.08423389467809882
+    },
+    {
+      "start": 947.62,
+      "end": 954.06,
+      "text": "the sufferer finds comfort in food and eating is seen as a way of coping with problems.",
+      "avgLogprob": -0.08423389467809882
+    },
+    {
+      "start": 954.06,
+      "end": 960.34,
+      "text": "They don't eat because they feel hungry. Mary, in the case study you read, was there",
+      "avgLogprob": -0.08423389467809882
+    },
+    {
+      "start": 960.34,
+      "end": 963.54,
+      "text": "any reference to what triggered the problem.",
+      "avgLogprob": -0.1626860431354979
+    },
+    {
+      "start": 963.54,
+      "end": 970.94,
+      "text": "I seem to recall that the student was suffering from stress because she was revising for exams",
+      "avgLogprob": -0.1626860431354979
+    },
+    {
+      "start": 970.94,
+      "end": 976.42,
+      "text": "and she started eating snacks, junk food, while she was studying.",
+      "avgLogprob": -0.1626860431354979
+    },
+    {
+      "start": 976.42,
+      "end": 982.02,
+      "text": "Soon, she was eating snacks all the time and it just got worse from there.",
+      "avgLogprob": -0.1626860431354979
+    },
+    {
+      "start": 982.02,
+      "end": 987.82,
+      "text": "Yes, that sounds plausible, although compulsive eating often starts a lot earlier than the",
+      "avgLogprob": -0.1626860431354979
+    },
+    {
+      "start": 987.82,
+      "end": 991.59,
+      "text": "case you describe.",
+      "avgLogprob": -0.1626860431354979
+    },
+    {
+      "start": 991.59,
+      "end": 996.91,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions twenty-four",
+      "avgLogprob": -0.15333564185548101
+    },
+    {
+      "start": 996.91,
+      "end": 1018.13,
+      "text": "to thirty.",
+      "avgLogprob": -0.15333564185548101
+    },
+    {
+      "start": 1018.13,
+      "end": 1023.68,
+      "text": "Now listen and answer questions twenty-four to thirty.",
+      "avgLogprob": -0.15333564185548101
+    },
+    {
+      "start": 1023.68,
+      "end": 1030.24,
+      "text": "Anyway, once the condition has been triggered, often by constant snacking as you mentioned,",
+      "avgLogprob": -0.15333564185548101
+    },
+    {
+      "start": 1030.24,
+      "end": 1033.28,
+      "text": "it becomes progressively worse.",
+      "avgLogprob": -0.15333564185548101
+    },
+    {
+      "start": 1033.28,
+      "end": 1038.3,
+      "text": "Over a period of time, the sufferer loses control of their food intake.",
+      "avgLogprob": -0.15333564185548101
+    },
+    {
+      "start": 1038.3,
+      "end": 1043.86,
+      "text": "They become preoccupied with food, and the binge eating increases.",
+      "avgLogprob": -0.1238576824014837
+    },
+    {
+      "start": 1043.86,
+      "end": 1049.42,
+      "text": "Over eating blocks out negative emotions such as loneliness, worries about work, depression",
+      "avgLogprob": -0.1238576824014837
+    },
+    {
+      "start": 1049.42,
+      "end": 1051.26,
+      "text": "and so on.",
+      "avgLogprob": -0.1238576824014837
+    },
+    {
+      "start": 1051.26,
+      "end": 1054.82,
+      "text": "But it is only a temporary effect.",
+      "avgLogprob": -0.1238576824014837
+    },
+    {
+      "start": 1054.82,
+      "end": 1060.14,
+      "text": "Apart from the physical discomfort that overeating often causes, the sufferer begins to feel",
+      "avgLogprob": -0.1238576824014837
+    },
+    {
+      "start": 1060.14,
+      "end": 1063.02,
+      "text": "embarrassed by their behaviour.",
+      "avgLogprob": -0.1238576824014837
+    },
+    {
+      "start": 1063.02,
+      "end": 1067.02,
+      "text": "They then take drastic action to try to compensate.",
+      "avgLogprob": -0.1238576824014837
+    },
+    {
+      "start": 1067.02,
+      "end": 1074.26,
+      "text": "In an attempt to lose weight, compulsive eaters will try extreme diets, skipping meals or",
+      "avgLogprob": -0.14612700839837392
+    },
+    {
+      "start": 1074.26,
+      "end": 1078.26,
+      "text": "going without any food at all for a day or more.",
+      "avgLogprob": -0.14612700839837392
+    },
+    {
+      "start": 1078.26,
+      "end": 1081.54,
+      "text": "Not a healthy way to try to lose weight, obviously.",
+      "avgLogprob": -0.14612700839837392
+    },
+    {
+      "start": 1081.54,
+      "end": 1083.1,
+      "text": "Absolutely.",
+      "avgLogprob": -0.14612700839837392
+    },
+    {
+      "start": 1083.1,
+      "end": 1087.6,
+      "text": "And of course, the person has to start eating again at some point.",
+      "avgLogprob": -0.14612700839837392
+    },
+    {
+      "start": 1087.6,
+      "end": 1091.14,
+      "text": "In other words, it becomes a vicious circle?",
+      "avgLogprob": -0.14612700839837392
+    },
+    {
+      "start": 1091.14,
+      "end": 1092.54,
+      "text": "That's right.",
+      "avgLogprob": -0.14612700839837392
+    },
+    {
+      "start": 1092.54,
+      "end": 1098.46,
+      "text": "binge eating, extreme dieting or attempts to lose weight by other means, and then binge",
+      "avgLogprob": -0.15021004192121737
+    },
+    {
+      "start": 1098.46,
+      "end": 1100.66,
+      "text": "eating again.",
+      "avgLogprob": -0.15021004192121737
+    },
+    {
+      "start": 1100.66,
+      "end": 1103.88,
+      "text": "What are the long-term effects of compulsive eating?",
+      "avgLogprob": -0.15021004192121737
+    },
+    {
+      "start": 1103.88,
+      "end": 1110.18,
+      "text": "As you might expect, these are similar to those for people suffering from obesity.",
+      "avgLogprob": -0.15021004192121737
+    },
+    {
+      "start": 1110.18,
+      "end": 1112.98,
+      "text": "Diabetes is frequently reported.",
+      "avgLogprob": -0.15021004192121737
+    },
+    {
+      "start": 1112.98,
+      "end": 1115.02,
+      "text": "What about treatment?",
+      "avgLogprob": -0.15021004192121737
+    },
+    {
+      "start": 1115.02,
+      "end": 1120.26,
+      "text": "The disorder can be treated, certainly, but there's always the possibility that the patient",
+      "avgLogprob": -0.15021004192121737
+    },
+    {
+      "start": 1120.26,
+      "end": 1124.02,
+      "text": "will suffer a relapse and start binging again.",
+      "avgLogprob": -0.24403105676174164
+    },
+    {
+      "start": 1124.02,
+      "end": 1127.46,
+      "text": "What does treatment involve? Medication?",
+      "avgLogprob": -0.24403105676174164
+    },
+    {
+      "start": 1127.46,
+      "end": 1134.9,
+      "text": "No. It normally involves sessions with a therapist, experienced in treating eating disorders.",
+      "avgLogprob": -0.24403105676174164
+    },
+    {
+      "start": 1134.9,
+      "end": 1138.3,
+      "text": "An nutritionist will often be involved as well.",
+      "avgLogprob": -0.24403105676174164
+    },
+    {
+      "start": 1138.3,
+      "end": 1145.34,
+      "text": "Are there any self-help organisations? I mean organisations like Alcoholics Anonymous?",
+      "avgLogprob": -0.24403105676174164
+    },
+    {
+      "start": 1145.34,
+      "end": 1150.52,
+      "text": "Yes, there are, and you might want to follow this one up for your research.",
+      "avgLogprob": -0.19800296272199178
+    },
+    {
+      "start": 1150.52,
+      "end": 1157.22,
+      "text": "One organization is called Overeaters Anonymous, and they have what they describe as a 12-step",
+      "avgLogprob": -0.19800296272199178
+    },
+    {
+      "start": 1157.22,
+      "end": 1161.74,
+      "text": "program to help people overcome the disorder.",
+      "avgLogprob": -0.19800296272199178
+    },
+    {
+      "start": 1161.74,
+      "end": 1165.18,
+      "text": "You can find out more from the organization's website.",
+      "avgLogprob": -0.19800296272199178
+    },
+    {
+      "start": 1165.18,
+      "end": 1171.26,
+      "text": "Right, I think that'll have given you plenty to follow up, so I'll see you at the same",
+      "avgLogprob": -0.19800296272199178
+    },
+    {
+      "start": 1171.26,
+      "end": 1174.77,
+      "text": "time next week.",
+      "avgLogprob": -0.19800296272199178
+    },
+    {
+      "start": 1174.77,
+      "end": 1209.16,
+      "text": "That is the end of section 3, you now have half a minute to check your answers.",
+      "avgLogprob": -0.16228078954360065
+    },
+    {
+      "start": 1209.16,
+      "end": 1212.84,
+      "text": "Now turn to section 4.",
+      "avgLogprob": -0.16228078954360065
+    },
+    {
+      "start": 1212.84,
+      "end": 1214.56,
+      "text": "Section 4.",
+      "avgLogprob": -0.16228078954360065
+    },
+    {
+      "start": 1214.56,
+      "end": 1219.88,
+      "text": "You'll hear a lecturer talking to students about the ozone layer and CFCs.",
+      "avgLogprob": -0.16228078954360065
+    },
+    {
+      "start": 1219.88,
+      "end": 1285.57,
+      "text": "First, you have 1 minute to look at questions 31, to 40.",
+      "avgLogprob": -0.16228078954360065
+    },
+    {
+      "start": 1285.57,
+      "end": 1291.29,
+      "text": "Now listen carefully and answer questions 31, to 40.",
+      "avgLogprob": -0.16228078954360065
+    },
+    {
+      "start": 1291.29,
+      "end": 1300.37,
+      "text": "Today, it is well known that CFCs, or chlorofluorocarbons, can do immense damage to the ozone layer,",
+      "avgLogprob": -0.13175394782772312
+    },
+    {
+      "start": 1300.37,
+      "end": 1304.37,
+      "text": "which protects the earth from harmful radiation from the sun.",
+      "avgLogprob": -0.13175394782772312
+    },
+    {
+      "start": 1304.37,
+      "end": 1311.05,
+      "text": "However, it was as recently as the mid-1970s when the connection between CFCs and ozone",
+      "avgLogprob": -0.13175394782772312
+    },
+    {
+      "start": 1311.05,
+      "end": 1314.81,
+      "text": "layer destruction was first established.",
+      "avgLogprob": -0.13175394782772312
+    },
+    {
+      "start": 1314.81,
+      "end": 1322.97,
+      "text": "The story starts back in 1957, when James Lovelock invented the electron capture detector.",
+      "avgLogprob": -0.12115799064760084
+    },
+    {
+      "start": 1322.97,
+      "end": 1328.37,
+      "text": "This is a machine that can detect very small amounts of a chemical compound in the atmosphere.",
+      "avgLogprob": -0.12115799064760084
+    },
+    {
+      "start": 1328.37,
+      "end": 1333.89,
+      "text": "Indeed, using the machine, it was Lovelock who was the first person to detect the widespread",
+      "avgLogprob": -0.12115799064760084
+    },
+    {
+      "start": 1333.89,
+      "end": 1338.17,
+      "text": "presence of CFCs in the Earth's atmosphere.",
+      "avgLogprob": -0.12115799064760084
+    },
+    {
+      "start": 1338.17,
+      "end": 1344.33,
+      "text": "In 1973, Lovelock, on a research trip which he'd funded himself, measured the amount",
+      "avgLogprob": -0.10608054388587068
+    },
+    {
+      "start": 1344.33,
+      "end": 1349.81,
+      "text": "of CFCs in the atmosphere in the Arctic and in Antarctica, but unfortunately came to the",
+      "avgLogprob": -0.10608054388587068
+    },
+    {
+      "start": 1349.81,
+      "end": 1355.41,
+      "text": "wrong conclusion that CFCs are not harmful to the environment.",
+      "avgLogprob": -0.10608054388587068
+    },
+    {
+      "start": 1355.41,
+      "end": 1362.01,
+      "text": "Following on from this work, though, in 1974, Sherry Rowland and Mario Molina published",
+      "avgLogprob": -0.10608054388587068
+    },
+    {
+      "start": 1362.01,
+      "end": 1368.89,
+      "text": "very first scientific paper on the connection between CFCs and ozone depletion. This quickly",
+      "avgLogprob": -0.09507949027552534
+    },
+    {
+      "start": 1368.89,
+      "end": 1376.41,
+      "text": "prompted the world's first ban on the use of CFCs, which was enacted in 1975 by the US state of",
+      "avgLogprob": -0.09507949027552534
+    },
+    {
+      "start": 1376.41,
+      "end": 1384.89,
+      "text": "Oregon. Further bans followed. In 1978, the United States and several European countries banned the",
+      "avgLogprob": -0.09507949027552534
+    },
+    {
+      "start": 1384.89,
+      "end": 1392.73,
+      "text": "use of CFCs in spray cans. CFCs were still allowed to be used, though, for refrigeration",
+      "avgLogprob": -0.09534705802798271
+    },
+    {
+      "start": 1392.73,
+      "end": 1400.09,
+      "text": "and insolvents. It was in the mid-1980s that scientists in Antarctica observed a huge depletion",
+      "avgLogprob": -0.09534705802798271
+    },
+    {
+      "start": 1400.09,
+      "end": 1408.09,
+      "text": "in the ozone layer above them, often called the hole in the ozone layer. This led in 1987",
+      "avgLogprob": -0.09534705802798271
+    },
+    {
+      "start": 1408.09,
+      "end": 1412.89,
+      "text": "to the signing of the Montreal Protocol, which called for further reductions in the",
+      "avgLogprob": -0.09534705802798271
+    },
+    {
+      "start": 1412.89,
+      "end": 1419.49,
+      "text": "production and use of CFCs, and then, two years later, to a European Union agreement",
+      "avgLogprob": -0.09275869202782523
+    },
+    {
+      "start": 1419.49,
+      "end": 1425.6,
+      "text": "to ban the production of all CFCs by the end of the century.",
+      "avgLogprob": -0.09275869202782523
+    },
+    {
+      "start": 1425.6,
+      "end": 1430.36,
+      "text": "One of the reasons CFCs were so popular in the production of solvents and refrigeration",
+      "avgLogprob": -0.09275869202782523
+    },
+    {
+      "start": 1430.36,
+      "end": 1437.04,
+      "text": "coolants is that they are unreactive. That is, they don't react easily or at all with",
+      "avgLogprob": -0.09275869202782523
+    },
+    {
+      "start": 1437.04,
+      "end": 1443.96,
+      "text": "other chemical compounds. It's this property, however, that also makes them dangerous.",
+      "avgLogprob": -0.09275869202782523
+    },
+    {
+      "start": 1443.96,
+      "end": 1448.74,
+      "text": "Because they are unreactive, it's very difficult for them to be broken down.",
+      "avgLogprob": -0.1190795111234742
+    },
+    {
+      "start": 1448.74,
+      "end": 1454.08,
+      "text": "This gives them a long lifespan, more than 100 years in some cases, and allows them to",
+      "avgLogprob": -0.1190795111234742
+    },
+    {
+      "start": 1454.08,
+      "end": 1459.48,
+      "text": "rise into the upper levels of the atmosphere, the stratosphere, unchanged.",
+      "avgLogprob": -0.1190795111234742
+    },
+    {
+      "start": 1459.48,
+      "end": 1465.44,
+      "text": "There, ultraviolet radiation from the sun starts to break them down, freeing the chlorine",
+      "avgLogprob": -0.1190795111234742
+    },
+    {
+      "start": 1465.44,
+      "end": 1468.0,
+      "text": "atoms from the CFCs.",
+      "avgLogprob": -0.1190795111234742
+    },
+    {
+      "start": 1468.0,
+      "end": 1474.02,
+      "text": "It's this chlorine that helps destroy the ozone there.",
+      "avgLogprob": -0.1190795111234742
+    },
+    {
+      "start": 1474.02,
+      "end": 1508.27,
+      "text": "That is the end of section 4, you now have half a minute to check your answers.",
+      "avgLogprob": -0.08395829913662929
+    },
+    {
+      "start": 1508.27,
+      "end": 1511.21,
+      "text": "That is the end of the listening test.",
+      "avgLogprob": -0.08395829913662929
+    },
+    {
+      "start": 1511.21,
+      "end": 1516.03,
+      "text": "You will now have 10 minutes, to transfer your answers into the answer sheet.",
+      "avgLogprob": -0.08395829913662929
+    }
+  ]
+}

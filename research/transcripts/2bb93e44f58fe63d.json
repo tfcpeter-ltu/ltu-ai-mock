@@ -1,0 +1,481 @@
+{
+  "source": "assets/audio/2bb93e44f58fe63d.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.59,
+      "end": 7.27,
+      "text": "Section 3. You're going to listen to a conversation between a professor and a student, but first",
+      "avgLogprob": -0.22521290308550784
+    },
+    {
+      "start": 7.27,
+      "end": 44.5,
+      "text": "you have some time to look at questions 21 to 24. Now listen carefully and answer questions",
+      "avgLogprob": -0.22521290308550784
+    },
+    {
+      "start": 44.5,
+      "end": 53.5,
+      "text": "21 to 24. Come on in. Oh, hi Linda, come have a seat.",
+      "avgLogprob": -0.22521290308550784
+    },
+    {
+      "start": 53.5,
+      "end": 58.74,
+      "text": "Good afternoon Mr Xavier. I received your email telling me to come in to talk about",
+      "avgLogprob": -0.22521290308550784
+    },
+    {
+      "start": 58.74,
+      "end": 61.82,
+      "text": "my team presentation this morning. Is something wrong?",
+      "avgLogprob": -0.22521290308550784
+    },
+    {
+      "start": 61.82,
+      "end": 66.82,
+      "text": "No, no, nothing's wrong. I just want to ask for your opinion about your team members contribution",
+      "avgLogprob": -0.17132738439163359
+    },
+    {
+      "start": 66.82,
+      "end": 72.34,
+      "text": "to the teamwork so that I can mark them properly. Now, as the team leader, what do you have",
+      "avgLogprob": -0.17132738439163359
+    },
+    {
+      "start": 72.34,
+      "end": 77.22,
+      "text": "to say about your team mates? Give me some information on both the pros and the cons of",
+      "avgLogprob": -0.17132738439163359
+    },
+    {
+      "start": 77.22,
+      "end": 78.22,
+      "text": "each person.",
+      "avgLogprob": -0.17132738439163359
+    },
+    {
+      "start": 78.22,
+      "end": 86.22,
+      "text": "Oh, yes, of course. Well, let me see. I will go with me first. Having been familiar with",
+      "avgLogprob": -0.17132738439163359
+    },
+    {
+      "start": 86.22,
+      "end": 90.9,
+      "text": "the leadership position I'm pretty confident with the way I assigned the",
+      "avgLogprob": -0.13286522338571755
+    },
+    {
+      "start": 90.9,
+      "end": 96.78,
+      "text": "tasks for my team. However, dealing with people now is much more challenging than",
+      "avgLogprob": -0.13286522338571755
+    },
+    {
+      "start": 96.78,
+      "end": 101.82,
+      "text": "it used to be since this group have stronger opinions than the last. I think",
+      "avgLogprob": -0.13286522338571755
+    },
+    {
+      "start": 101.82,
+      "end": 106.82,
+      "text": "I need to work more on that if I want to keep my leadership role. Right, well",
+      "avgLogprob": -0.13286522338571755
+    },
+    {
+      "start": 106.82,
+      "end": 110.98,
+      "text": "being a leader has never been an easy job and what about the others anyway?",
+      "avgLogprob": -0.13286522338571755
+    },
+    {
+      "start": 110.98,
+      "end": 117.96,
+      "text": "Well, do you remember know-it-all Karen? The one who always raises her hand when",
+      "avgLogprob": -0.1655098529089065
+    },
+    {
+      "start": 117.96,
+      "end": 124.1,
+      "text": "you ask a question. Oh yeah, I remember. The girl with curly blonde hair. Oh isn't",
+      "avgLogprob": -0.1655098529089065
+    },
+    {
+      "start": 124.1,
+      "end": 129.62,
+      "text": "she such a great asset to your team? She is indeed. She's in charge of most of",
+      "avgLogprob": -0.1655098529089065
+    },
+    {
+      "start": 129.62,
+      "end": 134.7,
+      "text": "the content of the presentation. She did a great job writing a concise summary",
+      "avgLogprob": -0.1655098529089065
+    },
+    {
+      "start": 134.7,
+      "end": 139.82,
+      "text": "of the chapter. However, what she lacks is a sense of teamwork. She worked",
+      "avgLogprob": -0.1655098529089065
+    },
+    {
+      "start": 139.82,
+      "end": 145.7,
+      "text": "without taking other members' opinions into account and criticized everyone's work. She",
+      "avgLogprob": -0.17838931019588183
+    },
+    {
+      "start": 145.7,
+      "end": 151.46,
+      "text": "seemed to regard us as her inferiors. I had a difficult time dealing with her.",
+      "avgLogprob": -0.17838931019588183
+    },
+    {
+      "start": 151.46,
+      "end": 155.7,
+      "text": "You'll find yourself in that situation if you want to be in management, to be honest.",
+      "avgLogprob": -0.17838931019588183
+    },
+    {
+      "start": 155.7,
+      "end": 161.02,
+      "text": "There are lots of people like that out there. You have to balance their effectiveness and",
+      "avgLogprob": -0.17838931019588183
+    },
+    {
+      "start": 161.02,
+      "end": 164.5,
+      "text": "their ego at the same time, which is never easy.",
+      "avgLogprob": -0.17838931019588183
+    },
+    {
+      "start": 164.5,
+      "end": 168.2,
+      "text": "Yeah, different people have different characteristics.",
+      "avgLogprob": -0.09568905120141039
+    },
+    {
+      "start": 168.2,
+      "end": 172.08,
+      "text": "Take Lee as an example, he's too quiet",
+      "avgLogprob": -0.09568905120141039
+    },
+    {
+      "start": 172.08,
+      "end": 175.56,
+      "text": "and I could barely make him speak during team meetings.",
+      "avgLogprob": -0.09568905120141039
+    },
+    {
+      "start": 175.56,
+      "end": 179.04,
+      "text": "He gave almost no opinion at all.",
+      "avgLogprob": -0.09568905120141039
+    },
+    {
+      "start": 179.04,
+      "end": 181.84,
+      "text": "I had to spend lots of time breaking the ice",
+      "avgLogprob": -0.09568905120141039
+    },
+    {
+      "start": 181.84,
+      "end": 184.32,
+      "text": "between him and the rest of the team.",
+      "avgLogprob": -0.09568905120141039
+    },
+    {
+      "start": 184.32,
+      "end": 187.04,
+      "text": "Gradually, he opened up to everyone",
+      "avgLogprob": -0.09568905120141039
+    },
+    {
+      "start": 187.04,
+      "end": 191.0,
+      "text": "and I found out that he's really good with computer skills.",
+      "avgLogprob": -0.09568905120141039
+    },
+    {
+      "start": 191.0,
+      "end": 194.12,
+      "text": "All the effects in our slideshow were made by him",
+      "avgLogprob": -0.09568905120141039
+    },
+    {
+      "start": 194.12,
+      "end": 200.96,
+      "text": "they are amazing. Well good job getting him involved Linda. Thanks and then",
+      "avgLogprob": -0.16324140115276628
+    },
+    {
+      "start": 200.96,
+      "end": 206.6,
+      "text": "there's Louis. He's the least disciplined member of our team. He was often late for",
+      "avgLogprob": -0.16324140115276628
+    },
+    {
+      "start": 206.6,
+      "end": 212.62,
+      "text": "team meetings and he had thousands of reasons for that. Despite his persistent",
+      "avgLogprob": -0.16324140115276628
+    },
+    {
+      "start": 212.62,
+      "end": 218.56,
+      "text": "lateness he has a smooth French accent which is very charming. It was effective",
+      "avgLogprob": -0.16324140115276628
+    },
+    {
+      "start": 218.56,
+      "end": 223.8,
+      "text": "in drawing the whole class's attention and I have to admit it did improve the",
+      "avgLogprob": -0.16324140115276628
+    },
+    {
+      "start": 223.8,
+      "end": 227.94,
+      "text": "presentation a lot. Well I guess you can say he's the speaker of your team and",
+      "avgLogprob": -0.11019459321643367
+    },
+    {
+      "start": 227.94,
+      "end": 233.14,
+      "text": "everyone loves a French accent don't they? As far as I can see your team did a",
+      "avgLogprob": -0.11019459321643367
+    },
+    {
+      "start": 233.14,
+      "end": 238.46,
+      "text": "very good job overall. Thank you professor. Before you listen to the rest",
+      "avgLogprob": -0.11019459321643367
+    },
+    {
+      "start": 238.46,
+      "end": 273.96,
+      "text": "of the message you have some time to look at questions 25 to 30. Now listen",
+      "avgLogprob": -0.11019459321643367
+    },
+    {
+      "start": 273.96,
+      "end": 281.33,
+      "text": "carefully and answer questions 25 to 30. Also now that you're here I have a few",
+      "avgLogprob": -0.11019459321643367
+    },
+    {
+      "start": 281.33,
+      "end": 286.13,
+      "text": "questions to ask do you mind? Not at all professor. I was wondering what are the",
+      "avgLogprob": -0.15491625898414188
+    },
+    {
+      "start": 286.13,
+      "end": 293.05,
+      "text": "three qualities that you consider most important in a good leader? I've never",
+      "avgLogprob": -0.15491625898414188
+    },
+    {
+      "start": 293.05,
+      "end": 297.49,
+      "text": "really put a serious thought to this just give me a moment. Yeah yeah yeah",
+      "avgLogprob": -0.15491625898414188
+    },
+    {
+      "start": 297.49,
+      "end": 304.25,
+      "text": "take your time don't worry the question just came out of curiosity. Right even",
+      "avgLogprob": -0.15491625898414188
+    },
+    {
+      "start": 304.25,
+      "end": 309.77,
+      "text": "though I'm confident with my ability to delegate I think effective communication",
+      "avgLogprob": -0.15491625898414188
+    },
+    {
+      "start": 309.77,
+      "end": 315.57,
+      "text": "is the most important quality. A good leader needs to be able to communicate",
+      "avgLogprob": -0.16537497919726085
+    },
+    {
+      "start": 315.57,
+      "end": 321.81,
+      "text": "in a variety of ways from transmitting information to coaching people and they",
+      "avgLogprob": -0.16537497919726085
+    },
+    {
+      "start": 321.81,
+      "end": 326.49,
+      "text": "must be able to listen to and communicate with a wide range of people",
+      "avgLogprob": -0.16537497919726085
+    },
+    {
+      "start": 326.49,
+      "end": 333.73,
+      "text": "across roles, social identities and more. Hmm yeah interesting choice. What do",
+      "avgLogprob": -0.16537497919726085
+    },
+    {
+      "start": 333.73,
+      "end": 338.05,
+      "text": "you think about integrity? It's often mentioned first when we talk about",
+      "avgLogprob": -0.16537497919726085
+    },
+    {
+      "start": 338.05,
+      "end": 343.75,
+      "text": "leaders traits. I totally agree with the strong morality parts but I think being",
+      "avgLogprob": -0.16182105935795207
+    },
+    {
+      "start": 343.75,
+      "end": 349.21,
+      "text": "honest is overrated. You need to be flexible sometimes you know telling",
+      "avgLogprob": -0.16182105935795207
+    },
+    {
+      "start": 349.21,
+      "end": 356.15,
+      "text": "white lies for a greater good a bigger picture. I see. Considering my leadership",
+      "avgLogprob": -0.16182105935795207
+    },
+    {
+      "start": 356.15,
+      "end": 362.75,
+      "text": "style I'd say a good leader also needs to have influence on followers as well",
+      "avgLogprob": -0.16182105935795207
+    },
+    {
+      "start": 362.75,
+      "end": 369.13,
+      "text": "respect for them. I love to bond with my teammates and these characteristics suit",
+      "avgLogprob": -0.16678123672803244
+    },
+    {
+      "start": 369.13,
+      "end": 374.33,
+      "text": "me well. Thank you so much for your honest answer Linda. Now I'd like to give",
+      "avgLogprob": -0.16678123672803244
+    },
+    {
+      "start": 374.33,
+      "end": 378.47,
+      "text": "you some advice on what traits you need to improve. Is that alright with you? Of",
+      "avgLogprob": -0.16678123672803244
+    },
+    {
+      "start": 378.47,
+      "end": 383.41,
+      "text": "course, yes please. I never pass on an opportunity to improve myself. Ah good",
+      "avgLogprob": -0.16678123672803244
+    },
+    {
+      "start": 383.41,
+      "end": 387.29,
+      "text": "good, that's the quality of self-awareness right now and apparently",
+      "avgLogprob": -0.16678123672803244
+    },
+    {
+      "start": 387.29,
+      "end": 392.03,
+      "text": "that's not what you need to improve on. What I have in mind is actually",
+      "avgLogprob": -0.16678123672803244
+    },
+    {
+      "start": 392.03,
+      "end": 399.03,
+      "text": "learning agility. It's the ability to know what to do when you don't know what",
+      "avgLogprob": -0.09869179104200819
+    },
+    {
+      "start": 399.03,
+      "end": 404.23,
+      "text": "to do. And it will help me excel in unfamiliar circumstances which leaders",
+      "avgLogprob": -0.09869179104200819
+    },
+    {
+      "start": 404.23,
+      "end": 411.03,
+      "text": "face a lot. Yes and another necessary quality for you is courage. It enables",
+      "avgLogprob": -0.09869179104200819
+    },
+    {
+      "start": 411.03,
+      "end": 415.55,
+      "text": "leaders to step up and move things in the right direction rather than avoiding",
+      "avgLogprob": -0.09869179104200819
+    },
+    {
+      "start": 415.55,
+      "end": 420.11,
+      "text": "problems or allowing conflicts to fester. It means I can give honest",
+      "avgLogprob": -0.09869179104200819
+    },
+    {
+      "start": 420.11,
+      "end": 427.15,
+      "text": "feedback about a bad job or flag a concern for my boss. That's right, yeah and last but not least",
+      "avgLogprob": -0.10054822048444427
+    },
+    {
+      "start": 427.15,
+      "end": 433.63,
+      "text": "you need to show more innovation. It's not that you have to be a creative genius with thought",
+      "avgLogprob": -0.10054822048444427
+    },
+    {
+      "start": 433.63,
+      "end": 440.11,
+      "text": "provoking ideas but rather you need to give others the freedom to develop their own ideas.",
+      "avgLogprob": -0.10054822048444427
+    },
+    {
+      "start": 440.91,
+      "end": 447.07,
+      "text": "Your job is to be open to new ideas and also discussions. Thank you very much for your",
+      "avgLogprob": -0.10054822048444427
+    },
+    {
+      "start": 447.07,
+      "end": 451.31,
+      "text": "wisdom. Now I know what I need to work on to become a good leader.",
+      "avgLogprob": -0.13241348461228974
+    },
+    {
+      "start": 451.31,
+      "end": 455.15,
+      "text": "You're welcome. Anyway, now I have to attend a meeting.",
+      "avgLogprob": -0.13241348461228974
+    },
+    {
+      "start": 455.15,
+      "end": 459.07,
+      "text": "If you have any more questions, email me and I'll get back to you as soon as I",
+      "avgLogprob": -0.13241348461228974
+    },
+    {
+      "start": 459.07,
+      "end": 464.14,
+      "text": "can. I will. Goodbye. That's the end of",
+      "avgLogprob": -0.13241348461228974
+    },
+    {
+      "start": 464.14,
+      "end": 467.5,
+      "text": "section three. You now have 30 seconds to check your",
+      "avgLogprob": -0.13241348461228974
+    },
+    {
+      "start": 467.5,
+      "end": 504.19,
+      "text": "answers to section three. Now turn to section four.",
+      "avgLogprob": -0.13241348461228974
+    }
+  ]
+}

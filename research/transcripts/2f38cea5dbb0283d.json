@@ -1,0 +1,295 @@
+{
+  "source": "assets/audio/2f38cea5dbb0283d.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Police station, can I help you?",
+      "avgLogprob": -0.18514980492384536
+    },
+    {
+      "start": 3.6,
+      "end": 8.0,
+      "text": "Please, please, can you help me? Someone just stole my camera.",
+      "avgLogprob": -0.18514980492384536
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "Now then, sir, calm down.",
+      "avgLogprob": -0.18514980492384536
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Where did this happen?",
+      "avgLogprob": -0.18514980492384536
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "In the city centre, outside McDonald's.",
+      "avgLogprob": -0.18514980492384536
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": "Would you like to report this to the crime management unit, sir?",
+      "avgLogprob": -0.18514980492384536
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "What's that?",
+      "avgLogprob": -0.18514980492384536
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "That's a special unit we have here that deals with this type of thing.",
+      "avgLogprob": -0.18514980492384536
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "They'll take some more details from you and give you a crime reference number.",
+      "avgLogprob": -0.18514980492384536
+    },
+    {
+      "start": 29.0,
+      "end": 30.32,
+      "text": "for your insurance.",
+      "avgLogprob": -0.22603565337611178
+    },
+    {
+      "start": 30.32,
+      "end": 38.05,
+      "text": "Oh yes, let's do that then.",
+      "avgLogprob": -0.22603565337611178
+    },
+    {
+      "start": 38.05,
+      "end": 45.02,
+      "text": "This way, please, sir.",
+      "avgLogprob": -0.22603565337611178
+    },
+    {
+      "start": 45.02,
+      "end": 48.78,
+      "text": "Now, I'm Constable Martin Peel.",
+      "avgLogprob": -0.22603565337611178
+    },
+    {
+      "start": 48.78,
+      "end": 50.98,
+      "text": "I just need a few details from you",
+      "avgLogprob": -0.22603565337611178
+    },
+    {
+      "start": 50.98,
+      "end": 54.46,
+      "text": "and then we can give you your crime reference number, okay?",
+      "avgLogprob": -0.22603565337611178
+    },
+    {
+      "start": 54.46,
+      "end": 55.9,
+      "text": "Yes, fine.",
+      "avgLogprob": -0.22603565337611178
+    },
+    {
+      "start": 55.9,
+      "end": 57.78,
+      "text": "So, your name is?",
+      "avgLogprob": -0.22603565337611178
+    },
+    {
+      "start": 57.78,
+      "end": 59.98,
+      "text": "Manolo Gonzalez, from Spain.",
+      "avgLogprob": -0.22603565337611178
+    },
+    {
+      "start": 61.06,
+      "end": 66.06,
+      "text": "That's M-A-N-O-L-O,",
+      "avgLogprob": -0.22603565337611178
+    },
+    {
+      "start": 66.06,
+      "end": 73.06,
+      "text": "then G-O-N-Z-A-L-E-Z",
+      "avgLogprob": -0.21871271038927684
+    },
+    {
+      "start": 73.06,
+      "end": 78.06,
+      "text": "OK, Manolo. And where are you staying here in London?",
+      "avgLogprob": -0.21871271038927684
+    },
+    {
+      "start": 78.06,
+      "end": 81.06,
+      "text": "I am a student. I'm staying with a host family.",
+      "avgLogprob": -0.21871271038927684
+    },
+    {
+      "start": 81.06,
+      "end": 84.06,
+      "text": "There are Mr and Mrs Hilton.",
+      "avgLogprob": -0.21871271038927684
+    },
+    {
+      "start": 84.06,
+      "end": 87.06,
+      "text": "The address is 23 Brookfield Close.",
+      "avgLogprob": -0.21871271038927684
+    },
+    {
+      "start": 87.06,
+      "end": 94.06,
+      "text": "Hold on. 23 Brookfield Close, yes?",
+      "avgLogprob": -0.21871271038927684
+    },
+    {
+      "start": 94.06,
+      "end": 100.06,
+      "text": "London E12 5TR",
+      "avgLogprob": -0.22176949355913245
+    },
+    {
+      "start": 100.06,
+      "end": 103.06,
+      "text": "5TR",
+      "avgLogprob": -0.22176949355913245
+    },
+    {
+      "start": 103.06,
+      "end": 106.06,
+      "text": "Ok, now you had a camera stolen",
+      "avgLogprob": -0.22176949355913245
+    },
+    {
+      "start": 106.06,
+      "end": 109.06,
+      "text": "Yes, it was a digital camera",
+      "avgLogprob": -0.22176949355913245
+    },
+    {
+      "start": 109.06,
+      "end": 112.06,
+      "text": "A Pentax DF Super",
+      "avgLogprob": -0.22176949355913245
+    },
+    {
+      "start": 112.06,
+      "end": 113.06,
+      "text": "Colour?",
+      "avgLogprob": -0.22176949355913245
+    },
+    {
+      "start": 113.06,
+      "end": 114.06,
+      "text": "Black",
+      "avgLogprob": -0.22176949355913245
+    },
+    {
+      "start": 114.06,
+      "end": 117.06,
+      "text": "And how much was it worth?",
+      "avgLogprob": -0.22176949355913245
+    },
+    {
+      "start": 117.06,
+      "end": 119.06,
+      "text": "I only bought it last month",
+      "avgLogprob": -0.22176949355913245
+    },
+    {
+      "start": 119.06,
+      "end": 122.06,
+      "text": "It cost 380 euros",
+      "avgLogprob": -0.22176949355913245
+    },
+    {
+      "start": 122.06,
+      "end": 130.06,
+      "text": "Right. Now, you say it was stolen in the city centre outside McDonald's in Hope Avenue.",
+      "avgLogprob": -0.13680487102077854
+    },
+    {
+      "start": 130.06,
+      "end": 132.06,
+      "text": "What time was this, sir?",
+      "avgLogprob": -0.13680487102077854
+    },
+    {
+      "start": 132.06,
+      "end": 134.06,
+      "text": "About 2.30.",
+      "avgLogprob": -0.13680487102077854
+    },
+    {
+      "start": 134.06,
+      "end": 137.06,
+      "text": "And did you get a look at whoever stole it?",
+      "avgLogprob": -0.13680487102077854
+    },
+    {
+      "start": 137.06,
+      "end": 144.06,
+      "text": "He was a young man, maybe around 18, with short dark hair and glasses.",
+      "avgLogprob": -0.13680487102077854
+    },
+    {
+      "start": 144.06,
+      "end": 147.06,
+      "text": "He was wearing jeans and a green t-shirt.",
+      "avgLogprob": -0.13680487102077854
+    },
+    {
+      "start": 147.06,
+      "end": 150.06,
+      "text": "And were there any witnesses?",
+      "avgLogprob": -0.13680487102077854
+    },
+    {
+      "start": 150.06,
+      "end": 158.06,
+      "text": "Lots of people were there, but, oh, the ice cream seller, he was standing on the corner.",
+      "avgLogprob": -0.24477856867015363
+    },
+    {
+      "start": 158.06,
+      "end": 166.06,
+      "text": "OK, an ice cream seller. Now, I'm going to give you a crime reference number, so write it down.",
+      "avgLogprob": -0.24477856867015363
+    },
+    {
+      "start": 166.06,
+      "end": 174.06,
+      "text": "It's E-F-O-1-7-6-3-8. Got it?",
+      "avgLogprob": -0.24477856867015363
+    },
+    {
+      "start": 174.06,
+      "end": 176.06,
+      "text": "Yes.",
+      "avgLogprob": -0.24477856867015363
+    },
+    {
+      "start": 176.06,
+      "end": 183.06,
+      "text": "Ok, well Mr Gonzalez, that's all we can do for now. We'll contact you if we have any news.",
+      "avgLogprob": -0.23922652241430784
+    },
+    {
+      "start": 183.06,
+      "end": 186.06,
+      "text": "Ok then, thank you very much.",
+      "avgLogprob": -0.23922652241430784
+    }
+  ]
+}

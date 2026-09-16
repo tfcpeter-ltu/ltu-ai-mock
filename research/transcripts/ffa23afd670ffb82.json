@@ -1,0 +1,241 @@
+{
+  "source": "assets/audio/ffa23afd670ffb82.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.52,
+      "end": 3.52,
+      "text": "Is that all?",
+      "avgLogprob": -0.1616052410688745
+    },
+    {
+      "start": 3.52,
+      "end": 11.52,
+      "text": "Yes, madam. I'm sure you'll appreciate that these checks are necessary for security reasons.",
+      "avgLogprob": -0.1616052410688745
+    },
+    {
+      "start": 11.52,
+      "end": 14.52,
+      "text": "So, what exactly is the problem?",
+      "avgLogprob": -0.1616052410688745
+    },
+    {
+      "start": 14.52,
+      "end": 16.52,
+      "text": "Problems?",
+      "avgLogprob": -0.1616052410688745
+    },
+    {
+      "start": 16.52,
+      "end": 17.52,
+      "text": "OK.",
+      "avgLogprob": -0.1616052410688745
+    },
+    {
+      "start": 17.52,
+      "end": 22.52,
+      "text": "Well, first, your computer is clearly malfunctioning.",
+      "avgLogprob": -0.1616052410688745
+    },
+    {
+      "start": 22.52,
+      "end": 28.52,
+      "text": "I paid my last bill in full, but the statement shows that I only paid half of it.",
+      "avgLogprob": -0.1616052410688745
+    },
+    {
+      "start": 28.52,
+      "end": 38.52,
+      "text": "Yes, the account does only show that £200 was paid of the £400 owed.",
+      "avgLogprob": -0.08474178363879521
+    },
+    {
+      "start": 38.52,
+      "end": 45.52,
+      "text": "Yes, but I paid the £400 through my bank account online. I have my receipt.",
+      "avgLogprob": -0.08474178363879521
+    },
+    {
+      "start": 45.52,
+      "end": 50.52,
+      "text": "And my bank statement shows that you have taken £400 out of my bank account.",
+      "avgLogprob": -0.08474178363879521
+    },
+    {
+      "start": 50.52,
+      "end": 57.52,
+      "text": "Oh, I see. What I'll do is check with the bank and see what they say.",
+      "avgLogprob": -0.08474178363879521
+    },
+    {
+      "start": 57.52,
+      "end": 61.52,
+      "text": "OK. You said there was something else.",
+      "avgLogprob": -0.19236271197979266
+    },
+    {
+      "start": 61.52,
+      "end": 74.52,
+      "text": "Unfortunately, there is. My phone account shows that £107.27 was paid on a single phone call to a mobile outside the UK on December 24th.",
+      "avgLogprob": -0.19236271197979266
+    },
+    {
+      "start": 74.52,
+      "end": 80.52,
+      "text": "I don't remember making that call, and I don't recognise the number.",
+      "avgLogprob": -0.19236271197979266
+    },
+    {
+      "start": 80.52,
+      "end": 83.12,
+      "text": "Let's have a look at the details, madam.",
+      "avgLogprob": -0.29325503508249917
+    },
+    {
+      "start": 84.4,
+      "end": 92.92,
+      "text": "Well, it was definitely made from your phone to an overseas number at 10pm on that date.",
+      "avgLogprob": -0.29325503508249917
+    },
+    {
+      "start": 93.84,
+      "end": 96.84,
+      "text": "But I have no recollection of making that call.",
+      "avgLogprob": -0.29325503508249917
+    },
+    {
+      "start": 97.8,
+      "end": 102.64,
+      "text": "Maybe it was to wish someone abroad a happy Christmas, madam.",
+      "avgLogprob": -0.29325503508249917
+    },
+    {
+      "start": 103.44,
+      "end": 106.32,
+      "text": "No, I don't know anyone living abroad.",
+      "avgLogprob": -0.29325503508249917
+    },
+    {
+      "start": 107.32,
+      "end": 109.44,
+      "text": "Oh, wait, hold on.",
+      "avgLogprob": -0.29325503508249917
+    },
+    {
+      "start": 109.44,
+      "end": 110.24,
+      "text": "Yes?",
+      "avgLogprob": -0.29325503508249917
+    },
+    {
+      "start": 110.52,
+      "end": 115.52,
+      "text": "I lent my phone to a friend of my brother's who is an overseas student here.",
+      "avgLogprob": -0.12684330016702086
+    },
+    {
+      "start": 115.52,
+      "end": 120.52,
+      "text": "He desperately wanted to phone home, but had lost his mobile that evening.",
+      "avgLogprob": -0.12684330016702086
+    },
+    {
+      "start": 120.52,
+      "end": 123.52,
+      "text": "My mistake. Sorry.",
+      "avgLogprob": -0.12684330016702086
+    },
+    {
+      "start": 123.52,
+      "end": 127.52,
+      "text": "That's okay, Mrs Williams. Is there anything else?",
+      "avgLogprob": -0.12684330016702086
+    },
+    {
+      "start": 127.52,
+      "end": 131.52,
+      "text": "Well, I don't want to take any more of your time.",
+      "avgLogprob": -0.12684330016702086
+    },
+    {
+      "start": 131.52,
+      "end": 135.52,
+      "text": "Go ahead, madam. That's why I'm here.",
+      "avgLogprob": -0.12684330016702086
+    },
+    {
+      "start": 135.52,
+      "end": 142.52,
+      "text": "Hmm, well, the number of free calls per month seems to have gone down.",
+      "avgLogprob": -0.1742494876568134
+    },
+    {
+      "start": 142.52,
+      "end": 158.52,
+      "text": "Oh, if you look at your statement for November, you will see that the number has actually been increased from 150 to 200 minutes of free calls per month.",
+      "avgLogprob": -0.1742494876568134
+    },
+    {
+      "start": 158.52,
+      "end": 162.52,
+      "text": "This is in line with our competitors.",
+      "avgLogprob": -0.1742494876568134
+    },
+    {
+      "start": 162.52,
+      "end": 166.52,
+      "text": "Oh, yes, I see it now. Thanks. Great.",
+      "avgLogprob": -0.13637163738409677
+    },
+    {
+      "start": 166.52,
+      "end": 169.52,
+      "text": "Was that all, Mrs Williams?",
+      "avgLogprob": -0.13637163738409677
+    },
+    {
+      "start": 169.52,
+      "end": 174.52,
+      "text": "Yes, but you will check that payment made from my bank, won't you?",
+      "avgLogprob": -0.13637163738409677
+    },
+    {
+      "start": 174.52,
+      "end": 180.52,
+      "text": "Yes, madam. Would you like to hold the line, or shall I call you back?",
+      "avgLogprob": -0.13637163738409677
+    },
+    {
+      "start": 180.52,
+      "end": 188.52,
+      "text": "Please call me back on my landline. I'll be at home for the next three hours, but I've got to go out at midday.",
+      "avgLogprob": -0.13637163738409677
+    },
+    {
+      "start": 188.52,
+      "end": 191.52,
+      "text": "Right. What's the number?",
+      "avgLogprob": -0.13637163738409677
+    },
+    {
+      "start": 191.52,
+      "end": 211.88,
+      "text": "it's 0 1 6 1 1 1 2 3 9 7 5 0 1 6 1 3 9 7 5 no it's 1 1 2 and then 3 9 7 5 so",
+      "avgLogprob": -0.18684049656516627
+    },
+    {
+      "start": 211.88,
+      "end": 231.61,
+      "text": "it's 0161 112 3975 yes that's it okay I'll phone you straight back thanks",
+      "avgLogprob": -0.26020775900946724
+    },
+    {
+      "start": 231.61,
+      "end": 234.79,
+      "text": "very much bye",
+      "avgLogprob": -0.26020775900946724
+    }
+  ]
+}

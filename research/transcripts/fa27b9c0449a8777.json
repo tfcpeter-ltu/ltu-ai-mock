@@ -1,0 +1,355 @@
+{
+  "source": "assets/audio/fa27b9c0449a8777.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.78,
+      "end": 4.74,
+      "text": "Good morning, and welcome all of you to today's lecture.",
+      "avgLogprob": -0.1976360509270116
+    },
+    {
+      "start": 5.58,
+      "end": 11.98,
+      "text": "This is the first lecture of a series of lectures about the relationship between diet, health, and disease.",
+      "avgLogprob": -0.1976360509270116
+    },
+    {
+      "start": 12.7,
+      "end": 17.02,
+      "text": "What I want to do in this series is to provide evidence which shows that diet,",
+      "avgLogprob": -0.1976360509270116
+    },
+    {
+      "start": 17.38,
+      "end": 24.74,
+      "text": "in addition to supplying material for the growth and maintenance of the body, as well as the necessary energy for it to function,",
+      "avgLogprob": -0.1976360509270116
+    },
+    {
+      "start": 25.18,
+      "end": 27.78,
+      "text": "also contains two groups of substances.",
+      "avgLogprob": -0.1976360509270116
+    },
+    {
+      "start": 27.78,
+      "end": 34.78,
+      "text": "One tends to produce pathological changes and ill health, and the other helps the body to protect itself.",
+      "avgLogprob": -0.07524970562217083
+    },
+    {
+      "start": 34.78,
+      "end": 41.78,
+      "text": "First, let's take a look at the history of the relationship between food and disease.",
+      "avgLogprob": -0.07524970562217083
+    },
+    {
+      "start": 41.78,
+      "end": 44.78,
+      "text": "This was initiated by two discoveries.",
+      "avgLogprob": -0.07524970562217083
+    },
+    {
+      "start": 44.78,
+      "end": 56.78,
+      "text": "One was the work of Eichmann, who proved in 1897 that berry berry was due to the absence from the diet of a substance found in many foods, especially in cereals.",
+      "avgLogprob": -0.07524970562217083
+    },
+    {
+      "start": 56.78,
+      "end": 64.5,
+      "text": "The substance came to be known as anti-berryberry or vitamin B1. The other",
+      "avgLogprob": -0.2181951315739216
+    },
+    {
+      "start": 64.5,
+      "end": 70.58,
+      "text": "was the discovery of Holstenfrolich in 1907 that fresh foods, especially fruits",
+      "avgLogprob": -0.2181951315739216
+    },
+    {
+      "start": 70.58,
+      "end": 75.7,
+      "text": "and vegetables, contained a substance in whose absence from the diet the disease",
+      "avgLogprob": -0.2181951315739216
+    },
+    {
+      "start": 75.7,
+      "end": 82.1,
+      "text": "known as scurvy developed. This substance is now known as the anti-scorbutic",
+      "avgLogprob": -0.2181951315739216
+    },
+    {
+      "start": 82.1,
+      "end": 90.34,
+      "text": "vitamin, or vitamin C. Both these discoveries led to not only the establishment of the etiology",
+      "avgLogprob": -0.09197952875564265
+    },
+    {
+      "start": 90.34,
+      "end": 97.3,
+      "text": "of Berry Berry and scurvy, but also a new angle of thought that dietetic constituents are essential",
+      "avgLogprob": -0.09197952875564265
+    },
+    {
+      "start": 97.3,
+      "end": 103.86,
+      "text": "to the maintenance of health. Indeed, they led to investigations which ultimately made it clear",
+      "avgLogprob": -0.09197952875564265
+    },
+    {
+      "start": 103.86,
+      "end": 109.62,
+      "text": "that many of the commoner diseases of civilized man had a dietetic factor as a basis.",
+      "avgLogprob": -0.09197952875564265
+    },
+    {
+      "start": 109.62,
+      "end": 117.74,
+      "text": "So in order to supply evidence that common foods consumed by mankind include both protective and",
+      "avgLogprob": -0.11620067426415741
+    },
+    {
+      "start": 117.74,
+      "end": 125.22,
+      "text": "harmful elements, I propose to refer to three practical problems. First, the condition of the",
+      "avgLogprob": -0.11620067426415741
+    },
+    {
+      "start": 125.22,
+      "end": 132.62,
+      "text": "bones and teeth. Second, degenerative changes in the central nervous system. And last but not",
+      "avgLogprob": -0.11620067426415741
+    },
+    {
+      "start": 132.62,
+      "end": 138.02,
+      "text": "least the liability of human beings to infection.",
+      "avgLogprob": -0.11284555917904701
+    },
+    {
+      "start": 138.02,
+      "end": 143.84,
+      "text": "Now let's look at our first example of how eating can affect your body, in this case",
+      "avgLogprob": -0.11284555917904701
+    },
+    {
+      "start": 143.84,
+      "end": 146.5,
+      "text": "bones and teeth.",
+      "avgLogprob": -0.11284555917904701
+    },
+    {
+      "start": 146.5,
+      "end": 151.5,
+      "text": "All of you here may know that the most important factor in producing well calcified bones",
+      "avgLogprob": -0.11284555917904701
+    },
+    {
+      "start": 151.5,
+      "end": 157.22,
+      "text": "and teeth is vitamin D. No matter what you eat for your meal, assuming that they are all",
+      "avgLogprob": -0.11284555917904701
+    },
+    {
+      "start": 157.22,
+      "end": 163.66,
+      "text": "natural foods, a sufficiency of vitamin D will ensure perfect calcification of bones and",
+      "avgLogprob": -0.12403796181866997
+    },
+    {
+      "start": 163.66,
+      "end": 170.82,
+      "text": "teeth, even when the amount of calcium and phosphorus intake is surprisingly low.",
+      "avgLogprob": -0.12403796181866997
+    },
+    {
+      "start": 170.82,
+      "end": 176.1,
+      "text": "On the other hand, if vitamin D intake is insufficient and the body is not exposed to",
+      "avgLogprob": -0.12403796181866997
+    },
+    {
+      "start": 176.1,
+      "end": 181.38,
+      "text": "sunlight, however much calcium and phosphorus you consume, your bones and teeth will suffer",
+      "avgLogprob": -0.12403796181866997
+    },
+    {
+      "start": 181.38,
+      "end": 188.82,
+      "text": "decalcification. However, there are occasions when the influence of calcium and phosphorus intake",
+      "avgLogprob": -0.09094615424253855
+    },
+    {
+      "start": 188.82,
+      "end": 195.22,
+      "text": "is of great importance. It's when the amount of vitamin D you take is moderate but insufficient.",
+      "avgLogprob": -0.09094615424253855
+    },
+    {
+      "start": 196.58,
+      "end": 202.58,
+      "text": "The best example for this is seen when the main food carrying vitamin D is butter. In",
+      "avgLogprob": -0.09094615424253855
+    },
+    {
+      "start": 202.58,
+      "end": 208.42,
+      "text": "this circumstance, the addition of calcium salt results in great improvement of bones and teeth.",
+      "avgLogprob": -0.09094615424253855
+    },
+    {
+      "start": 208.42,
+      "end": 216.5,
+      "text": "In short, imagine the relation of calcification to vitamin D, calcium and phosphorus intake",
+      "avgLogprob": -0.15361996073471873
+    },
+    {
+      "start": 216.5,
+      "end": 224.76,
+      "text": "like this. High vitamin D intake plus low calcium and phosphorus intake equals healthy",
+      "avgLogprob": -0.15361996073471873
+    },
+    {
+      "start": 224.76,
+      "end": 232.1,
+      "text": "bones and teeth. With moderate vitamin D intake, the more calcium and phosphorus intake,",
+      "avgLogprob": -0.15361996073471873
+    },
+    {
+      "start": 232.1,
+      "end": 239.06,
+      "text": "better. Very low vitamin D intake plus infinite calcium and phosphorus intake",
+      "avgLogprob": -0.12635393731477784
+    },
+    {
+      "start": 239.06,
+      "end": 245.82,
+      "text": "still equals imperfect calcification of bones and teeth. So far I've only",
+      "avgLogprob": -0.12635393731477784
+    },
+    {
+      "start": 245.82,
+      "end": 251.42,
+      "text": "mentioned those food factors aiding calcification. However, there is one",
+      "avgLogprob": -0.12635393731477784
+    },
+    {
+      "start": 251.42,
+      "end": 255.14,
+      "text": "group of foods that is outstanding because it interferes with the",
+      "avgLogprob": -0.12635393731477784
+    },
+    {
+      "start": 255.14,
+      "end": 261.1,
+      "text": "deposition of calcifying salts in bones and teeth. Those foods are cereals.",
+      "avgLogprob": -0.12635393731477784
+    },
+    {
+      "start": 261.1,
+      "end": 265.74,
+      "text": "There's a wide difference between cereals in this respect.",
+      "avgLogprob": -0.09055637777521369
+    },
+    {
+      "start": 265.74,
+      "end": 271.26,
+      "text": "For instance, as far as animal experiments are concerned, oatmeal is the worst of all",
+      "avgLogprob": -0.09055637777521369
+    },
+    {
+      "start": 271.26,
+      "end": 277.38,
+      "text": "examined, and white flour interferes least with the calcifying process.",
+      "avgLogprob": -0.09055637777521369
+    },
+    {
+      "start": 277.38,
+      "end": 283.58,
+      "text": "The thing is that oatmeal is far richer in calcium and phosphorus than white flour.",
+      "avgLogprob": -0.09055637777521369
+    },
+    {
+      "start": 283.58,
+      "end": 289.1,
+      "text": "This means a greater deficiency of calcium and phosphorus can be brought about by diets",
+      "avgLogprob": -0.09055637777521369
+    },
+    {
+      "start": 289.1,
+      "end": 295.26,
+      "text": "which actually contain more of these substances, so that an analysis of mineral intake may",
+      "avgLogprob": -0.1030203327536583
+    },
+    {
+      "start": 295.26,
+      "end": 298.28,
+      "text": "be quite misleading.",
+      "avgLogprob": -0.1030203327536583
+    },
+    {
+      "start": 298.28,
+      "end": 303.74,
+      "text": "This may well emphasize that the calcifying effect of vitamin D will always antagonize",
+      "avgLogprob": -0.1030203327536583
+    },
+    {
+      "start": 303.74,
+      "end": 307.76,
+      "text": "the anti-calcifying effects of cereals.",
+      "avgLogprob": -0.1030203327536583
+    },
+    {
+      "start": 307.76,
+      "end": 312.7,
+      "text": "You can see that African natives almost always have well-calcified teeth.",
+      "avgLogprob": -0.1030203327536583
+    },
+    {
+      "start": 312.7,
+      "end": 318.7,
+      "text": "They are all white and shiny, and evenly arranged in powerful, well-grown jaws, despite",
+      "avgLogprob": -0.1030203327536583
+    },
+    {
+      "start": 318.7,
+      "end": 325.42,
+      "text": "the fact that their diets are largely composed of cereals. It's because their skin is often",
+      "avgLogprob": -0.058904054235009586
+    },
+    {
+      "start": 325.42,
+      "end": 333.18,
+      "text": "unprotected from the sun's rays, which generates high amount of vitamin D. If a native adopts a",
+      "avgLogprob": -0.058904054235009586
+    },
+    {
+      "start": 333.18,
+      "end": 338.46,
+      "text": "European habit of clothing, especially in childhood, then his bones and teeth may be",
+      "avgLogprob": -0.058904054235009586
+    },
+    {
+      "start": 338.46,
+      "end": 345.82,
+      "text": "as poorly calcified as those of average Europeans. On the other hand, when Europeans provide abundant",
+      "avgLogprob": -0.058904054235009586
+    },
+    {
+      "start": 345.82,
+      "end": 352.86,
+      "text": "and vitamin D in the diets of their children, they will grow up with healthy bones and teeth.",
+      "avgLogprob": -0.20558422764665202
+    },
+    {
+      "start": 352.86,
+      "end": 356.74,
+      "text": "Now we'll look at the relation between tooth decay and diet.",
+      "avgLogprob": -0.20558422764665202
+    }
+  ]
+}

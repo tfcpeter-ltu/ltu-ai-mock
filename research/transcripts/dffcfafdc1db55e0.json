@@ -1,0 +1,301 @@
+{
+  "source": "assets/audio/dffcfafdc1db55e0.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.68,
+      "end": 8.68,
+      "text": "You are going to listen to a conversation between a state agent and a student who wants to rent a room.",
+      "avgLogprob": -0.1745464089273036
+    },
+    {
+      "start": 8.68,
+      "end": 13.68,
+      "text": "First, you have some time to look at questions 1 to 10.",
+      "avgLogprob": -0.1745464089273036
+    },
+    {
+      "start": 13.68,
+      "end": 51.45,
+      "text": "Now listen carefully and answer questions 1 to 10.",
+      "avgLogprob": -0.1745464089273036
+    },
+    {
+      "start": 51.45,
+      "end": 55.45,
+      "text": "AZ Holmes, Sophie Bryan speaking. How can I help you?",
+      "avgLogprob": -0.1745464089273036
+    },
+    {
+      "start": 55.45,
+      "end": 60.45,
+      "text": "Oh, hi. I'm moving to Bristol to start university there this autumn.",
+      "avgLogprob": -0.1745464089273036
+    },
+    {
+      "start": 60.45,
+      "end": 65.45,
+      "text": "I'm looking for a room to rent, probably for the full three years of my course.",
+      "avgLogprob": -0.17103922905692134
+    },
+    {
+      "start": 65.45,
+      "end": 69.45,
+      "text": "Right, I see. Well, let's get your details.",
+      "avgLogprob": -0.17103922905692134
+    },
+    {
+      "start": 69.45,
+      "end": 86.45,
+      "text": "Yes, my name is Harley Elliot. That's H-A-R-L-E-Y, Harley, and E-double-L-I-O-double-T-E, Elliot.",
+      "avgLogprob": -0.17103922905692134
+    },
+    {
+      "start": 86.45,
+      "end": 92.09,
+      "text": "Okay Harley, and can I have your phone number, the best number to get you on?",
+      "avgLogprob": -0.3320172282008382
+    },
+    {
+      "start": 92.09,
+      "end": 96.41,
+      "text": "Well, that's definitely not my home number because I'm often out.",
+      "avgLogprob": -0.3320172282008382
+    },
+    {
+      "start": 96.41,
+      "end": 105.17,
+      "text": "So here's my mobile number, 0784371 5711.",
+      "avgLogprob": -0.3320172282008382
+    },
+    {
+      "start": 105.17,
+      "end": 111.69,
+      "text": "Alright, and an email address please, so we can send you out all the information and forms.",
+      "avgLogprob": -0.3320172282008382
+    },
+    {
+      "start": 111.69,
+      "end": 114.89,
+      "text": "Uh, is it okay if I give you my brother's email?",
+      "avgLogprob": -0.2059858284738599
+    },
+    {
+      "start": 114.89,
+      "end": 119.53,
+      "text": "He works in IT, so he's better at getting emails and printing stuff than me.",
+      "avgLogprob": -0.2059858284738599
+    },
+    {
+      "start": 119.53,
+      "end": 124.25,
+      "text": "That's fine, as long as you complete the forums and send them back to us.",
+      "avgLogprob": -0.2059858284738599
+    },
+    {
+      "start": 124.25,
+      "end": 125.69,
+      "text": "Okay, here it is.",
+      "avgLogprob": -0.2059858284738599
+    },
+    {
+      "start": 126.41,
+      "end": 129.93,
+      "text": "Andy at globaltech.com.",
+      "avgLogprob": -0.2059858284738599
+    },
+    {
+      "start": 131.13,
+      "end": 137.37,
+      "text": "Andy is his name, and then global, and tech from technology, you know?",
+      "avgLogprob": -0.2059858284738599
+    },
+    {
+      "start": 138.01,
+      "end": 139.05,
+      "text": "Certainly.",
+      "avgLogprob": -0.2059858284738599
+    },
+    {
+      "start": 139.05,
+      "end": 143.61,
+      "text": "About occupation, I will put down student. Is that correct?",
+      "avgLogprob": -0.1475727544741684
+    },
+    {
+      "start": 143.61,
+      "end": 148.97,
+      "text": "Yes, I'll be studying an undergraduate course at UWE for the next few years.",
+      "avgLogprob": -0.1475727544741684
+    },
+    {
+      "start": 148.97,
+      "end": 156.81,
+      "text": "Right. Now, what kind of accommodation are you looking for? House, apartment or a studio?",
+      "avgLogprob": -0.1475727544741684
+    },
+    {
+      "start": 157.61,
+      "end": 161.21,
+      "text": "Which one is the cheapest? Not the studio, I believe.",
+      "avgLogprob": -0.1475727544741684
+    },
+    {
+      "start": 161.21,
+      "end": 166.81,
+      "text": "Definitely not. And an apartment generally costs more than a house.",
+      "avgLogprob": -0.1475727544741684
+    },
+    {
+      "start": 166.81,
+      "end": 171.13,
+      "text": "You can share a house with two or three other people.",
+      "avgLogprob": -0.1129762608449436
+    },
+    {
+      "start": 171.13,
+      "end": 176.01,
+      "text": "I will choose the cheapest option. I only need a single room since I don't",
+      "avgLogprob": -0.1129762608449436
+    },
+    {
+      "start": 176.01,
+      "end": 180.89,
+      "text": "spend much time in my room anyway, but it must be fully furnished. I don't",
+      "avgLogprob": -0.1129762608449436
+    },
+    {
+      "start": 180.89,
+      "end": 185.61,
+      "text": "want to go shopping for furniture. Alright, I'll put that down.",
+      "avgLogprob": -0.1129762608449436
+    },
+    {
+      "start": 185.61,
+      "end": 189.21,
+      "text": "What else do you need? How about kitchen equipment?",
+      "avgLogprob": -0.1129762608449436
+    },
+    {
+      "start": 189.21,
+      "end": 195.61,
+      "text": "Do you have any special requirements? Well, I can only cook simple dishes,",
+      "avgLogprob": -0.1129762608449436
+    },
+    {
+      "start": 195.61,
+      "end": 202.01,
+      "text": "So a cooker in a fridge to store fresh produce is good enough. A dishwasher would be nice in",
+      "avgLogprob": -0.09231531798529129
+    },
+    {
+      "start": 202.01,
+      "end": 207.61,
+      "text": "case I don't feel like doing the dishes but it's not a must. Neither is a microwave or a toaster",
+      "avgLogprob": -0.09231531798529129
+    },
+    {
+      "start": 207.61,
+      "end": 214.17,
+      "text": "to be honest. I'll make a note of that. Now about location, have you done any research",
+      "avgLogprob": -0.09231531798529129
+    },
+    {
+      "start": 214.17,
+      "end": 222.33,
+      "text": "into the Bristol area? Not too much actually. Well you love going out right? The city centre",
+      "avgLogprob": -0.09231531798529129
+    },
+    {
+      "start": 222.33,
+      "end": 227.45,
+      "text": "might be suitable for you because it has a big shopping area named Cabot Circus",
+      "avgLogprob": -0.15386128038554997
+    },
+    {
+      "start": 227.45,
+      "end": 232.77,
+      "text": "along with numerous bars and restaurants. That sounds great but I reckon it will be a",
+      "avgLogprob": -0.15386128038554997
+    },
+    {
+      "start": 232.77,
+      "end": 239.85,
+      "text": "little expensive. Oh yeah, let me check that. The lowest price for a room in",
+      "avgLogprob": -0.15386128038554997
+    },
+    {
+      "start": 239.85,
+      "end": 246.89,
+      "text": "the centre is £450, bills included. What's your budget for accommodation?",
+      "avgLogprob": -0.15386128038554997
+    },
+    {
+      "start": 246.89,
+      "end": 252.89,
+      "text": "Hmm, well I'd like to spend about £300. The best I can do is £350.",
+      "avgLogprob": -0.14487492243448893
+    },
+    {
+      "start": 252.89,
+      "end": 265.89,
+      "text": "Okay, then I recommend the Filton area. It's fairly close to your university, and if you want to spend time in the centre, you can always take the bus. They run until midnight.",
+      "avgLogprob": -0.14487492243448893
+    },
+    {
+      "start": 265.89,
+      "end": 274.89,
+      "text": "Yeah, that doesn't sound too bad actually. Hmm, I think I'll live near the university. Anyway, I am coming to Bristol to study, not to party.",
+      "avgLogprob": -0.14487492243448893
+    },
+    {
+      "start": 274.89,
+      "end": 280.89,
+      "text": "Alright, any request for the location? Would you like to be near a supermarket?",
+      "avgLogprob": -0.1494108590673893
+    },
+    {
+      "start": 280.89,
+      "end": 286.89,
+      "text": "Not really, I can always order things online, but I'd prefer a bus stop nearby.",
+      "avgLogprob": -0.1494108590673893
+    },
+    {
+      "start": 286.89,
+      "end": 290.89,
+      "text": "One final question, do you smoke or have any pets?",
+      "avgLogprob": -0.1494108590673893
+    },
+    {
+      "start": 290.89,
+      "end": 293.89,
+      "text": "I smoke sometimes, but I don't have any pets.",
+      "avgLogprob": -0.1494108590673893
+    },
+    {
+      "start": 293.89,
+      "end": 301.89,
+      "text": "Okay, warm is finished. We will send a list of suitable properties for you to choose from via email.",
+      "avgLogprob": -0.1494108590673893
+    },
+    {
+      "start": 301.89,
+      "end": 307.89,
+      "text": "Can I ask, how did you hear about us? Newspaper, website or TV?",
+      "avgLogprob": -0.22304987265118237
+    },
+    {
+      "start": 307.89,
+      "end": 312.89,
+      "text": "I just googled it on the internet, you know. Your agency popped up first on the list.",
+      "avgLogprob": -0.22304987265118237
+    },
+    {
+      "start": 312.89,
+      "end": 315.89,
+      "text": "Ah, that's right. Thank you for calling us.",
+      "avgLogprob": -0.22304987265118237
+    }
+  ]
+}

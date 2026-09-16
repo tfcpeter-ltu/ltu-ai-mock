@@ -1,0 +1,115 @@
+{
+  "source": "assets/audio/4f3efb4de38fa356.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.52,
+      "text": "The Prime Minister has pledged today that she will make $450 million available to help",
+      "avgLogprob": -0.08214390948414803
+    },
+    {
+      "start": 7.52,
+      "end": 13.76,
+      "text": "the drought-stricken farmers who have not seen rain for three years in payments over the next",
+      "avgLogprob": -0.08214390948414803
+    },
+    {
+      "start": 13.76,
+      "end": 21.2,
+      "text": "five years. Money that was to have been spent on the restructuring of Sydney's transport system",
+      "avgLogprob": -0.08214390948414803
+    },
+    {
+      "start": 21.76,
+      "end": 28.16,
+      "text": "has been reallocated to what the Prime Minister described as a more worthy cause.",
+      "avgLogprob": -0.08214390948414803
+    },
+    {
+      "start": 28.16,
+      "end": 36.4,
+      "text": "Farmers are to receive financial assistance to help see them through the worst drought in over 50",
+      "avgLogprob": -0.13683708640466252
+    },
+    {
+      "start": 36.4,
+      "end": 44.52,
+      "text": "years. Many farmers feel that while the money is welcome, it has come too late to save them and",
+      "avgLogprob": -0.13683708640466252
+    },
+    {
+      "start": 44.52,
+      "end": 53.54,
+      "text": "their farms from financial ruin and are angry that the government did not act sooner. A group",
+      "avgLogprob": -0.13683708640466252
+    },
+    {
+      "start": 53.54,
+      "end": 59.02,
+      "text": "of university students who were travelling in a privately chartered aeroplane from Sydney to",
+      "avgLogprob": -0.13683708640466252
+    },
+    {
+      "start": 59.02,
+      "end": 64.66,
+      "text": "Queensland to take part in a musical concert found themselves swimming for the",
+      "avgLogprob": -0.13892348379724556
+    },
+    {
+      "start": 64.66,
+      "end": 70.42,
+      "text": "shore when the aeroplane had to land in the sea just six minutes after taking off",
+      "avgLogprob": -0.13892348379724556
+    },
+    {
+      "start": 70.42,
+      "end": 77.22,
+      "text": "from Sydney Airport. The pilot managed to bring the aircraft and its 50 passengers",
+      "avgLogprob": -0.13892348379724556
+    },
+    {
+      "start": 77.22,
+      "end": 83.34,
+      "text": "down safely in the calm waters of Botany Bay where small pleasure boats were able",
+      "avgLogprob": -0.13892348379724556
+    },
+    {
+      "start": 83.34,
+      "end": 89.36,
+      "text": "to come to the rescue of the students. The fact that it was a weekend meant that there",
+      "avgLogprob": -0.1559313116492806
+    },
+    {
+      "start": 89.36,
+      "end": 95.46,
+      "text": "were hundreds of boats in the bay enjoying the good weather, and this undoubtedly helped",
+      "avgLogprob": -0.1559313116492806
+    },
+    {
+      "start": 95.46,
+      "end": 97.18,
+      "text": "the rescue operation.",
+      "avgLogprob": -0.1559313116492806
+    },
+    {
+      "start": 97.18,
+      "end": 104.34,
+      "text": "We owe our lives to the skill of the pilots, said one of the students. But the pilot replied",
+      "avgLogprob": -0.1559313116492806
+    },
+    {
+      "start": 104.34,
+      "end": 111.36,
+      "text": "modestly that it was all part of a day's work. However, all their musical instruments",
+      "avgLogprob": -0.1559313116492806
+    },
+    {
+      "start": 111.36,
+      "end": 114.44,
+      "text": "were lost and they never got to play at their concert.",
+      "avgLogprob": -0.1582715074221293
+    }
+  ]
+}

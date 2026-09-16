@@ -1,0 +1,439 @@
+{
+  "source": "assets/audio/72fc9a1cac7b4327.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.04,
+      "end": 6.44,
+      "text": "Section 4. You are now going to listen to a lecture about the uses and health",
+      "avgLogprob": -0.19074420433710604
+    },
+    {
+      "start": 6.44,
+      "end": 13.4,
+      "text": "benefits of curcumin. You now have 60 seconds to look over questions 31 to 40.",
+      "avgLogprob": -0.19074420433710604
+    },
+    {
+      "start": 13.4,
+      "end": 81.52,
+      "text": "Now listen carefully and answer questions 31 to 40.",
+      "avgLogprob": -0.19074420433710604
+    },
+    {
+      "start": 81.52,
+      "end": 87.72,
+      "text": "Good afternoon everybody. To continue our series about nutrients and health",
+      "avgLogprob": -0.19074420433710604
+    },
+    {
+      "start": 87.72,
+      "end": 91.72,
+      "text": "Today, we will talk about curcumin.",
+      "avgLogprob": -0.11949498153158597
+    },
+    {
+      "start": 91.72,
+      "end": 98.73,
+      "text": "We will take a look at some studies on the link between this substance and our health.",
+      "avgLogprob": -0.11949498153158597
+    },
+    {
+      "start": 98.73,
+      "end": 105.73,
+      "text": "As many of you may know, curcumin is the vivid yellow orange substance that gives the",
+      "avgLogprob": -0.11949498153158597
+    },
+    {
+      "start": 105.73,
+      "end": 110.21,
+      "text": "root turmeric its distinctive colour.",
+      "avgLogprob": -0.11949498153158597
+    },
+    {
+      "start": 110.21,
+      "end": 116.81,
+      "text": "A member of the ginger family, turmeric has long been a staple of Indian culture consumed",
+      "avgLogprob": -0.11949498153158597
+    },
+    {
+      "start": 116.81,
+      "end": 122.83,
+      "text": "including curries or prescribed as a natural remedy for illnesses.",
+      "avgLogprob": -0.14565667348939018
+    },
+    {
+      "start": 122.83,
+      "end": 129.83,
+      "text": "Turmeric contains no more than 5% curcumin, but even such a low concentration of the",
+      "avgLogprob": -0.14565667348939018
+    },
+    {
+      "start": 129.83,
+      "end": 136.47,
+      "text": "nutrient consumed regularly can address ailments from inflammation and depression to cancer",
+      "avgLogprob": -0.14565667348939018
+    },
+    {
+      "start": 136.47,
+      "end": 139.11,
+      "text": "and dementia.",
+      "avgLogprob": -0.14565667348939018
+    },
+    {
+      "start": 139.11,
+      "end": 145.11,
+      "text": "Although curcumin has long been used in traditional medicines, recent clinical trials",
+      "avgLogprob": -0.14565667348939018
+    },
+    {
+      "start": 145.11,
+      "end": 148.11,
+      "text": "have given it the stamp of scientific approval.",
+      "avgLogprob": -0.18811352928479513
+    },
+    {
+      "start": 149.01,
+      "end": 152.47,
+      "text": "Studies show that curcumin stimulates the release",
+      "avgLogprob": -0.18811352928479513
+    },
+    {
+      "start": 152.47,
+      "end": 157.47,
+      "text": "of proteins called cytokines that calm and heal inflammation.",
+      "avgLogprob": -0.18811352928479513
+    },
+    {
+      "start": 158.43,
+      "end": 162.07,
+      "text": "Chronic inflammation plays a role in many illnesses,",
+      "avgLogprob": -0.18811352928479513
+    },
+    {
+      "start": 162.07,
+      "end": 165.81,
+      "text": "including cardiovascular disease, diabetes,",
+      "avgLogprob": -0.18811352928479513
+    },
+    {
+      "start": 165.81,
+      "end": 171.7,
+      "text": "obesity, dementia, and depression.",
+      "avgLogprob": -0.18811352928479513
+    },
+    {
+      "start": 171.7,
+      "end": 174.38,
+      "text": "Psychologist Adrian Lopresti,",
+      "avgLogprob": -0.18811352928479513
+    },
+    {
+      "start": 174.38,
+      "end": 178.94,
+      "text": "a senior researcher at Murdoch University in Australia,",
+      "avgLogprob": -0.12642861821729204
+    },
+    {
+      "start": 178.94,
+      "end": 181.74,
+      "text": "has conducted clinical trials of curcumin",
+      "avgLogprob": -0.12642861821729204
+    },
+    {
+      "start": 181.74,
+      "end": 183.78,
+      "text": "as a treatment for depression.",
+      "avgLogprob": -0.12642861821729204
+    },
+    {
+      "start": 184.94,
+      "end": 188.06,
+      "text": "The reason behind his trials is that since there's a lot",
+      "avgLogprob": -0.12642861821729204
+    },
+    {
+      "start": 188.06,
+      "end": 190.42,
+      "text": "of evidence that people with depression",
+      "avgLogprob": -0.12642861821729204
+    },
+    {
+      "start": 190.42,
+      "end": 194.66,
+      "text": "have greater levels of inflammation and oxidative stress,",
+      "avgLogprob": -0.12642861821729204
+    },
+    {
+      "start": 194.66,
+      "end": 197.68,
+      "text": "curcumin can be used to improve mental health.",
+      "avgLogprob": -0.12642861821729204
+    },
+    {
+      "start": 199.3,
+      "end": 203.58,
+      "text": "Other studies show that curcumin also guards the aging brain,",
+      "avgLogprob": -0.12642861821729204
+    },
+    {
+      "start": 203.58,
+      "end": 206.1,
+      "text": "shielding against cognitive decline",
+      "avgLogprob": -0.15438522533936935
+    },
+    {
+      "start": 206.1,
+      "end": 210.0,
+      "text": "and protecting against proteins linked to dementia.",
+      "avgLogprob": -0.15438522533936935
+    },
+    {
+      "start": 211.56,
+      "end": 215.6,
+      "text": "A seemingly obvious example is in rural India.",
+      "avgLogprob": -0.15438522533936935
+    },
+    {
+      "start": 216.5,
+      "end": 220.6,
+      "text": "This area has one of the lowest rates of Alzheimer's disease",
+      "avgLogprob": -0.15438522533936935
+    },
+    {
+      "start": 220.6,
+      "end": 226.32,
+      "text": "which may be a clue to curcumin's protective role.",
+      "avgLogprob": -0.15438522533936935
+    },
+    {
+      "start": 226.32,
+      "end": 229.5,
+      "text": "More recently, researchers have investigated",
+      "avgLogprob": -0.15438522533936935
+    },
+    {
+      "start": 229.5,
+      "end": 232.78,
+      "text": "curcumin's role in generating and maintaining",
+      "avgLogprob": -0.15438522533936935
+    },
+    {
+      "start": 232.78,
+      "end": 238.3,
+      "text": "Mitochondria, the part of human cells that are especially critical for brain power.",
+      "avgLogprob": -0.13299926317163877
+    },
+    {
+      "start": 239.5,
+      "end": 245.82,
+      "text": "Studies show that curcumin contributes to the structural integrity of mitochondria",
+      "avgLogprob": -0.13299926317163877
+    },
+    {
+      "start": 245.82,
+      "end": 254.3,
+      "text": "and their function. Mitochondrial dysfunction is strongly implicated in such neurodegenerative",
+      "avgLogprob": -0.13299926317163877
+    },
+    {
+      "start": 254.3,
+      "end": 261.96,
+      "text": "conditions as Alzheimer's disease. In Australia, Andrew Scholle, the Director",
+      "avgLogprob": -0.14916991103779187
+    },
+    {
+      "start": 261.96,
+      "end": 268.38,
+      "text": "of the Centre for Human Psychopharmacology at Swinbourne University in Melbourne, previously",
+      "avgLogprob": -0.14916991103779187
+    },
+    {
+      "start": 268.38,
+      "end": 274.78,
+      "text": "found that daily consumption of a supplement containing 80 milligrams of curcumin boosted",
+      "avgLogprob": -0.14916991103779187
+    },
+    {
+      "start": 274.78,
+      "end": 281.32,
+      "text": "memory and mood after four weeks. Now his team has extended the findings by observing",
+      "avgLogprob": -0.14916991103779187
+    },
+    {
+      "start": 281.32,
+      "end": 289.72,
+      "text": "its influence over a longer period. The researchers gave 80 healthy adults aged 50 to 80 either",
+      "avgLogprob": -0.1351867161299053
+    },
+    {
+      "start": 289.72,
+      "end": 297.88,
+      "text": "curcumin or a placebo once a day for three months. Participants completed questionnaires",
+      "avgLogprob": -0.1351867161299053
+    },
+    {
+      "start": 297.88,
+      "end": 304.4,
+      "text": "that measured their emotional state and cognitive performance when the study began after four",
+      "avgLogprob": -0.1351867161299053
+    },
+    {
+      "start": 304.4,
+      "end": 310.32,
+      "text": "weeks and again after 12. At the end of the study, those who consumed the",
+      "avgLogprob": -0.13685135738480658
+    },
+    {
+      "start": 310.32,
+      "end": 317.04,
+      "text": "curcumin performed significantly better on three tasks of working memory than",
+      "avgLogprob": -0.13685135738480658
+    },
+    {
+      "start": 317.04,
+      "end": 323.04,
+      "text": "those who received a placebo. Working memory reflects the ability to hold",
+      "avgLogprob": -0.13685135738480658
+    },
+    {
+      "start": 323.04,
+      "end": 327.88,
+      "text": "information in the mind for ready retrieval, like remembering whose phone",
+      "avgLogprob": -0.13685135738480658
+    },
+    {
+      "start": 327.88,
+      "end": 334.24,
+      "text": "number to dial after picking up the phone to make a call. Curcumin also",
+      "avgLogprob": -0.13685135738480658
+    },
+    {
+      "start": 334.24,
+      "end": 342.4,
+      "text": "boosted participants moods, although the duration of the effect varied. Those who consumed curcumin",
+      "avgLogprob": -0.14709879333774248
+    },
+    {
+      "start": 342.4,
+      "end": 351.08,
+      "text": "reported reductions in anxiety, anger and confusion after 4 weeks. But after 12 weeks",
+      "avgLogprob": -0.14709879333774248
+    },
+    {
+      "start": 351.08,
+      "end": 355.88,
+      "text": "of taking the supplement, the benefit disappeared.",
+      "avgLogprob": -0.14709879333774248
+    },
+    {
+      "start": 355.88,
+      "end": 360.6,
+      "text": "Curcumin's influence on fatigue were more sustained. The curcumin group reported less",
+      "avgLogprob": -0.14709879333774248
+    },
+    {
+      "start": 360.6,
+      "end": 366.52,
+      "text": "exhaustion than the placebo group after both 4 weeks and 12.",
+      "avgLogprob": -0.1824013074239095
+    },
+    {
+      "start": 366.52,
+      "end": 370.96,
+      "text": "The differences in the duration of effects suggest that curcumin works through multiple",
+      "avgLogprob": -0.1824013074239095
+    },
+    {
+      "start": 370.96,
+      "end": 374.44,
+      "text": "mechanisms, Scully says.",
+      "avgLogprob": -0.1824013074239095
+    },
+    {
+      "start": 374.44,
+      "end": 382.2,
+      "text": "Memory and mood are consistently the two most pressing concerns for his elderly patients.",
+      "avgLogprob": -0.1824013074239095
+    },
+    {
+      "start": 382.2,
+      "end": 387.44,
+      "text": "As people get older, he finds they wish for stronger memory and more energy.",
+      "avgLogprob": -0.1824013074239095
+    },
+    {
+      "start": 387.44,
+      "end": 390.16,
+      "text": "A daily dose of curcumin may be enough",
+      "avgLogprob": -0.09744195404805635
+    },
+    {
+      "start": 390.16,
+      "end": 393.2,
+      "text": "to make a difference on everyday tasks.",
+      "avgLogprob": -0.09744195404805635
+    },
+    {
+      "start": 393.2,
+      "end": 395.48,
+      "text": "Reaction times on memory tasks",
+      "avgLogprob": -0.09744195404805635
+    },
+    {
+      "start": 395.48,
+      "end": 400.08,
+      "text": "may improve by only small margins, milliseconds,",
+      "avgLogprob": -0.09744195404805635
+    },
+    {
+      "start": 400.08,
+      "end": 403.58,
+      "text": "but the moments gained can make a difference.",
+      "avgLogprob": -0.09744195404805635
+    },
+    {
+      "start": 403.58,
+      "end": 408.34,
+      "text": "10 or 15 milliseconds don't mean that much to most people.",
+      "avgLogprob": -0.09744195404805635
+    },
+    {
+      "start": 408.34,
+      "end": 414.84,
+      "text": "However, if you're driving a car, it could save your life.",
+      "avgLogprob": -0.09744195404805635
+    },
+    {
+      "start": 414.84,
+      "end": 417.4,
+      "text": "That is the end of part four.",
+      "avgLogprob": -0.09744195404805635
+    },
+    {
+      "start": 417.4,
+      "end": 451.26,
+      "text": "You now have half a minute to check your answers.",
+      "avgLogprob": -0.1481887774412022
+    },
+    {
+      "start": 451.26,
+      "end": 453.7,
+      "text": "That is the end of the listening test.",
+      "avgLogprob": -0.1481887774412022
+    },
+    {
+      "start": 453.7,
+      "end": 456.54,
+      "text": "You now have 10 minutes to transfer your answers",
+      "avgLogprob": -0.1481887774412022
+    },
+    {
+      "start": 456.54,
+      "end": 457.98,
+      "text": "onto the answer sheet.",
+      "avgLogprob": -0.1481887774412022
+    }
+  ]
+}

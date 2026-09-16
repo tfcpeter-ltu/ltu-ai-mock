@@ -1,0 +1,367 @@
+{
+  "source": "assets/audio/fb886ec41ba53e85.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.04,
+      "end": 7.92,
+      "text": "You are going to listen to a conversation between a student and an advisor about a language course.",
+      "avgLogprob": -0.26233583904174435
+    },
+    {
+      "start": 7.92,
+      "end": 11.72,
+      "text": "First, you have some time to look at questions 1 to 5.",
+      "avgLogprob": -0.26233583904174435
+    },
+    {
+      "start": 11.72,
+      "end": 48.29,
+      "text": "Now listen carefully and answer questions 1 to 5.",
+      "avgLogprob": -0.26233583904174435
+    },
+    {
+      "start": 48.29,
+      "end": 52.61,
+      "text": "Good morning, UE Information Centre. How can I help you?",
+      "avgLogprob": -0.26233583904174435
+    },
+    {
+      "start": 52.61,
+      "end": 58.01,
+      "text": "Good morning. I'd like some information about academic support classes, please.",
+      "avgLogprob": -0.26233583904174435
+    },
+    {
+      "start": 58.01,
+      "end": 62.65,
+      "text": "I'm new to the university and I don't think my study skills are strong enough.",
+      "avgLogprob": -0.221612328604648
+    },
+    {
+      "start": 62.65,
+      "end": 68.65,
+      "text": "Sure, we offer tutoring to help first years, especially international students,",
+      "avgLogprob": -0.221612328604648
+    },
+    {
+      "start": 68.65,
+      "end": 72.57,
+      "text": "improve their academic skills for their university life.",
+      "avgLogprob": -0.221612328604648
+    },
+    {
+      "start": 72.57,
+      "end": 75.97,
+      "text": "Are there any particular skills you want to improve?",
+      "avgLogprob": -0.221612328604648
+    },
+    {
+      "start": 75.97,
+      "end": 77.93,
+      "text": "Well, a lot actually.",
+      "avgLogprob": -0.221612328604648
+    },
+    {
+      "start": 77.93,
+      "end": 81.57,
+      "text": "I'm having trouble with textbooks and materials.",
+      "avgLogprob": -0.221612328604648
+    },
+    {
+      "start": 81.57,
+      "end": 84.17,
+      "text": "It's not that I don't understand what they say,",
+      "avgLogprob": -0.221612328604648
+    },
+    {
+      "start": 84.17,
+      "end": 87.77,
+      "text": "but it takes me longer to finish a chapter than my native speaking friends.",
+      "avgLogprob": -0.12040588092268183
+    },
+    {
+      "start": 88.33,
+      "end": 94.57,
+      "text": "Ah yes, we do have academic reading classes. They will help you read more efficiently.",
+      "avgLogprob": -0.12040588092268183
+    },
+    {
+      "start": 95.13,
+      "end": 100.81,
+      "text": "Great! Also, I'm struggling with all the presentations. I have no problem creating",
+      "avgLogprob": -0.12040588092268183
+    },
+    {
+      "start": 100.81,
+      "end": 104.65,
+      "text": "content, but speaking in front of an audience always makes me nervous.",
+      "avgLogprob": -0.12040588092268183
+    },
+    {
+      "start": 105.61,
+      "end": 109.53,
+      "text": "We have classes on how to make good slides for your presentation,",
+      "avgLogprob": -0.12040588092268183
+    },
+    {
+      "start": 109.53,
+      "end": 113.05,
+      "text": "but I'm afraid we don't have soft skills classes.",
+      "avgLogprob": -0.12494605219262278
+    },
+    {
+      "start": 113.05,
+      "end": 116.17,
+      "text": "Maybe you can ask your friends to help you practice.",
+      "avgLogprob": -0.12494605219262278
+    },
+    {
+      "start": 116.17,
+      "end": 118.09,
+      "text": "That will make you more confident.",
+      "avgLogprob": -0.12494605219262278
+    },
+    {
+      "start": 118.09,
+      "end": 119.77,
+      "text": "That's a great idea, thanks.",
+      "avgLogprob": -0.12494605219262278
+    },
+    {
+      "start": 120.49,
+      "end": 121.93,
+      "text": "One more problem.",
+      "avgLogprob": -0.12494605219262278
+    },
+    {
+      "start": 121.93,
+      "end": 124.97,
+      "text": "I'm not good at writing research papers either, to be honest.",
+      "avgLogprob": -0.12494605219262278
+    },
+    {
+      "start": 125.93,
+      "end": 129.29,
+      "text": "This is a common problem for international students.",
+      "avgLogprob": -0.12494605219262278
+    },
+    {
+      "start": 129.29,
+      "end": 132.49,
+      "text": "The academic writing class is exactly what you need.",
+      "avgLogprob": -0.12494605219262278
+    },
+    {
+      "start": 132.49,
+      "end": 133.29,
+      "text": "Lovely.",
+      "avgLogprob": -0.12494605219262278
+    },
+    {
+      "start": 133.29,
+      "end": 134.49,
+      "text": "When do the classes begin?",
+      "avgLogprob": -0.12494605219262278
+    },
+    {
+      "start": 135.13,
+      "end": 138.49,
+      "text": "Well, the reading class takes place every Tuesday,",
+      "avgLogprob": -0.12494605219262278
+    },
+    {
+      "start": 138.49,
+      "end": 147.53,
+      "text": "from 4 to 5.30pm. Oh no sorry, that was last term. This term it is on Wednesdays at the same time.",
+      "avgLogprob": -0.14755135084453383
+    },
+    {
+      "start": 148.17,
+      "end": 154.17,
+      "text": "And the writing class is on Mondays from 1 to 3pm. Both classes start next week.",
+      "avgLogprob": -0.14755135084453383
+    },
+    {
+      "start": 154.89,
+      "end": 159.77,
+      "text": "Great, they don't clash with my schedule. Where do the sessions take place?",
+      "avgLogprob": -0.14755135084453383
+    },
+    {
+      "start": 160.41,
+      "end": 165.61,
+      "text": "Oh sorry, I forgot to mention that. There aren't usually many students who sign up for",
+      "avgLogprob": -0.14755135084453383
+    },
+    {
+      "start": 165.61,
+      "end": 172.97,
+      "text": "the reading class, so it will take place in Block Q, Room 401. The writing class, however,",
+      "avgLogprob": -0.10235712805698657
+    },
+    {
+      "start": 172.97,
+      "end": 178.09,
+      "text": "is very popular, so only the lecture hall in Block B can fit everyone.",
+      "avgLogprob": -0.10235712805698657
+    },
+    {
+      "start": 178.89,
+      "end": 184.17,
+      "text": "Thank you. And how about the tuition fee? How much do I need to pay for each class?",
+      "avgLogprob": -0.10235712805698657
+    },
+    {
+      "start": 185.21,
+      "end": 190.65,
+      "text": "They are free for UE students. There will be some materials you might want to purchase,",
+      "avgLogprob": -0.10235712805698657
+    },
+    {
+      "start": 190.65,
+      "end": 196.41,
+      "text": "but they are optional, since you can borrow them from the library. I recommend buying them because",
+      "avgLogprob": -0.11101216881462697
+    },
+    {
+      "start": 196.41,
+      "end": 202.41,
+      "text": "the number of students often exceeds the number of copies in the library. They're not expensive,",
+      "avgLogprob": -0.11101216881462697
+    },
+    {
+      "start": 202.41,
+      "end": 207.77,
+      "text": "just under £30, I believe. Oh, okay. I'll consider it. Thank you very much.",
+      "avgLogprob": -0.11101216881462697
+    },
+    {
+      "start": 209.77,
+      "end": 214.73,
+      "text": "Before you listen to the rest of the conversation, you will have some time to look at questions",
+      "avgLogprob": -0.11101216881462697
+    },
+    {
+      "start": 214.73,
+      "end": 257.64,
+      "text": "six to ten. Now listen carefully and answer questions six to ten. Oh, how can I register",
+      "avgLogprob": -0.16086366933745308
+    },
+    {
+      "start": 257.64,
+      "end": 264.68,
+      "text": "for the classes? You can log on to the Blackboard and follow the steps online or I can fill in a",
+      "avgLogprob": -0.16086366933745308
+    },
+    {
+      "start": 264.68,
+      "end": 271.24,
+      "text": "paper form for you right now. Yes please, I haven't got used to the website yet. All right,",
+      "avgLogprob": -0.16086366933745308
+    },
+    {
+      "start": 271.24,
+      "end": 273.4,
+      "text": "Could you tell me your name please?",
+      "avgLogprob": -0.1613689147564302
+    },
+    {
+      "start": 273.4,
+      "end": 276.12,
+      "text": "Yes, it's Marcus Lopez.",
+      "avgLogprob": -0.1613689147564302
+    },
+    {
+      "start": 276.12,
+      "end": 280.28,
+      "text": "Is it L-O-P-E-Z?",
+      "avgLogprob": -0.1613689147564302
+    },
+    {
+      "start": 281.4,
+      "end": 283.64,
+      "text": "No, it's an S, not a Z.",
+      "avgLogprob": -0.1613689147564302
+    },
+    {
+      "start": 283.64,
+      "end": 286.76,
+      "text": "Alright, now what is your student number?",
+      "avgLogprob": -0.1613689147564302
+    },
+    {
+      "start": 287.72,
+      "end": 289.4,
+      "text": "Is it on my student card?",
+      "avgLogprob": -0.1613689147564302
+    },
+    {
+      "start": 289.4,
+      "end": 293.88,
+      "text": "Yes, it should be under your photo on your student card.",
+      "avgLogprob": -0.1613689147564302
+    },
+    {
+      "start": 293.88,
+      "end": 302.76,
+      "text": "Oh, here it is. Two, zero, two, seven, zero, five, one, nine.",
+      "avgLogprob": -0.17270541675388812
+    },
+    {
+      "start": 302.76,
+      "end": 306.44,
+      "text": "Okay, have you got a UK phone number yet?",
+      "avgLogprob": -0.17270541675388812
+    },
+    {
+      "start": 306.44,
+      "end": 312.2,
+      "text": "Yes, I got one yesterday. Let me see. Here you go.",
+      "avgLogprob": -0.17270541675388812
+    },
+    {
+      "start": 312.2,
+      "end": 322.36,
+      "text": "Oh, seven, five, nine, eight, two, oh, eight, one, eight, six.",
+      "avgLogprob": -0.17270541675388812
+    },
+    {
+      "start": 322.36,
+      "end": 325.48,
+      "text": "Where do you live? I'm in your current address.",
+      "avgLogprob": -0.26418051225217903
+    },
+    {
+      "start": 325.48,
+      "end": 337.48,
+      "text": "Ah, now this I remember. Number 25 4th Avenue, Filton. The postcode is BS70RN.",
+      "avgLogprob": -0.26418051225217903
+    },
+    {
+      "start": 337.48,
+      "end": 345.0,
+      "text": "Alright, everything's done. You are now enlisted in the classes. Is there anything else I can help you with?",
+      "avgLogprob": -0.26418051225217903
+    },
+    {
+      "start": 345.0,
+      "end": 348.04,
+      "text": "No, thank you very much. Have a nice day.",
+      "avgLogprob": -0.26418051225217903
+    },
+    {
+      "start": 348.04,
+      "end": 350.44,
+      "text": "You are welcome.",
+      "avgLogprob": -0.26418051225217903
+    },
+    {
+      "start": 350.44,
+      "end": 356.04,
+      "text": "That's the end of part one. Now you have 30 seconds to check your answers.",
+      "avgLogprob": -0.22595984595162527
+    }
+  ]
+}

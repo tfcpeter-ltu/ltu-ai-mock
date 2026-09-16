@@ -1,0 +1,151 @@
+{
+  "source": "assets/audio/52fc5bf80ba02af2.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 1.05,
+      "text": "Good morning.",
+      "avgLogprob": -0.15758173614740373
+    },
+    {
+      "start": 1.05,
+      "end": 3.05,
+      "text": "Good morning. How can I help you?",
+      "avgLogprob": -0.15758173614740373
+    },
+    {
+      "start": 3.05,
+      "end": 8.05,
+      "text": "I understand that the school organises trips to different...",
+      "avgLogprob": -0.15758173614740373
+    },
+    {
+      "start": 8.05,
+      "end": 14.05,
+      "text": "Yes, we run five every month, three during weekends and two Wednesday afternoon trips.",
+      "avgLogprob": -0.15758173614740373
+    },
+    {
+      "start": 14.05,
+      "end": 16.05,
+      "text": "What sort of places?",
+      "avgLogprob": -0.15758173614740373
+    },
+    {
+      "start": 16.05,
+      "end": 21.05,
+      "text": "Well, obviously it varies, but always places of historical interest,",
+      "avgLogprob": -0.15758173614740373
+    },
+    {
+      "start": 21.05,
+      "end": 26.05,
+      "text": "and also which offer a variety of shopping because our students always ask about that.",
+      "avgLogprob": -0.15758173614740373
+    },
+    {
+      "start": 26.05,
+      "end": 32.05,
+      "text": "And then we go for ones where we know there are guided tours, because this gives a good focus for the visit.",
+      "avgLogprob": -0.1247121570384608
+    },
+    {
+      "start": 32.05,
+      "end": 34.05,
+      "text": "Do travel far?",
+      "avgLogprob": -0.1247121570384608
+    },
+    {
+      "start": 34.05,
+      "end": 41.05,
+      "text": "Well, we're lucky here, obviously, because we're able to say that all our visits are less than three hours' drive.",
+      "avgLogprob": -0.1247121570384608
+    },
+    {
+      "start": 41.05,
+      "end": 43.05,
+      "text": "How much do they cost?",
+      "avgLogprob": -0.1247121570384608
+    },
+    {
+      "start": 43.05,
+      "end": 49.05,
+      "text": "Again, it varies. Between five and fifteen pounds ahead, depending on distance.",
+      "avgLogprob": -0.1247121570384608
+    },
+    {
+      "start": 49.05,
+      "end": 55.05,
+      "text": "Oh, and we do offer to arrange special trips if, you know, there are more than twelve people.",
+      "avgLogprob": -0.1247121570384608
+    },
+    {
+      "start": 55.05,
+      "end": 60.83,
+      "text": "Oh, right, I'll keep that in mind. And what are the times, normally?",
+      "avgLogprob": -0.20536984806567166
+    },
+    {
+      "start": 60.83,
+      "end": 68.61,
+      "text": "We try to keep it pretty fixed, so that students get to know the pattern. We leave at 8.30am",
+      "avgLogprob": -0.20536984806567166
+    },
+    {
+      "start": 68.61,
+      "end": 73.13,
+      "text": "and return at 6pm. We figure it's best to keep the day fairly short.",
+      "avgLogprob": -0.20536984806567166
+    },
+    {
+      "start": 73.13,
+      "end": 77.13,
+      "text": "Oh, yes. And how do we reserve a place?",
+      "avgLogprob": -0.20536984806567166
+    },
+    {
+      "start": 77.13,
+      "end": 80.13,
+      "text": "You sign your name on the notice board. Do you know where it is?",
+      "avgLogprob": -0.20536984806567166
+    },
+    {
+      "start": 80.13,
+      "end": 82.37,
+      "text": "Ah-ha, I saw it this morning.",
+      "avgLogprob": -0.20536984806567166
+    },
+    {
+      "start": 82.37,
+      "end": 87.53,
+      "text": "And we do ask that you sign up three days in advance, so we know we've got enough people",
+      "avgLogprob": -0.18507639357918187
+    },
+    {
+      "start": 87.53,
+      "end": 91.17,
+      "text": "interested to run it, and we can cancel if necessary.",
+      "avgLogprob": -0.18507639357918187
+    },
+    {
+      "start": 91.17,
+      "end": 92.93,
+      "text": "With full refund, of course.",
+      "avgLogprob": -0.18507639357918187
+    },
+    {
+      "start": 92.93,
+      "end": 93.93,
+      "text": "That's fine.",
+      "avgLogprob": -0.18507639357918187
+    },
+    {
+      "start": 93.93,
+      "end": 94.09,
+      "text": "Thanks.",
+      "avgLogprob": -0.18507639357918187
+    }
+  ]
+}

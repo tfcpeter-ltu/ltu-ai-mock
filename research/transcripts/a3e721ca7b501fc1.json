@@ -1,0 +1,463 @@
+{
+  "source": "assets/audio/a3e721ca7b501fc1.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.97,
+      "end": 7.97,
+      "text": "You are going to listen to a lecture about the relation of diet to health and disease.",
+      "avgLogprob": -0.10386948938342347
+    },
+    {
+      "start": 7.97,
+      "end": 72.2,
+      "text": "First, you have some time to look at questions 31 to 40.",
+      "avgLogprob": -0.10386948938342347
+    },
+    {
+      "start": 72.2,
+      "end": 79.38,
+      "text": "Now, listen carefully and answer questions 31 to 40.",
+      "avgLogprob": -0.10386948938342347
+    },
+    {
+      "start": 79.38,
+      "end": 82.38,
+      "text": "Good morning and welcome all of you to today's lecture.",
+      "avgLogprob": -0.10386948938342347
+    },
+    {
+      "start": 82.38,
+      "end": 90.38,
+      "text": "This is the first lecture of a series of lectures about the relation between diet, health and disease.",
+      "avgLogprob": -0.10386948938342347
+    },
+    {
+      "start": 90.38,
+      "end": 95.3,
+      "text": "What I want to do in this series is to provide evidence which shows that diet, in addition",
+      "avgLogprob": -0.09704607926309108
+    },
+    {
+      "start": 95.3,
+      "end": 100.5,
+      "text": "to supplying material growth for the maintenance of the body, as well as the necessary energy",
+      "avgLogprob": -0.09704607926309108
+    },
+    {
+      "start": 100.5,
+      "end": 105.58,
+      "text": "for it to function, also contains two groups of substances.",
+      "avgLogprob": -0.09704607926309108
+    },
+    {
+      "start": 105.58,
+      "end": 110.34,
+      "text": "One tends to produce pathological changes in ill health, and the other helps the body",
+      "avgLogprob": -0.09704607926309108
+    },
+    {
+      "start": 110.34,
+      "end": 112.18,
+      "text": "to protect itself.",
+      "avgLogprob": -0.09704607926309108
+    },
+    {
+      "start": 112.18,
+      "end": 118.82,
+      "text": "First, let's take a look at the history of the relation between food and disease.",
+      "avgLogprob": -0.09704607926309108
+    },
+    {
+      "start": 118.82,
+      "end": 121.92,
+      "text": "This was initiated by two discoveries.",
+      "avgLogprob": -0.08292963410678662
+    },
+    {
+      "start": 121.92,
+      "end": 127.56,
+      "text": "One was the work of Eichmann, who proved in 1897 that berry berry was due to the absence",
+      "avgLogprob": -0.08292963410678662
+    },
+    {
+      "start": 127.56,
+      "end": 133.3,
+      "text": "from the diet of a substance found in many foods, especially in cereals.",
+      "avgLogprob": -0.08292963410678662
+    },
+    {
+      "start": 133.3,
+      "end": 139.46,
+      "text": "The substance came to be known as anti berry berry, or vitamin B1.",
+      "avgLogprob": -0.08292963410678662
+    },
+    {
+      "start": 139.46,
+      "end": 146.1,
+      "text": "The other was the discovery of Holsten Froelich in 1907 that fresh foods, especially fruits",
+      "avgLogprob": -0.08292963410678662
+    },
+    {
+      "start": 146.1,
+      "end": 151.18,
+      "text": "and vegetables, contained a substance in whose absence from the diet the disease known as",
+      "avgLogprob": -0.13890969644611081
+    },
+    {
+      "start": 151.18,
+      "end": 153.62,
+      "text": "scurvy developed.",
+      "avgLogprob": -0.13890969644611081
+    },
+    {
+      "start": 153.62,
+      "end": 160.9,
+      "text": "This substance is now known as the anti-scorbutic vitamin, or vitamin C.",
+      "avgLogprob": -0.13890969644611081
+    },
+    {
+      "start": 160.9,
+      "end": 165.74,
+      "text": "Both of these discoveries led to not only the establishment of the etiology of berry-berry",
+      "avgLogprob": -0.13890969644611081
+    },
+    {
+      "start": 165.74,
+      "end": 171.66,
+      "text": "and scurvy, but also a new angle of thought that dietetic constituents are essential",
+      "avgLogprob": -0.13890969644611081
+    },
+    {
+      "start": 171.66,
+      "end": 173.66,
+      "text": "to the maintenance of health.",
+      "avgLogprob": -0.13890969644611081
+    },
+    {
+      "start": 173.66,
+      "end": 178.7,
+      "text": "Indeed, they led to investigations which ultimately made it clear that many of the",
+      "avgLogprob": -0.1574328210618761
+    },
+    {
+      "start": 178.7,
+      "end": 184.74,
+      "text": "commoner diseases of civilized man had a dietetic factor as a basis.",
+      "avgLogprob": -0.1574328210618761
+    },
+    {
+      "start": 184.74,
+      "end": 191.46,
+      "text": "So, in order to supply evidence that common foods consumed by mankind include both protective",
+      "avgLogprob": -0.1574328210618761
+    },
+    {
+      "start": 191.46,
+      "end": 196.5,
+      "text": "and harmful elements, I propose to refer to three practical problems.",
+      "avgLogprob": -0.1574328210618761
+    },
+    {
+      "start": 196.5,
+      "end": 200.02,
+      "text": "First, the condition of the bones and teeth.",
+      "avgLogprob": -0.1574328210618761
+    },
+    {
+      "start": 200.02,
+      "end": 204.58,
+      "text": "Second, degenerative changes in the central nervous system.",
+      "avgLogprob": -0.0998911544972775
+    },
+    {
+      "start": 204.58,
+      "end": 206.22,
+      "text": "And last but not least,",
+      "avgLogprob": -0.0998911544972775
+    },
+    {
+      "start": 206.22,
+      "end": 209.18,
+      "text": "the liability of human beings to infection.",
+      "avgLogprob": -0.0998911544972775
+    },
+    {
+      "start": 210.42,
+      "end": 213.02,
+      "text": "Now, let's look at our first example",
+      "avgLogprob": -0.0998911544972775
+    },
+    {
+      "start": 213.02,
+      "end": 215.3,
+      "text": "of how eating can affect your body.",
+      "avgLogprob": -0.0998911544972775
+    },
+    {
+      "start": 215.3,
+      "end": 217.36,
+      "text": "In this case, bones and teeth.",
+      "avgLogprob": -0.0998911544972775
+    },
+    {
+      "start": 218.36,
+      "end": 221.08,
+      "text": "All of you here may know that the most important factor",
+      "avgLogprob": -0.0998911544972775
+    },
+    {
+      "start": 221.08,
+      "end": 225.74,
+      "text": "in producing well calcified bones and teeth is vitamin D.",
+      "avgLogprob": -0.0998911544972775
+    },
+    {
+      "start": 225.74,
+      "end": 227.82,
+      "text": "No matter what you eat for your meal,",
+      "avgLogprob": -0.0998911544972775
+    },
+    {
+      "start": 227.82,
+      "end": 230.14,
+      "text": "Assuming that they are all natural foods,",
+      "avgLogprob": -0.11342435713126281
+    },
+    {
+      "start": 230.14,
+      "end": 232.2,
+      "text": "a sufficient amount of vitamin D",
+      "avgLogprob": -0.11342435713126281
+    },
+    {
+      "start": 232.2,
+      "end": 235.58,
+      "text": "will ensure perfect calcification of bones and teeth,",
+      "avgLogprob": -0.11342435713126281
+    },
+    {
+      "start": 235.58,
+      "end": 238.3,
+      "text": "even when the amount of calcium and phosphorus intake",
+      "avgLogprob": -0.11342435713126281
+    },
+    {
+      "start": 238.3,
+      "end": 239.76,
+      "text": "is surprisingly low.",
+      "avgLogprob": -0.11342435713126281
+    },
+    {
+      "start": 240.78,
+      "end": 244.38,
+      "text": "On the other hand, if the vitamin D intake is insufficient",
+      "avgLogprob": -0.11342435713126281
+    },
+    {
+      "start": 244.38,
+      "end": 246.98,
+      "text": "and the body is not exposed to sunlight,",
+      "avgLogprob": -0.11342435713126281
+    },
+    {
+      "start": 246.98,
+      "end": 249.82,
+      "text": "however much calcium and phosphorus you consume,",
+      "avgLogprob": -0.11342435713126281
+    },
+    {
+      "start": 249.82,
+      "end": 252.62,
+      "text": "your bones and teeth will suffer decalcification.",
+      "avgLogprob": -0.11342435713126281
+    },
+    {
+      "start": 253.48,
+      "end": 256.16,
+      "text": "However, there are occasions where the influence",
+      "avgLogprob": -0.11342435713126281
+    },
+    {
+      "start": 256.16,
+      "end": 261.08,
+      "text": "calcium and phosphorus intake is of great importance. It's when the amount of",
+      "avgLogprob": -0.10805408604004804
+    },
+    {
+      "start": 261.08,
+      "end": 266.32,
+      "text": "vitamin D you take is moderate but insufficient. The best example of this is",
+      "avgLogprob": -0.10805408604004804
+    },
+    {
+      "start": 266.32,
+      "end": 271.92,
+      "text": "seen when the main food carrying vitamin D is butter. In this circumstance, the",
+      "avgLogprob": -0.10805408604004804
+    },
+    {
+      "start": 271.92,
+      "end": 276.08,
+      "text": "addition of calcium salts results in great improvement of bones and teeth.",
+      "avgLogprob": -0.10805408604004804
+    },
+    {
+      "start": 276.08,
+      "end": 281.32,
+      "text": "In short, imagine the relation of calcium to vitamin D, calcium and",
+      "avgLogprob": -0.10805408604004804
+    },
+    {
+      "start": 281.32,
+      "end": 289.48,
+      "text": "phosphorus intake like this. High vitamin D intake plus low calcium and phosphorus intake",
+      "avgLogprob": -0.09270995936981619
+    },
+    {
+      "start": 289.48,
+      "end": 296.84,
+      "text": "equals healthy bones and teeth. With moderate vitamin D intake the more calcium and phosphorus",
+      "avgLogprob": -0.09270995936981619
+    },
+    {
+      "start": 296.84,
+      "end": 304.36,
+      "text": "intake the better. Very low vitamin D intake plus infinite calcium and phosphorus intake",
+      "avgLogprob": -0.09270995936981619
+    },
+    {
+      "start": 304.36,
+      "end": 311.16,
+      "text": "still equals imperfect calcification of bones and teeth. So far I've only mentioned those",
+      "avgLogprob": -0.09270995936981619
+    },
+    {
+      "start": 311.16,
+      "end": 316.92,
+      "text": "foods aid in calcification. However, there is one group of foods that is outstanding because it",
+      "avgLogprob": -0.06875639149312222
+    },
+    {
+      "start": 316.92,
+      "end": 323.32,
+      "text": "interferes with the deposition of calcifying salt in bones and teeth. Those foods are cereals.",
+      "avgLogprob": -0.06875639149312222
+    },
+    {
+      "start": 324.28,
+      "end": 330.36,
+      "text": "There is a wide difference between cereals in this respect. For instance, as far as animal",
+      "avgLogprob": -0.06875639149312222
+    },
+    {
+      "start": 330.36,
+      "end": 336.44,
+      "text": "experiments are concerned, oatmeal is the worst of all examined, and white flour interferes least",
+      "avgLogprob": -0.06875639149312222
+    },
+    {
+      "start": 336.44,
+      "end": 338.96,
+      "text": "with the calcifying process.",
+      "avgLogprob": -0.07152244854304525
+    },
+    {
+      "start": 338.96,
+      "end": 344.68,
+      "text": "The thing is that oatmeal is far richer in calcium and phosphorus than white flour.",
+      "avgLogprob": -0.07152244854304525
+    },
+    {
+      "start": 344.68,
+      "end": 349.32,
+      "text": "This means a greater deficiency of calcium and phosphorus can be brought about by diets",
+      "avgLogprob": -0.07152244854304525
+    },
+    {
+      "start": 349.32,
+      "end": 354.86,
+      "text": "which actually contain more of these substances, so that an analysis of mineral intake may",
+      "avgLogprob": -0.07152244854304525
+    },
+    {
+      "start": 354.86,
+      "end": 357.74,
+      "text": "be quite misleading.",
+      "avgLogprob": -0.07152244854304525
+    },
+    {
+      "start": 357.74,
+      "end": 363.6,
+      "text": "This may well be to emphasize that the calcifying effect of vitamin D will always antagonize",
+      "avgLogprob": -0.07152244854304525
+    },
+    {
+      "start": 363.6,
+      "end": 370.08,
+      "text": "the anti-calcifying effect of cereals. You can see that the African natives almost always have",
+      "avgLogprob": -0.09154958526293437
+    },
+    {
+      "start": 370.08,
+      "end": 376.96,
+      "text": "well-calcified teeth. They are all white and shiny and evenly arranged in powerful, well-grown jaws,",
+      "avgLogprob": -0.09154958526293437
+    },
+    {
+      "start": 376.96,
+      "end": 382.88,
+      "text": "despite the fact that their diets are largely composed of cereals. It's because their skin",
+      "avgLogprob": -0.09154958526293437
+    },
+    {
+      "start": 382.88,
+      "end": 387.92,
+      "text": "is often unprotected from the sun's rays, which generate high amounts of vitamin D.",
+      "avgLogprob": -0.09154958526293437
+    },
+    {
+      "start": 387.92,
+      "end": 397.92,
+      "text": "If a native adopts a European habit of clothing, especially in childhood, then his bones and teeth may be as badly calcified as those of average Europeans.",
+      "avgLogprob": -0.07029736325854347
+    },
+    {
+      "start": 397.92,
+      "end": 406.92,
+      "text": "On the other hand, when Europeans provide abundant vitamin D in the diets of their children, they will grow up with healthy bones and teeth.",
+      "avgLogprob": -0.07029736325854347
+    },
+    {
+      "start": 406.92,
+      "end": 410.92,
+      "text": "Now, we'll look at the relation between tooth decay and diet.",
+      "avgLogprob": -0.07029736325854347
+    },
+    {
+      "start": 410.92,
+      "end": 414.36,
+      "text": "That is the end of part four.",
+      "avgLogprob": -0.07029736325854347
+    },
+    {
+      "start": 414.36,
+      "end": 417.36,
+      "text": "You now have half a minute to check your answers.",
+      "avgLogprob": -0.07029736325854347
+    },
+    {
+      "start": 417.36,
+      "end": 453.58,
+      "text": "your answers. That is the end of the listening test. You now have 10 minutes",
+      "avgLogprob": -0.152418214467264
+    },
+    {
+      "start": 453.58,
+      "end": 458.08,
+      "text": "to transfer your answers onto the answer sheet.",
+      "avgLogprob": -0.152418214467264
+    }
+  ]
+}

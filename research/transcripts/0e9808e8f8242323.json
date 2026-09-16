@@ -1,0 +1,211 @@
+{
+  "source": "assets/audio/0e9808e8f8242323.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.49,
+      "end": 7.01,
+      "text": "Hello and welcome all of you to UE. My name is Philip and today I'm going to",
+      "avgLogprob": -0.14148468335906228
+    },
+    {
+      "start": 7.01,
+      "end": 11.87,
+      "text": "give you a brief induction of the most useful facility for every student, the",
+      "avgLogprob": -0.14148468335906228
+    },
+    {
+      "start": 11.87,
+      "end": 16.89,
+      "text": "library. This is the place where you are expected to spend most of your time to",
+      "avgLogprob": -0.14148468335906228
+    },
+    {
+      "start": 16.89,
+      "end": 23.09,
+      "text": "advance your knowledge for a successful academic life. First, regarding opening",
+      "avgLogprob": -0.14148468335906228
+    },
+    {
+      "start": 23.09,
+      "end": 28.45,
+      "text": "hours, our library here in French A campus gives students 24-hour access",
+      "avgLogprob": -0.14148468335906228
+    },
+    {
+      "start": 28.45,
+      "end": 33.13,
+      "text": "during academic terms. For those of you who would like to use the libraries in",
+      "avgLogprob": -0.13864448411124095
+    },
+    {
+      "start": 33.13,
+      "end": 38.29,
+      "text": "Bauer Ashton and Glenside campuses, they are only open from 7.30 a.m. till",
+      "avgLogprob": -0.13864448411124095
+    },
+    {
+      "start": 38.29,
+      "end": 43.57,
+      "text": "midnight. The Alexandra warehouse library in Glouchester campus is",
+      "avgLogprob": -0.13864448411124095
+    },
+    {
+      "start": 43.57,
+      "end": 48.17,
+      "text": "currently unavailable as it's being renovated to a more modern facility to",
+      "avgLogprob": -0.13864448411124095
+    },
+    {
+      "start": 48.17,
+      "end": 52.69,
+      "text": "meet the university's new standards. However, you can still go to other",
+      "avgLogprob": -0.13864448411124095
+    },
+    {
+      "start": 52.69,
+      "end": 58.43,
+      "text": "campuses libraries as long as you bring a valid student card. Despite the",
+      "avgLogprob": -0.13864448411124095
+    },
+    {
+      "start": 58.43,
+      "end": 65.55,
+      "text": "long opening hours there will be no library staff working on Sundays. On weekdays you can always find",
+      "avgLogprob": -0.08870880085290694
+    },
+    {
+      "start": 65.55,
+      "end": 73.23,
+      "text": "help from librarians from 8 30 a.m to 6 30 p.m. The times are shorter on Saturdays running only",
+      "avgLogprob": -0.08870880085290694
+    },
+    {
+      "start": 73.23,
+      "end": 80.91,
+      "text": "six hours from 10 a.m. Now to some changes we've made recently. Since many of you have reported a",
+      "avgLogprob": -0.08870880085290694
+    },
+    {
+      "start": 80.91,
+      "end": 87.15,
+      "text": "lack of textbooks during exam time starting from this term we decided to reduce the length of time",
+      "avgLogprob": -0.08870880085290694
+    },
+    {
+      "start": 87.15,
+      "end": 90.27,
+      "text": "one can borrow a textbook by half.",
+      "avgLogprob": -0.12206604775901024
+    },
+    {
+      "start": 90.27,
+      "end": 93.43,
+      "text": "This means you can now only borrow those for 30 days",
+      "avgLogprob": -0.12206604775901024
+    },
+    {
+      "start": 93.43,
+      "end": 95.85,
+      "text": "instead of 60, like other materials,",
+      "avgLogprob": -0.12206604775901024
+    },
+    {
+      "start": 95.85,
+      "end": 97.39,
+      "text": "and they are non-renewable.",
+      "avgLogprob": -0.12206604775901024
+    },
+    {
+      "start": 98.79,
+      "end": 101.03,
+      "text": "The maximum number of items you can bring home",
+      "avgLogprob": -0.12206604775901024
+    },
+    {
+      "start": 101.03,
+      "end": 104.75,
+      "text": "at any one time remains unchanged at 20.",
+      "avgLogprob": -0.12206604775901024
+    },
+    {
+      "start": 104.75,
+      "end": 109.03,
+      "text": "Also, from this term, we've introduced two new services,",
+      "avgLogprob": -0.12206604775901024
+    },
+    {
+      "start": 109.03,
+      "end": 112.07,
+      "text": "click and collect, and scan and deliver.",
+      "avgLogprob": -0.12206604775901024
+    },
+    {
+      "start": 112.99,
+      "end": 115.03,
+      "text": "The former helps you to reduce the time",
+      "avgLogprob": -0.12206604775901024
+    },
+    {
+      "start": 115.03,
+      "end": 119.75,
+      "text": "you spend browsing at the library as it can be crowded at times and the latter",
+      "avgLogprob": -0.10521900189032249
+    },
+    {
+      "start": 119.75,
+      "end": 125.23,
+      "text": "sends you electronic copies of your requested materials to your email. To use",
+      "avgLogprob": -0.10521900189032249
+    },
+    {
+      "start": 125.23,
+      "end": 130.55,
+      "text": "these services, find and fill the request form on our website. You'll be informed",
+      "avgLogprob": -0.10521900189032249
+    },
+    {
+      "start": 130.55,
+      "end": 134.55,
+      "text": "by email when your items are available to collect and they will be held for up",
+      "avgLogprob": -0.10521900189032249
+    },
+    {
+      "start": 134.55,
+      "end": 139.67,
+      "text": "to 10 days. If you're unable to pick up your items within the specified",
+      "avgLogprob": -0.10521900189032249
+    },
+    {
+      "start": 139.67,
+      "end": 144.95,
+      "text": "period then please contact the campus you intend to pick the item up from. Do",
+      "avgLogprob": -0.10521900189032249
+    },
+    {
+      "start": 144.95,
+      "end": 148.51,
+      "text": "Do check the opening hours before you visit.",
+      "avgLogprob": -0.13121439139048258
+    },
+    {
+      "start": 148.51,
+      "end": 153.77,
+      "text": "For scan and deliver, due to the matter of copyright, we can only scan up to one chapter",
+      "avgLogprob": -0.13121439139048258
+    },
+    {
+      "start": 153.77,
+      "end": 160.07,
+      "text": "of a book, one journal article, or up to 5% of an item and email it to you.",
+      "avgLogprob": -0.13121439139048258
+    },
+    {
+      "start": 160.07,
+      "end": 164.31,
+      "text": "Requests will be refused where we have existing electronic access to an item.",
+      "avgLogprob": -0.13121439139048258
+    }
+  ]
+}

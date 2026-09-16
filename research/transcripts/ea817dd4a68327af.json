@@ -1,0 +1,301 @@
+{
+  "source": "assets/audio/ea817dd4a68327af.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 6.3,
+      "text": "Section 3. You're going to listen to two students talking about their project.",
+      "avgLogprob": -0.13806248386931974
+    },
+    {
+      "start": 6.3,
+      "end": 10.3,
+      "text": "First you have some time to look at questions 21 to 24.",
+      "avgLogprob": -0.13806248386931974
+    },
+    {
+      "start": 10.3,
+      "end": 45.7,
+      "text": "Now listen carefully and answer questions 21 to 24.",
+      "avgLogprob": -0.13806248386931974
+    },
+    {
+      "start": 45.7,
+      "end": 50.7,
+      "text": "Hi, I'm Adam. I was assigned to work with you on this project.",
+      "avgLogprob": -0.13806248386931974
+    },
+    {
+      "start": 50.7,
+      "end": 55.7,
+      "text": "Hi Adam, I'm Eve. Professor Wilson knows how to pair his students, right?",
+      "avgLogprob": -0.13806248386931974
+    },
+    {
+      "start": 55.7,
+      "end": 61.86,
+      "text": "Well, oh yeah he does indeed. Now where should we start?",
+      "avgLogprob": -0.18460334963955968
+    },
+    {
+      "start": 61.86,
+      "end": 66.94,
+      "text": "How much time do we have for the project? Well the end of term is the 7th of April",
+      "avgLogprob": -0.18460334963955968
+    },
+    {
+      "start": 66.94,
+      "end": 72.82,
+      "text": "and he said to hand it in a week before the end of term at latest. So that should",
+      "avgLogprob": -0.18460334963955968
+    },
+    {
+      "start": 72.82,
+      "end": 80.18,
+      "text": "be the last day of March. It's February the 25th now so we have more than four",
+      "avgLogprob": -0.18460334963955968
+    },
+    {
+      "start": 80.18,
+      "end": 85.62,
+      "text": "weeks left. Right, well we'd better start now. We have to conduct a study on",
+      "avgLogprob": -0.18460334963955968
+    },
+    {
+      "start": 85.62,
+      "end": 93.06,
+      "text": "HR Policy, right? Yes, he specifically wants us to do a small-scale study in the",
+      "avgLogprob": -0.14895197138728866
+    },
+    {
+      "start": 93.06,
+      "end": 99.86,
+      "text": "hotel industry. My friend did a similar project last year, it's about HR Policy",
+      "avgLogprob": -0.14895197138728866
+    },
+    {
+      "start": 99.86,
+      "end": 104.62,
+      "text": "and a retail company. I'll contact her to see if I can borrow her notes if you",
+      "avgLogprob": -0.14895197138728866
+    },
+    {
+      "start": 104.62,
+      "end": 110.94,
+      "text": "like. I did a project in the hotel industry last term as well but it was",
+      "avgLogprob": -0.14895197138728866
+    },
+    {
+      "start": 110.94,
+      "end": 116.82,
+      "text": "about customer service. Okay, so do you know who's going to mark our project? I",
+      "avgLogprob": -0.1563934366716895
+    },
+    {
+      "start": 116.82,
+      "end": 122.82,
+      "text": "don't know. I don't suppose Professor Wilson will. He's too busy for that. Maybe",
+      "avgLogprob": -0.1563934366716895
+    },
+    {
+      "start": 122.82,
+      "end": 129.26,
+      "text": "one of his PhD students will do it for him. Oh actually it says it in the course",
+      "avgLogprob": -0.1563934366716895
+    },
+    {
+      "start": 129.26,
+      "end": 136.26,
+      "text": "outline here, a senior lecturer. Well it doesn't really matter anyway. How are we",
+      "avgLogprob": -0.1563934366716895
+    },
+    {
+      "start": 136.26,
+      "end": 143.42,
+      "text": "going to start? I think first we need to choose a hotel and then one of its",
+      "avgLogprob": -0.15913979654631963
+    },
+    {
+      "start": 143.42,
+      "end": 150.76,
+      "text": "policies to focus. Hold on! We need to come up with a timetable first or nothing",
+      "avgLogprob": -0.15913979654631963
+    },
+    {
+      "start": 150.76,
+      "end": 156.7,
+      "text": "will get done. That's what I learned from project management class. Right, I'd",
+      "avgLogprob": -0.15913979654631963
+    },
+    {
+      "start": 156.7,
+      "end": 161.86,
+      "text": "almost forgotten about that. Let's do it. Before you listen to the rest of the",
+      "avgLogprob": -0.15913979654631963
+    },
+    {
+      "start": 161.86,
+      "end": 200.01,
+      "text": "conversation, you have some time to look at questions 25 to 30. Now listen",
+      "avgLogprob": -0.1571959031791222
+    },
+    {
+      "start": 200.01,
+      "end": 206.13,
+      "text": "carefully and answer questions 25 to 30. First things first, we must choose a",
+      "avgLogprob": -0.1571959031791222
+    },
+    {
+      "start": 206.13,
+      "end": 211.85,
+      "text": "hotel and what we're going to look into right now. Yeah, the hotel should not be",
+      "avgLogprob": -0.1571959031791222
+    },
+    {
+      "start": 211.85,
+      "end": 218.21,
+      "text": "a big brand because it will be hard to approach, but it has to be big enough. I'd",
+      "avgLogprob": -0.1571959031791222
+    },
+    {
+      "start": 218.21,
+      "end": 225.05,
+      "text": "say it should have around 50 employees. My cousin runs an inn just outside the",
+      "avgLogprob": -0.19430955251057944
+    },
+    {
+      "start": 225.05,
+      "end": 230.67,
+      "text": "city but I believe he only has about 30 employees. I suppose that should be",
+      "avgLogprob": -0.19430955251057944
+    },
+    {
+      "start": 230.67,
+      "end": 235.67,
+      "text": "enough. Let's go with your cousins in since I assume it would be easy to get",
+      "avgLogprob": -0.19430955251057944
+    },
+    {
+      "start": 235.67,
+      "end": 243.41,
+      "text": "access. Sure, I'll contact him. He will be happy to help. Okay so what policy should",
+      "avgLogprob": -0.19430955251057944
+    },
+    {
+      "start": 243.41,
+      "end": 251.29,
+      "text": "be looking to maternity leave or overtime rate? Those sound too common to me. I",
+      "avgLogprob": -0.15806272253394127
+    },
+    {
+      "start": 251.29,
+      "end": 256.85,
+      "text": "suggest we do paternity leave. Fathers need time to help mothers with",
+      "avgLogprob": -0.15806272253394127
+    },
+    {
+      "start": 256.85,
+      "end": 260.97,
+      "text": "newborns too. Yeah that sounds great. According to a recent study I've just",
+      "avgLogprob": -0.15806272253394127
+    },
+    {
+      "start": 260.97,
+      "end": 265.21,
+      "text": "read there are more men working in the hotel industry than women so that",
+      "avgLogprob": -0.15806272253394127
+    },
+    {
+      "start": 265.21,
+      "end": 270.69,
+      "text": "policy will have a bigger influence overall. Okay so next is to design the",
+      "avgLogprob": -0.15806272253394127
+    },
+    {
+      "start": 270.69,
+      "end": 275.17,
+      "text": "questionnaire okay so should we read about the topic we've just chosen first",
+      "avgLogprob": -0.12257777305131548
+    },
+    {
+      "start": 275.17,
+      "end": 281.81,
+      "text": "oh yes I will look for articles on the internet and you dig into the library",
+      "avgLogprob": -0.12257777305131548
+    },
+    {
+      "start": 281.81,
+      "end": 287.91,
+      "text": "okay sounds good then we work together on the questionnaire right based on the",
+      "avgLogprob": -0.12257777305131548
+    },
+    {
+      "start": 287.91,
+      "end": 291.85,
+      "text": "scale of your cousin's business I suggest we set up a focus group to get",
+      "avgLogprob": -0.12257777305131548
+    },
+    {
+      "start": 291.85,
+      "end": 297.49,
+      "text": "more in-depth interviews okay I'll contact him to schedule a day or two with",
+      "avgLogprob": -0.12257777305131548
+    },
+    {
+      "start": 297.49,
+      "end": 303.77,
+      "text": "his employees. Okay and then we need to analyze the data. Do we need any kind of",
+      "avgLogprob": -0.13889416097437293
+    },
+    {
+      "start": 303.77,
+      "end": 309.01,
+      "text": "software to do that? I don't think so. A lot of what we're doing is qualitative",
+      "avgLogprob": -0.13889416097437293
+    },
+    {
+      "start": 309.01,
+      "end": 315.81,
+      "text": "so it'll be writing up rather than statistics. Right well you're better at",
+      "avgLogprob": -0.13889416097437293
+    },
+    {
+      "start": 315.81,
+      "end": 320.49,
+      "text": "writing so you can do the analysis if that's okay and I'll put my efforts into",
+      "avgLogprob": -0.13889416097437293
+    },
+    {
+      "start": 320.49,
+      "end": 325.81,
+      "text": "the slides. Sound good? That's fine. Oh remember to bring your camera to the",
+      "avgLogprob": -0.13889416097437293
+    },
+    {
+      "start": 325.81,
+      "end": 330.29,
+      "text": "interview. Your Slade Show will look better with actual shots of the staff.",
+      "avgLogprob": -0.1985042415357925
+    },
+    {
+      "start": 330.85,
+      "end": 335.65,
+      "text": "Great ideas. Well, I think we have it for now. Let's start working on it right away.",
+      "avgLogprob": -0.1985042415357925
+    },
+    {
+      "start": 336.77,
+      "end": 342.29,
+      "text": "That's the end of section 3. You now have 30 seconds to check your answers to the section.",
+      "avgLogprob": -0.1985042415357925
+    },
+    {
+      "start": 372.46,
+      "end": 374.14,
+      "text": "Now turn to section 4.",
+      "avgLogprob": -0.1985042415357925
+    }
+  ]
+}

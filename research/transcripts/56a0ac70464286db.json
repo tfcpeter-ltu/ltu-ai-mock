@@ -1,0 +1,295 @@
+{
+  "source": "assets/audio/56a0ac70464286db.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 5.66,
+      "text": "Good morning, everyone. Today I'm talking to Gemma Roberts from the Bristol Information Centre.",
+      "avgLogprob": -0.20201189467840105
+    },
+    {
+      "start": 5.66,
+      "end": 9.82,
+      "text": "She is going to tell us about what's going on in Bristol during the next few months.",
+      "avgLogprob": -0.20201189467840105
+    },
+    {
+      "start": 9.82,
+      "end": 11.02,
+      "text": "Hi, Chris.",
+      "avgLogprob": -0.20201189467840105
+    },
+    {
+      "start": 11.02,
+      "end": 15.02,
+      "text": "So, Gemma, what is the most popular attraction in Bristol?",
+      "avgLogprob": -0.20201189467840105
+    },
+    {
+      "start": 15.02,
+      "end": 20.3,
+      "text": "Well, that's difficult to say exactly. There are so many things going on here.",
+      "avgLogprob": -0.20201189467840105
+    },
+    {
+      "start": 20.3,
+      "end": 27.02,
+      "text": "For example, new visitors to Bristol are always fascinated by the Clifton Suspension Bridge.",
+      "avgLogprob": -0.20201189467840105
+    },
+    {
+      "start": 27.02,
+      "end": 32.82,
+      "text": "This was designed by the famous Victorian engineer Isambard Kingdom Brunell, who is",
+      "avgLogprob": -0.16671599526154368
+    },
+    {
+      "start": 32.82,
+      "end": 38.54,
+      "text": "also famous for designing Bristol's Temple Meets station, the Great Western Railway,",
+      "avgLogprob": -0.16671599526154368
+    },
+    {
+      "start": 38.54,
+      "end": 44.26,
+      "text": "London Paddington station and the SS Great Britain, to name a few.",
+      "avgLogprob": -0.16671599526154368
+    },
+    {
+      "start": 44.26,
+      "end": 51.06,
+      "text": "By 1843, with only one of the towers completed, the project was abandoned.",
+      "avgLogprob": -0.16671599526154368
+    },
+    {
+      "start": 51.06,
+      "end": 60.18,
+      "text": "Brunel died aged 53 in 1859, but the bridge was only completed in 1864.",
+      "avgLogprob": -0.1557438604293331
+    },
+    {
+      "start": 60.18,
+      "end": 64.86,
+      "text": "Although it was designed for use by light horse-drawn traffic in the Victorian period,",
+      "avgLogprob": -0.1557438604293331
+    },
+    {
+      "start": 64.86,
+      "end": 70.22,
+      "text": "it still copes with 21st century commuter traffic with 11,000 to 12,000 vehicles crossing",
+      "avgLogprob": -0.1557438604293331
+    },
+    {
+      "start": 70.22,
+      "end": 71.46,
+      "text": "it every day.",
+      "avgLogprob": -0.1557438604293331
+    },
+    {
+      "start": 71.46,
+      "end": 74.22,
+      "text": "Yes, it's certainly impressive.",
+      "avgLogprob": -0.1557438604293331
+    },
+    {
+      "start": 74.22,
+      "end": 78.46,
+      "text": "What else do you recommend people go and see in Bristol?",
+      "avgLogprob": -0.1557438604293331
+    },
+    {
+      "start": 78.46,
+      "end": 83.38,
+      "text": "Another popular attraction is the At Bristol Science Centre in Millenium Square by The",
+      "avgLogprob": -0.13874765237172446
+    },
+    {
+      "start": 83.38,
+      "end": 84.38,
+      "text": "Harbourside.",
+      "avgLogprob": -0.13874765237172446
+    },
+    {
+      "start": 84.38,
+      "end": 90.46,
+      "text": "There are many cafes and restaurants here with handy bike racks located nearby and regular",
+      "avgLogprob": -0.13874765237172446
+    },
+    {
+      "start": 90.46,
+      "end": 94.42,
+      "text": "buses and ferries running in the area every day.",
+      "avgLogprob": -0.13874765237172446
+    },
+    {
+      "start": 94.42,
+      "end": 100.5,
+      "text": "The Millenium Car Park provides easy access as in located off the A4.",
+      "avgLogprob": -0.13874765237172446
+    },
+    {
+      "start": 100.5,
+      "end": 105.78,
+      "text": "The centre is a state-of-the-art interactive science centre which offers an amazing world",
+      "avgLogprob": -0.13874765237172446
+    },
+    {
+      "start": 105.78,
+      "end": 112.26,
+      "text": "of hands-on discovery for people of all ages. It shows how the world around us works with",
+      "avgLogprob": -0.13002786576747893
+    },
+    {
+      "start": 112.26,
+      "end": 117.94,
+      "text": "programmes of special exhibitions including travel by air and sea.",
+      "avgLogprob": -0.13002786576747893
+    },
+    {
+      "start": 117.94,
+      "end": 123.3,
+      "text": "Sounds like fun. So what can people do in Bristol if they want an outdoor activity?",
+      "avgLogprob": -0.13002786576747893
+    },
+    {
+      "start": 123.3,
+      "end": 128.54,
+      "text": "If you want to go up and away, you can take a flight with Bristol balloons. This is a",
+      "avgLogprob": -0.13002786576747893
+    },
+    {
+      "start": 128.54,
+      "end": 132.84,
+      "text": "great way to get a better perspective of the Clifton Suspension Bridge over the beautiful",
+      "avgLogprob": -0.13002786576747893
+    },
+    {
+      "start": 132.84,
+      "end": 138.72,
+      "text": "Avon Gorge. On a clear day there may also be the chance for a spectacular view of the",
+      "avgLogprob": -0.20201762143303367
+    },
+    {
+      "start": 138.72,
+      "end": 145.16,
+      "text": "new seven crossing. The flight lasts an hour, chilled champagne is served when the balloon",
+      "avgLogprob": -0.20201762143303367
+    },
+    {
+      "start": 145.16,
+      "end": 150.56,
+      "text": "has touched down before returning back to the launch site. The whole experience takes",
+      "avgLogprob": -0.20201762143303367
+    },
+    {
+      "start": 150.56,
+      "end": 153.16,
+      "text": "between three and four hours.",
+      "avgLogprob": -0.20201762143303367
+    },
+    {
+      "start": 153.16,
+      "end": 157.92,
+      "text": "Exciting stuff. And of course there's the Bristol International Balloon Fiesta.",
+      "avgLogprob": -0.20201762143303367
+    },
+    {
+      "start": 157.92,
+      "end": 163.66,
+      "text": "Yes, this is Europe's largest ballooning event, and an amazing spectacle and free event",
+      "avgLogprob": -0.15895804730794763
+    },
+    {
+      "start": 163.66,
+      "end": 166.12,
+      "text": "for the whole family.",
+      "avgLogprob": -0.15895804730794763
+    },
+    {
+      "start": 166.12,
+      "end": 171.6,
+      "text": "Over 150 hot air balloons will take off from Ashton Court Estate at dawn, and light up",
+      "avgLogprob": -0.15895804730794763
+    },
+    {
+      "start": 171.6,
+      "end": 176.32,
+      "text": "the skies at night, with evening glows, with fun activities on the ground to keep the",
+      "avgLogprob": -0.15895804730794763
+    },
+    {
+      "start": 176.32,
+      "end": 178.56,
+      "text": "family entertained.",
+      "avgLogprob": -0.15895804730794763
+    },
+    {
+      "start": 178.56,
+      "end": 183.62,
+      "text": "The event features four days of extravagant hot air balloon displays, with half a million",
+      "avgLogprob": -0.15895804730794763
+    },
+    {
+      "start": 183.62,
+      "end": 187.88,
+      "text": "visitors coming to watch balloons of all shapes and sizes lift off over the",
+      "avgLogprob": -0.11358730109889856
+    },
+    {
+      "start": 187.88,
+      "end": 194.24,
+      "text": "city. The famous night glow is a stunning sight with 30 ballooning teams lighting",
+      "avgLogprob": -0.11358730109889856
+    },
+    {
+      "start": 194.24,
+      "end": 199.14,
+      "text": "up their balloon as night falls at 9 p.m. on Thursday and Saturday to a",
+      "avgLogprob": -0.11358730109889856
+    },
+    {
+      "start": 199.14,
+      "end": 204.54,
+      "text": "backdrop of spectacular fireworks. What about something for animal lovers in",
+      "avgLogprob": -0.11358730109889856
+    },
+    {
+      "start": 204.54,
+      "end": 209.98,
+      "text": "the city? Well the Bristol Zoo Gardens offers a fun packed day out for all the",
+      "avgLogprob": -0.11358730109889856
+    },
+    {
+      "start": 209.98,
+      "end": 217.06,
+      "text": "family, with over 400 species packed into 12 acres of beautiful manicured gardens. What's",
+      "avgLogprob": -0.15385230093501334
+    },
+    {
+      "start": 217.06,
+      "end": 223.82,
+      "text": "more, you can take the city sightseeing open-top bus tour which stops right outside the zoo",
+      "avgLogprob": -0.15385230093501334
+    },
+    {
+      "start": 223.82,
+      "end": 230.22,
+      "text": "and claim 20% off your zoo entry ticket from the driver. Also, the Bristol Aquarium has",
+      "avgLogprob": -0.15385230093501334
+    },
+    {
+      "start": 230.22,
+      "end": 237.62,
+      "text": "some new residents for 2015, along with their 4,000 other aquatic creatures. Children can",
+      "avgLogprob": -0.15385230093501334
+    },
+    {
+      "start": 237.62,
+      "end": 240.62,
+      "text": "see many varieties of fish, big and small.",
+      "avgLogprob": -0.27862922044900745
+    }
+  ]
+}

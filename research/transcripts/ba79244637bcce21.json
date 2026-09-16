@@ -1,0 +1,91 @@
+{
+  "source": "assets/audio/ba79244637bcce21.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.37,
+      "end": 3.57,
+      "text": "Hi James, hi Sarah, how are you both?",
+      "avgLogprob": -0.20724597547137946
+    },
+    {
+      "start": 3.57,
+      "end": 5.77,
+      "text": "Fine, thank you Dr Phillips.",
+      "avgLogprob": -0.20724597547137946
+    },
+    {
+      "start": 5.77,
+      "end": 10.47,
+      "text": "Okay thanks, but I missed your last two lectures, sorry.",
+      "avgLogprob": -0.20724597547137946
+    },
+    {
+      "start": 10.47,
+      "end": 15.97,
+      "text": "I had a really bad cold, but I've got the lecture notes from James and I'm reading them.",
+      "avgLogprob": -0.20724597547137946
+    },
+    {
+      "start": 15.97,
+      "end": 22.17,
+      "text": "Good, glad you're feeling better. Do make sure you've understood the concepts in the last lecture",
+      "avgLogprob": -0.20724597547137946
+    },
+    {
+      "start": 22.17,
+      "end": 25.37,
+      "text": "and if it's not clear, come and ask me to explain.",
+      "avgLogprob": -0.20724597547137946
+    },
+    {
+      "start": 25.37,
+      "end": 28.77,
+      "text": "Thanks Dr Phillips, they do look a bit tricky.",
+      "avgLogprob": -0.20724597547137946
+    },
+    {
+      "start": 28.77,
+      "end": 33.77,
+      "text": "James, did you manage to get hold of that article from the library?",
+      "avgLogprob": -0.1190631447674392
+    },
+    {
+      "start": 33.77,
+      "end": 37.77,
+      "text": "Yes, the librarian was really helpful.",
+      "avgLogprob": -0.1190631447674392
+    },
+    {
+      "start": 37.77,
+      "end": 42.77,
+      "text": "Can I just check, though, that I got the right one?",
+      "avgLogprob": -0.1190631447674392
+    },
+    {
+      "start": 42.77,
+      "end": 45.77,
+      "text": "There were two with similar titles.",
+      "avgLogprob": -0.1190631447674392
+    },
+    {
+      "start": 45.77,
+      "end": 52.77,
+      "text": "Was it the one published in 2010 or 2011?",
+      "avgLogprob": -0.1190631447674392
+    },
+    {
+      "start": 52.77,
+      "end": 55.77,
+      "text": "It was the 2011 that you need.",
+      "avgLogprob": -0.1190631447674392
+    },
+    {
+      "start": 55.77,
+      "end": 60.65,
+      "text": "Oh, in that case, I'll have to go back later and get the right one.",
+      "avgLogprob": -0.17643830383365805
+    }
+  ]
+}

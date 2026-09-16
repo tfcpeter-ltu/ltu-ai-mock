@@ -1,0 +1,349 @@
+{
+  "source": "assets/audio/9f13c64e16b0568c.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.72,
+      "end": 6.72,
+      "text": "Good morning. Today we're going to look at forensic linguistics.",
+      "avgLogprob": -0.1582602560520172
+    },
+    {
+      "start": 6.72,
+      "end": 11.72,
+      "text": "So first of all, what is forensic linguistics?",
+      "avgLogprob": -0.1582602560520172
+    },
+    {
+      "start": 11.72,
+      "end": 18.72,
+      "text": "The Oxford English Dictionary defines forensic as pertaining to,",
+      "avgLogprob": -0.1582602560520172
+    },
+    {
+      "start": 18.72,
+      "end": 23.72,
+      "text": "concerned with, or used in courts of law.",
+      "avgLogprob": -0.1582602560520172
+    },
+    {
+      "start": 23.72,
+      "end": 29.64,
+      "text": "forensic linguistics then is the application of linguistic methods to",
+      "avgLogprob": -0.11729452782310545
+    },
+    {
+      "start": 29.64,
+      "end": 37.34,
+      "text": "these areas. The study of forensic linguistics can be divided into two main",
+      "avgLogprob": -0.11729452782310545
+    },
+    {
+      "start": 37.34,
+      "end": 46.38,
+      "text": "areas. Firstly, the language of the law and judicial processes, for example",
+      "avgLogprob": -0.11729452782310545
+    },
+    {
+      "start": 46.38,
+      "end": 52.08,
+      "text": "questioning in the courtroom and the language in documents which set out the",
+      "avgLogprob": -0.11729452782310545
+    },
+    {
+      "start": 52.08,
+      "end": 60.16,
+      "text": "law, and secondly, the language of evidence. For example, ransom notes and",
+      "avgLogprob": -0.1463440751036008
+    },
+    {
+      "start": 60.16,
+      "end": 69.25,
+      "text": "spoken texts. To give you an idea of how forensic linguistics has been used, we're",
+      "avgLogprob": -0.1463440751036008
+    },
+    {
+      "start": 69.25,
+      "end": 76.55,
+      "text": "going to look at four legal cases. Firstly, there is the case of a doctor",
+      "avgLogprob": -0.1463440751036008
+    },
+    {
+      "start": 76.55,
+      "end": 85.33,
+      "text": "named Harold Shipman, who was convicted in January 2000 of the murder of 15 of",
+      "avgLogprob": -0.11682552027125512
+    },
+    {
+      "start": 85.33,
+      "end": 92.33,
+      "text": "his patients. Shipman forged the last will and testament of one of his",
+      "avgLogprob": -0.11682552027125512
+    },
+    {
+      "start": 92.33,
+      "end": 102.4,
+      "text": "patients, Mrs Kathleen Grundy, and this led to his arrest. Mrs Grundy's daughter,",
+      "avgLogprob": -0.11682552027125512
+    },
+    {
+      "start": 102.4,
+      "end": 111.86,
+      "text": "Mrs Angela Woodruff, was a lawyer and had drawn up her mother's original will. When",
+      "avgLogprob": -0.09622450609292303
+    },
+    {
+      "start": 111.86,
+      "end": 119.59,
+      "text": "a new will was discovered, she became suspicious. The choice of individual",
+      "avgLogprob": -0.09622450609292303
+    },
+    {
+      "start": 119.59,
+      "end": 126.03,
+      "text": "words and the signature were different from her mother's usual style and the",
+      "avgLogprob": -0.09622450609292303
+    },
+    {
+      "start": 126.03,
+      "end": 134.03,
+      "text": "document contained some uncharacteristic errors. As a consequence of her",
+      "avgLogprob": -0.09622450609292303
+    },
+    {
+      "start": 134.03,
+      "end": 140.23,
+      "text": "suspicions, a forensic document examiner was employed to compare the alleged",
+      "avgLogprob": -0.12094975844956934
+    },
+    {
+      "start": 140.23,
+      "end": 146.71,
+      "text": "signature on the will with her driving license which contained her authentic",
+      "avgLogprob": -0.12094975844956934
+    },
+    {
+      "start": 146.71,
+      "end": 155.51,
+      "text": "signature. Significant differences were found. For example, the letter D in",
+      "avgLogprob": -0.12094975844956934
+    },
+    {
+      "start": 155.51,
+      "end": 162.51,
+      "text": "Grundy was written with an open loop and was taller than in the authentic",
+      "avgLogprob": -0.12094975844956934
+    },
+    {
+      "start": 162.51,
+      "end": 168.63,
+      "text": "signature. The evidence from the handwriting analysis helped convict",
+      "avgLogprob": -0.14072696788836334
+    },
+    {
+      "start": 168.63,
+      "end": 177.99,
+      "text": "Shipman. The second case we will discuss concerns Dan Brown, the author of a book",
+      "avgLogprob": -0.14072696788836334
+    },
+    {
+      "start": 177.99,
+      "end": 186.63,
+      "text": "called The Davinci Code. The Davinci Code is a best-selling book with over 4.5",
+      "avgLogprob": -0.14072696788836334
+    },
+    {
+      "start": 186.63,
+      "end": 195.99,
+      "text": "million copies sold up to the 11th of December 2010. Brown was alleged to have",
+      "avgLogprob": -0.1307091823425786
+    },
+    {
+      "start": 195.99,
+      "end": 202.03,
+      "text": "copied the central theme for the Da Vinci Code from an earlier non-fictional",
+      "avgLogprob": -0.1307091823425786
+    },
+    {
+      "start": 202.03,
+      "end": 212.07,
+      "text": "book called The Holy Blood and the Holy Grail. In 2006 the judge ruled that",
+      "avgLogprob": -0.1307091823425786
+    },
+    {
+      "start": 212.07,
+      "end": 218.99,
+      "text": "there had been no copying of text or the central themes.",
+      "avgLogprob": -0.1410086750984192
+    },
+    {
+      "start": 218.99,
+      "end": 225.83,
+      "text": "Copyright infringement and plagiarism are areas where forensic linguistics can help solve",
+      "avgLogprob": -0.1410086750984192
+    },
+    {
+      "start": 225.83,
+      "end": 229.61,
+      "text": "legal cases.",
+      "avgLogprob": -0.1410086750984192
+    },
+    {
+      "start": 229.61,
+      "end": 236.45,
+      "text": "The third case concerns the protection of trademarks, and in particular protection for",
+      "avgLogprob": -0.1410086750984192
+    },
+    {
+      "start": 236.45,
+      "end": 239.93,
+      "text": "the Google name.",
+      "avgLogprob": -0.1410086750984192
+    },
+    {
+      "start": 239.93,
+      "end": 248.41,
+      "text": "This asks the question, how far can companies claim to own a word or a series of words?",
+      "avgLogprob": -0.10889494318414379
+    },
+    {
+      "start": 248.41,
+      "end": 257.74,
+      "text": "And do these companies have the right to say who can and who cannot use these words?",
+      "avgLogprob": -0.10889494318414379
+    },
+    {
+      "start": 257.74,
+      "end": 264.86,
+      "text": "Google fear that there is a risk that the word Google could become so commonly used that",
+      "avgLogprob": -0.10889494318414379
+    },
+    {
+      "start": 264.86,
+      "end": 270.7,
+      "text": "it would become synonymous with the word search.",
+      "avgLogprob": -0.10889494318414379
+    },
+    {
+      "start": 270.7,
+      "end": 277.06,
+      "text": "this happens they will not be able to protect their trademark. This in turn",
+      "avgLogprob": -0.11242983272920053
+    },
+    {
+      "start": 277.06,
+      "end": 282.78,
+      "text": "could then lead to other people using the word Google to refer to their own",
+      "avgLogprob": -0.11242983272920053
+    },
+    {
+      "start": 282.78,
+      "end": 291.02,
+      "text": "products. Their brand has a significant financial value and this would decrease",
+      "avgLogprob": -0.11242983272920053
+    },
+    {
+      "start": 291.02,
+      "end": 300.74,
+      "text": "as a result. The last case we will look at is about how voices are unique. In",
+      "avgLogprob": -0.11242983272920053
+    },
+    {
+      "start": 300.74,
+      "end": 314.74,
+      "text": "In this case, a recording made 25 years earlier was compared with a recently arrested suspect's voice to see if the suspect made the original recording.",
+      "avgLogprob": -0.15775089462598166
+    },
+    {
+      "start": 314.74,
+      "end": 325.06,
+      "text": "The case uses forensic phonetics or voice analysis in order to identify the speaker.",
+      "avgLogprob": -0.15775089462598166
+    },
+    {
+      "start": 325.06,
+      "end": 335.3,
+      "text": "The Yorkshire Ripper case concerned a serial killer who murdered 10 women between 1975 and 1979.",
+      "avgLogprob": -0.20175148829303938
+    },
+    {
+      "start": 336.9,
+      "end": 343.94,
+      "text": "In 1979, the police received a tape recording, supposedly from the Yorkshire Ripper.",
+      "avgLogprob": -0.20175148829303938
+    },
+    {
+      "start": 345.62,
+      "end": 351.7,
+      "text": "The police asked a Phonistician from Leeds University, Stanley Ellis,",
+      "avgLogprob": -0.20175148829303938
+    },
+    {
+      "start": 351.7,
+      "end": 360.46,
+      "text": "to identify exactly where the speaker came from geographically. Ellis said that",
+      "avgLogprob": -0.1688226618856754
+    },
+    {
+      "start": 360.46,
+      "end": 367.26,
+      "text": "the speaker came from Sunderland in the north-east of England originally, but",
+      "avgLogprob": -0.1688226618856754
+    },
+    {
+      "start": 367.26,
+      "end": 375.0,
+      "text": "could not be sure that he still lived there. As a result, the police only",
+      "avgLogprob": -0.1688226618856754
+    },
+    {
+      "start": 375.0,
+      "end": 386.04,
+      "text": "considered suspects with north-eastern accents. In 1981 Peter Sutcliffe, a lorry driver from",
+      "avgLogprob": -0.13779985860212526
+    },
+    {
+      "start": 386.04,
+      "end": 393.0,
+      "text": "Bradford, was arrested and confessed to the murders. He was convicted shortly afterwards.",
+      "avgLogprob": -0.13779985860212526
+    },
+    {
+      "start": 394.44,
+      "end": 406.2,
+      "text": "He did not have a north-eastern accent. In 2005, 26 years after the tapes had been sent,",
+      "avgLogprob": -0.13779985860212526
+    },
+    {
+      "start": 406.2,
+      "end": 414.28,
+      "text": "a man from Sunderland, John Humble, was arrested and charged with sending the tapes to the police.",
+      "avgLogprob": -0.1527237313635209
+    },
+    {
+      "start": 414.28,
+      "end": 426.16,
+      "text": "DNA from the envelope received by the police in 1979 was matched to a sample from John Humble.",
+      "avgLogprob": -0.1527237313635209
+    },
+    {
+      "start": 426.16,
+      "end": 435.96,
+      "text": "Humble was also asked to read out a tape script of the original recordings and a comparison was",
+      "avgLogprob": -0.1527237313635209
+    },
+    {
+      "start": 435.96,
+      "end": 443.68,
+      "text": "made by voice analysts. Humble was convicted of sending the false information",
+      "avgLogprob": -0.1729305624961853
+    },
+    {
+      "start": 443.68,
+      "end": 448.84,
+      "text": "claiming to be the Yorkshire Ripper to the police.",
+      "avgLogprob": -0.1729305624961853
+    }
+  ]
+}

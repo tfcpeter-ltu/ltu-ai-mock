@@ -1,0 +1,1711 @@
+{
+  "source": "assets/audio/93088afa8a4051ad.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.69,
+      "end": 7.69,
+      "text": "Section 1. You will hear a man phoning to inquire about hotel information.",
+      "avgLogprob": -0.15065796081333943
+    },
+    {
+      "start": 7.69,
+      "end": 40.1,
+      "text": "First, you have some time to look at questions 1 to 4. Now we shall begin.",
+      "avgLogprob": -0.15065796081333943
+    },
+    {
+      "start": 40.1,
+      "end": 48.1,
+      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
+      "avgLogprob": -0.15065796081333943
+    },
+    {
+      "start": 48.1,
+      "end": 52.1,
+      "text": "Listen carefully and answer questions 1 to 4.",
+      "avgLogprob": -0.15065796081333943
+    },
+    {
+      "start": 52.1,
+      "end": 59.6,
+      "text": "Good afternoon. You're through to reception at the Island Hotel in Crete. How may I help you today?",
+      "avgLogprob": -0.13882995778467597
+    },
+    {
+      "start": 59.6,
+      "end": 74.19,
+      "text": "Book a double room for my wife and myself for about two weeks. Could you tell me whether it's particularly hot during this time?",
+      "avgLogprob": -0.13882995778467597
+    },
+    {
+      "start": 74.19,
+      "end": 82.19,
+      "text": "Yes, of course, sir. During late April and early May, the daytime temperature shouldn't exceed 19 degrees Celsius.",
+      "avgLogprob": -0.13882995778467597
+    },
+    {
+      "start": 82.19,
+      "end": 87.87,
+      "text": "us, but the weather has been rather erratic and difficult to predict in recent years,",
+      "avgLogprob": -0.19382470985439337
+    },
+    {
+      "start": 87.87,
+      "end": 90.23,
+      "text": "so I am unable to say for certain.",
+      "avgLogprob": -0.19382470985439337
+    },
+    {
+      "start": 90.23,
+      "end": 99.44,
+      "text": "OK, that sounds good. My wife doesn't like going outside when it's very unfamiliar with",
+      "avgLogprob": -0.19382470985439337
+    },
+    {
+      "start": 99.44,
+      "end": 104.59,
+      "text": "Crete and its transport system.",
+      "avgLogprob": -0.19382470985439337
+    },
+    {
+      "start": 104.59,
+      "end": 110.99,
+      "text": "Yes, sir. We provide a complimentary airport pick-up service for all our guests. It takes",
+      "avgLogprob": -0.19382470985439337
+    },
+    {
+      "start": 110.99,
+      "end": 117.91,
+      "text": "about 40 minutes to get here from the airport, but it's at least 60 minutes at rush hours.",
+      "avgLogprob": -0.19382470985439337
+    },
+    {
+      "start": 117.91,
+      "end": 123.45,
+      "text": "and you will be provided with a fully air conditioned shuttle bus.",
+      "avgLogprob": -0.17385168753418268
+    },
+    {
+      "start": 123.45,
+      "end": 127.13,
+      "text": "In that case, do you have any rooms available for the dates I gave you?",
+      "avgLogprob": -0.17385168753418268
+    },
+    {
+      "start": 127.13,
+      "end": 132.69,
+      "text": "I shall have a look on the system now for you sir, bear with me just a moment.",
+      "avgLogprob": -0.17385168753418268
+    },
+    {
+      "start": 132.69,
+      "end": 138.57,
+      "text": "Yes sir, I can see now that we have several rooms available, would you prefer a garden",
+      "avgLogprob": -0.17385168753418268
+    },
+    {
+      "start": 138.57,
+      "end": 140.81,
+      "text": "view or a sea view?",
+      "avgLogprob": -0.17385168753418268
+    },
+    {
+      "start": 140.81,
+      "end": 147.13,
+      "text": "Well ideally I would like a sea view room with a balcony.",
+      "avgLogprob": -0.17385168753418268
+    },
+    {
+      "start": 147.13,
+      "end": 153.89,
+      "text": "Not to worry, sir. All of our standard double rooms have ensuite facilities and a balcony.",
+      "avgLogprob": -0.2006599912931631
+    },
+    {
+      "start": 153.89,
+      "end": 159.13,
+      "text": "If you would like one of our Seaview rooms, there is a premium of 60 euros per night.",
+      "avgLogprob": -0.2006599912931631
+    },
+    {
+      "start": 159.13,
+      "end": 165.97,
+      "text": "Give me the total nightly rate for a standard double room with a Seaview.",
+      "avgLogprob": -0.2006599912931631
+    },
+    {
+      "start": 165.97,
+      "end": 173.69,
+      "text": "Yes of course, sir. For the spring months, our rate is 216 euros per night. For 14 nights",
+      "avgLogprob": -0.2006599912931631
+    },
+    {
+      "start": 173.69,
+      "end": 190.36,
+      "text": "all together, this will come to €3,024. Yes, we have a large outdoor infinity pool",
+      "avgLogprob": -0.12075973869259678
+    },
+    {
+      "start": 190.36,
+      "end": 197.24,
+      "text": "overlooking the ocean, with luxury sunbeds and a poolside bar. We also have three full-sized",
+      "avgLogprob": -0.12075973869259678
+    },
+    {
+      "start": 197.24,
+      "end": 203.16,
+      "text": "tennis courts, where we run a popular doubles tournament, with the winner receiving two",
+      "avgLogprob": -0.12075973869259678
+    },
+    {
+      "start": 203.16,
+      "end": 206.16,
+      "text": "all-inclusive spa day vouchers.",
+      "avgLogprob": -0.22295955944498744
+    },
+    {
+      "start": 206.16,
+      "end": 212.66,
+      "text": "Goodness, I shall have to brush up on my tennis skills.",
+      "avgLogprob": -0.22295955944498744
+    },
+    {
+      "start": 212.66,
+      "end": 239.12,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 5-10.",
+      "avgLogprob": -0.22295955944498744
+    },
+    {
+      "start": 239.12,
+      "end": 242.32,
+      "text": "Now listen and answer questions 5-10.",
+      "avgLogprob": -0.22295955944498744
+    },
+    {
+      "start": 242.32,
+      "end": 250.74,
+      "text": "It's organised by the hotel that we can partake in.",
+      "avgLogprob": -0.22295955944498744
+    },
+    {
+      "start": 250.74,
+      "end": 253.02,
+      "text": "It's just that it's our wedding anniversary on the 30th.",
+      "avgLogprob": -0.22295955944498744
+    },
+    {
+      "start": 253.02,
+      "end": 259.06,
+      "text": "I would like to provide my wife with a perfect, romantic getaway.",
+      "avgLogprob": -0.22295955944498744
+    },
+    {
+      "start": 259.06,
+      "end": 265.4,
+      "text": "I can assure you, sir, that your wife won't be disappointed. Ours is a five-star resort",
+      "avgLogprob": -0.11123788222837984
+    },
+    {
+      "start": 265.4,
+      "end": 271.82,
+      "text": "which is renowned for its luxury and beauty. In terms of activities, the hotel provides",
+      "avgLogprob": -0.11123788222837984
+    },
+    {
+      "start": 271.82,
+      "end": 278.58,
+      "text": "thrice-weekly entertainment. On Tuesdays, guests will take a minibus and partake in",
+      "avgLogprob": -0.11123788222837984
+    },
+    {
+      "start": 278.58,
+      "end": 285.46,
+      "text": "learning to cook succulent fish dishes with our Michelin-starred chef Henriquet. The class",
+      "avgLogprob": -0.11123788222837984
+    },
+    {
+      "start": 285.46,
+      "end": 291.66,
+      "text": "will take place in a beautiful valley deep in the Cretan Hills where guests will be treated",
+      "avgLogprob": -0.1072867586332209
+    },
+    {
+      "start": 291.66,
+      "end": 299.5,
+      "text": "to an intimate piano performance by our in-house concert pianist Pedro. On Wednesdays, a select",
+      "avgLogprob": -0.1072867586332209
+    },
+    {
+      "start": 299.5,
+      "end": 305.94,
+      "text": "number of guests will be fortunate enough to explore the mountains by helicopter before",
+      "avgLogprob": -0.1072867586332209
+    },
+    {
+      "start": 305.94,
+      "end": 313.58,
+      "text": "being transported to a tropical Cretan garden by shuttle bus. Finally, on Thursdays, after",
+      "avgLogprob": -0.1072867586332209
+    },
+    {
+      "start": 313.58,
+      "end": 320.3,
+      "text": "or a fancy dinner, we provide a spectacular fireworks display, which guests can view from",
+      "avgLogprob": -0.2596878752870075
+    },
+    {
+      "start": 320.3,
+      "end": 322.22,
+      "text": "the comfort of a cable car.",
+      "avgLogprob": -0.2596878752870075
+    },
+    {
+      "start": 322.22,
+      "end": 374.36,
+      "text": "That is the end of section 1. You now have half a minute to check your answers. Now turn",
+      "avgLogprob": -0.2596878752870075
+    },
+    {
+      "start": 374.36,
+      "end": 378.78,
+      "text": "to section 2.",
+      "avgLogprob": -0.2596878752870075
+    },
+    {
+      "start": 378.78,
+      "end": 387.78,
+      "text": "You will hear a radio anchor on broadcast speaking to her audience about water conservation and some contributions they can make at home.",
+      "avgLogprob": -0.12038336988066284
+    },
+    {
+      "start": 387.78,
+      "end": 424.5,
+      "text": "First, you have some time to look at questions 11 to 16. Now listen carefully and answer questions 11 to 16.",
+      "avgLogprob": -0.12038336988066284
+    },
+    {
+      "start": 424.5,
+      "end": 432.15,
+      "text": "Good morning, ladies and gentlemen. Thank you for returning to Action Radio.",
+      "avgLogprob": -0.12038336988066284
+    },
+    {
+      "start": 432.15,
+      "end": 436.15,
+      "text": "We are here talking about current affairs and global issues.",
+      "avgLogprob": -0.09200538994501466
+    },
+    {
+      "start": 436.15,
+      "end": 447.15,
+      "text": "I am Jill, and today our focus will be on discussing the very concerning issue of the significance of water conservation and how you can make your own contribution at home.",
+      "avgLogprob": -0.09200538994501466
+    },
+    {
+      "start": 447.15,
+      "end": 452.15,
+      "text": "The most universal wasted energy of all the domestic kinds is heat.",
+      "avgLogprob": -0.09200538994501466
+    },
+    {
+      "start": 452.15,
+      "end": 459.15,
+      "text": "Yet since my house has well-insulated walls, I'm lucky enough not to need to do anything about this problem.",
+      "avgLogprob": -0.09200538994501466
+    },
+    {
+      "start": 459.15,
+      "end": 465.03,
+      "text": "problem. Yet, I still found out that a large amount of water was wasted owing to my way",
+      "avgLogprob": -0.11498534946509127
+    },
+    {
+      "start": 465.03,
+      "end": 471.07,
+      "text": "of life. I looked into a few approaches online, trying to reduce my water usage as much as",
+      "avgLogprob": -0.11498534946509127
+    },
+    {
+      "start": 471.07,
+      "end": 475.95,
+      "text": "possible and have been pleasantly surprised to figure out that there are experts in that",
+      "avgLogprob": -0.11498534946509127
+    },
+    {
+      "start": 475.95,
+      "end": 481.71,
+      "text": "field who can make some instant changes to my home. But the only dark side is this work",
+      "avgLogprob": -0.11498534946509127
+    },
+    {
+      "start": 481.71,
+      "end": 487.19,
+      "text": "is so costly that there are no means for me to get financial help. Now, if any of",
+      "avgLogprob": -0.11498534946509127
+    },
+    {
+      "start": 487.19,
+      "end": 492.47,
+      "text": "If you listeners are interested in reducing your energy usage, here are a couple of easy",
+      "avgLogprob": -0.15262416271226747
+    },
+    {
+      "start": 492.47,
+      "end": 495.95,
+      "text": "and positive changes you can make immediately.",
+      "avgLogprob": -0.15262416271226747
+    },
+    {
+      "start": 495.95,
+      "end": 500.99,
+      "text": "A lot of the magazines will recommend that you change your bulbs for those with energy",
+      "avgLogprob": -0.15262416271226747
+    },
+    {
+      "start": 500.99,
+      "end": 502.59,
+      "text": "saving capabilities.",
+      "avgLogprob": -0.15262416271226747
+    },
+    {
+      "start": 502.59,
+      "end": 507.51,
+      "text": "However, I have found that these make little difference to your electricity bill and they",
+      "avgLogprob": -0.15262416271226747
+    },
+    {
+      "start": 507.51,
+      "end": 511.43,
+      "text": "also severely reduce the light levels in your home.",
+      "avgLogprob": -0.15262416271226747
+    },
+    {
+      "start": 511.43,
+      "end": 515.71,
+      "text": "Instead, simply switch off all plug sockets and appliances",
+      "avgLogprob": -0.08733238477622514
+    },
+    {
+      "start": 515.71,
+      "end": 519.63,
+      "text": "to make an immediate saving on your electricity consumption.",
+      "avgLogprob": -0.08733238477622514
+    },
+    {
+      "start": 519.63,
+      "end": 522.45,
+      "text": "If this doesn't make enough of a saving for you,",
+      "avgLogprob": -0.08733238477622514
+    },
+    {
+      "start": 522.45,
+      "end": 525.67,
+      "text": "you could later turn down the thermostat as well.",
+      "avgLogprob": -0.08733238477622514
+    },
+    {
+      "start": 525.67,
+      "end": 528.35,
+      "text": "Even though my energy provider gave me a discount",
+      "avgLogprob": -0.08733238477622514
+    },
+    {
+      "start": 528.35,
+      "end": 531.07,
+      "text": "on my bills for prompt payments,",
+      "avgLogprob": -0.08733238477622514
+    },
+    {
+      "start": 531.07,
+      "end": 534.17,
+      "text": "this doesn't make enough of a saving for my monthly bill,",
+      "avgLogprob": -0.08733238477622514
+    },
+    {
+      "start": 534.17,
+      "end": 537.07,
+      "text": "considering the amount of energy that I was using.",
+      "avgLogprob": -0.08733238477622514
+    },
+    {
+      "start": 537.07,
+      "end": 540.35,
+      "text": "So, I felt like switching to another provider.",
+      "avgLogprob": -0.08733238477622514
+    },
+    {
+      "start": 540.35,
+      "end": 543.61,
+      "text": "Not only could I make a considerable monthly saving,",
+      "avgLogprob": -0.09610401244173127
+    },
+    {
+      "start": 543.61,
+      "end": 546.77,
+      "text": "but also get other perks from the new company.",
+      "avgLogprob": -0.09610401244173127
+    },
+    {
+      "start": 546.77,
+      "end": 549.57,
+      "text": "The bills can now be paid online, for instance,",
+      "avgLogprob": -0.09610401244173127
+    },
+    {
+      "start": 549.57,
+      "end": 551.01,
+      "text": "which was a thrill to me,",
+      "avgLogprob": -0.09610401244173127
+    },
+    {
+      "start": 551.01,
+      "end": 553.71,
+      "text": "because it saves me from driving to the bank.",
+      "avgLogprob": -0.09610401244173127
+    },
+    {
+      "start": 553.71,
+      "end": 556.33,
+      "text": "If our contract endures more than one year,",
+      "avgLogprob": -0.09610401244173127
+    },
+    {
+      "start": 556.33,
+      "end": 558.41,
+      "text": "they will also provide me with a deduction",
+      "avgLogprob": -0.09610401244173127
+    },
+    {
+      "start": 558.41,
+      "end": 562.45,
+      "text": "for all the energy saving appliances I am currently using.",
+      "avgLogprob": -0.09610401244173127
+    },
+    {
+      "start": 562.45,
+      "end": 564.27,
+      "text": "Now, many of you listeners",
+      "avgLogprob": -0.09610401244173127
+    },
+    {
+      "start": 564.27,
+      "end": 566.53,
+      "text": "will have an electricity meter at home,",
+      "avgLogprob": -0.09610401244173127
+    },
+    {
+      "start": 566.53,
+      "end": 568.21,
+      "text": "so I'm very sure that all of you",
+      "avgLogprob": -0.09610401244173127
+    },
+    {
+      "start": 568.21,
+      "end": 573.73,
+      "text": "know the problems associated with them. These meters can occupy a lot of room in your home",
+      "avgLogprob": -0.08060285838337632
+    },
+    {
+      "start": 573.73,
+      "end": 579.25,
+      "text": "and can be very unsightly if you cannot tuck them away in a cupboard. Mine is very large",
+      "avgLogprob": -0.08060285838337632
+    },
+    {
+      "start": 579.25,
+      "end": 585.17,
+      "text": "and it measures both gas and electricity usage. But it is nicely hidden in the coat cupboard",
+      "avgLogprob": -0.08060285838337632
+    },
+    {
+      "start": 585.17,
+      "end": 590.77,
+      "text": "and I'm lucky enough to escape from accessing it easily. But the cons about this is that",
+      "avgLogprob": -0.08060285838337632
+    },
+    {
+      "start": 590.77,
+      "end": 595.41,
+      "text": "whenever I need to take a meter reading I'll have to use a torch because it is hidden in",
+      "avgLogprob": -0.08060285838337632
+    },
+    {
+      "start": 595.41,
+      "end": 600.57,
+      "text": "darkness, and without a flashlight, I can't read the numbers on the screen correctly.",
+      "avgLogprob": -0.1799695274233818
+    },
+    {
+      "start": 600.57,
+      "end": 605.51,
+      "text": "I recently extended my house with a new room that gives us a bathroom with a low energy",
+      "avgLogprob": -0.1799695274233818
+    },
+    {
+      "start": 605.51,
+      "end": 610.01,
+      "text": "boiler, so I'm able to take long showers, guilty free.",
+      "avgLogprob": -0.1799695274233818
+    },
+    {
+      "start": 610.01,
+      "end": 615.65,
+      "text": "My walls are nice and thick and well insulated, but disappointingly, the window is a little",
+      "avgLogprob": -0.1799695274233818
+    },
+    {
+      "start": 615.65,
+      "end": 616.65,
+      "text": "drafty.",
+      "avgLogprob": -0.1799695274233818
+    },
+    {
+      "start": 616.65,
+      "end": 621.47,
+      "text": "Thus, I am about to make some investments by doing some upgrading.",
+      "avgLogprob": -0.1799695274233818
+    },
+    {
+      "start": 621.47,
+      "end": 626.75,
+      "text": "renewable energy, I initially thought about installing solar panels on the roof to heat",
+      "avgLogprob": -0.14504844334817701
+    },
+    {
+      "start": 626.75,
+      "end": 633.43,
+      "text": "the water rather than applying a new low-energy boiler, which was the price-friendly alternative.",
+      "avgLogprob": -0.14504844334817701
+    },
+    {
+      "start": 633.43,
+      "end": 638.55,
+      "text": "But I finally determined that the panels would make my house ugly on the exterior, in spite",
+      "avgLogprob": -0.14504844334817701
+    },
+    {
+      "start": 638.55,
+      "end": 643.6,
+      "text": "of their ease of technical use.",
+      "avgLogprob": -0.14504844334817701
+    },
+    {
+      "start": 643.6,
+      "end": 677.55,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 17-20.",
+      "avgLogprob": -0.14504844334817701
+    },
+    {
+      "start": 677.55,
+      "end": 683.92,
+      "text": "Now listen and answer questions 17 to 20.",
+      "avgLogprob": -0.1709623280693503
+    },
+    {
+      "start": 683.92,
+      "end": 689.64,
+      "text": "Now if you are keen on taking long showers as I am, switching from baths to showers",
+      "avgLogprob": -0.1709623280693503
+    },
+    {
+      "start": 689.64,
+      "end": 693.08,
+      "text": "doesn't change much on your total water usage.",
+      "avgLogprob": -0.1709623280693503
+    },
+    {
+      "start": 693.08,
+      "end": 698.24,
+      "text": "Instead some small effective changes can be quite helpful and efficient.",
+      "avgLogprob": -0.1709623280693503
+    },
+    {
+      "start": 698.24,
+      "end": 703.3,
+      "text": "When making a cup of tea for instance before boiling water measure out the amount that",
+      "avgLogprob": -0.1709623280693503
+    },
+    {
+      "start": 703.3,
+      "end": 705.96,
+      "text": "you need during the procedure.",
+      "avgLogprob": -0.1709623280693503
+    },
+    {
+      "start": 705.96,
+      "end": 711.88,
+      "text": "Also, when brushing teeth, use a cup of water instead of leaving the tap water running.",
+      "avgLogprob": -0.10600898134599038
+    },
+    {
+      "start": 711.88,
+      "end": 717.2,
+      "text": "I would recommend you not to fill up the washing machine before switching it on, because",
+      "avgLogprob": -0.10600898134599038
+    },
+    {
+      "start": 717.2,
+      "end": 720.48,
+      "text": "I found out that the clothes were not thoroughly cleaned.",
+      "avgLogprob": -0.10600898134599038
+    },
+    {
+      "start": 720.48,
+      "end": 724.16,
+      "text": "Also, call a plumber to fix your dripping taps.",
+      "avgLogprob": -0.10600898134599038
+    },
+    {
+      "start": 724.16,
+      "end": 728.12,
+      "text": "This will give rise to a great reduction of water being wasted.",
+      "avgLogprob": -0.10600898134599038
+    },
+    {
+      "start": 728.12,
+      "end": 732.08,
+      "text": "Before finishing today's show, I'd like to address two questions that we often get",
+      "avgLogprob": -0.10600898134599038
+    },
+    {
+      "start": 732.08,
+      "end": 733.88,
+      "text": "asked by listeners.",
+      "avgLogprob": -0.10600898134599038
+    },
+    {
+      "start": 733.88,
+      "end": 738.68,
+      "text": "We had some great feedback about our answer to last week's question on how to calculate",
+      "avgLogprob": -0.13230797069744
+    },
+    {
+      "start": 738.68,
+      "end": 742.6,
+      "text": "the price involved in powering domestic appliances.",
+      "avgLogprob": -0.13230797069744
+    },
+    {
+      "start": 742.6,
+      "end": 745.48,
+      "text": "So let's see how we do this week.",
+      "avgLogprob": -0.13230797069744
+    },
+    {
+      "start": 745.48,
+      "end": 750.52,
+      "text": "One of the most commonly asked questions this week was, which device is the lowest energy",
+      "avgLogprob": -0.13230797069744
+    },
+    {
+      "start": 750.52,
+      "end": 752.88,
+      "text": "option for watching films?",
+      "avgLogprob": -0.13230797069744
+    },
+    {
+      "start": 752.88,
+      "end": 758.28,
+      "text": "The simplest answer is that the smaller the screen, the lower the energy used.",
+      "avgLogprob": -0.13230797069744
+    },
+    {
+      "start": 758.28,
+      "end": 761.82,
+      "text": "One of our listeners wrote in with a question that made me chuckle.",
+      "avgLogprob": -0.13230797069744
+    },
+    {
+      "start": 761.82,
+      "end": 767.38,
+      "text": "And the answer is, yes, solar panels only work when the sun is out.",
+      "avgLogprob": -0.12948439656091587
+    },
+    {
+      "start": 767.38,
+      "end": 772.6,
+      "text": "Now on a more serious note, a number of you wanted to know what the most efficient temperature",
+      "avgLogprob": -0.12948439656091587
+    },
+    {
+      "start": 772.6,
+      "end": 775.2,
+      "text": "is to set the thermostat to.",
+      "avgLogprob": -0.12948439656091587
+    },
+    {
+      "start": 775.2,
+      "end": 781.26,
+      "text": "The answer is that the closer you set it to room temperature, the lower the energy used.",
+      "avgLogprob": -0.12948439656091587
+    },
+    {
+      "start": 781.26,
+      "end": 785.06,
+      "text": "Before saying goodbye today, I'll give you one last tip.",
+      "avgLogprob": -0.12948439656091587
+    },
+    {
+      "start": 785.06,
+      "end": 790.57,
+      "text": "Turn off all the lights when you leave the room.",
+      "avgLogprob": -0.12948439656091587
+    },
+    {
+      "start": 790.57,
+      "end": 792.95,
+      "text": "That is the end of Section 2.",
+      "avgLogprob": -0.12948439656091587
+    },
+    {
+      "start": 792.95,
+      "end": 831.2,
+      "text": "You now have half a minute to check your answers. Now, turn to section 3.",
+      "avgLogprob": -0.1985546688948359
+    },
+    {
+      "start": 831.2,
+      "end": 836.08,
+      "text": "Section 3. You will hear a student of landscape architecture",
+      "avgLogprob": -0.1985546688948359
+    },
+    {
+      "start": 836.08,
+      "end": 841.74,
+      "text": "discussing a project with his tutor. First, you have some time to look at questions",
+      "avgLogprob": -0.1985546688948359
+    },
+    {
+      "start": 841.74,
+      "end": 874.41,
+      "text": "21 to 24. Now listen carefully and answer questions 21 to 24.",
+      "avgLogprob": -0.1985546688948359
+    },
+    {
+      "start": 874.41,
+      "end": 878.13,
+      "text": "So let's hear what you're doing for your next project.",
+      "avgLogprob": -0.18459909953750098
+    },
+    {
+      "start": 878.13,
+      "end": 883.65,
+      "text": "I've decided to design a roof garden for a supermarket. I've been looking at some on",
+      "avgLogprob": -0.18459909953750098
+    },
+    {
+      "start": 883.65,
+      "end": 889.13,
+      "text": "the web, and I think that a garden on top of a building is the up-and-coming thing.",
+      "avgLogprob": -0.18459909953750098
+    },
+    {
+      "start": 889.13,
+      "end": 892.49,
+      "text": "Okay. So you've done a bit of reading already?",
+      "avgLogprob": -0.18459909953750098
+    },
+    {
+      "start": 892.49,
+      "end": 893.49,
+      "text": "Mm-hmm.",
+      "avgLogprob": -0.18459909953750098
+    },
+    {
+      "start": 893.49,
+      "end": 899.33,
+      "text": "What benefits would there be for the client? Why do you think a supermarket chain would",
+      "avgLogprob": -0.18459909953750098
+    },
+    {
+      "start": 899.33,
+      "end": 904.69,
+      "text": "be willing to meet the expense of construction. You do realise that would be the first thing",
+      "avgLogprob": -0.14657115100700163
+    },
+    {
+      "start": 904.69,
+      "end": 905.69,
+      "text": "they raise?",
+      "avgLogprob": -0.14657115100700163
+    },
+    {
+      "start": 905.69,
+      "end": 911.81,
+      "text": "Yes, I know. But I'd explain that in spite of the initially high expense, they would",
+      "avgLogprob": -0.14657115100700163
+    },
+    {
+      "start": 911.81,
+      "end": 918.93,
+      "text": "save that much in approximately five years. Well, I'd have to do sums. I mean, calculate",
+      "avgLogprob": -0.14657115100700163
+    },
+    {
+      "start": 918.93,
+      "end": 919.93,
+      "text": "specifically.",
+      "avgLogprob": -0.14657115100700163
+    },
+    {
+      "start": 919.93,
+      "end": 922.61,
+      "text": "Yes. How would the saving come about?",
+      "avgLogprob": -0.14657115100700163
+    },
+    {
+      "start": 922.61,
+      "end": 928.49,
+      "text": "Mainly through lower heating and air compills. The extra insulation offered by having a layer",
+      "avgLogprob": -0.14657115100700163
+    },
+    {
+      "start": 928.49,
+      "end": 932.49,
+      "text": "of living plants in the soil would make a huge difference.",
+      "avgLogprob": -0.17863486958022165
+    },
+    {
+      "start": 932.49,
+      "end": 938.41,
+      "text": "Okay. But they might feel the expense of maintenance would be an issue.",
+      "avgLogprob": -0.17863486958022165
+    },
+    {
+      "start": 939.21,
+      "end": 942.73,
+      "text": "After all, supermarkets don't normally employ gardeners.",
+      "avgLogprob": -0.17863486958022165
+    },
+    {
+      "start": 943.37,
+      "end": 948.65,
+      "text": "What I thought was if they made it a community garden, rather than a simple,",
+      "avgLogprob": -0.17863486958022165
+    },
+    {
+      "start": 948.65,
+      "end": 950.17,
+      "text": "low-maintenance green roof.",
+      "avgLogprob": -0.17863486958022165
+    },
+    {
+      "start": 950.17,
+      "end": 951.85,
+      "text": "So there'd be public access.",
+      "avgLogprob": -0.17863486958022165
+    },
+    {
+      "start": 951.85,
+      "end": 956.57,
+      "text": "Oh yes. Then there'd be a sense of ownership in the local community.",
+      "avgLogprob": -0.17863486958022165
+    },
+    {
+      "start": 956.57,
+      "end": 962.81,
+      "text": "and people could take responsibility for it instead of the supermarket paying a commercial company",
+      "avgLogprob": -0.09992750158014986
+    },
+    {
+      "start": 962.81,
+      "end": 966.81,
+      "text": "and it'll really boost their public relations. That's a good point.",
+      "avgLogprob": -0.09992750158014986
+    },
+    {
+      "start": 968.01,
+      "end": 974.73,
+      "text": "And have you been looking into how roof gardens are built nowadays? I'm still exploring that but",
+      "avgLogprob": -0.09992750158014986
+    },
+    {
+      "start": 974.73,
+      "end": 979.69,
+      "text": "if I take advantage of the latest technologies for roof gardens it shouldn't be too difficult",
+      "avgLogprob": -0.09992750158014986
+    },
+    {
+      "start": 980.25,
+      "end": 985.85,
+      "text": "but in any case you have to use lightweight materials. But that's a matter of making the",
+      "avgLogprob": -0.09992750158014986
+    },
+    {
+      "start": 985.85,
+      "end": 991.77,
+      "text": "right choices. You can even use quite traditional ones such as wood for the planting areas.",
+      "avgLogprob": -0.11049505015118764
+    },
+    {
+      "start": 991.77,
+      "end": 996.33,
+      "text": "Yes, that's what I thought. It'll look good and it isn't too heavy.",
+      "avgLogprob": -0.11049505015118764
+    },
+    {
+      "start": 996.33,
+      "end": 1002.81,
+      "text": "But for the basic construction, the issue you have to address first is the material used between",
+      "avgLogprob": -0.11049505015118764
+    },
+    {
+      "start": 1002.81,
+      "end": 1008.73,
+      "text": "the building and the garden. You mean the barrier fabric, which ensures there's no chance",
+      "avgLogprob": -0.11049505015118764
+    },
+    {
+      "start": 1008.73,
+      "end": 1014.65,
+      "text": "of rainwater leaking down into the building. Yes. Nowadays that is very good and quite",
+      "avgLogprob": -0.11049505015118764
+    },
+    {
+      "start": 1014.65,
+      "end": 1020.97,
+      "text": "easily sourced. Then, on the other hand, there's the business of water within the roof garden itself.",
+      "avgLogprob": -0.12135058277371255
+    },
+    {
+      "start": 1020.97,
+      "end": 1027.13,
+      "text": "Ah, you mean drainage? That's an important feature of the construction in any roof design.",
+      "avgLogprob": -0.12135058277371255
+    },
+    {
+      "start": 1027.13,
+      "end": 1032.25,
+      "text": "Yes, but I think most drainage issues have been well understood for quite a long time.",
+      "avgLogprob": -0.12135058277371255
+    },
+    {
+      "start": 1032.89,
+      "end": 1039.45,
+      "text": "OK. But another thing is with plants, in an exposed situation, you usually need to find",
+      "avgLogprob": -0.12135058277371255
+    },
+    {
+      "start": 1039.45,
+      "end": 1045.29,
+      "text": "ways to optimise rainfall? Yes, because rainwater is best for the garden,",
+      "avgLogprob": -0.14528731582686305
+    },
+    {
+      "start": 1045.29,
+      "end": 1049.73,
+      "text": "if you can store it for when it's needed. What I've been looking at are some buildings",
+      "avgLogprob": -0.14528731582686305
+    },
+    {
+      "start": 1049.73,
+      "end": 1055.25,
+      "text": "which use fairly conventional storage tanks, the kind that have been in use for decades,",
+      "avgLogprob": -0.14528731582686305
+    },
+    {
+      "start": 1055.25,
+      "end": 1059.05,
+      "text": "but have them linked to modern automatic watering systems.",
+      "avgLogprob": -0.14528731582686305
+    },
+    {
+      "start": 1059.05,
+      "end": 1065.01,
+      "text": "Sounds complicated. It's less so in practice than it sounds, I think. I've been researching",
+      "avgLogprob": -0.14528731582686305
+    },
+    {
+      "start": 1065.01,
+      "end": 1070.13,
+      "text": "them and actually the latest ones definitely work very well and they can be electronically",
+      "avgLogprob": -0.1645013840467322
+    },
+    {
+      "start": 1070.13,
+      "end": 1074.05,
+      "text": "regulated to suit the local microclimate.",
+      "avgLogprob": -0.1645013840467322
+    },
+    {
+      "start": 1074.05,
+      "end": 1079.69,
+      "text": "That sounds interesting. You seem to have been doing some thorough research. Make sure",
+      "avgLogprob": -0.1645013840467322
+    },
+    {
+      "start": 1079.69,
+      "end": 1082.97,
+      "text": "you reference all your sources when you write it up.",
+      "avgLogprob": -0.1645013840467322
+    },
+    {
+      "start": 1082.97,
+      "end": 1089.53,
+      "text": "Yes, sure. There's one more aspect I'd just like to run past you if there's time. I want",
+      "avgLogprob": -0.1645013840467322
+    },
+    {
+      "start": 1089.53,
+      "end": 1092.33,
+      "text": "to include a light feature in the design.",
+      "avgLogprob": -0.1645013840467322
+    },
+    {
+      "start": 1092.33,
+      "end": 1093.33,
+      "text": "Of course.",
+      "avgLogprob": -0.1645013840467322
+    },
+    {
+      "start": 1093.33,
+      "end": 1099.12,
+      "text": "I've got a sketch here. Let's have a look then.",
+      "avgLogprob": -0.1975970437397828
+    },
+    {
+      "start": 1099.12,
+      "end": 1104.92,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 25",
+      "avgLogprob": -0.1975970437397828
+    },
+    {
+      "start": 1104.92,
+      "end": 1140.76,
+      "text": "to 30. Now listen and answer questions 25 to 30.",
+      "avgLogprob": -0.1975970437397828
+    },
+    {
+      "start": 1140.76,
+      "end": 1148.57,
+      "text": "Well, I was really impressed by something I saw on a roof in Cornwall and I'd like to",
+      "avgLogprob": -0.1975970437397828
+    },
+    {
+      "start": 1148.57,
+      "end": 1157.57,
+      "text": "design something similar. You have an area of planting, and I'm thinking of installing",
+      "avgLogprob": -0.1734949413098787
+    },
+    {
+      "start": 1157.57,
+      "end": 1165.77,
+      "text": "this lighting in an area filled with low-growing evergreen shrubs.",
+      "avgLogprob": -0.1734949413098787
+    },
+    {
+      "start": 1165.77,
+      "end": 1171.49,
+      "text": "You'd have to have lights and things well away from anywhere children might be, but",
+      "avgLogprob": -0.1734949413098787
+    },
+    {
+      "start": 1171.49,
+      "end": 1178.07,
+      "text": "And I can see this could be very effective, if a bit complicated.",
+      "avgLogprob": -0.16207988952335559
+    },
+    {
+      "start": 1178.07,
+      "end": 1179.69,
+      "text": "How would it work?",
+      "avgLogprob": -0.16207988952335559
+    },
+    {
+      "start": 1179.69,
+      "end": 1183.33,
+      "text": "On this drawing, this is a section view.",
+      "avgLogprob": -0.16207988952335559
+    },
+    {
+      "start": 1183.33,
+      "end": 1185.81,
+      "text": "You have this low wall on the right.",
+      "avgLogprob": -0.16207988952335559
+    },
+    {
+      "start": 1185.81,
+      "end": 1187.67,
+      "text": "Yes, that's it.",
+      "avgLogprob": -0.16207988952335559
+    },
+    {
+      "start": 1187.67,
+      "end": 1193.57,
+      "text": "This is just one element and these areas would be repeated all round the planted area.",
+      "avgLogprob": -0.16207988952335559
+    },
+    {
+      "start": 1193.57,
+      "end": 1200.01,
+      "text": "I think this will probably be a wooden wall using reclaimed timbers with an angled ceramic",
+      "avgLogprob": -0.16207988952335559
+    },
+    {
+      "start": 1200.01,
+      "end": 1206.97,
+      "text": "top surface. Perhaps even ridge tiles, like they use on roofs? Ah yes, that'd be just",
+      "avgLogprob": -0.1526970218189738
+    },
+    {
+      "start": 1206.97,
+      "end": 1214.29,
+      "text": "the sort of thing. And that'd make it weatherproof. And then the heavy duty electric wiring comes",
+      "avgLogprob": -0.1526970218189738
+    },
+    {
+      "start": 1214.29,
+      "end": 1220.73,
+      "text": "up through the floor just outside the planted area and into the wall. Then it's brought",
+      "avgLogprob": -0.1526970218189738
+    },
+    {
+      "start": 1220.73,
+      "end": 1226.01,
+      "text": "through to a projector low in the side of the wall and that sends a beam of light",
+      "avgLogprob": -0.1526970218189738
+    },
+    {
+      "start": 1226.01,
+      "end": 1231.81,
+      "text": "along the fiber optic cable. So there's no electricity in the actual lights. The fiber",
+      "avgLogprob": -0.1267159990263435
+    },
+    {
+      "start": 1231.81,
+      "end": 1237.15,
+      "text": "optic goes across the surface of the soil in the planting area. Yes, that's the beauty",
+      "avgLogprob": -0.1267159990263435
+    },
+    {
+      "start": 1237.15,
+      "end": 1243.63,
+      "text": "of it. The shrubs will soon grow to cover it up of course and then the cable goes past",
+      "avgLogprob": -0.1267159990263435
+    },
+    {
+      "start": 1243.63,
+      "end": 1248.43,
+      "text": "a wooden post which is between the shrubs and can be a support for them as they grow",
+      "avgLogprob": -0.1267159990263435
+    },
+    {
+      "start": 1248.43,
+      "end": 1255.31,
+      "text": "bigger and then runs up into each element of the installation. So the light beam is",
+      "avgLogprob": -0.1267159990263435
+    },
+    {
+      "start": 1255.31,
+      "end": 1261.15,
+      "text": "carried up to the top of each element and illuminates a kind of conical glass cap?",
+      "avgLogprob": -0.13016169154366783
+    },
+    {
+      "start": 1262.11,
+      "end": 1266.27,
+      "text": "I see. Is that the bit which would glow in the dark?",
+      "avgLogprob": -0.13016169154366783
+    },
+    {
+      "start": 1266.27,
+      "end": 1271.55,
+      "text": "Yes. And what's the cap supported on? Is it a wall?",
+      "avgLogprob": -0.13016169154366783
+    },
+    {
+      "start": 1272.27,
+      "end": 1279.15,
+      "text": "No, it's a slender acrylic rod, like the stem of a flower or mushroom",
+      "avgLogprob": -0.13016169154366783
+    },
+    {
+      "start": 1279.15,
+      "end": 1281.23,
+      "text": "which the cable runs up inside of.",
+      "avgLogprob": -0.13016169154366783
+    },
+    {
+      "start": 1281.23,
+      "end": 1285.23,
+      "text": "Well, I'll be interested to see the final drawings.",
+      "avgLogprob": -0.11770682149501734
+    },
+    {
+      "start": 1285.23,
+      "end": 1289.23,
+      "text": "Thank you. I'm looking forward to putting it all together.",
+      "avgLogprob": -0.11770682149501734
+    },
+    {
+      "start": 1289.23,
+      "end": 1295.56,
+      "text": "That is the end of Section 3.",
+      "avgLogprob": -0.11770682149501734
+    },
+    {
+      "start": 1295.56,
+      "end": 1299.56,
+      "text": "You now have half a minute to check your answers.",
+      "avgLogprob": -0.11770682149501734
+    },
+    {
+      "start": 1299.56,
+      "end": 1331.45,
+      "text": "Now turn to Section 4.",
+      "avgLogprob": -0.11770682149501734
+    },
+    {
+      "start": 1331.45,
+      "end": 1337.32,
+      "text": "Section 4.",
+      "avgLogprob": -0.11770682149501734
+    },
+    {
+      "start": 1337.32,
+      "end": 1340.32,
+      "text": "You will hear a lecturer in education",
+      "avgLogprob": -0.11770682149501734
+    },
+    {
+      "start": 1340.32,
+      "end": 1343.32,
+      "text": "talking about some experiments done in the USA",
+      "avgLogprob": -0.11770682149501734
+    },
+    {
+      "start": 1343.32,
+      "end": 1347.32,
+      "text": "to investigate the effects of reducing class sizes.",
+      "avgLogprob": -0.1315006088369932
+    },
+    {
+      "start": 1347.32,
+      "end": 1355.32,
+      "text": "First you have some time to look at questions 31 to 40 on pages 71 and 72.",
+      "avgLogprob": -0.1315006088369932
+    },
+    {
+      "start": 1355.32,
+      "end": 1400.07,
+      "text": "Now listen carefully and answer questions 31 to 40.",
+      "avgLogprob": -0.1315006088369932
+    },
+    {
+      "start": 1400.07,
+      "end": 1405.69,
+      "text": "All over the world there are passionate arguments",
+      "avgLogprob": -0.1315006088369932
+    },
+    {
+      "start": 1405.69,
+      "end": 1409.69,
+      "text": "going on about how educational systems can be improved.",
+      "avgLogprob": -0.1315006088369932
+    },
+    {
+      "start": 1409.69,
+      "end": 1412.69,
+      "text": "And of all the ideas for improving education,",
+      "avgLogprob": -0.1315006088369932
+    },
+    {
+      "start": 1412.69,
+      "end": 1419.17,
+      "text": "Few are as simple or attractive as reducing the number of pupils per teacher.",
+      "avgLogprob": -0.15157726208368938
+    },
+    {
+      "start": 1419.17,
+      "end": 1425.21,
+      "text": "It seems like common sense, but do these ideas have any theoretical basis?",
+      "avgLogprob": -0.15157726208368938
+    },
+    {
+      "start": 1425.21,
+      "end": 1430.59,
+      "text": "Today I want to look at the situation in the USA and at some of the research that has been",
+      "avgLogprob": -0.15157726208368938
+    },
+    {
+      "start": 1430.59,
+      "end": 1436.41,
+      "text": "done here in America on the effects of reducing class sizes.",
+      "avgLogprob": -0.15157726208368938
+    },
+    {
+      "start": 1436.41,
+      "end": 1440.81,
+      "text": "In the last couple of decades or so there has been considerable concern in the United",
+      "avgLogprob": -0.15157726208368938
+    },
+    {
+      "start": 1440.81,
+      "end": 1446.73,
+      "text": "States over educational standards here, following revelations that the country's secondary",
+      "avgLogprob": -0.13971981354231058
+    },
+    {
+      "start": 1446.73,
+      "end": 1453.01,
+      "text": "school students perform poorly relative to many Asian and European students.",
+      "avgLogprob": -0.13971981354231058
+    },
+    {
+      "start": 1453.01,
+      "end": 1457.99,
+      "text": "In addition, statistics have shown that students in the nation's lower-income schools in the",
+      "avgLogprob": -0.13971981354231058
+    },
+    {
+      "start": 1457.99,
+      "end": 1463.93,
+      "text": "urban areas have achievement levels far below those of middle-class and upper-middle-class",
+      "avgLogprob": -0.13971981354231058
+    },
+    {
+      "start": 1463.93,
+      "end": 1465.53,
+      "text": "schools.",
+      "avgLogprob": -0.13971981354231058
+    },
+    {
+      "start": 1465.53,
+      "end": 1469.13,
+      "text": "So would reducing class sizes solve these problems?",
+      "avgLogprob": -0.13971981354231058
+    },
+    {
+      "start": 1469.13,
+      "end": 1473.65,
+      "text": "Well, we have to remember that it does have one obvious drawback.",
+      "avgLogprob": -0.11123934718356891
+    },
+    {
+      "start": 1473.65,
+      "end": 1475.31,
+      "text": "It's expensive.",
+      "avgLogprob": -0.11123934718356891
+    },
+    {
+      "start": 1475.31,
+      "end": 1481.05,
+      "text": "It requires more teachers and possibly more classrooms, equipment, and so on.",
+      "avgLogprob": -0.11123934718356891
+    },
+    {
+      "start": 1481.05,
+      "end": 1486.65,
+      "text": "On the other hand, if smaller classes really do work, the eventual economic benefits could",
+      "avgLogprob": -0.11123934718356891
+    },
+    {
+      "start": 1486.65,
+      "end": 1488.45,
+      "text": "be huge.",
+      "avgLogprob": -0.11123934718356891
+    },
+    {
+      "start": 1488.45,
+      "end": 1493.13,
+      "text": "Better education would mean that workers did their jobs more efficiently, saving the",
+      "avgLogprob": -0.11123934718356891
+    },
+    {
+      "start": 1493.13,
+      "end": 1495.85,
+      "text": "country millions of dollars.",
+      "avgLogprob": -0.11123934718356891
+    },
+    {
+      "start": 1495.85,
+      "end": 1500.43,
+      "text": "It would also mean that people were better informed about their health, bringing savings",
+      "avgLogprob": -0.12189546529695673
+    },
+    {
+      "start": 1500.43,
+      "end": 1504.59,
+      "text": "in things like medical costs and days off sick.",
+      "avgLogprob": -0.12189546529695673
+    },
+    {
+      "start": 1504.59,
+      "end": 1509.37,
+      "text": "So what reliable information do we have about the effects of reducing class sizes?",
+      "avgLogprob": -0.12189546529695673
+    },
+    {
+      "start": 1509.37,
+      "end": 1514.73,
+      "text": "There's plenty of anecdotal evidence about the effect on students' behavior, but what",
+      "avgLogprob": -0.12189546529695673
+    },
+    {
+      "start": 1514.73,
+      "end": 1517.25,
+      "text": "reliable evidence do we have for this?",
+      "avgLogprob": -0.12189546529695673
+    },
+    {
+      "start": 1517.25,
+      "end": 1526.11,
+      "text": "Let's have a look at three research projects that have been carried out in the USA in",
+      "avgLogprob": -0.12189546529695673
+    },
+    {
+      "start": 1526.11,
+      "end": 1529.19,
+      "text": "the last couple of decades or so.",
+      "avgLogprob": -0.12189546529695673
+    },
+    {
+      "start": 1529.19,
+      "end": 1533.55,
+      "text": "The first study I'm going to look at took place in the state of Tennessee in the late",
+      "avgLogprob": -0.0964345963464843
+    },
+    {
+      "start": 1533.55,
+      "end": 1535.43,
+      "text": "1980s.",
+      "avgLogprob": -0.0964345963464843
+    },
+    {
+      "start": 1535.43,
+      "end": 1538.47,
+      "text": "It involved some 70 schools.",
+      "avgLogprob": -0.0964345963464843
+    },
+    {
+      "start": 1538.47,
+      "end": 1544.47,
+      "text": "In its first year, about 6,400 students were involved, and by the end of the study, four",
+      "avgLogprob": -0.0964345963464843
+    },
+    {
+      "start": 1544.47,
+      "end": 1550.27,
+      "text": "years later, the total number involved had grown to 12,000.",
+      "avgLogprob": -0.0964345963464843
+    },
+    {
+      "start": 1550.27,
+      "end": 1555.07,
+      "text": "What happened was that students entering kindergarten were randomly assigned to either",
+      "avgLogprob": -0.0964345963464843
+    },
+    {
+      "start": 1555.07,
+      "end": 1563.17,
+      "text": "small classes of 13 to 17 students, or regular-sized classes of 22 to 26.",
+      "avgLogprob": -0.14561639829642242
+    },
+    {
+      "start": 1563.17,
+      "end": 1566.91,
+      "text": "The students remained in whatever category they had been assigned to through the third",
+      "avgLogprob": -0.14561639829642242
+    },
+    {
+      "start": 1566.91,
+      "end": 1573.15,
+      "text": "grade, and then, after that, they joined a regular classroom.",
+      "avgLogprob": -0.14561639829642242
+    },
+    {
+      "start": 1573.15,
+      "end": 1580.15,
+      "text": "After the study ended in 1989, researchers conducted dozens of analyses of the data.",
+      "avgLogprob": -0.14561639829642242
+    },
+    {
+      "start": 1580.15,
+      "end": 1586.03,
+      "text": "Others agree that there was significant benefit for students in attending smaller classes,",
+      "avgLogprob": -0.13120611999617066
+    },
+    {
+      "start": 1586.03,
+      "end": 1591.31,
+      "text": "and it also appears that the beneficial effect was stronger for minority students.",
+      "avgLogprob": -0.13120611999617066
+    },
+    {
+      "start": 1591.31,
+      "end": 1595.67,
+      "text": "However, there's no agreement on the implications of this.",
+      "avgLogprob": -0.13120611999617066
+    },
+    {
+      "start": 1595.67,
+      "end": 1599.89,
+      "text": "We still don't know the answer to questions like how long students have to be in smaller",
+      "avgLogprob": -0.13120611999617066
+    },
+    {
+      "start": 1599.89,
+      "end": 1605.83,
+      "text": "classes to get a benefit, and how big that benefit is, for example.",
+      "avgLogprob": -0.13120611999617066
+    },
+    {
+      "start": 1605.83,
+      "end": 1610.99,
+      "text": "The second project was much larger and took place in California.",
+      "avgLogprob": -0.13930850638740364
+    },
+    {
+      "start": 1610.99,
+      "end": 1616.55,
+      "text": "Like the Tennessee study, it focused on students from kindergarten through to grade 3, but",
+      "avgLogprob": -0.13930850638740364
+    },
+    {
+      "start": 1616.55,
+      "end": 1620.87,
+      "text": "in this case, all schools throughout the state were involved.",
+      "avgLogprob": -0.13930850638740364
+    },
+    {
+      "start": 1620.87,
+      "end": 1626.35,
+      "text": "The experiment is still continuing, but results have been very inconclusive, with very little",
+      "avgLogprob": -0.13930850638740364
+    },
+    {
+      "start": 1626.35,
+      "end": 1628.55,
+      "text": "improvement noted.",
+      "avgLogprob": -0.13930850638740364
+    },
+    {
+      "start": 1628.55,
+      "end": 1633.07,
+      "text": "And the project has in fact also had several negative aspects.",
+      "avgLogprob": -0.13930850638740364
+    },
+    {
+      "start": 1633.07,
+      "end": 1638.25,
+      "text": "It meant an increased demand for teachers in almost all California districts.",
+      "avgLogprob": -0.11926443306441159
+    },
+    {
+      "start": 1638.25,
+      "end": 1642.97,
+      "text": "So the better paying districts got a lot of the best teachers, including a fair number",
+      "avgLogprob": -0.11926443306441159
+    },
+    {
+      "start": 1642.97,
+      "end": 1646.45,
+      "text": "that moved over from the poorer districts.",
+      "avgLogprob": -0.11926443306441159
+    },
+    {
+      "start": 1646.45,
+      "end": 1649.45,
+      "text": "And there were a lot of other problems with the project.",
+      "avgLogprob": -0.11926443306441159
+    },
+    {
+      "start": 1649.45,
+      "end": 1654.69,
+      "text": "For example, there weren't any effective procedures for evaluation.",
+      "avgLogprob": -0.11926443306441159
+    },
+    {
+      "start": 1654.69,
+      "end": 1660.81,
+      "text": "All in all, this project stands as a model of what not to do in a major research project.",
+      "avgLogprob": -0.11926443306441159
+    },
+    {
+      "start": 1660.81,
+      "end": 1666.77,
+      "text": "A third initiative took place in the state of Wisconsin at around the same time as the",
+      "avgLogprob": -0.13794849067926407
+    },
+    {
+      "start": 1666.77,
+      "end": 1672.61,
+      "text": "California project began, and it's interesting to compare the two.",
+      "avgLogprob": -0.13794849067926407
+    },
+    {
+      "start": 1672.61,
+      "end": 1675.45,
+      "text": "The Wisconsin project was small.",
+      "avgLogprob": -0.13794849067926407
+    },
+    {
+      "start": 1675.45,
+      "end": 1680.55,
+      "text": "Class sizes were reduced in just fourteen schools, but it was noteworthy because it",
+      "avgLogprob": -0.13794849067926407
+    },
+    {
+      "start": 1680.55,
+      "end": 1686.19,
+      "text": "targeted schools at which a significant proportion of the students were from poor families compared",
+      "avgLogprob": -0.13794849067926407
+    },
+    {
+      "start": 1686.19,
+      "end": 1690.61,
+      "text": "with California's one-size-fits-all approach.",
+      "avgLogprob": -0.13794849067926407
+    },
+    {
+      "start": 1690.61,
+      "end": 1695.57,
+      "text": "Analysts have found that the results are very similar to the Tennessee Project, with students",
+      "avgLogprob": -0.18998830812051892
+    },
+    {
+      "start": 1695.57,
+      "end": 1701.53,
+      "text": "making gains that are statistically significant, and that are considerably larger than those",
+      "avgLogprob": -0.18998830812051892
+    },
+    {
+      "start": 1701.53,
+      "end": 1704.69,
+      "text": "calculated for the California Initiative.",
+      "avgLogprob": -0.18998830812051892
+    },
+    {
+      "start": 1704.69,
+      "end": 1711.42,
+      "text": "Now, I'd like to apply some of these ideas to the late...",
+      "avgLogprob": -0.18998830812051892
+    },
+    {
+      "start": 1711.42,
+      "end": 1713.94,
+      "text": "That is the end of Section 4.",
+      "avgLogprob": -0.18998830812051892
+    },
+    {
+      "start": 1713.94,
+      "end": 1746.56,
+      "text": "You now have half a minute to check your answers.",
+      "avgLogprob": -0.18998830812051892
+    },
+    {
+      "start": 1746.56,
+      "end": 1749.4,
+      "text": "That is the end of the listening test.",
+      "avgLogprob": -0.18998830812051892
+    },
+    {
+      "start": 1749.4,
+      "end": 1753.6,
+      "text": "You now have 10 minutes to transfer your answers to the separate answer sheet.",
+      "avgLogprob": -0.13775322006808388
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "source": "assets/audio/70e27279413a82b2.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "You're listening to an audio described tour, one that makes visual images more accessible for visitors with vision impairments and more meaningful for all visitors.",
+      "avgLogprob": -0.136742160744863
+    },
+    {
+      "start": 11.0,
+      "end": 17.0,
+      "text": "Some material is tactile. It can be touched. I'll mention that as we proceed.",
+      "avgLogprob": -0.136742160744863
+    },
+    {
+      "start": 18.0,
+      "end": 26.41,
+      "text": "But please do not handle other items. Please direct your attention to your audio tour player.",
+      "avgLogprob": -0.136742160744863
+    },
+    {
+      "start": 26.41,
+      "end": 33.41,
+      "text": "Hold the player with the screen and keypad facing you and with the screen at top.",
+      "avgLogprob": -0.09436621575763351
+    },
+    {
+      "start": 33.41,
+      "end": 39.41,
+      "text": "Below the screen are three rectangular buttons arrayed horizontally.",
+      "avgLogprob": -0.09436621575763351
+    },
+    {
+      "start": 39.41,
+      "end": 46.41,
+      "text": "The first button, at left, can be used to move back to the previous message.",
+      "avgLogprob": -0.09436621575763351
+    },
+    {
+      "start": 46.41,
+      "end": 52.41,
+      "text": "If held for longer than a second, it rewinds the message you're listening to.",
+      "avgLogprob": -0.09436621575763351
+    },
+    {
+      "start": 52.41,
+      "end": 65.41,
+      "text": "The center button is the Play Pause button. To use the Pause Resume feature, just click, press, and immediately release this button.",
+      "avgLogprob": -0.1627426131130898
+    },
+    {
+      "start": 65.41,
+      "end": 76.41,
+      "text": "The rightmost button allows you to move to the next message on the tour. If held for longer than a second, it fast-fowards the message you're listening to.",
+      "avgLogprob": -0.1627426131130898
+    },
+    {
+      "start": 76.41,
+      "end": 85.41,
+      "text": "Below these buttons is a typical telephone keypad with numbered keys in three rows, three keys in each row.",
+      "avgLogprob": -0.1191749801173022
+    },
+    {
+      "start": 85.41,
+      "end": 93.41,
+      "text": "They are numbered left or right, one to three, four to six, and seven to nine.",
+      "avgLogprob": -0.1191749801173022
+    },
+    {
+      "start": 93.41,
+      "end": 98.41,
+      "text": "Below the eight key is the zero key.",
+      "avgLogprob": -0.1191749801173022
+    },
+    {
+      "start": 98.41,
+      "end": 105.41,
+      "text": "You will use the numbered keys to access audio layers that provide additional information.",
+      "avgLogprob": -0.1191749801173022
+    },
+    {
+      "start": 105.41,
+      "end": 112.41,
+      "text": "If you wish to return to where you left off, press the right arrow key.",
+      "avgLogprob": -0.09963718412274664
+    },
+    {
+      "start": 113.41,
+      "end": 118.41,
+      "text": "On either side of the zero button are your volume control buttons.",
+      "avgLogprob": -0.09963718412274664
+    },
+    {
+      "start": 118.41,
+      "end": 122.41,
+      "text": "A volume has been set to a mid-range level.",
+      "avgLogprob": -0.09963718412274664
+    },
+    {
+      "start": 123.41,
+      "end": 129.41,
+      "text": "However, if you wish to decrease the volume, press the button to the left of the zero.",
+      "avgLogprob": -0.09963718412274664
+    },
+    {
+      "start": 129.41,
+      "end": 134.41,
+      "text": "To increase the volume, press the button to the right of the zero.",
+      "avgLogprob": -0.09963718412274664
+    },
+    {
+      "start": 135.41,
+      "end": 141.19,
+      "text": "On the bottom edge of the player are two earphone jacks. The second one can be",
+      "avgLogprob": -0.14793175790044996
+    },
+    {
+      "start": 141.19,
+      "end": 146.89,
+      "text": "used if another visitor wishes to hear this tour as well.",
+      "avgLogprob": -0.14793175790044996
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "source": "assets/audio/e68f4361a76f835a.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 2.54,
+      "text": "So what exactly is MSG?",
+      "avgLogprob": -0.3321545884797448
+    },
+    {
+      "start": 3.18,
+      "end": 5.98,
+      "text": "Well, monosodium glutamate contains",
+      "avgLogprob": -0.3321545884797448
+    },
+    {
+      "start": 7.18,
+      "end": 9.18,
+      "text": "78.2% glutamate,",
+      "avgLogprob": -0.3321545884797448
+    },
+    {
+      "start": 10.1,
+      "end": 12.18,
+      "text": "12.2% sodium, and",
+      "avgLogprob": -0.3321545884797448
+    },
+    {
+      "start": 13.5,
+      "end": 15.5,
+      "text": "9.6% water.",
+      "avgLogprob": -0.3321545884797448
+    },
+    {
+      "start": 15.9,
+      "end": 21.32,
+      "text": "Glutamate is an amino acid that can be found naturally in all protein containing foods.",
+      "avgLogprob": -0.3321545884797448
+    },
+    {
+      "start": 22.5,
+      "end": 26.5,
+      "text": "So this includes foods such as meat and cheese.",
+      "avgLogprob": -0.3321545884797448
+    },
+    {
+      "start": 26.5,
+      "end": 33.7,
+      "text": "It is widely known that Chinese and Japanese food contains MSG, but many people don't",
+      "avgLogprob": -0.15156214320382408
+    },
+    {
+      "start": 33.7,
+      "end": 38.74,
+      "text": "seem to be aware that it is also used in foods in other parts of the world.",
+      "avgLogprob": -0.15156214320382408
+    },
+    {
+      "start": 38.74,
+      "end": 45.7,
+      "text": "For example, it is found in commercially made Italian pizzas, in American fast food, and",
+      "avgLogprob": -0.15156214320382408
+    },
+    {
+      "start": 45.7,
+      "end": 50.56,
+      "text": "in Britain, MSG is used in things like potato crisps.",
+      "avgLogprob": -0.15156214320382408
+    },
+    {
+      "start": 50.56,
+      "end": 53.7,
+      "text": "So how exactly does MSG work?",
+      "avgLogprob": -0.15156214320382408
+    },
+    {
+      "start": 53.7,
+      "end": 60.66,
+      "text": "Well, in the Western world, we commonly talk of four tastes, and I'm sure you're all familiar",
+      "avgLogprob": -0.19150391798466443
+    },
+    {
+      "start": 60.66,
+      "end": 65.42,
+      "text": "with the concepts of sweet, sour, bitter, and salt.",
+      "avgLogprob": -0.19150391798466443
+    },
+    {
+      "start": 65.42,
+      "end": 73.74,
+      "text": "Well, in 1908, Kiku-na-e Ikeda identified a fifth taste, and it is thought that MSG",
+      "avgLogprob": -0.19150391798466443
+    },
+    {
+      "start": 73.74,
+      "end": 79.14,
+      "text": "intensifies this naturally occurring taste in some food.",
+      "avgLogprob": -0.19150391798466443
+    },
+    {
+      "start": 79.14,
+      "end": 85.0,
+      "text": "It does make perfect evolutionary sense that we should have the ability to detect or taste",
+      "avgLogprob": -0.0902451424116499
+    },
+    {
+      "start": 85.0,
+      "end": 92.28,
+      "text": "glutamate because it is the amino acid which is most common in natural foods.",
+      "avgLogprob": -0.0902451424116499
+    },
+    {
+      "start": 92.28,
+      "end": 98.12,
+      "text": "John Prescott, an associate professor at the University of Chicago, suggests that this",
+      "avgLogprob": -0.0902451424116499
+    },
+    {
+      "start": 98.12,
+      "end": 102.72,
+      "text": "fifth taste serves a purpose just as the other tastes do.",
+      "avgLogprob": -0.0902451424116499
+    },
+    {
+      "start": 102.72,
+      "end": 108.28,
+      "text": "He suggests that it signals to us the presence of protein in food, in the same way that",
+      "avgLogprob": -0.0902451424116499
+    },
+    {
+      "start": 108.28,
+      "end": 113.52,
+      "text": "sweetness indicates that a food contains energy-giving carbohydrates.",
+      "avgLogprob": -0.2171833652537316
+    },
+    {
+      "start": 113.52,
+      "end": 121.08,
+      "text": "Bitterness, he says, alerts us to toxins in the food, while sourness warns us of spoilage,",
+      "avgLogprob": -0.2171833652537316
+    },
+    {
+      "start": 121.08,
+      "end": 125.32,
+      "text": "and saltiness signals the presence of minerals.",
+      "avgLogprob": -0.2171833652537316
+    },
+    {
+      "start": 125.32,
+      "end": 128.2,
+      "text": "So what else do we know about this fifth taste?",
+      "avgLogprob": -0.2171833652537316
+    }
+  ]
+}

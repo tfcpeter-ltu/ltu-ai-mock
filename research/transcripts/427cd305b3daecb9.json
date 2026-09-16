@@ -1,0 +1,337 @@
+{
+  "source": "assets/audio/427cd305b3daecb9.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.94,
+      "end": 7.26,
+      "text": "Good morning, everyone. In today's talk, we will discuss dreams.",
+      "avgLogprob": -0.196781285821575
+    },
+    {
+      "start": 8.18,
+      "end": 12.58,
+      "text": "I believe none of you here could possibly say you've never had a dream.",
+      "avgLogprob": -0.196781285821575
+    },
+    {
+      "start": 13.3,
+      "end": 18.98,
+      "text": "You may forget what your dream was about, but you cannot deny the fact that you had a dream.",
+      "avgLogprob": -0.196781285821575
+    },
+    {
+      "start": 20.26,
+      "end": 23.42,
+      "text": "Let's begin with a few fun facts about dreams.",
+      "avgLogprob": -0.196781285821575
+    },
+    {
+      "start": 23.42,
+      "end": 31.42,
+      "text": "dreams. Believe it or not, you dream between 3 and 6 times per night, and each dream lasts",
+      "avgLogprob": -0.11834450461060168
+    },
+    {
+      "start": 31.42,
+      "end": 38.3,
+      "text": "between 5 to 20 minutes. The reason why you find that first fact hard to believe is that",
+      "avgLogprob": -0.11834450461060168
+    },
+    {
+      "start": 38.3,
+      "end": 45.18,
+      "text": "about 95% of dreams are forgotten by the time you get out of bed.",
+      "avgLogprob": -0.11834450461060168
+    },
+    {
+      "start": 45.18,
+      "end": 53.12,
+      "text": "So what are dreams? The most common definition is that dreams are stories and images that",
+      "avgLogprob": -0.11834450461060168
+    },
+    {
+      "start": 53.12,
+      "end": 59.52,
+      "text": "our minds create while we sleep. They can be anything from entertaining, fun, romantic,",
+      "avgLogprob": -0.10971340402546856
+    },
+    {
+      "start": 59.52,
+      "end": 66.82,
+      "text": "disturbing, frightening, and sometimes bizarre. A more scientific way to define dreams is",
+      "avgLogprob": -0.10971340402546856
+    },
+    {
+      "start": 66.82,
+      "end": 72.86,
+      "text": "that they are a universal human experience that can be described as a state of consciousness",
+      "avgLogprob": -0.10971340402546856
+    },
+    {
+      "start": 72.86,
+      "end": 80.28,
+      "text": "characterized by sensory, cognitive, and emotional occurrences during sleep.",
+      "avgLogprob": -0.10971340402546856
+    },
+    {
+      "start": 80.28,
+      "end": 85.52,
+      "text": "Dreams can happen at any time during sleep, but you have your most vivid dreams during",
+      "avgLogprob": -0.09811431415133424
+    },
+    {
+      "start": 85.52,
+      "end": 91.5,
+      "text": "a phase called REM, or rapid eye movement, which is the phase of sleep when your brain",
+      "avgLogprob": -0.09811431415133424
+    },
+    {
+      "start": 91.5,
+      "end": 93.72,
+      "text": "is most active.",
+      "avgLogprob": -0.09811431415133424
+    },
+    {
+      "start": 93.72,
+      "end": 97.48,
+      "text": "We will talk about the phases of sleep at a different time.",
+      "avgLogprob": -0.09811431415133424
+    },
+    {
+      "start": 97.48,
+      "end": 101.4,
+      "text": "Right, so why do dreams occur?",
+      "avgLogprob": -0.09811431415133424
+    },
+    {
+      "start": 101.4,
+      "end": 107.0,
+      "text": "There are several theories about why we dream, but no one knows for sure.",
+      "avgLogprob": -0.09811431415133424
+    },
+    {
+      "start": 107.0,
+      "end": 111.36,
+      "text": "Some researchers say dreams have no purpose or meaning.",
+      "avgLogprob": -0.0688635813208615
+    },
+    {
+      "start": 111.36,
+      "end": 117.02,
+      "text": "Others say we need dreams for our mental, emotional, and physical health.",
+      "avgLogprob": -0.0688635813208615
+    },
+    {
+      "start": 117.02,
+      "end": 122.74,
+      "text": "In one study, researchers woke people just as they were going into REM sleep.",
+      "avgLogprob": -0.0688635813208615
+    },
+    {
+      "start": 122.74,
+      "end": 127.64,
+      "text": "They found that those who weren't allowed to dream had more tension, they developed",
+      "avgLogprob": -0.0688635813208615
+    },
+    {
+      "start": 127.64,
+      "end": 135.4,
+      "text": "anxiety and depression, gained weight, and lacked coordination and concentration.",
+      "avgLogprob": -0.0688635813208615
+    },
+    {
+      "start": 135.4,
+      "end": 140.8,
+      "text": "Many experts say that dreams exist to help solve problems in our lives, incorporate",
+      "avgLogprob": -0.09791938314328388
+    },
+    {
+      "start": 140.8,
+      "end": 143.92,
+      "text": "memories and process emotions.",
+      "avgLogprob": -0.09791938314328388
+    },
+    {
+      "start": 143.92,
+      "end": 149.26,
+      "text": "It means if you go to bed with a troubling thought, you may wake with a solution or",
+      "avgLogprob": -0.09791938314328388
+    },
+    {
+      "start": 149.26,
+      "end": 152.92,
+      "text": "at least feel better about the situation.",
+      "avgLogprob": -0.09791938314328388
+    },
+    {
+      "start": 152.92,
+      "end": 157.44,
+      "text": "But remember not to rely on dreams as a way to solve problems.",
+      "avgLogprob": -0.09791938314328388
+    },
+    {
+      "start": 157.44,
+      "end": 162.08,
+      "text": "I've seen many people end up sleeping all day and their problems are still haunting",
+      "avgLogprob": -0.09791938314328388
+    },
+    {
+      "start": 162.08,
+      "end": 164.52,
+      "text": "them in their sleep.",
+      "avgLogprob": -0.09791938314328388
+    },
+    {
+      "start": 164.52,
+      "end": 168.48,
+      "text": "The next question is, do dreams have any meaning?",
+      "avgLogprob": -0.10734588257968426
+    },
+    {
+      "start": 168.48,
+      "end": 173.24,
+      "text": "Or is it just your brain using random images to mess with you?",
+      "avgLogprob": -0.10734588257968426
+    },
+    {
+      "start": 173.24,
+      "end": 177.92,
+      "text": "Just as there are different opinions about why we dream, there are different views about",
+      "avgLogprob": -0.10734588257968426
+    },
+    {
+      "start": 177.92,
+      "end": 180.48,
+      "text": "what dreams mean.",
+      "avgLogprob": -0.10734588257968426
+    },
+    {
+      "start": 180.48,
+      "end": 185.28,
+      "text": "Some experts say dreams have no connection to our real emotions or thoughts.",
+      "avgLogprob": -0.10734588257968426
+    },
+    {
+      "start": 185.28,
+      "end": 190.2,
+      "text": "They're just strange stories that don't relate to normal life.",
+      "avgLogprob": -0.10734588257968426
+    },
+    {
+      "start": 190.2,
+      "end": 194.06,
+      "text": "Others say our dreams may reflect our own thoughts and feelings.",
+      "avgLogprob": -0.10734588257968426
+    },
+    {
+      "start": 194.06,
+      "end": 201.56,
+      "text": "deepest desires, fears, and concerns, especially dreams that happen over and over. By interpreting",
+      "avgLogprob": -0.11740445173004778
+    },
+    {
+      "start": 201.56,
+      "end": 207.94,
+      "text": "our dreams, we may gain insight into our lives and ourselves. Many people say they've come",
+      "avgLogprob": -0.11740445173004778
+    },
+    {
+      "start": 207.94,
+      "end": 215.38,
+      "text": "up with their best ideas while dreaming. Often, people report having similar dreams.",
+      "avgLogprob": -0.11740445173004778
+    },
+    {
+      "start": 215.38,
+      "end": 221.18,
+      "text": "They're being chased, fall off a cliff, or show up in public naked. These types",
+      "avgLogprob": -0.11740445173004778
+    },
+    {
+      "start": 221.18,
+      "end": 225.7,
+      "text": "of dreams are probably caused by hidden stress or anxiety.",
+      "avgLogprob": -0.09724849278164893
+    },
+    {
+      "start": 225.7,
+      "end": 230.58,
+      "text": "The dreams may be similar, but experts say the meaning behind the dream is unique to",
+      "avgLogprob": -0.09724849278164893
+    },
+    {
+      "start": 230.58,
+      "end": 233.54,
+      "text": "each person.",
+      "avgLogprob": -0.09724849278164893
+    },
+    {
+      "start": 233.54,
+      "end": 238.06,
+      "text": "Before we round up what we've learned today about dreams, I'd like to talk about a study",
+      "avgLogprob": -0.09724849278164893
+    },
+    {
+      "start": 238.06,
+      "end": 242.98,
+      "text": "I find interesting on the characters that appear in our dreams.",
+      "avgLogprob": -0.09724849278164893
+    },
+    {
+      "start": 242.98,
+      "end": 249.9,
+      "text": "In this study, researchers asked 320 candidates to identify the people they met in their",
+      "avgLogprob": -0.09724849278164893
+    },
+    {
+      "start": 249.9,
+      "end": 250.98,
+      "text": "dreams.",
+      "avgLogprob": -0.09724849278164893
+    },
+    {
+      "start": 250.98,
+      "end": 259.1,
+      "text": "They found that 48% of characters represented a named person known to the dreamer, 35% of",
+      "avgLogprob": -0.11467119793833037
+    },
+    {
+      "start": 259.1,
+      "end": 266.0,
+      "text": "characters were identified by their social role, for example a policeman, or their relationship",
+      "avgLogprob": -0.11467119793833037
+    },
+    {
+      "start": 266.0,
+      "end": 272.44,
+      "text": "to the dreamer, such as a friend, and 16% were not recognized.",
+      "avgLogprob": -0.11467119793833037
+    },
+    {
+      "start": 272.44,
+      "end": 280.74,
+      "text": "Among the characters that the candidates could name, 32% were identified by appearance, 21%",
+      "avgLogprob": -0.11467119793833037
+    },
+    {
+      "start": 280.74,
+      "end": 287.74,
+      "text": "behavior, 45% by face, and 44% by sense.",
+      "avgLogprob": -0.25149933993816376
+    },
+    {
+      "start": 287.74,
+      "end": 290.34,
+      "text": "Well, that's it for today.",
+      "avgLogprob": -0.25149933993816376
+    },
+    {
+      "start": 290.34,
+      "end": 296.02,
+      "text": "Next time, we'll talk about the stages of sleep, lucid dreams, and nightmares.",
+      "avgLogprob": -0.25149933993816376
+    }
+  ]
+}

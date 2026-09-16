@@ -1,0 +1,85 @@
+{
+  "source": "assets/audio/f045797715810fa3.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 8.02,
+      "text": "In today's lecture, I'm going to talk about monosodium glutamate, or MSG, as it's more commonly known.",
+      "avgLogprob": -0.1307584116092095
+    },
+    {
+      "start": 8.02,
+      "end": 18.02,
+      "text": "Now, MSG, as you probably know, is a flavor enhancer, which is used particularly in Chinese and Japanese cooking.",
+      "avgLogprob": -0.1307584116092095
+    },
+    {
+      "start": 18.02,
+      "end": 29.02,
+      "text": "Today, I am going to explore why it is so popular in these cuisines, and, more importantly, how does it enhance the flavor of food?",
+      "avgLogprob": -0.1307584116092095
+    },
+    {
+      "start": 29.02,
+      "end": 36.02,
+      "text": "The main reason why MSG is more commonly used in Japanese meals is tradition.",
+      "avgLogprob": -0.09007840172240608
+    },
+    {
+      "start": 36.02,
+      "end": 44.02,
+      "text": "For many thousands of years, the Japanese have incorporated a type of seaweed known as kombu in their cooking,",
+      "avgLogprob": -0.09007840172240608
+    },
+    {
+      "start": 44.02,
+      "end": 48.02,
+      "text": "as they discovered it had the ability to make food taste better.",
+      "avgLogprob": -0.09007840172240608
+    },
+    {
+      "start": 48.02,
+      "end": 53.02,
+      "text": "But it wasn't until 1908 that the ingredient in kombu,",
+      "avgLogprob": -0.09007840172240608
+    },
+    {
+      "start": 53.02,
+      "end": 58.46,
+      "text": "which was responsible for the improvement in flavor, was actually discovered to be",
+      "avgLogprob": -0.10811131550715519
+    },
+    {
+      "start": 58.46,
+      "end": 66.1,
+      "text": "glutamate by scientists working there. From 1908 until 1956, glutamate was",
+      "avgLogprob": -0.10811131550715519
+    },
+    {
+      "start": 66.1,
+      "end": 72.06,
+      "text": "produced commercially in Japan by a very slow and expensive means of extraction.",
+      "avgLogprob": -0.10811131550715519
+    },
+    {
+      "start": 72.06,
+      "end": 79.1,
+      "text": "It was in 1956 that the speed of the process was improved and industrial",
+      "avgLogprob": -0.10811131550715519
+    },
+    {
+      "start": 79.1,
+      "end": 84.38,
+      "text": "production increased dramatically and still continues to increase to this day.",
+      "avgLogprob": -0.14707495144435337
+    },
+    {
+      "start": 84.38,
+      "end": 90.22,
+      "text": "In fact, hundreds of thousands of tons of MSG are produced all over the world today.",
+      "avgLogprob": -0.14707495144435337
+    }
+  ]
+}

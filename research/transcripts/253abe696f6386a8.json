@@ -1,0 +1,181 @@
+{
+  "source": "assets/audio/253abe696f6386a8.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.81,
+      "end": 6.39,
+      "text": "Now, some details of the costs and timings.",
+      "avgLogprob": -0.155603763833642
+    },
+    {
+      "start": 6.39,
+      "end": 15.23,
+      "text": "An adult ticket costs £18, children under 16 £8 and student tickets are £13, but you",
+      "avgLogprob": -0.155603763833642
+    },
+    {
+      "start": 15.23,
+      "end": 18.03,
+      "text": "must bring your student card.",
+      "avgLogprob": -0.155603763833642
+    },
+    {
+      "start": 18.03,
+      "end": 25.37,
+      "text": "A family ticket costs £36 and it includes two adults and up to two children.",
+      "avgLogprob": -0.155603763833642
+    },
+    {
+      "start": 25.37,
+      "end": 30.41,
+      "text": "All tickets can be used up to 10 times within 48 hours.",
+      "avgLogprob": -0.155603763833642
+    },
+    {
+      "start": 30.41,
+      "end": 37.07,
+      "text": "This means you can get on and off the bus up to a maximum of 10 times within 2 days.",
+      "avgLogprob": -0.0800694459842311
+    },
+    {
+      "start": 37.07,
+      "end": 42.17,
+      "text": "So you could, for instance, start the tour in the afternoon and finish the tour the",
+      "avgLogprob": -0.0800694459842311
+    },
+    {
+      "start": 42.17,
+      "end": 47.13,
+      "text": "day after, as long as you schedule it in 10 rides.",
+      "avgLogprob": -0.0800694459842311
+    },
+    {
+      "start": 47.13,
+      "end": 50.71,
+      "text": "You can purchase tickets at any of the 5 stops.",
+      "avgLogprob": -0.0800694459842311
+    },
+    {
+      "start": 50.71,
+      "end": 55.99,
+      "text": "You can also book tickets online on our website or over this phone line.",
+      "avgLogprob": -0.0800694459842311
+    },
+    {
+      "start": 55.99,
+      "end": 61.55,
+      "text": "Just wait until the end of this message and follow the next steps.",
+      "avgLogprob": -0.08066490991991393
+    },
+    {
+      "start": 61.55,
+      "end": 65.39,
+      "text": "When booking online, you need to print your e-ticket.",
+      "avgLogprob": -0.08066490991991393
+    },
+    {
+      "start": 65.39,
+      "end": 70.31,
+      "text": "Do not show it on your device because the driver cannot stamp it.",
+      "avgLogprob": -0.08066490991991393
+    },
+    {
+      "start": 70.31,
+      "end": 74.87,
+      "text": "When booking over the phone, you can collect your tickets at any of the stops by simply",
+      "avgLogprob": -0.08066490991991393
+    },
+    {
+      "start": 74.87,
+      "end": 79.15,
+      "text": "giving the staff your reference number.",
+      "avgLogprob": -0.08066490991991393
+    },
+    {
+      "start": 79.15,
+      "end": 84.77,
+      "text": "Buses start running from 9am and the last one leaves the station at 5pm.",
+      "avgLogprob": -0.08066490991991393
+    },
+    {
+      "start": 84.77,
+      "end": 90.01,
+      "text": "There is a 30 minute interval between each bus and it takes about 60 minutes for a bus",
+      "avgLogprob": -0.09053334395090738
+    },
+    {
+      "start": 90.01,
+      "end": 92.37,
+      "text": "to finish its route.",
+      "avgLogprob": -0.09053334395090738
+    },
+    {
+      "start": 92.37,
+      "end": 96.73,
+      "text": "There are many attractions at each of the stops, so there will be plenty to do wherever",
+      "avgLogprob": -0.09053334395090738
+    },
+    {
+      "start": 96.73,
+      "end": 99.87,
+      "text": "you get off the bus.",
+      "avgLogprob": -0.09053334395090738
+    },
+    {
+      "start": 99.87,
+      "end": 104.71,
+      "text": "The bus tickets do not include entrance fees to any of these attractions, except for the",
+      "avgLogprob": -0.09053334395090738
+    },
+    {
+      "start": 104.71,
+      "end": 107.35,
+      "text": "museum near the harbour side.",
+      "avgLogprob": -0.09053334395090738
+    },
+    {
+      "start": 107.35,
+      "end": 112.23,
+      "text": "If you purchase 10 or more tickets in advance, you can book a local guide who can show",
+      "avgLogprob": -0.09053334395090738
+    },
+    {
+      "start": 112.23,
+      "end": 116.75,
+      "text": "you around and give you all the information needed with no additional fee.",
+      "avgLogprob": -0.12183513792081811
+    },
+    {
+      "start": 116.75,
+      "end": 121.59,
+      "text": "We also have audio commentary that has been specially recorded for the bus",
+      "avgLogprob": -0.12183513792081811
+    },
+    {
+      "start": 121.59,
+      "end": 126.71,
+      "text": "tour by the tourist office. Headphones are available on the bus and are easy",
+      "avgLogprob": -0.12183513792081811
+    },
+    {
+      "start": 126.71,
+      "end": 131.91,
+      "text": "to operate. There is no extra charge for these. Just plug them in, select the",
+      "avgLogprob": -0.12183513792081811
+    },
+    {
+      "start": 131.91,
+      "end": 137.47,
+      "text": "required language and adjust the volume. Thank you for calling Bristol City Bus",
+      "avgLogprob": -0.12183513792081811
+    },
+    {
+      "start": 137.47,
+      "end": 143.23,
+      "text": "tour. We look forward to seeing you soon on one of our tour buses.",
+      "avgLogprob": -0.15012635839612862
+    }
+  ]
+}

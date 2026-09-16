@@ -1,4 +1,4 @@
-import json,pathlib,re
+import json,pathlib,re,subprocess
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 line=next(l for l in (ROOT/'legacy.html').read_text().splitlines() if l.startswith('window.MOCKS = '))
 mocks=json.loads(line[len('window.MOCKS = '):].rstrip(';'))
@@ -212,6 +212,15 @@ for mid,sets in keys.items():
    r['figureProvenance']='Original supplied PDF: 21.04.2021/Listening/Question Papers/Section 2.pdf, page 1.'
   if r['audioSrc']=='assets/audio/10852bad20f3a23e.mp3' and q=='25':r['questionPrompt']='Unfairness was present before (25) ______.'
 
+# ASR timestamps can slightly exceed the actual MP3 end; clamp review clips.
+durations={}
+for mock_data in keys.values():
+ for record in mock_data.get('listening',{}).get('records',{}).values():
+  src=record['audioSrc']
+  if src not in durations:
+   durations[src]=float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','default=noprint_wrappers=1:nokey=1',str(ROOT/src)]))
+  record['audioEnd']=min(record['audioEnd'],durations[src])
+  assert 0 <= record['audioStart'] < record['audioEnd'],src
 (ROOT/'assets/ai-reference-keys.js').write_text('window.LTU_AI_KEYS = '+json.dumps(keys,ensure_ascii=False,separators=(',',':'))+';\n')
 coverage={m['id']:{s:len(keys[m['id']].get(s,{}).get('records',{})) for s in ['reading','listening']} for m in mocks}
 (ROOT/'research/ai-reference-coverage.json').write_text(json.dumps(coverage,indent=2));print(coverage)

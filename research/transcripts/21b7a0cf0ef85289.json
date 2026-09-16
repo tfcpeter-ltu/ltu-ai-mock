@@ -1,0 +1,223 @@
+{
+  "source": "assets/audio/21b7a0cf0ef85289.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 3.62,
+      "text": "Hi, I'm Adam Rosie. How are you getting on at UWE?",
+      "avgLogprob": -0.14514619184703362
+    },
+    {
+      "start": 3.62,
+      "end": 6.02,
+      "text": "Thank you for coming to this tutorial.",
+      "avgLogprob": -0.14514619184703362
+    },
+    {
+      "start": 6.02,
+      "end": 11.02,
+      "text": "This is an opportunity for you to discuss any problems you might be having with your studies.",
+      "avgLogprob": -0.14514619184703362
+    },
+    {
+      "start": 11.02,
+      "end": 14.42,
+      "text": "Well, I've been very busy with settling in and doing assignments.",
+      "avgLogprob": -0.14514619184703362
+    },
+    {
+      "start": 14.42,
+      "end": 18.62,
+      "text": "It's also different here in the UK to living and working in my country.",
+      "avgLogprob": -0.14514619184703362
+    },
+    {
+      "start": 18.62,
+      "end": 22.62,
+      "text": "How do you find working with British and other international students?",
+      "avgLogprob": -0.14514619184703362
+    },
+    {
+      "start": 22.62,
+      "end": 28.42,
+      "text": "Well, it's been a new kind of experience for me, living and studying with students from different cultures.",
+      "avgLogprob": -0.14514619184703362
+    },
+    {
+      "start": 28.42,
+      "end": 33.98,
+      "text": "think it teaches us how to be tolerant of them. You know how to give and take so",
+      "avgLogprob": -0.16558864887090438
+    },
+    {
+      "start": 33.98,
+      "end": 39.82,
+      "text": "that we can all work and live together. Sometimes there are disagreements but",
+      "avgLogprob": -0.16558864887090438
+    },
+    {
+      "start": 39.82,
+      "end": 44.54,
+      "text": "then we have to try to solve the problems. But in general I'm finding it a",
+      "avgLogprob": -0.16558864887090438
+    },
+    {
+      "start": 44.54,
+      "end": 52.75,
+      "text": "great experience. Yes me too. It's really fun. However I am having problems",
+      "avgLogprob": -0.16558864887090438
+    },
+    {
+      "start": 52.75,
+      "end": 57.53,
+      "text": "understanding some of the lectures. Oh do you think that's because the",
+      "avgLogprob": -0.16558864887090438
+    },
+    {
+      "start": 57.53,
+      "end": 63.45,
+      "text": "tutors speak too fast, or there is background noise from outside, or perhaps noises inside",
+      "avgLogprob": -0.15843227743468385
+    },
+    {
+      "start": 63.45,
+      "end": 66.25,
+      "text": "the room like students talking or coughing?",
+      "avgLogprob": -0.15843227743468385
+    },
+    {
+      "start": 66.25,
+      "end": 72.31,
+      "text": "Well, all those things could happen, but often it's because the lecturers use a lot of technical",
+      "avgLogprob": -0.15843227743468385
+    },
+    {
+      "start": 72.31,
+      "end": 79.49,
+      "text": "vocabulary, or use familiar vocabulary in a way that I don't understand. However, individual",
+      "avgLogprob": -0.15843227743468385
+    },
+    {
+      "start": 79.49,
+      "end": 85.17,
+      "text": "lecturers have different ways of making the lecture clearer. For example, some of my",
+      "avgLogprob": -0.15843227743468385
+    },
+    {
+      "start": 85.17,
+      "end": 90.21,
+      "text": "engineering lecturers use diagrams and graphics to show how different sections",
+      "avgLogprob": -0.13980896151467656
+    },
+    {
+      "start": 90.21,
+      "end": 94.21,
+      "text": "of the topic are connected which makes it much easier for us to follow the",
+      "avgLogprob": -0.13980896151467656
+    },
+    {
+      "start": 94.21,
+      "end": 99.21,
+      "text": "lecture. We also sometimes get pre-lecture notes before the lecture and",
+      "avgLogprob": -0.13980896151467656
+    },
+    {
+      "start": 99.21,
+      "end": 105.05,
+      "text": "these are really helpful. So is there any advice that you wish you'd had at the",
+      "avgLogprob": -0.13980896151467656
+    },
+    {
+      "start": 105.05,
+      "end": 110.45,
+      "text": "beginning of your course? Rosie what about you? Well I find it very strange",
+      "avgLogprob": -0.13980896151467656
+    },
+    {
+      "start": 110.45,
+      "end": 115.19,
+      "text": "lectures where the lecturer expects the audience to contribute to the",
+      "avgLogprob": -0.12674198020249605
+    },
+    {
+      "start": 115.19,
+      "end": 120.89,
+      "text": "lecture and ask questions. This would never happen at my home university. The",
+      "avgLogprob": -0.12674198020249605
+    },
+    {
+      "start": 120.89,
+      "end": 125.65,
+      "text": "lecturer would not expect to be interrupted by the students. Also in my",
+      "avgLogprob": -0.12674198020249605
+    },
+    {
+      "start": 125.65,
+      "end": 130.53,
+      "text": "country no one is allowed into the lecture theatre late or to fall asleep",
+      "avgLogprob": -0.12674198020249605
+    },
+    {
+      "start": 130.53,
+      "end": 136.13,
+      "text": "during the lecture. I think international students should be more prepared for the",
+      "avgLogprob": -0.12674198020249605
+    },
+    {
+      "start": 136.13,
+      "end": 142.05,
+      "text": "lecture conventions before they arrive in the UK or in the induction week maybe.",
+      "avgLogprob": -0.12647566352922893
+    },
+    {
+      "start": 142.05,
+      "end": 147.01,
+      "text": "There's so much for them to take in during the first week of the course they",
+      "avgLogprob": -0.12647566352922893
+    },
+    {
+      "start": 147.01,
+      "end": 154.25,
+      "text": "can't take it all in at once. Okay that's interesting. Now what about study groups?",
+      "avgLogprob": -0.12647566352922893
+    },
+    {
+      "start": 154.25,
+      "end": 158.41,
+      "text": "Students are sometimes advised to form study groups with others on the course.",
+      "avgLogprob": -0.12647566352922893
+    },
+    {
+      "start": 158.41,
+      "end": 164.01,
+      "text": "Have you ever done that? Was it helpful? Yes I have worked as part of a study",
+      "avgLogprob": -0.12647566352922893
+    },
+    {
+      "start": 164.01,
+      "end": 168.69,
+      "text": "group, but I think it's best to work with people who have similar study habits as my",
+      "avgLogprob": -0.17402659191025627
+    },
+    {
+      "start": 168.69,
+      "end": 174.21,
+      "text": "own, and if possible with people who live quite near. I find it difficult to form groups",
+      "avgLogprob": -0.17402659191025627
+    },
+    {
+      "start": 174.21,
+      "end": 180.25,
+      "text": "with the English students, though, and I only seem to study with other international students.",
+      "avgLogprob": -0.17402659191025627
+    },
+    {
+      "start": 180.25,
+      "end": 181.81,
+      "text": "Some interesting points there, Ahmad.",
+      "avgLogprob": -0.17402659191025627
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "source": "assets/audio/4c5ae2c9a90224a3.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.8,
+      "text": "OK, so let's go over the seminar we have this week on the causes of poverty.",
+      "avgLogprob": -0.134329717802374
+    },
+    {
+      "start": 5.8,
+      "end": 9.32,
+      "text": "Could you summarize what ideas were discussed by the group?",
+      "avgLogprob": -0.134329717802374
+    },
+    {
+      "start": 9.32,
+      "end": 15.12,
+      "text": "Well, some people thought that living in poverty is the fault of the individual, whether you",
+      "avgLogprob": -0.134329717802374
+    },
+    {
+      "start": 15.12,
+      "end": 17.2,
+      "text": "are poor or not.",
+      "avgLogprob": -0.134329717802374
+    },
+    {
+      "start": 17.2,
+      "end": 22.0,
+      "text": "It's up to each person to take the opportunities that come along in life to work hard and",
+      "avgLogprob": -0.134329717802374
+    },
+    {
+      "start": 22.0,
+      "end": 24.48,
+      "text": "aim for a good standard of living.",
+      "avgLogprob": -0.134329717802374
+    },
+    {
+      "start": 24.48,
+      "end": 28.48,
+      "text": "You can't blame anyone else but yourself if you don't succeed in making a good life",
+      "avgLogprob": -0.134329717802374
+    },
+    {
+      "start": 28.48,
+      "end": 35.92,
+      "text": "for yourself? Yes, but the other view is the opposite. This view sees poverty as a result",
+      "avgLogprob": -0.15502546589041866
+    },
+    {
+      "start": 35.92,
+      "end": 41.32,
+      "text": "of circumstances beyond the individual's control. For example, someone born into the",
+      "avgLogprob": -0.15502546589041866
+    },
+    {
+      "start": 41.32,
+      "end": 48.2,
+      "text": "slums of, for example, Mumbai in India, wouldn't necessarily find any opportunities in an environment",
+      "avgLogprob": -0.15502546589041866
+    },
+    {
+      "start": 48.2,
+      "end": 54.12,
+      "text": "that is so poor. So they may never find a way to make their situation in life any better.",
+      "avgLogprob": -0.15502546589041866
+    },
+    {
+      "start": 54.12,
+      "end": 58.12,
+      "text": "Good. And what conclusions were reached at the end of the seminar?",
+      "avgLogprob": -0.17814246344042348
+    },
+    {
+      "start": 58.12,
+      "end": 64.84,
+      "text": "Well, the conclusion was that poverty is probably caused by a mixture of factors, rather than",
+      "avgLogprob": -0.17814246344042348
+    },
+    {
+      "start": 64.84,
+      "end": 70.16,
+      "text": "any single one on its own. This means the individual person and the environment they",
+      "avgLogprob": -0.17814246344042348
+    },
+    {
+      "start": 70.16,
+      "end": 73.96,
+      "text": "live in may result in them living a life of poverty.",
+      "avgLogprob": -0.17814246344042348
+    },
+    {
+      "start": 73.96,
+      "end": 79.94,
+      "text": "Yes, and it could also mean we should consider a range of other matters, such as government",
+      "avgLogprob": -0.17814246344042348
+    },
+    {
+      "start": 79.94,
+      "end": 86.94,
+      "text": "policy, international relations and so on. Well done. That's all for this tutorial.",
+      "avgLogprob": -0.25288465542671007
+    },
+    {
+      "start": 86.94,
+      "end": 90.66,
+      "text": "It's been very interesting talking to you both and good luck with your studies.",
+      "avgLogprob": -0.25288465542671007
+    }
+  ]
+}

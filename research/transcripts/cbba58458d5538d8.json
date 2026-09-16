@@ -1,0 +1,133 @@
+{
+  "source": "assets/audio/cbba58458d5538d8.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 8.06,
+      "text": "It's now time to turn to our very special guest this afternoon, Mrs. Gina White, who",
+      "avgLogprob": -0.1268306742821421
+    },
+    {
+      "start": 8.06,
+      "end": 15.18,
+      "text": "is here to talk to us about how she turned her health around, and is now about to run",
+      "avgLogprob": -0.1268306742821421
+    },
+    {
+      "start": 15.18,
+      "end": 23.98,
+      "text": "seven marathons in seven days. I must say, the thought of it makes me feel faint. How",
+      "avgLogprob": -0.1268306742821421
+    },
+    {
+      "start": 23.98,
+      "end": 26.58,
+      "text": "How did it all start, Gina?",
+      "avgLogprob": -0.1615445360098735
+    },
+    {
+      "start": 26.58,
+      "end": 30.62,
+      "text": "Well, good afternoon, Peter.",
+      "avgLogprob": -0.1615445360098735
+    },
+    {
+      "start": 30.62,
+      "end": 36.58,
+      "text": "I suppose it all started when I just got thoroughly fed up with feeling ill all the time.",
+      "avgLogprob": -0.1615445360098735
+    },
+    {
+      "start": 36.58,
+      "end": 42.5,
+      "text": "I was only in my late thirties, but was already having difficulty in climbing up stairs and",
+      "avgLogprob": -0.1615445360098735
+    },
+    {
+      "start": 42.5,
+      "end": 44.94,
+      "text": "doing things like the gardening.",
+      "avgLogprob": -0.1615445360098735
+    },
+    {
+      "start": 44.94,
+      "end": 47.78,
+      "text": "I would get so breathless.",
+      "avgLogprob": -0.1615445360098735
+    },
+    {
+      "start": 47.78,
+      "end": 52.7,
+      "text": "But when I started to have constant chest infections and aches and pains, I went to",
+      "avgLogprob": -0.1615445360098735
+    },
+    {
+      "start": 52.7,
+      "end": 58.44,
+      "text": "the doctor and she said I was clinically obese and putting too much strain on my",
+      "avgLogprob": -0.11925383850380226
+    },
+    {
+      "start": 58.44,
+      "end": 65.56,
+      "text": "heart. I was very shocked. I knew I was a bit overweight but obese was not a word",
+      "avgLogprob": -0.11925383850380226
+    },
+    {
+      "start": 65.56,
+      "end": 70.6,
+      "text": "I liked and I was really worried when the doctor told me about my heart. I",
+      "avgLogprob": -0.11925383850380226
+    },
+    {
+      "start": 70.6,
+      "end": 77.64,
+      "text": "decided there and then to do something about it. So how did you go about it?",
+      "avgLogprob": -0.11925383850380226
+    },
+    {
+      "start": 77.64,
+      "end": 83.98,
+      "text": "Well, I tried dieting at first, you know, to lose the excess weight, but I found it",
+      "avgLogprob": -0.08843362204996603
+    },
+    {
+      "start": 83.98,
+      "end": 89.02,
+      "text": "very hard to stick to a diet. It's all very well if you have plenty of time to",
+      "avgLogprob": -0.08843362204996603
+    },
+    {
+      "start": 89.02,
+      "end": 94.26,
+      "text": "focus on yourself, but when you have to cook for a family every day, it's so much",
+      "avgLogprob": -0.08843362204996603
+    },
+    {
+      "start": 94.26,
+      "end": 100.46,
+      "text": "easier to eat the same as they do. You'd think that running around after the",
+      "avgLogprob": -0.08843362204996603
+    },
+    {
+      "start": 100.46,
+      "end": 106.38,
+      "text": "family would keep us in trim, wouldn't you? I know, but it doesn't seem to work",
+      "avgLogprob": -0.08843362204996603
+    },
+    {
+      "start": 106.38,
+      "end": 112.58,
+      "text": "like that. I suppose I used to snack a lot, on chocolate and sweet things, to give me",
+      "avgLogprob": -0.18304798159843835
+    },
+    {
+      "start": 112.58,
+      "end": 115.98,
+      "text": "some energy. And that wasn't very good for my health.",
+      "avgLogprob": -0.18304798159843835
+    }
+  ]
+}

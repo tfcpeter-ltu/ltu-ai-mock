@@ -1,0 +1,445 @@
+{
+  "source": "assets/audio/ee682f16707306dd.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.42,
+      "end": 7.02,
+      "text": "You are going to listen to a talk giving advice to students who are traveling to the UK for study.",
+      "avgLogprob": -0.18552767926332903
+    },
+    {
+      "start": 7.94,
+      "end": 12.22,
+      "text": "First, you have some time to look at questions 11 to 16.",
+      "avgLogprob": -0.18552767926332903
+    },
+    {
+      "start": 42.99,
+      "end": 47.67,
+      "text": "Now, listen carefully and answer questions 11 to 16.",
+      "avgLogprob": -0.18552767926332903
+    },
+    {
+      "start": 50.7,
+      "end": 52.7,
+      "text": "Good afternoon, young ladies and gentlemen.",
+      "avgLogprob": -0.18552767926332903
+    },
+    {
+      "start": 53.42,
+      "end": 59.5,
+      "text": "Welcome back to the orientation session for those of you who are going to spend your last year of college in the UK",
+      "avgLogprob": -0.18552767926332903
+    },
+    {
+      "start": 59.5,
+      "end": 61.5,
+      "text": "as part of our exchange program.",
+      "avgLogprob": -0.18552767926332903
+    },
+    {
+      "start": 61.5,
+      "end": 67.34,
+      "text": "In the morning, you were told about the academic things you need to know. Now,",
+      "avgLogprob": -0.11093697122608621
+    },
+    {
+      "start": 67.34,
+      "end": 72.42,
+      "text": "I'm going to give you some tips before you head off to a new country. What I'm",
+      "avgLogprob": -0.11093697122608621
+    },
+    {
+      "start": 72.42,
+      "end": 76.74,
+      "text": "about to say is accumulated from my own experience and from those who have gone",
+      "avgLogprob": -0.11093697122608621
+    },
+    {
+      "start": 76.74,
+      "end": 81.06,
+      "text": "through this before you. Please save your questions until the end of the talk.",
+      "avgLogprob": -0.11093697122608621
+    },
+    {
+      "start": 81.06,
+      "end": 87.02,
+      "text": "Thank you. Right, before I give you any specific advice about traveling and",
+      "avgLogprob": -0.11093697122608621
+    },
+    {
+      "start": 87.02,
+      "end": 88.78,
+      "text": "living in a brand new environment,",
+      "avgLogprob": -0.10982563970534782
+    },
+    {
+      "start": 89.14,
+      "end": 93.54,
+      "text": "make yourself a checklist of all the things you need to do and take with you,",
+      "avgLogprob": -0.10982563970534782
+    },
+    {
+      "start": 93.86,
+      "end": 96.38,
+      "text": "including the tips I'm going to give you now,",
+      "avgLogprob": -0.10982563970534782
+    },
+    {
+      "start": 96.78,
+      "end": 101.5,
+      "text": "especially if you are very forgetful. Even if you're not,",
+      "avgLogprob": -0.10982563970534782
+    },
+    {
+      "start": 101.62,
+      "end": 105.14,
+      "text": "it's still a good idea to have one to keep things in order. All right.",
+      "avgLogprob": -0.10982563970534782
+    },
+    {
+      "start": 106.18,
+      "end": 108.66,
+      "text": "Now about things to bring along,",
+      "avgLogprob": -0.10982563970534782
+    },
+    {
+      "start": 109.1,
+      "end": 112.62,
+      "text": "I'm sure each of you must already have things in your mind to put in your",
+      "avgLogprob": -0.10982563970534782
+    },
+    {
+      "start": 112.62,
+      "end": 116.94,
+      "text": "baggage, but you might decide to leave some behind after listening to me.",
+      "avgLogprob": -0.10982563970534782
+    },
+    {
+      "start": 117.02,
+      "end": 123.26,
+      "text": "I'm not going to talk about the obvious documents, like your visa or passport, which are essential",
+      "avgLogprob": -0.09513039344354816
+    },
+    {
+      "start": 123.26,
+      "end": 124.98,
+      "text": "for your departure.",
+      "avgLogprob": -0.09513039344354816
+    },
+    {
+      "start": 124.98,
+      "end": 131.86,
+      "text": "The first category I'm going with is more essential for the first few weeks, food.",
+      "avgLogprob": -0.09513039344354816
+    },
+    {
+      "start": 131.86,
+      "end": 137.78,
+      "text": "In the past, there were many students bringing as many as three suitcases just for food.",
+      "avgLogprob": -0.09513039344354816
+    },
+    {
+      "start": 137.78,
+      "end": 142.66,
+      "text": "Of course, we can argue that we can't eat Western food, but there are many restaurants",
+      "avgLogprob": -0.09513039344354816
+    },
+    {
+      "start": 142.66,
+      "end": 147.3,
+      "text": "that serve various types of dishes and many supermarkets that sell ingredients to make",
+      "avgLogprob": -0.12506507235823325
+    },
+    {
+      "start": 147.3,
+      "end": 149.94,
+      "text": "your own favorite meal.",
+      "avgLogprob": -0.12506507235823325
+    },
+    {
+      "start": 149.94,
+      "end": 154.42,
+      "text": "From my own perspective, just bring as much as you need for your first week when you're",
+      "avgLogprob": -0.12506507235823325
+    },
+    {
+      "start": 154.42,
+      "end": 157.54,
+      "text": "settling down, not for the whole month.",
+      "avgLogprob": -0.12506507235823325
+    },
+    {
+      "start": 157.54,
+      "end": 164.02,
+      "text": "You can always expect help from the local community, they are very friendly and helpful.",
+      "avgLogprob": -0.12506507235823325
+    },
+    {
+      "start": 164.02,
+      "end": 166.46,
+      "text": "Now about clothing.",
+      "avgLogprob": -0.12506507235823325
+    },
+    {
+      "start": 166.46,
+      "end": 171.02,
+      "text": "Just like food, bring enough to wear for the first week or two in case your house's",
+      "avgLogprob": -0.12506507235823325
+    },
+    {
+      "start": 171.02,
+      "end": 176.82,
+      "text": "washing machine has a problem. After that, 90% of the clothes you brought will surely",
+      "avgLogprob": -0.10908325051152429
+    },
+    {
+      "start": 176.82,
+      "end": 183.7,
+      "text": "be forgotten in your suitcase or your wardrobe. Why? Well, there are several reasons. First",
+      "avgLogprob": -0.10908325051152429
+    },
+    {
+      "start": 183.7,
+      "end": 190.02,
+      "text": "is fashion. As you know, clothing trends change over time, and you can find plenty of high",
+      "avgLogprob": -0.10908325051152429
+    },
+    {
+      "start": 190.02,
+      "end": 195.78,
+      "text": "quality garments there in the city you're going to live in. Second is price. For the",
+      "avgLogprob": -0.10908325051152429
+    },
+    {
+      "start": 195.78,
+      "end": 201.86,
+      "text": "same piece of clothing, it's actually cheaper to buy it there than here in our country.",
+      "avgLogprob": -0.13877755657928745
+    },
+    {
+      "start": 201.86,
+      "end": 209.36,
+      "text": "Lastly, and most importantly, is durability. The weather conditions in the UK are completely",
+      "avgLogprob": -0.13877755657928745
+    },
+    {
+      "start": 209.36,
+      "end": 214.88,
+      "text": "different from where we live. Thus, the clothing sold there is made to withstand the local",
+      "avgLogprob": -0.13877755657928745
+    },
+    {
+      "start": 214.88,
+      "end": 220.36,
+      "text": "climate. The clothes you bring along might not be durable enough for a long time, and",
+      "avgLogprob": -0.13877755657928745
+    },
+    {
+      "start": 220.36,
+      "end": 222.56,
+      "text": "And you'll have to buy new ones eventually.",
+      "avgLogprob": -0.12533701100835093
+    },
+    {
+      "start": 222.56,
+      "end": 226.88,
+      "text": "So why not get your new clothes sooner?",
+      "avgLogprob": -0.12533701100835093
+    },
+    {
+      "start": 226.88,
+      "end": 232.1,
+      "text": "For medicine, you should only bring ones that are critical to your medical condition.",
+      "avgLogprob": -0.12533701100835093
+    },
+    {
+      "start": 232.1,
+      "end": 236.96,
+      "text": "Other common drugs for minor ailments can be obtained for free at the school's medical",
+      "avgLogprob": -0.12533701100835093
+    },
+    {
+      "start": 236.96,
+      "end": 238.22,
+      "text": "center.",
+      "avgLogprob": -0.12533701100835093
+    },
+    {
+      "start": 238.22,
+      "end": 242.56,
+      "text": "If you bring your own drugs, you're expected to show relevant medical documents, like a",
+      "avgLogprob": -0.12533701100835093
+    },
+    {
+      "start": 242.56,
+      "end": 244.84,
+      "text": "prescription at the airport.",
+      "avgLogprob": -0.12533701100835093
+    },
+    {
+      "start": 244.84,
+      "end": 249.52,
+      "text": "And you might need it to refill your bottle at the chemists.",
+      "avgLogprob": -0.12533701100835093
+    },
+    {
+      "start": 249.52,
+      "end": 283.36,
+      "text": "Now you have some time to look at questions 17 to 20.",
+      "avgLogprob": -0.12101615260222129
+    },
+    {
+      "start": 283.36,
+      "end": 290.17,
+      "text": "Now listen carefully and answer questions 17 to 20.",
+      "avgLogprob": -0.12101615260222129
+    },
+    {
+      "start": 290.17,
+      "end": 292.35,
+      "text": "That's quite enough for the traveling part.",
+      "avgLogprob": -0.12101615260222129
+    },
+    {
+      "start": 292.35,
+      "end": 294.33,
+      "text": "Now to the living.",
+      "avgLogprob": -0.12101615260222129
+    },
+    {
+      "start": 294.33,
+      "end": 299.37,
+      "text": "First things first, it's easy for young people like you, especially when you enjoy yourself",
+      "avgLogprob": -0.12101615260222129
+    },
+    {
+      "start": 299.37,
+      "end": 304.51,
+      "text": "too much living abroad for the first time, to lose contact with your family.",
+      "avgLogprob": -0.12101615260222129
+    },
+    {
+      "start": 304.51,
+      "end": 308.23,
+      "text": "Try to call your parents at least once a day in the first week so they know you're",
+      "avgLogprob": -0.12101615260222129
+    },
+    {
+      "start": 308.23,
+      "end": 310.27,
+      "text": "settling in well.",
+      "avgLogprob": -0.12101615260222129
+    },
+    {
+      "start": 310.27,
+      "end": 314.31,
+      "text": "Then you can reduce the frequency to at least once a fortnight.",
+      "avgLogprob": -0.07737751598032112
+    },
+    {
+      "start": 314.31,
+      "end": 318.21,
+      "text": "You don't know how much your loved ones miss you.",
+      "avgLogprob": -0.07737751598032112
+    },
+    {
+      "start": 318.21,
+      "end": 322.37,
+      "text": "If you have signed up for a slot in the Hall of Residence, it's perfect.",
+      "avgLogprob": -0.07737751598032112
+    },
+    {
+      "start": 322.37,
+      "end": 328.05,
+      "text": "But if you decide to rent a room outside, remember to choose one close to a bus stop",
+      "avgLogprob": -0.07737751598032112
+    },
+    {
+      "start": 328.05,
+      "end": 332.33,
+      "text": "because that will be your main means of transport in the city.",
+      "avgLogprob": -0.07737751598032112
+    },
+    {
+      "start": 332.33,
+      "end": 336.77,
+      "text": "Many might want to live near the supermarket, but it's not like you're going out for groceries",
+      "avgLogprob": -0.07737751598032112
+    },
+    {
+      "start": 336.77,
+      "end": 338.99,
+      "text": "every day, right?",
+      "avgLogprob": -0.07737751598032112
+    },
+    {
+      "start": 338.99,
+      "end": 343.31,
+      "text": "For those of you who love shopping, don't forget to join the student's union and get",
+      "avgLogprob": -0.15799011823234207
+    },
+    {
+      "start": 343.31,
+      "end": 344.83,
+      "text": "a member card.",
+      "avgLogprob": -0.15799011823234207
+    },
+    {
+      "start": 344.83,
+      "end": 350.71,
+      "text": "It's what will get you discounts on your shopping bill, not your normal student card.",
+      "avgLogprob": -0.15799011823234207
+    },
+    {
+      "start": 350.71,
+      "end": 355.51,
+      "text": "At the time you arrive, the city will also have its biggest event of the year, the Balloon",
+      "avgLogprob": -0.15799011823234207
+    },
+    {
+      "start": 355.51,
+      "end": 359.31,
+      "text": "Festival, which attracts people from all over Europe.",
+      "avgLogprob": -0.15799011823234207
+    },
+    {
+      "start": 359.31,
+      "end": 360.83,
+      "text": "Don't miss it.",
+      "avgLogprob": -0.15799011823234207
+    },
+    {
+      "start": 360.83,
+      "end": 364.07,
+      "text": "Well, I think that's enough for today.",
+      "avgLogprob": -0.15799011823234207
+    },
+    {
+      "start": 364.07,
+      "end": 367.92,
+      "text": "Now, any questions?",
+      "avgLogprob": -0.15799011823234207
+    },
+    {
+      "start": 367.92,
+      "end": 370.36,
+      "text": "That is the end of section 2.",
+      "avgLogprob": -0.142137872383875
+    },
+    {
+      "start": 370.36,
+      "end": 404.96,
+      "text": "You now have 30 seconds to check your answers to section 2.",
+      "avgLogprob": -0.142137872383875
+    },
+    {
+      "start": 404.96,
+      "end": 407.04,
+      "text": "Now turn to section 3.",
+      "avgLogprob": -0.142137872383875
+    }
+  ]
+}

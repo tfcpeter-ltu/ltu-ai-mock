@@ -1,0 +1,355 @@
+{
+  "source": "assets/audio/74507b0ebb71e56e.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.52,
+      "end": 4.92,
+      "text": "You are going to listen to a recorded message about a bus tour.",
+      "avgLogprob": -0.21485554521111236
+    },
+    {
+      "start": 5.68,
+      "end": 9.64,
+      "text": "First, you have some time to look at questions 11 to 14.",
+      "avgLogprob": -0.21485554521111236
+    },
+    {
+      "start": 39.03,
+      "end": 43.35,
+      "text": "Now, listen carefully and answer questions 11 to 14.",
+      "avgLogprob": -0.21485554521111236
+    },
+    {
+      "start": 45.81,
+      "end": 51.17,
+      "text": "Thank you for calling the line for Bristol City Bus Tour. This is a recorded message.",
+      "avgLogprob": -0.21485554521111236
+    },
+    {
+      "start": 51.65,
+      "end": 55.89,
+      "text": "In about four minutes, we will provide you what you need to know about the tour.",
+      "avgLogprob": -0.21485554521111236
+    },
+    {
+      "start": 55.89,
+      "end": 62.33,
+      "text": "Being one of the best cities to live in Britain, Bristol has attracted tourists from all over the",
+      "avgLogprob": -0.0951561237988847
+    },
+    {
+      "start": 62.33,
+      "end": 68.01,
+      "text": "world for many years. One of the best ways to get to know the city is to take the bus tour,",
+      "avgLogprob": -0.0951561237988847
+    },
+    {
+      "start": 68.01,
+      "end": 74.97,
+      "text": "which provides a delightful viewing experience from one of our open-top buses. The round-trip",
+      "avgLogprob": -0.0951561237988847
+    },
+    {
+      "start": 74.97,
+      "end": 81.13,
+      "text": "tour of the city includes five stops where passengers can get on and off the bus. The",
+      "avgLogprob": -0.0951561237988847
+    },
+    {
+      "start": 81.13,
+      "end": 85.97,
+      "text": "The first stop is where many people arrive in the city, Bristol Temple Mead's railway",
+      "avgLogprob": -0.09710978796181169
+    },
+    {
+      "start": 85.97,
+      "end": 89.73,
+      "text": "station, the oldest and largest in the city.",
+      "avgLogprob": -0.09710978796181169
+    },
+    {
+      "start": 89.73,
+      "end": 95.65,
+      "text": "While waiting for the bus, visitors can enjoy the historical design of the station.",
+      "avgLogprob": -0.09710978796181169
+    },
+    {
+      "start": 95.65,
+      "end": 101.41,
+      "text": "The next stop is the city's most iconic structure, the Clifton Suspension Bridge.",
+      "avgLogprob": -0.09710978796181169
+    },
+    {
+      "start": 101.41,
+      "end": 105.69,
+      "text": "Along with those beautiful pictures you might take here, adventurous and adrenaline-seeking",
+      "avgLogprob": -0.09710978796181169
+    },
+    {
+      "start": 105.69,
+      "end": 109.53,
+      "text": "tourists can't miss the opportunity for a bungee jump.",
+      "avgLogprob": -0.09710978796181169
+    },
+    {
+      "start": 109.53,
+      "end": 113.79,
+      "text": "However, you need to book in advance to do this.",
+      "avgLogprob": -0.09761394966732372
+    },
+    {
+      "start": 113.79,
+      "end": 119.39,
+      "text": "Passing the bridge, the bus tour continues to carry passengers to the Bristol Zoo.",
+      "avgLogprob": -0.09761394966732372
+    },
+    {
+      "start": 119.39,
+      "end": 124.95,
+      "text": "Here there is a variety of animals, ranging from small bugs to big gorillas, from flying",
+      "avgLogprob": -0.09761394966732372
+    },
+    {
+      "start": 124.95,
+      "end": 127.47,
+      "text": "birds to swimming penguins.",
+      "avgLogprob": -0.09761394966732372
+    },
+    {
+      "start": 127.47,
+      "end": 133.43,
+      "text": "For those who are interested in fancy clothes and big brands, the next stop is for you.",
+      "avgLogprob": -0.09761394966732372
+    },
+    {
+      "start": 133.43,
+      "end": 137.91,
+      "text": "After leaving the zoo, the bus takes you to Cabot Circus, the biggest shopping mall",
+      "avgLogprob": -0.09761394966732372
+    },
+    {
+      "start": 137.91,
+      "end": 139.31,
+      "text": "in the city.",
+      "avgLogprob": -0.09761394966732372
+    },
+    {
+      "start": 139.31,
+      "end": 143.83,
+      "text": "Our advice is to go here in the mornings when it is rather quiet.",
+      "avgLogprob": -0.12732163208340286
+    },
+    {
+      "start": 143.83,
+      "end": 148.09,
+      "text": "It gets busy in the afternoon, especially in the summer.",
+      "avgLogprob": -0.12732163208340286
+    },
+    {
+      "start": 148.09,
+      "end": 153.63,
+      "text": "The last stop is Bristol's Harbourside, where many restaurants and pubs are located.",
+      "avgLogprob": -0.12732163208340286
+    },
+    {
+      "start": 153.63,
+      "end": 158.71,
+      "text": "The Bristol Museum and Art Gallery, which is a few minutes' walk away from the harbour,",
+      "avgLogprob": -0.12732163208340286
+    },
+    {
+      "start": 158.71,
+      "end": 163.89,
+      "text": "is also a great place to spend time in.",
+      "avgLogprob": -0.12732163208340286
+    },
+    {
+      "start": 163.89,
+      "end": 199.4,
+      "text": "Before you listen to the rest of the message, you have some time to look at questions 15-20.",
+      "avgLogprob": -0.12732163208340286
+    },
+    {
+      "start": 199.4,
+      "end": 206.12,
+      "text": "Now, listen carefully and answer questions 15 to 20.",
+      "avgLogprob": -0.1471442866635013
+    },
+    {
+      "start": 206.12,
+      "end": 209.76,
+      "text": "Now some details of the costs and timings.",
+      "avgLogprob": -0.1471442866635013
+    },
+    {
+      "start": 209.76,
+      "end": 218.4,
+      "text": "An adult ticket costs £18, children under 16 £8 and student tickets are £13, but you",
+      "avgLogprob": -0.1471442866635013
+    },
+    {
+      "start": 218.4,
+      "end": 221.48,
+      "text": "must bring your student card.",
+      "avgLogprob": -0.1471442866635013
+    },
+    {
+      "start": 221.48,
+      "end": 228.52,
+      "text": "A family ticket costs £36 and it includes two adults and up to two children.",
+      "avgLogprob": -0.1471442866635013
+    },
+    {
+      "start": 228.52,
+      "end": 234.36,
+      "text": "tickets can be used up to 10 times within 48 hours. This means that you can",
+      "avgLogprob": -0.09469058914015992
+    },
+    {
+      "start": 234.36,
+      "end": 240.12,
+      "text": "get on and off the bus up to a maximum of 10 times within two days. So you could,",
+      "avgLogprob": -0.09469058914015992
+    },
+    {
+      "start": 240.12,
+      "end": 244.4,
+      "text": "for instance, start the tour in the afternoon and finish the tour the day",
+      "avgLogprob": -0.09469058914015992
+    },
+    {
+      "start": 244.4,
+      "end": 250.64,
+      "text": "after, as long as you schedule it in 10 rides. You can purchase tickets at any",
+      "avgLogprob": -0.09469058914015992
+    },
+    {
+      "start": 250.64,
+      "end": 255.64,
+      "text": "of the five stops. You can also book tickets online on our website or over",
+      "avgLogprob": -0.09469058914015992
+    },
+    {
+      "start": 255.64,
+      "end": 261.02,
+      "text": "this phone line, just wait until the end of this message and follow the next steps.",
+      "avgLogprob": -0.11188114485115681
+    },
+    {
+      "start": 261.02,
+      "end": 265.0,
+      "text": "When booking online, you need to print your e-ticket.",
+      "avgLogprob": -0.11188114485115681
+    },
+    {
+      "start": 265.0,
+      "end": 269.96,
+      "text": "Do not show it on your device because the driver cannot stamp on it.",
+      "avgLogprob": -0.11188114485115681
+    },
+    {
+      "start": 269.96,
+      "end": 274.36,
+      "text": "When booking over the phone, you can collect your tickets at any of the stops by simply",
+      "avgLogprob": -0.11188114485115681
+    },
+    {
+      "start": 274.36,
+      "end": 278.12,
+      "text": "giving the staff your reference number.",
+      "avgLogprob": -0.11188114485115681
+    },
+    {
+      "start": 278.12,
+      "end": 283.44,
+      "text": "Buses start running from 9am and the last one leaves the station at 5pm.",
+      "avgLogprob": -0.11188114485115681
+    },
+    {
+      "start": 283.44,
+      "end": 288.52,
+      "text": "There is a 30-minute interval between each bus, and it takes about 60 minutes for a bus",
+      "avgLogprob": -0.09069448848751104
+    },
+    {
+      "start": 288.52,
+      "end": 290.7,
+      "text": "to finish its route.",
+      "avgLogprob": -0.09069448848751104
+    },
+    {
+      "start": 290.7,
+      "end": 294.92,
+      "text": "There are many attractions at each of the stops, so there will be plenty to do wherever",
+      "avgLogprob": -0.09069448848751104
+    },
+    {
+      "start": 294.92,
+      "end": 297.46,
+      "text": "you get off the bus.",
+      "avgLogprob": -0.09069448848751104
+    },
+    {
+      "start": 297.46,
+      "end": 302.18,
+      "text": "The bus tickets do not include entrance fees to any of these attractions, except for the",
+      "avgLogprob": -0.09069448848751104
+    },
+    {
+      "start": 302.18,
+      "end": 304.7,
+      "text": "museum near the harbor side.",
+      "avgLogprob": -0.09069448848751104
+    },
+    {
+      "start": 304.7,
+      "end": 308.86,
+      "text": "If you purchase 10 or more tickets in advance, you can book a local guide who can show",
+      "avgLogprob": -0.09069448848751104
+    },
+    {
+      "start": 308.86,
+      "end": 314.7,
+      "text": "you around and give you all the information needed with no additional fee. We also have",
+      "avgLogprob": -0.0854038931805678
+    },
+    {
+      "start": 314.7,
+      "end": 319.42,
+      "text": "an audio commentary that has been specially recorded for the bus tour by the tourist office.",
+      "avgLogprob": -0.0854038931805678
+    },
+    {
+      "start": 320.46,
+      "end": 325.58,
+      "text": "Headphones are available on the bus and are easy to operate. There is no extra charge for",
+      "avgLogprob": -0.0854038931805678
+    },
+    {
+      "start": 325.58,
+      "end": 330.14,
+      "text": "these, just plug in, select the required language and adjust the volume.",
+      "avgLogprob": -0.0854038931805678
+    },
+    {
+      "start": 331.74,
+      "end": 336.22,
+      "text": "Thank you for calling Bristol City Bus Tour and we look forward to seeing you soon on one of",
+      "avgLogprob": -0.0854038931805678
+    },
+    {
+      "start": 336.22,
+      "end": 344.63,
+      "text": "of our tour buses. This is the end of Section 2. You now have 30 seconds to check your answers",
+      "avgLogprob": -0.15987122176509155
+    },
+    {
+      "start": 344.63,
+      "end": 378.05,
+      "text": "to Section 2. Now, turn to Section 3.",
+      "avgLogprob": -0.15987122176509155
+    }
+  ]
+}

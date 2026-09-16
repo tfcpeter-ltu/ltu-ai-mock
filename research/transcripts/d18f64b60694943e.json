@@ -1,0 +1,1483 @@
+{
+  "source": "assets/audio/d18f64b60694943e.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Listening part 1.",
+      "avgLogprob": -0.1464934665544898
+    },
+    {
+      "start": 2.0,
+      "end": 6.58,
+      "text": "You will hear a number of different recordings and you will have to answer questions on what",
+      "avgLogprob": -0.1464934665544898
+    },
+    {
+      "start": 6.58,
+      "end": 7.66,
+      "text": "you hear.",
+      "avgLogprob": -0.1464934665544898
+    },
+    {
+      "start": 7.66,
+      "end": 12.38,
+      "text": "There will be time for you to read the instructions and questions and you will have a chance to",
+      "avgLogprob": -0.1464934665544898
+    },
+    {
+      "start": 12.38,
+      "end": 13.94,
+      "text": "check your work.",
+      "avgLogprob": -0.1464934665544898
+    },
+    {
+      "start": 13.94,
+      "end": 17.3,
+      "text": "All the recordings will be played once only.",
+      "avgLogprob": -0.1464934665544898
+    },
+    {
+      "start": 17.3,
+      "end": 19.74,
+      "text": "The test is in four parts.",
+      "avgLogprob": -0.1464934665544898
+    },
+    {
+      "start": 19.74,
+      "end": 24.78,
+      "text": "At the end of the test you will be given 10 minutes to transfer your answers to an",
+      "avgLogprob": -0.1464934665544898
+    },
+    {
+      "start": 24.78,
+      "end": 28.08,
+      "text": "answer sheet.",
+      "avgLogprob": -0.1464934665544898
+    },
+    {
+      "start": 28.08,
+      "end": 35.4,
+      "text": "Now turn to part 1.",
+      "avgLogprob": -0.1464934665544898
+    },
+    {
+      "start": 35.4,
+      "end": 40.4,
+      "text": "You will hear a man who runs a transport hire company talking to a woman who wants to hire",
+      "avgLogprob": -0.15026594504066135
+    },
+    {
+      "start": 40.4,
+      "end": 71.54,
+      "text": "a vehicle. First you have some time to look at questions one to five. Now we shall begin.",
+      "avgLogprob": -0.15026594504066135
+    },
+    {
+      "start": 71.54,
+      "end": 75.26,
+      "text": "You should answer the questions as you listen because you will not hear the recording a",
+      "avgLogprob": -0.15026594504066135
+    },
+    {
+      "start": 75.26,
+      "end": 88.48,
+      "text": "second time. Listen carefully and answer questions one to five.",
+      "avgLogprob": -0.15026594504066135
+    },
+    {
+      "start": 88.48,
+      "end": 92.72,
+      "text": "Good morning, Island Transport Company. This is Brian speaking.",
+      "avgLogprob": -0.15026594504066135
+    },
+    {
+      "start": 92.72,
+      "end": 98.4,
+      "text": "Good morning. This is Jenny Cartwright here. I'm visiting the island next week and I want",
+      "avgLogprob": -0.1933071916518004
+    },
+    {
+      "start": 98.4,
+      "end": 100.2,
+      "text": "to hire some form of transport.",
+      "avgLogprob": -0.1933071916518004
+    },
+    {
+      "start": 100.2,
+      "end": 106.16,
+      "text": "No problem Jenny. Island Transport can offer a range of different vehicles to hire. So",
+      "avgLogprob": -0.1933071916518004
+    },
+    {
+      "start": 106.16,
+      "end": 109.36,
+      "text": "the first option is a motor scooter. They're very popular.",
+      "avgLogprob": -0.1933071916518004
+    },
+    {
+      "start": 109.36,
+      "end": 113.68,
+      "text": "Oh right. And how much do they cost to hire?",
+      "avgLogprob": -0.1933071916518004
+    },
+    {
+      "start": 113.68,
+      "end": 119.08,
+      "text": "Well you can hire them by the hour or by the day. Per hour it's $15.50.",
+      "avgLogprob": -0.1933071916518004
+    },
+    {
+      "start": 119.08,
+      "end": 121.0,
+      "text": "And what about for a day?",
+      "avgLogprob": -0.1933071916518004
+    },
+    {
+      "start": 121.0,
+      "end": 127.72,
+      "text": "it's $49.99. That includes a full tank of petrol but you need to fill it up before you bring it back.",
+      "avgLogprob": -0.11510072508826852
+    },
+    {
+      "start": 127.72,
+      "end": 130.6,
+      "text": "Is a scooter a good way to get around the island?",
+      "avgLogprob": -0.11510072508826852
+    },
+    {
+      "start": 130.6,
+      "end": 134.04,
+      "text": "Oh yes, it's a lot of fun. Visitors really enjoy it.",
+      "avgLogprob": -0.11510072508826852
+    },
+    {
+      "start": 134.6,
+      "end": 136.2,
+      "text": "Do you provide helmets?",
+      "avgLogprob": -0.11510072508826852
+    },
+    {
+      "start": 136.2,
+      "end": 141.72,
+      "text": "Yes, of course, all sizes. We can also let you have gloves as well. It's not a bad idea.",
+      "avgLogprob": -0.11510072508826852
+    },
+    {
+      "start": 141.72,
+      "end": 143.72,
+      "text": "Oh yes, I hadn't thought of that.",
+      "avgLogprob": -0.11510072508826852
+    },
+    {
+      "start": 143.72,
+      "end": 147.96,
+      "text": "The only thing is with the scooters, you have to keep to sealed roads.",
+      "avgLogprob": -0.11510072508826852
+    },
+    {
+      "start": 147.96,
+      "end": 152.84,
+      "text": "That means you can't ride on Battenberg Road, so you can't visit the far end of the island.",
+      "avgLogprob": -0.13306509910669542
+    },
+    {
+      "start": 153.64,
+      "end": 157.56,
+      "text": "Sorry, I didn't catch the name of the road. Could you spell it?",
+      "avgLogprob": -0.13306509910669542
+    },
+    {
+      "start": 157.56,
+      "end": 163.24,
+      "text": "Sure. It's spelled B-A-T-T-E-N-B-U-R-G.",
+      "avgLogprob": -0.13306509910669542
+    },
+    {
+      "start": 163.24,
+      "end": 166.44,
+      "text": "But there are still plenty of other places you can explore on a scooter.",
+      "avgLogprob": -0.13306509910669542
+    },
+    {
+      "start": 167.16,
+      "end": 169.72,
+      "text": "OK. And what about a car?",
+      "avgLogprob": -0.13306509910669542
+    },
+    {
+      "start": 169.72,
+      "end": 171.24,
+      "text": "Yes, we've got a range of cars.",
+      "avgLogprob": -0.13306509910669542
+    },
+    {
+      "start": 171.8,
+      "end": 176.04,
+      "text": "Well, there's four of us. But if we do go for the car option,",
+      "avgLogprob": -0.13306509910669542
+    },
+    {
+      "start": 176.04,
+      "end": 182.36,
+      "text": "we'd be happy with a very small basic one. An economy car would be $87.80 per day.",
+      "avgLogprob": -0.07786185288523126
+    },
+    {
+      "start": 183.0,
+      "end": 188.76,
+      "text": "That's for a four-door car. It can take five passengers. Right, okay. And a car is the best",
+      "avgLogprob": -0.07786185288523126
+    },
+    {
+      "start": 188.76,
+      "end": 194.2,
+      "text": "way to see the whole island. You can drive on all the roads. And if you'd like to go for a swim,",
+      "avgLogprob": -0.07786185288523126
+    },
+    {
+      "start": 194.2,
+      "end": 199.56,
+      "text": "you can drive right down to Green Bay, which visitors love. Well, a car is definitely something",
+      "avgLogprob": -0.07786185288523126
+    },
+    {
+      "start": 199.56,
+      "end": 204.84,
+      "text": "to consider. It's certainly a good price if we split it between the four of us. Exactly.",
+      "avgLogprob": -0.07786185288523126
+    },
+    {
+      "start": 204.84,
+      "end": 211.42,
+      "text": "Only thing is, it's pretty hot at this time of year. Does the car have air conditioning?",
+      "avgLogprob": -0.15860300545298725
+    },
+    {
+      "start": 211.42,
+      "end": 215.62,
+      "text": "Not that model, no. You need one of our bigger cars if you want that.",
+      "avgLogprob": -0.15860300545298725
+    },
+    {
+      "start": 215.62,
+      "end": 222.82,
+      "text": "Well, maybe it doesn't matter. Before you hear the rest of the conversation",
+      "avgLogprob": -0.15860300545298725
+    },
+    {
+      "start": 222.82,
+      "end": 256.3,
+      "text": "you have some time to look at questions 6 to 10. Now listen and answer questions 6 to 10.",
+      "avgLogprob": -0.15860300545298725
+    },
+    {
+      "start": 256.3,
+      "end": 261.46,
+      "text": "The other option to consider is an e-bike. These are very popular, like a normal bicycle,",
+      "avgLogprob": -0.15860300545298725
+    },
+    {
+      "start": 261.46,
+      "end": 266.7,
+      "text": "electric power to help you along. How much are they? Normally they're $59 per",
+      "avgLogprob": -0.14718165255467827
+    },
+    {
+      "start": 266.7,
+      "end": 272.98,
+      "text": "day but I can offer you a discounted rate at the moment of $52.20. Oh okay. To be",
+      "avgLogprob": -0.14718165255467827
+    },
+    {
+      "start": 272.98,
+      "end": 277.9,
+      "text": "honest a lot of our customers these days prefer e-bikes to motor scooters because",
+      "avgLogprob": -0.14718165255467827
+    },
+    {
+      "start": 277.9,
+      "end": 283.6,
+      "text": "they're so quiet and peaceful. On some e-bikes the battery is really heavy but",
+      "avgLogprob": -0.14718165255467827
+    },
+    {
+      "start": 283.6,
+      "end": 288.7,
+      "text": "on these bikes it's nice and light. I've never ridden an e-bike before how",
+      "avgLogprob": -0.14718165255467827
+    },
+    {
+      "start": 288.7,
+      "end": 293.9,
+      "text": "difficult is it? Not difficult at all you'll find they are very easy to handle",
+      "avgLogprob": -0.13119046343000312
+    },
+    {
+      "start": 293.9,
+      "end": 298.18,
+      "text": "like I say just a normal pedal bike really but you don't have to do too",
+      "avgLogprob": -0.13119046343000312
+    },
+    {
+      "start": 298.18,
+      "end": 302.98,
+      "text": "much work which is a good thing because the island is quite hilly these are good",
+      "avgLogprob": -0.13119046343000312
+    },
+    {
+      "start": 302.98,
+      "end": 308.14,
+      "text": "quality bikes too well made with high quality brakes both front and back so",
+      "avgLogprob": -0.13119046343000312
+    },
+    {
+      "start": 308.14,
+      "end": 313.14,
+      "text": "you won't have any problems. Well that does sound like a lot of fun do they",
+      "avgLogprob": -0.13119046343000312
+    },
+    {
+      "start": 313.14,
+      "end": 319.22,
+      "text": "come with GPS? No, but we can provide you with a map. What about a lock? Yep, one of",
+      "avgLogprob": -0.14942240240899
+    },
+    {
+      "start": 319.22,
+      "end": 324.1,
+      "text": "those as well with each bike, so you can leave it securely if you want to. I think",
+      "avgLogprob": -0.14942240240899
+    },
+    {
+      "start": 324.1,
+      "end": 328.38,
+      "text": "my friends will like the idea of an e-bike, a good compromise. Well like I",
+      "avgLogprob": -0.14942240240899
+    },
+    {
+      "start": 328.38,
+      "end": 332.78,
+      "text": "say, they're very popular these days and another big advantage is that you don't",
+      "avgLogprob": -0.14942240240899
+    },
+    {
+      "start": 332.78,
+      "end": 336.94,
+      "text": "have to have a license for this type of vehicle. Well, let me discuss it with my",
+      "avgLogprob": -0.14942240240899
+    },
+    {
+      "start": 336.94,
+      "end": 344.44,
+      "text": "friends and I'll get back to you. No problem, thanks for your time. That is",
+      "avgLogprob": -0.14942240240899
+    },
+    {
+      "start": 344.44,
+      "end": 380.36,
+      "text": "the end of section 1. You now have half a minute to check your answers.",
+      "avgLogprob": -0.15363498703464046
+    },
+    {
+      "start": 380.36,
+      "end": 387.03,
+      "text": "Now turn to section 2. Section 2.",
+      "avgLogprob": -0.15363498703464046
+    },
+    {
+      "start": 387.03,
+      "end": 391.19,
+      "text": "You will hear a speaker talking about saving energy in the home.",
+      "avgLogprob": -0.15363498703464046
+    },
+    {
+      "start": 391.19,
+      "end": 425.59,
+      "text": "First, you have some time to look at questions 11 to 12.",
+      "avgLogprob": -0.15363498703464046
+    },
+    {
+      "start": 425.59,
+      "end": 432.28,
+      "text": "Now listen and answer questions 11 to 12.",
+      "avgLogprob": -0.15363498703464046
+    },
+    {
+      "start": 432.28,
+      "end": 437.28,
+      "text": "Many thanks for inviting me along to talk about saving energy in the home.",
+      "avgLogprob": -0.15363498703464046
+    },
+    {
+      "start": 437.28,
+      "end": 442.64,
+      "text": "This is a key issue for many people who now find themselves on tight budgets, so today",
+      "avgLogprob": -0.08956470050745541
+    },
+    {
+      "start": 442.64,
+      "end": 447.52,
+      "text": "I'd like to spend a few minutes going through some simple tips to help keep those energy",
+      "avgLogprob": -0.08956470050745541
+    },
+    {
+      "start": 447.52,
+      "end": 453.2,
+      "text": "bills to a minimum. I'll start with some easy, cheap ideas before talking about more",
+      "avgLogprob": -0.08956470050745541
+    },
+    {
+      "start": 453.2,
+      "end": 455.76,
+      "text": "major solutions later.",
+      "avgLogprob": -0.08956470050745541
+    },
+    {
+      "start": 455.76,
+      "end": 460.88,
+      "text": "I think we're all aware of the importance of insulating our homes and, although I'd",
+      "avgLogprob": -0.08956470050745541
+    },
+    {
+      "start": 460.88,
+      "end": 465.82,
+      "text": "advise you to get it done, I appreciate it can sometimes be inconvenient to have building",
+      "avgLogprob": -0.08956470050745541
+    },
+    {
+      "start": 465.82,
+      "end": 471.7,
+      "text": "work carried out. And though they're growing in popularity, having solar panels installed",
+      "avgLogprob": -0.08426603917842326
+    },
+    {
+      "start": 471.7,
+      "end": 477.24,
+      "text": "on the roof isn't a cheap enough option for many of us to consider seriously.",
+      "avgLogprob": -0.08426603917842326
+    },
+    {
+      "start": 477.24,
+      "end": 482.52,
+      "text": "So what other steps can we take? Well, most people will make a point of turning the heating",
+      "avgLogprob": -0.08426603917842326
+    },
+    {
+      "start": 482.52,
+      "end": 487.6,
+      "text": "down when temperatures outside rise, but they ignore other equally useful ways of saving",
+      "avgLogprob": -0.08426603917842326
+    },
+    {
+      "start": 487.6,
+      "end": 495.44,
+      "text": "energy when they're making dinner or doing their weekly laundry.",
+      "avgLogprob": -0.08426603917842326
+    },
+    {
+      "start": 495.44,
+      "end": 530.7,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 13-20.",
+      "avgLogprob": -0.1456770711300666
+    },
+    {
+      "start": 530.7,
+      "end": 537.37,
+      "text": "Now listen and answer questions 13-20.",
+      "avgLogprob": -0.1456770711300666
+    },
+    {
+      "start": 537.37,
+      "end": 542.57,
+      "text": "If you're living in a relatively new apartment or house, you're probably blessed with a cosy,",
+      "avgLogprob": -0.1456770711300666
+    },
+    {
+      "start": 542.57,
+      "end": 548.05,
+      "text": "draft-free living space. But for those of us in older properties, the chances are there",
+      "avgLogprob": -0.1456770711300666
+    },
+    {
+      "start": 548.05,
+      "end": 551.93,
+      "text": "are gaps all over the place where cold air is getting in.",
+      "avgLogprob": -0.1456770711300666
+    },
+    {
+      "start": 551.93,
+      "end": 556.45,
+      "text": "Walk around your home and place the back of your hand around window frames. Can you",
+      "avgLogprob": -0.1456770711300666
+    },
+    {
+      "start": 556.45,
+      "end": 561.49,
+      "text": "feel cold air coming in from outside? Get down on your knees at the doors. Is there",
+      "avgLogprob": -0.1380119069802518
+    },
+    {
+      "start": 561.49,
+      "end": 567.13,
+      "text": "a draft at floor level? Fix these drafts with some cheap draft excluders and savings",
+      "avgLogprob": -0.1380119069802518
+    },
+    {
+      "start": 567.13,
+      "end": 572.53,
+      "text": "in heating bills will begin straight away. And are you using the latest energy saving",
+      "avgLogprob": -0.1380119069802518
+    },
+    {
+      "start": 572.53,
+      "end": 577.17,
+      "text": "light bulbs? I'm not recommending you go around your entire property throwing out",
+      "avgLogprob": -0.1380119069802518
+    },
+    {
+      "start": 577.17,
+      "end": 582.45,
+      "text": "older ones and replacing them all immediately. But next time a bulb goes, make sure you",
+      "avgLogprob": -0.1380119069802518
+    },
+    {
+      "start": 582.45,
+      "end": 588.29,
+      "text": "buy an energy efficient alternative. And what about heating? If you have radiators",
+      "avgLogprob": -0.14141523049158208
+    },
+    {
+      "start": 588.29,
+      "end": 593.77,
+      "text": "in every room, do you need them all switched on throughout the day? If they're on timers,",
+      "avgLogprob": -0.14141523049158208
+    },
+    {
+      "start": 593.77,
+      "end": 598.53,
+      "text": "set them efficiently. Then there's the laptop or your TV. Do you",
+      "avgLogprob": -0.14141523049158208
+    },
+    {
+      "start": 598.53,
+      "end": 605.01,
+      "text": "leave them switched on overnight or on standby? Don't waste money. Turn them off. And that",
+      "avgLogprob": -0.14141523049158208
+    },
+    {
+      "start": 605.01,
+      "end": 609.17,
+      "text": "goes for lights as well. You'd be surprised how many people leave them on when they",
+      "avgLogprob": -0.14141523049158208
+    },
+    {
+      "start": 609.17,
+      "end": 615.85,
+      "text": "go out. There are also guaranteed savings to be made in the kitchen. I'm always telling",
+      "avgLogprob": -0.1016791319847107
+    },
+    {
+      "start": 615.85,
+      "end": 620.95,
+      "text": "my husband not to overfill the kettle when he makes a cup of tea. Why boil more water",
+      "avgLogprob": -0.1016791319847107
+    },
+    {
+      "start": 620.95,
+      "end": 625.09,
+      "text": "than you actually need? When you consider how many times that kettle",
+      "avgLogprob": -0.1016791319847107
+    },
+    {
+      "start": 625.09,
+      "end": 630.23,
+      "text": "gets used every day, you'll appreciate just how much electricity can be saved by boiling",
+      "avgLogprob": -0.1016791319847107
+    },
+    {
+      "start": 630.23,
+      "end": 635.71,
+      "text": "what you need and no more. And the next time you're cooking pasta or potatoes, keep",
+      "avgLogprob": -0.1016791319847107
+    },
+    {
+      "start": 635.71,
+      "end": 641.39,
+      "text": "a lid on the pot. The water will boil much more quickly than if you leave it off. And",
+      "avgLogprob": -0.12281111539764837
+    },
+    {
+      "start": 641.39,
+      "end": 644.73,
+      "text": "if you've bought yourself a pressure cooker or steamer and it's sitting in the cupboard",
+      "avgLogprob": -0.12281111539764837
+    },
+    {
+      "start": 644.73,
+      "end": 650.59,
+      "text": "never being used, get it out. They're much more efficient than pots and pans.",
+      "avgLogprob": -0.12281111539764837
+    },
+    {
+      "start": 650.59,
+      "end": 655.47,
+      "text": "Now the refrigerator and freezer. If the fridge is next to the cooker, it's having to work",
+      "avgLogprob": -0.12281111539764837
+    },
+    {
+      "start": 655.47,
+      "end": 661.31,
+      "text": "harder to stay cold. But as I'm giving cheap, easy solutions here, a kitchen redesign might",
+      "avgLogprob": -0.12281111539764837
+    },
+    {
+      "start": 661.31,
+      "end": 667.15,
+      "text": "out of the question. Still, there are other energy saving steps you can take. Keep an eye",
+      "avgLogprob": -0.09462988369844176
+    },
+    {
+      "start": 667.15,
+      "end": 672.03,
+      "text": "on the temperature control. We often forget to turn it down in the colder winter months when",
+      "avgLogprob": -0.09462988369844176
+    },
+    {
+      "start": 672.03,
+      "end": 678.35,
+      "text": "a high setting is unnecessary. Also, remember to defrost the freezer frequently and try not",
+      "avgLogprob": -0.09462988369844176
+    },
+    {
+      "start": 678.35,
+      "end": 684.27,
+      "text": "to overfill it as this isn't the most efficient way of using it. The washing machine is another",
+      "avgLogprob": -0.09462988369844176
+    },
+    {
+      "start": 684.27,
+      "end": 690.83,
+      "text": "potential money saver. A lot of people wash at 40 degrees Celsius but it's often okay to drop",
+      "avgLogprob": -0.09462988369844176
+    },
+    {
+      "start": 690.83,
+      "end": 697.31,
+      "text": "the temperature down to 30 degrees celsius with similar results and remember to either wash full",
+      "avgLogprob": -0.11005028543320108
+    },
+    {
+      "start": 697.31,
+      "end": 703.55,
+      "text": "loads or select the half load program. Again a surprising number of people forget to do this",
+      "avgLogprob": -0.11005028543320108
+    },
+    {
+      "start": 704.35,
+      "end": 707.71,
+      "text": "and is it really necessary to dry your clothes in a tumble dryer?",
+      "avgLogprob": -0.11005028543320108
+    },
+    {
+      "start": 708.43,
+      "end": 713.95,
+      "text": "If you have a garden or a yard hang them outside or if you're drying them inside",
+      "avgLogprob": -0.11005028543320108
+    },
+    {
+      "start": 713.95,
+      "end": 718.83,
+      "text": "get yourself a cheap clothes rail rather than hanging things over radiators which",
+      "avgLogprob": -0.11005028543320108
+    },
+    {
+      "start": 718.83,
+      "end": 724.79,
+      "text": "which robs you of valuable heat. Now, let us turn to some of the help our local council",
+      "avgLogprob": -0.18716367004915727
+    },
+    {
+      "start": 724.79,
+      "end": 731.52,
+      "text": "is offering to householders to save energy.",
+      "avgLogprob": -0.18716367004915727
+    },
+    {
+      "start": 731.52,
+      "end": 767.82,
+      "text": "That is the end of section 2. You now have half a minute to check your answers. Now turn",
+      "avgLogprob": -0.18716367004915727
+    },
+    {
+      "start": 767.82,
+      "end": 773.72,
+      "text": "to section 3.",
+      "avgLogprob": -0.18716367004915727
+    },
+    {
+      "start": 773.72,
+      "end": 782.04,
+      "text": "Section 3. You hear two students, called Tom and Sarah, who are studying healthcare, discussing",
+      "avgLogprob": -0.18716367004915727
+    },
+    {
+      "start": 782.04,
+      "end": 788.52,
+      "text": "the results of research into the impact of art and music in hospitals.",
+      "avgLogprob": -0.21988130419662125
+    },
+    {
+      "start": 788.52,
+      "end": 842.13,
+      "text": "First, you have time to look at questions 21-26. Now listen carefully and answer questions",
+      "avgLogprob": -0.21988130419662125
+    },
+    {
+      "start": 842.13,
+      "end": 843.13,
+      "text": "21-26.",
+      "avgLogprob": -0.21988130419662125
+    },
+    {
+      "start": 843.13,
+      "end": 854.24,
+      "text": "Hi Tom. Shall we start by looking at some of the older research done on hospital patients",
+      "avgLogprob": -0.21988130419662125
+    },
+    {
+      "start": 854.24,
+      "end": 857.28,
+      "text": "who look at art or listen to music?",
+      "avgLogprob": -0.21988130419662125
+    },
+    {
+      "start": 857.28,
+      "end": 862.48,
+      "text": "Yes, that would be useful. I think there's quite a lot of research, isn't there?",
+      "avgLogprob": -0.15682764335345195
+    },
+    {
+      "start": 862.48,
+      "end": 869.44,
+      "text": "There is, but I couldn't find many studies that produced strong evidence that looking",
+      "avgLogprob": -0.15682764335345195
+    },
+    {
+      "start": 869.44,
+      "end": 876.96,
+      "text": "at pictures or listening to music had any great medical value, like on a person's state",
+      "avgLogprob": -0.15682764335345195
+    },
+    {
+      "start": 876.96,
+      "end": 879.0,
+      "text": "of mind, for example.",
+      "avgLogprob": -0.15682764335345195
+    },
+    {
+      "start": 879.0,
+      "end": 885.48,
+      "text": "That's right. Most of the research seems to be based on art or music therapy in children's",
+      "avgLogprob": -0.15682764335345195
+    },
+    {
+      "start": 885.48,
+      "end": 892.08,
+      "text": "wards, and there wasn't much information about what happens with older people. I did",
+      "avgLogprob": -0.16471255402411183
+    },
+    {
+      "start": 892.08,
+      "end": 898.2,
+      "text": "see something on what effect it had on people who'd been injured very badly, but there",
+      "avgLogprob": -0.16471255402411183
+    },
+    {
+      "start": 898.2,
+      "end": 904.88,
+      "text": "wasn't a lot, really. The only other information is just based on what staff say they think",
+      "avgLogprob": -0.16471255402411183
+    },
+    {
+      "start": 904.88,
+      "end": 910.68,
+      "text": "the benefit of art is for patients. Did you read that report on the design of High Town",
+      "avgLogprob": -0.16471255402411183
+    },
+    {
+      "start": 910.68,
+      "end": 913.48,
+      "text": "Hospital? That was really interesting.",
+      "avgLogprob": -0.16471255402411183
+    },
+    {
+      "start": 913.48,
+      "end": 920.4,
+      "text": "Yes, it's really modern and the thing about this particular project is that they were",
+      "avgLogprob": -0.1264269876069036
+    },
+    {
+      "start": 920.4,
+      "end": 926.92,
+      "text": "able to include works of art in the design of the building at the very early stages.",
+      "avgLogprob": -0.1264269876069036
+    },
+    {
+      "start": 926.92,
+      "end": 932.9,
+      "text": "The funny thing was the staff attitude to the new building. In the beginning their reaction",
+      "avgLogprob": -0.1264269876069036
+    },
+    {
+      "start": 932.9,
+      "end": 934.74,
+      "text": "was quite negative.",
+      "avgLogprob": -0.1264269876069036
+    },
+    {
+      "start": 934.74,
+      "end": 940.6,
+      "text": "I think it probably just took them time to get used to working in such a new and different",
+      "avgLogprob": -0.1264269876069036
+    },
+    {
+      "start": 940.6,
+      "end": 948.76,
+      "text": "environment because, after six months, most of them really liked it. It's strange because",
+      "avgLogprob": -0.12091078418420582
+    },
+    {
+      "start": 948.76,
+      "end": 955.24,
+      "text": "patients could see the benefits straight away. It was great that the researchers were able to",
+      "avgLogprob": -0.12091078418420582
+    },
+    {
+      "start": 955.24,
+      "end": 961.96,
+      "text": "assess the effect of art and music on patients and staff right from the start, and at least",
+      "avgLogprob": -0.12091078418420582
+    },
+    {
+      "start": 961.96,
+      "end": 967.8,
+      "text": "they were worried about the staff and so asked for their thoughts, and the staff were actually",
+      "avgLogprob": -0.12091078418420582
+    },
+    {
+      "start": 967.8,
+      "end": 973.24,
+      "text": "very grateful for that. Yes, the research on Hightown Hospital was",
+      "avgLogprob": -0.14632843517594868
+    },
+    {
+      "start": 973.24,
+      "end": 980.0,
+      "text": "the perfect opportunity to find out whether art and music can play a meaningful role in",
+      "avgLogprob": -0.14632843517594868
+    },
+    {
+      "start": 980.0,
+      "end": 986.62,
+      "text": "health care. What I thought was good about the research was how the researchers adapted",
+      "avgLogprob": -0.14632843517594868
+    },
+    {
+      "start": 986.62,
+      "end": 992.68,
+      "text": "the requirements of the study. This meant there weren't any major difficulties or extra",
+      "avgLogprob": -0.14632843517594868
+    },
+    {
+      "start": 992.68,
+      "end": 999.32,
+      "text": "work for the staff and of course staff and managers were more cooperative and supportive",
+      "avgLogprob": -0.18330151286153568
+    },
+    {
+      "start": 999.32,
+      "end": 1005.68,
+      "text": "than they might have been. I know it took a lot longer than they had originally planned",
+      "avgLogprob": -0.18330151286153568
+    },
+    {
+      "start": 1005.68,
+      "end": 1009.04,
+      "text": "but I guess it was worth it in the end.",
+      "avgLogprob": -0.18330151286153568
+    },
+    {
+      "start": 1009.04,
+      "end": 1014.0,
+      "text": "Yes, that was very important for the success of the project.",
+      "avgLogprob": -0.18330151286153568
+    },
+    {
+      "start": 1014.0,
+      "end": 1019.6,
+      "text": "But I think the patient questionnaire could have been designed more simply. There were",
+      "avgLogprob": -0.18330151286153568
+    },
+    {
+      "start": 1019.6,
+      "end": 1026.6,
+      "text": "There were too many questions, but at least they focused on all the right areas, which is so important.",
+      "avgLogprob": -0.12133476519307425
+    },
+    {
+      "start": 1026.6,
+      "end": 1031.76,
+      "text": "Absolutely.",
+      "avgLogprob": -0.12133476519307425
+    },
+    {
+      "start": 1031.76,
+      "end": 1067.3,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 27 to 30.",
+      "avgLogprob": -0.12133476519307425
+    },
+    {
+      "start": 1067.3,
+      "end": 1071.3,
+      "text": "Now listen and answer questions 27 to 30.",
+      "avgLogprob": -0.12133476519307425
+    },
+    {
+      "start": 1071.3,
+      "end": 1079.87,
+      "text": "The findings of the research were very interesting, weren't they? There were a few unexpected results.",
+      "avgLogprob": -0.12133476519307425
+    },
+    {
+      "start": 1079.87,
+      "end": 1086.87,
+      "text": "Yes, the impact on patients in some cases was quite clear. I've got the results here.",
+      "avgLogprob": -0.11002450773403757
+    },
+    {
+      "start": 1086.87,
+      "end": 1089.87,
+      "text": "The day surgery unit clinic was a good example.",
+      "avgLogprob": -0.11002450773403757
+    },
+    {
+      "start": 1089.87,
+      "end": 1093.87,
+      "text": "Yes, it really did make a difference there.",
+      "avgLogprob": -0.11002450773403757
+    },
+    {
+      "start": 1093.87,
+      "end": 1100.87,
+      "text": "As far as I remember, there was a huge drop in levels of anxiety and a significant number of patients,",
+      "avgLogprob": -0.11002450773403757
+    },
+    {
+      "start": 1100.87,
+      "end": 1104.87,
+      "text": "though they still needed the same amount of medicine.",
+      "avgLogprob": -0.11002450773403757
+    },
+    {
+      "start": 1104.87,
+      "end": 1110.87,
+      "text": "And interestingly, it seems that the art was more effective than the music.",
+      "avgLogprob": -0.1271367485706623
+    },
+    {
+      "start": 1110.87,
+      "end": 1114.87,
+      "text": "That's right. And look at this. The children's unit.",
+      "avgLogprob": -0.1271367485706623
+    },
+    {
+      "start": 1114.87,
+      "end": 1126.87,
+      "text": "Well, the really noticeable thing here is that children left hospital on average a day earlier than children who had not been exposed to art and music.",
+      "avgLogprob": -0.1271367485706623
+    },
+    {
+      "start": 1126.87,
+      "end": 1129.87,
+      "text": "That's really significant, don't you think?",
+      "avgLogprob": -0.1271367485706623
+    },
+    {
+      "start": 1129.87,
+      "end": 1137.27,
+      "text": "Very interesting. Yes, I'd have expected children to respond better to music than art myself.",
+      "avgLogprob": -0.14521180901182704
+    },
+    {
+      "start": 1137.27,
+      "end": 1143.37,
+      "text": "Yes, me too. Let's look at the results from the accident and emergency unit.",
+      "avgLogprob": -0.14521180901182704
+    },
+    {
+      "start": 1143.37,
+      "end": 1158.87,
+      "text": "Well, the accident and emergency unit is the only part of the hospital in this study where exposing patients to art and music made no real difference to stress levels or the amount of medication required.",
+      "avgLogprob": -0.14521180901182704
+    },
+    {
+      "start": 1158.87,
+      "end": 1165.49,
+      "text": "I think it must be because patients don't spend as long here as they do in other parts of the hospital.",
+      "avgLogprob": -0.24042746569547388
+    },
+    {
+      "start": 1165.49,
+      "end": 1174.19,
+      "text": "You could be right. And finally, the ENT. You know, the ear, nose and throat unit.",
+      "avgLogprob": -0.24042746569547388
+    },
+    {
+      "start": 1174.19,
+      "end": 1182.91,
+      "text": "Well, here, patients responded more positively to music than the display of large, colourful paintings.",
+      "avgLogprob": -0.24042746569547388
+    },
+    {
+      "start": 1182.91,
+      "end": 1189.91,
+      "text": "I found that interesting, especially when we look at what's happened in other areas of the hospital.",
+      "avgLogprob": -0.13003059968035272
+    },
+    {
+      "start": 1189.91,
+      "end": 1193.91,
+      "text": "And another thing is that the staff were more cooperative too.",
+      "avgLogprob": -0.13003059968035272
+    },
+    {
+      "start": 1193.91,
+      "end": 1198.91,
+      "text": "Interesting. Well, the results are very exciting.",
+      "avgLogprob": -0.13003059968035272
+    },
+    {
+      "start": 1198.91,
+      "end": 1204.91,
+      "text": "And I think what we can use in our own research is maybe compare what we found here.",
+      "avgLogprob": -0.13003059968035272
+    },
+    {
+      "start": 1204.91,
+      "end": 1209.76,
+      "text": "That is the end of section 3.",
+      "avgLogprob": -0.13003059968035272
+    },
+    {
+      "start": 1209.76,
+      "end": 1213.76,
+      "text": "You now have half a minute to check your answers.",
+      "avgLogprob": -0.13003059968035272
+    },
+    {
+      "start": 1213.76,
+      "end": 1248.52,
+      "text": "Now turn to section 4.",
+      "avgLogprob": -0.18980616331100464
+    },
+    {
+      "start": 1248.52,
+      "end": 1249.68,
+      "text": "Section 4.",
+      "avgLogprob": -0.18980616331100464
+    },
+    {
+      "start": 1249.68,
+      "end": 1255.96,
+      "text": "You will hear part of a lecture given to marine biology students about a small fish that lives",
+      "avgLogprob": -0.18980616331100464
+    },
+    {
+      "start": 1255.96,
+      "end": 1258.96,
+      "text": "in the Australian desert.",
+      "avgLogprob": -0.18980616331100464
+    },
+    {
+      "start": 1258.96,
+      "end": 1323.61,
+      "text": "First you have some time to look at questions 31 to 40.",
+      "avgLogprob": -0.18980616331100464
+    },
+    {
+      "start": 1323.61,
+      "end": 1333.89,
+      "text": "Now listen carefully and answer the questions 31 to 40.",
+      "avgLogprob": -0.18980616331100464
+    },
+    {
+      "start": 1333.89,
+      "end": 1340.13,
+      "text": "So let's talk now about an unusual type of fish that lives here in Australia.",
+      "avgLogprob": -0.17867685490569404
+    },
+    {
+      "start": 1340.13,
+      "end": 1341.85,
+      "text": "The Gobi fish.",
+      "avgLogprob": -0.17867685490569404
+    },
+    {
+      "start": 1341.85,
+      "end": 1347.47,
+      "text": "It's a colourful fish that grows to only about 6cm in length.",
+      "avgLogprob": -0.17867685490569404
+    },
+    {
+      "start": 1347.47,
+      "end": 1352.77,
+      "text": "And while you might think that all fish are skilled at swimming through water with ease,",
+      "avgLogprob": -0.17867685490569404
+    },
+    {
+      "start": 1352.77,
+      "end": 1356.61,
+      "text": "Gobi fish can't do so easily.",
+      "avgLogprob": -0.17867685490569404
+    },
+    {
+      "start": 1356.61,
+      "end": 1359.61,
+      "text": "So how do they manage to move around?",
+      "avgLogprob": -0.17867685490569404
+    },
+    {
+      "start": 1359.61,
+      "end": 1366.05,
+      "text": "Well, Gobi fish will in fact travel hundreds of kilometres using the fast-moving water",
+      "avgLogprob": -0.1932689598922072
+    },
+    {
+      "start": 1366.05,
+      "end": 1370.61,
+      "text": "during a flood to travel more quickly.",
+      "avgLogprob": -0.1932689598922072
+    },
+    {
+      "start": 1370.61,
+      "end": 1376.45,
+      "text": "Scientists know this because they've tracked the DNA of Gobi fish in different locations",
+      "avgLogprob": -0.1932689598922072
+    },
+    {
+      "start": 1376.45,
+      "end": 1379.21,
+      "text": "and found connections between them.",
+      "avgLogprob": -0.1932689598922072
+    },
+    {
+      "start": 1379.21,
+      "end": 1383.17,
+      "text": "So, why are we talking about this fish today?",
+      "avgLogprob": -0.1932689598922072
+    },
+    {
+      "start": 1383.17,
+      "end": 1388.97,
+      "text": "Well, it's an amazing little fish if we consider its habitat.",
+      "avgLogprob": -0.1932689598922072
+    },
+    {
+      "start": 1388.97,
+      "end": 1395.45,
+      "text": "It lives in the very dry desert interior of central Australia, in rivers and springs that",
+      "avgLogprob": -0.09695462920531935
+    },
+    {
+      "start": 1395.45,
+      "end": 1398.61,
+      "text": "come and go, depending on rainfall.",
+      "avgLogprob": -0.09695462920531935
+    },
+    {
+      "start": 1398.61,
+      "end": 1403.77,
+      "text": "It can even be seen in the little puddles that are left behind when the rivers and springs",
+      "avgLogprob": -0.09695462920531935
+    },
+    {
+      "start": 1403.77,
+      "end": 1405.77,
+      "text": "dry up.",
+      "avgLogprob": -0.09695462920531935
+    },
+    {
+      "start": 1405.77,
+      "end": 1411.45,
+      "text": "Gobi fish are able to wait in the shallow water long enough to leapfrog their way across",
+      "avgLogprob": -0.09695462920531935
+    },
+    {
+      "start": 1411.45,
+      "end": 1418.59,
+      "text": "the landscape when the wet weather returns, which is an ingenious way of travelling around.",
+      "avgLogprob": -0.09695462920531935
+    },
+    {
+      "start": 1418.59,
+      "end": 1425.15,
+      "text": "This makes them quite different to other species of desert fish, which often show more isolated",
+      "avgLogprob": -0.14975637816763543
+    },
+    {
+      "start": 1425.15,
+      "end": 1427.63,
+      "text": "population patterns.",
+      "avgLogprob": -0.14975637816763543
+    },
+    {
+      "start": 1427.63,
+      "end": 1435.47,
+      "text": "Amazingly, these little fish can live quite happily in extreme environmental conditions.",
+      "avgLogprob": -0.14975637816763543
+    },
+    {
+      "start": 1435.47,
+      "end": 1441.71,
+      "text": "The waters the fish inhabit sometimes contain three times as much salt as seawater, and",
+      "avgLogprob": -0.14975637816763543
+    },
+    {
+      "start": 1441.71,
+      "end": 1447.71,
+      "text": "the temperature of the water ranges from between 5 and 40 degrees.",
+      "avgLogprob": -0.14975637816763543
+    },
+    {
+      "start": 1447.71,
+      "end": 1453.51,
+      "text": "Despite these hardships, the benefits for this hardy little fish of moving to new water",
+      "avgLogprob": -0.11583083238275278
+    },
+    {
+      "start": 1453.51,
+      "end": 1460.19,
+      "text": "sources when the opportunity arises are that there is less risk of overcrowding and, as",
+      "avgLogprob": -0.11583083238275278
+    },
+    {
+      "start": 1460.19,
+      "end": 1465.23,
+      "text": "a consequence, there is more food to share around.",
+      "avgLogprob": -0.11583083238275278
+    },
+    {
+      "start": 1465.23,
+      "end": 1470.71,
+      "text": "When it comes to reproduction and mating behaviour in the spring and summer time,",
+      "avgLogprob": -0.11583083238275278
+    },
+    {
+      "start": 1470.71,
+      "end": 1475.03,
+      "text": "it is the male goby who must attract the female.",
+      "avgLogprob": -0.11583083238275278
+    },
+    {
+      "start": 1475.03,
+      "end": 1480.59,
+      "text": "After clearing an area where eggs are to be deposited, the male goby performs a flashy",
+      "avgLogprob": -0.1137351688937606
+    },
+    {
+      "start": 1480.59,
+      "end": 1482.39,
+      "text": "little dance.",
+      "avgLogprob": -0.1137351688937606
+    },
+    {
+      "start": 1482.39,
+      "end": 1488.43,
+      "text": "Once attracted, the female follows the male back to his nest, which is often under rocks",
+      "avgLogprob": -0.1137351688937606
+    },
+    {
+      "start": 1488.43,
+      "end": 1490.39,
+      "text": "on the riverbed.",
+      "avgLogprob": -0.1137351688937606
+    },
+    {
+      "start": 1490.39,
+      "end": 1493.07,
+      "text": "Once there, she will lay her eggs.",
+      "avgLogprob": -0.1137351688937606
+    },
+    {
+      "start": 1493.07,
+      "end": 1498.95,
+      "text": "Unlike most other species, it is in fact the male who looks after the eggs.",
+      "avgLogprob": -0.1137351688937606
+    },
+    {
+      "start": 1498.95,
+      "end": 1504.63,
+      "text": "He fans them with his pectoral fins, which helps to keep up a supply of oxygen to the",
+      "avgLogprob": -0.1137351688937606
+    },
+    {
+      "start": 1504.63,
+      "end": 1511.83,
+      "text": "eggs. The threats to Gobi fish are many. Of course there will always be natural",
+      "avgLogprob": -0.1240943576330724
+    },
+    {
+      "start": 1511.83,
+      "end": 1516.95,
+      "text": "predation such as when birds make a snack out of Gobi fish they spot in",
+      "avgLogprob": -0.1240943576330724
+    },
+    {
+      "start": 1516.95,
+      "end": 1522.99,
+      "text": "shallow water. But like so many natural environments around the world the areas",
+      "avgLogprob": -0.1240943576330724
+    },
+    {
+      "start": 1522.99,
+      "end": 1528.23,
+      "text": "that Gobi fish live in are being altered by human activity which poses a threat",
+      "avgLogprob": -0.1240943576330724
+    },
+    {
+      "start": 1528.23,
+      "end": 1534.31,
+      "text": "to the tiny fish. Water is a precious resource in Central Australia and the",
+      "avgLogprob": -0.1240943576330724
+    },
+    {
+      "start": 1534.31,
+      "end": 1539.55,
+      "text": "The use of bores that drill down to bring up underground water is causing the level",
+      "avgLogprob": -0.12862155170634734
+    },
+    {
+      "start": 1539.55,
+      "end": 1545.39,
+      "text": "of the water table to fall, and some springs are even disappearing altogether.",
+      "avgLogprob": -0.12862155170634734
+    },
+    {
+      "start": 1545.39,
+      "end": 1551.71,
+      "text": "Furthermore, freshwater sources are obviously important for livestock, but cattle often",
+      "avgLogprob": -0.12862155170634734
+    },
+    {
+      "start": 1551.71,
+      "end": 1555.75,
+      "text": "harm the easily damaged margins of the springs.",
+      "avgLogprob": -0.12862155170634734
+    },
+    {
+      "start": 1555.75,
+      "end": 1561.59,
+      "text": "Some good news is that a few springs containing desert gobi have been fenced off, and some",
+      "avgLogprob": -0.12862155170634734
+    },
+    {
+      "start": 1561.59,
+      "end": 1566.55,
+      "text": "have recently been acquired as National Park.",
+      "avgLogprob": -0.13398553068057084
+    },
+    {
+      "start": 1566.55,
+      "end": 1570.89,
+      "text": "Recent research into Gobi fish has come up with some surprises.",
+      "avgLogprob": -0.13398553068057084
+    },
+    {
+      "start": 1570.89,
+      "end": 1576.15,
+      "text": "It is commonly believed that the large dominant males of a species are the ones who go on",
+      "avgLogprob": -0.13398553068057084
+    },
+    {
+      "start": 1576.15,
+      "end": 1583.25,
+      "text": "to breed with the females, but it has been observed that smaller Gobi fish pretend to",
+      "avgLogprob": -0.13398553068057084
+    },
+    {
+      "start": 1583.25,
+      "end": 1587.99,
+      "text": "be highly aggressive and attack quickly when threatened.",
+      "avgLogprob": -0.13398553068057084
+    },
+    {
+      "start": 1587.99,
+      "end": 1592.75,
+      "text": "This causes their opponent to retreat and so a fight is avoided.",
+      "avgLogprob": -0.10221570092770789
+    },
+    {
+      "start": 1592.75,
+      "end": 1598.91,
+      "text": "This intimidation strategy increases the smaller males' breeding chances as the larger male",
+      "avgLogprob": -0.10221570092770789
+    },
+    {
+      "start": 1598.91,
+      "end": 1604.73,
+      "text": "is scared off before they can assess the real risk posed by the smaller fish.",
+      "avgLogprob": -0.10221570092770789
+    },
+    {
+      "start": 1604.73,
+      "end": 1611.51,
+      "text": "This opens up the possibility that this may also be the case for other animal species.",
+      "avgLogprob": -0.10221570092770789
+    },
+    {
+      "start": 1611.51,
+      "end": 1617.51,
+      "text": "Already scientists have found a jumping spider that uses the goby-like bluffing to hold",
+      "avgLogprob": -0.10221570092770789
+    },
+    {
+      "start": 1617.51,
+      "end": 1623.35,
+      "text": "their ground against larger males and it is expected that other animal species will do",
+      "avgLogprob": -0.14765895247459412
+    },
+    {
+      "start": 1623.35,
+      "end": 1629.17,
+      "text": "the same.",
+      "avgLogprob": -0.14765895247459412
+    },
+    {
+      "start": 1629.17,
+      "end": 1631.89,
+      "text": "That is the end of section 4.",
+      "avgLogprob": -0.14765895247459412
+    },
+    {
+      "start": 1631.89,
+      "end": 1664.73,
+      "text": "You now have half a minute to check your answers.",
+      "avgLogprob": -0.14765895247459412
+    },
+    {
+      "start": 1664.73,
+      "end": 1666.97,
+      "text": "That is the end of the listening test.",
+      "avgLogprob": -0.14765895247459412
+    },
+    {
+      "start": 1666.97,
+      "end": 1672.13,
+      "text": "You would now have 10 minutes to transfer your answers to the listening answer sheet.",
+      "avgLogprob": -0.14765895247459412
+    }
+  ]
+}

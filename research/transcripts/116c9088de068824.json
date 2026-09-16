@@ -1,0 +1,139 @@
+{
+  "source": "assets/audio/116c9088de068824.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 1.08,
+      "text": "Good morning.",
+      "avgLogprob": -0.1645322647359636
+    },
+    {
+      "start": 1.08,
+      "end": 3.08,
+      "text": "Good morning. How can I help you?",
+      "avgLogprob": -0.1645322647359636
+    },
+    {
+      "start": 3.08,
+      "end": 8.08,
+      "text": "I understand that the school organizes trips to different...",
+      "avgLogprob": -0.1645322647359636
+    },
+    {
+      "start": 8.08,
+      "end": 14.08,
+      "text": "Yes, we run five every month, three during weekends and two Wednesday afternoon trips.",
+      "avgLogprob": -0.1645322647359636
+    },
+    {
+      "start": 14.08,
+      "end": 16.08,
+      "text": "What sort of places?",
+      "avgLogprob": -0.1645322647359636
+    },
+    {
+      "start": 16.08,
+      "end": 21.08,
+      "text": "Well, obviously it varies, but always places of historical interest,",
+      "avgLogprob": -0.1645322647359636
+    },
+    {
+      "start": 21.08,
+      "end": 26.08,
+      "text": "and also which offer a variety of shopping because our students always ask about that.",
+      "avgLogprob": -0.1645322647359636
+    },
+    {
+      "start": 26.08,
+      "end": 32.08,
+      "text": "And then we go for ones where we know there are guided tours, because this gives a good focus for the visit.",
+      "avgLogprob": -0.1237326206359188
+    },
+    {
+      "start": 32.08,
+      "end": 34.08,
+      "text": "Do travel far?",
+      "avgLogprob": -0.1237326206359188
+    },
+    {
+      "start": 34.08,
+      "end": 41.08,
+      "text": "Well, we're lucky here, obviously, because we're able to say that all our visits are less than three hours' drive.",
+      "avgLogprob": -0.1237326206359188
+    },
+    {
+      "start": 41.08,
+      "end": 43.08,
+      "text": "How much do they cost?",
+      "avgLogprob": -0.1237326206359188
+    },
+    {
+      "start": 43.08,
+      "end": 49.08,
+      "text": "Again, it varies. Between five and fifteen pounds ahead, depending on distance.",
+      "avgLogprob": -0.1237326206359188
+    },
+    {
+      "start": 49.08,
+      "end": 55.08,
+      "text": "Oh, and we do offer to arrange special trips if, you know, there are more than twelve people.",
+      "avgLogprob": -0.1237326206359188
+    },
+    {
+      "start": 55.08,
+      "end": 60.84,
+      "text": "Oh, right, I'll keep that in mind. And what are the times, normally?",
+      "avgLogprob": -0.21283026079160977
+    },
+    {
+      "start": 60.84,
+      "end": 68.6,
+      "text": "We try to keep it pretty fixed, so that students get to know the pattern. We leave at 8.30am",
+      "avgLogprob": -0.21283026079160977
+    },
+    {
+      "start": 68.6,
+      "end": 73.12,
+      "text": "and return at 6pm. We figure it's best to keep the day fairly short.",
+      "avgLogprob": -0.21283026079160977
+    },
+    {
+      "start": 73.12,
+      "end": 77.14,
+      "text": "Oh, yes. And how do we reserve a place?",
+      "avgLogprob": -0.21283026079160977
+    },
+    {
+      "start": 77.14,
+      "end": 80.16,
+      "text": "You sign your name on the notice board. Do you know where it is?",
+      "avgLogprob": -0.21283026079160977
+    },
+    {
+      "start": 80.16,
+      "end": 82.4,
+      "text": "Ah-ha, I saw it this morning.",
+      "avgLogprob": -0.21283026079160977
+    },
+    {
+      "start": 82.4,
+      "end": 87.56,
+      "text": "And we do ask that you sign up three days in advance, so we know we've got enough people",
+      "avgLogprob": -0.17085387127903792
+    },
+    {
+      "start": 87.56,
+      "end": 92.92,
+      "text": "interested to run it, and we can cancel if necessary, with full refund of course.",
+      "avgLogprob": -0.17085387127903792
+    },
+    {
+      "start": 92.92,
+      "end": 94.08,
+      "text": "That's fine, thanks.",
+      "avgLogprob": -0.17085387127903792
+    }
+  ]
+}

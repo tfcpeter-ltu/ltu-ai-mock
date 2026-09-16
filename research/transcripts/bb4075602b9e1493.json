@@ -1,0 +1,1321 @@
+{
+  "source": "assets/audio/bb4075602b9e1493.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Section 1.",
+      "avgLogprob": -0.1967632665105586
+    },
+    {
+      "start": 2.48,
+      "end": 6.88,
+      "text": "You will hear a conversation between an assistant at a community centre",
+      "avgLogprob": -0.1967632665105586
+    },
+    {
+      "start": 6.88,
+      "end": 10.72,
+      "text": "and a man who wants to join some evening classes.",
+      "avgLogprob": -0.1967632665105586
+    },
+    {
+      "start": 10.72,
+      "end": 54.34,
+      "text": "First, you have some time to look at questions 1 to 6.",
+      "avgLogprob": -0.1967632665105586
+    },
+    {
+      "start": 54.34,
+      "end": 57.06,
+      "text": "Hello, Eastwood Community Centre.",
+      "avgLogprob": -0.1967632665105586
+    },
+    {
+      "start": 57.06,
+      "end": 60.18,
+      "text": "Oh, hello. My name's Andrew Dyson.",
+      "avgLogprob": -0.1967632665105586
+    },
+    {
+      "start": 60.18,
+      "end": 63.3,
+      "text": "I'm calling about the evening classes you offer.",
+      "avgLogprob": -0.1967632665105586
+    },
+    {
+      "start": 63.3,
+      "end": 65.06,
+      "text": "OK, Mr Dyson.",
+      "avgLogprob": -0.1967632665105586
+    },
+    {
+      "start": 65.06,
+      "end": 68.42,
+      "text": "Are there any classes in particular that you're interested in?",
+      "avgLogprob": -0.1967632665105586
+    },
+    {
+      "start": 68.42,
+      "end": 72.9,
+      "text": "Yes, you've got a class called Painting with Watercolours, I believe.",
+      "avgLogprob": -0.1510075809503043
+    },
+    {
+      "start": 72.9,
+      "end": 79.94,
+      "text": "That's right. It's a popular class, so this term it'll be moving to the hall, so they've got more room.",
+      "avgLogprob": -0.1510075809503043
+    },
+    {
+      "start": 79.94,
+      "end": 84.58,
+      "text": "Right. I know it's on Tuesdays, but what time exactly?",
+      "avgLogprob": -0.1510075809503043
+    },
+    {
+      "start": 84.58,
+      "end": 90.42,
+      "text": "It was 6.30 last term, but let me just have a look at the details.",
+      "avgLogprob": -0.1510075809503043
+    },
+    {
+      "start": 90.42,
+      "end": 95.7,
+      "text": "OK, it'll be 7.30 this time, probably it suits more people.",
+      "avgLogprob": -0.1510075809503043
+    },
+    {
+      "start": 95.7,
+      "end": 102.06,
+      "text": "Well, it's my wife who's really interested, and that'll be good for her because she's home from work by 7.15.",
+      "avgLogprob": -0.207285230316348
+    },
+    {
+      "start": 102.06,
+      "end": 104.7,
+      "text": "That'll give her just enough time to get there.",
+      "avgLogprob": -0.207285230316348
+    },
+    {
+      "start": 104.7,
+      "end": 106.94,
+      "text": "Um, what does she need to bring?",
+      "avgLogprob": -0.207285230316348
+    },
+    {
+      "start": 106.94,
+      "end": 112.26,
+      "text": "Okay, well, paints are provided by the tutor, I know that.",
+      "avgLogprob": -0.207285230316348
+    },
+    {
+      "start": 112.26,
+      "end": 119.7,
+      "text": "Um, the information says she'll need just a jar for water and some pencils for drawing.",
+      "avgLogprob": -0.207285230316348
+    },
+    {
+      "start": 119.7,
+      "end": 124.7,
+      "text": "There are also lots of aprons here, so she needn't worry what she's wearing.",
+      "avgLogprob": -0.207285230316348
+    },
+    {
+      "start": 124.7,
+      "end": 130.7,
+      "text": "And the cost for four classes is $45, including paints, as I said.",
+      "avgLogprob": -0.10839817069825672
+    },
+    {
+      "start": 130.7,
+      "end": 131.7,
+      "text": "OK.",
+      "avgLogprob": -0.10839817069825672
+    },
+    {
+      "start": 131.7,
+      "end": 140.6,
+      "text": "There are spaces on the next course, so you could join that.",
+      "avgLogprob": -0.10839817069825672
+    },
+    {
+      "start": 140.6,
+      "end": 143.6,
+      "text": "Oh, good. Which room will that be in?",
+      "avgLogprob": -0.10839817069825672
+    },
+    {
+      "start": 143.6,
+      "end": 147.6,
+      "text": "When you come in through the entrance of the Community Centre Building,",
+      "avgLogprob": -0.10839817069825672
+    },
+    {
+      "start": 147.6,
+      "end": 152.6,
+      "text": "you'll need to go straight up the stairs in front of you, all the way to the top,",
+      "avgLogprob": -0.10839817069825672
+    },
+    {
+      "start": 152.6,
+      "end": 155.6,
+      "text": "and it's the small room you'll find there.",
+      "avgLogprob": -0.10839817069825672
+    },
+    {
+      "start": 155.6,
+      "end": 161.16,
+      "text": "I see. All right, and let me just check when it's starting. I heard from someone that the",
+      "avgLogprob": -0.1833060516251458
+    },
+    {
+      "start": 161.16,
+      "end": 164.24,
+      "text": "July course has been delayed until August.",
+      "avgLogprob": -0.1833060516251458
+    },
+    {
+      "start": 164.24,
+      "end": 170.2,
+      "text": "I'm afraid so, and we're halfway through the June course at the moment, so there's not",
+      "avgLogprob": -0.1833060516251458
+    },
+    {
+      "start": 170.2,
+      "end": 172.48,
+      "text": "much point you're taking that.",
+      "avgLogprob": -0.1833060516251458
+    },
+    {
+      "start": 172.48,
+      "end": 174.6,
+      "text": "I guess we'll have to wait then.",
+      "avgLogprob": -0.1833060516251458
+    },
+    {
+      "start": 174.6,
+      "end": 180.32,
+      "text": "Well, when you do come, the tutor recommends bringing a small recorder with you, just",
+      "avgLogprob": -0.1833060516251458
+    },
+    {
+      "start": 180.32,
+      "end": 183.12,
+      "text": "Just so you can listen again later.",
+      "avgLogprob": -0.26337905824184416
+    },
+    {
+      "start": 183.12,
+      "end": 188.08,
+      "text": "And the cost for five classes is currently $40.",
+      "avgLogprob": -0.26337905824184416
+    },
+    {
+      "start": 188.08,
+      "end": 191.56,
+      "text": "Okay, useful information to know.",
+      "avgLogprob": -0.26337905824184416
+    },
+    {
+      "start": 191.56,
+      "end": 194.06,
+      "text": "There's one more class I'm interested in.",
+      "avgLogprob": -0.26337905824184416
+    },
+    {
+      "start": 194.06,
+      "end": 196.16,
+      "text": "That's the digital photography class.",
+      "avgLogprob": -0.26337905824184416
+    },
+    {
+      "start": 196.16,
+      "end": 199.24,
+      "text": "Oh, I've taken that class myself.",
+      "avgLogprob": -0.26337905824184416
+    },
+    {
+      "start": 199.24,
+      "end": 201.52,
+      "text": "The tutors are very good.",
+      "avgLogprob": -0.26337905824184416
+    },
+    {
+      "start": 201.52,
+      "end": 206.0,
+      "text": "That'll be in Room 9, and it's starting in two weeks' time.",
+      "avgLogprob": -0.26337905824184416
+    },
+    {
+      "start": 206.0,
+      "end": 207.54,
+      "text": "In the evening.",
+      "avgLogprob": -0.26337905824184416
+    },
+    {
+      "start": 207.54,
+      "end": 210.24,
+      "text": "Every Wednesday at 6 o'clock.",
+      "avgLogprob": -0.26337905824184416
+    },
+    {
+      "start": 210.24,
+      "end": 212.88,
+      "text": "Obviously, I need to bring the camera with me.",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 212.88,
+      "end": 215.62,
+      "text": "I suppose it'd be useful to have the instructions",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 215.62,
+      "end": 217.34,
+      "text": "that go with the camera too?",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 217.34,
+      "end": 218.54,
+      "text": "I'd say so.",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 219.54,
+      "end": 222.82,
+      "text": "Some people bring along a lot of accessories",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 222.82,
+      "end": 225.06,
+      "text": "like extra lenses,",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 225.06,
+      "end": 227.82,
+      "text": "but there's really no need for this class.",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 227.82,
+      "end": 230.98,
+      "text": "It's mainly focusing on composition really,",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 230.98,
+      "end": 233.58,
+      "text": "and getting the most out of the basic camera.",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 233.58,
+      "end": 235.46,
+      "text": "That's exactly what I need.",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 235.46,
+      "end": 237.54,
+      "text": "And how much does it cost?",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 237.54,
+      "end": 239.46,
+      "text": "Let's see.",
+      "avgLogprob": -0.1386868097843268
+    },
+    {
+      "start": 239.46,
+      "end": 248.26,
+      "text": "For four classes, it's $35, but if you take eight, it works out as $55, so you're making",
+      "avgLogprob": -0.2182135401350079
+    },
+    {
+      "start": 248.26,
+      "end": 251.58,
+      "text": "a bit of a saving, $15 that is.",
+      "avgLogprob": -0.2182135401350079
+    },
+    {
+      "start": 251.58,
+      "end": 255.52,
+      "text": "I see.",
+      "avgLogprob": -0.2182135401350079
+    },
+    {
+      "start": 255.52,
+      "end": 259.64,
+      "text": "Before you hear the rest of the conversation, you will have some time to look at the questions",
+      "avgLogprob": -0.2182135401350079
+    },
+    {
+      "start": 259.64,
+      "end": 280.95,
+      "text": "seven to ten.",
+      "avgLogprob": -0.2182135401350079
+    },
+    {
+      "start": 280.95,
+      "end": 286.93,
+      "text": "Now listen and answer questions seven to ten.",
+      "avgLogprob": -0.2182135401350079
+    },
+    {
+      "start": 286.93,
+      "end": 290.01,
+      "text": "Now just another question for the watercolours class.",
+      "avgLogprob": -0.2182135401350079
+    },
+    {
+      "start": 290.01,
+      "end": 295.69,
+      "text": "I've just remembered that my wife asked me to find out about the level. Who's it for?",
+      "avgLogprob": -0.17850521636696962
+    },
+    {
+      "start": 295.69,
+      "end": 302.65,
+      "text": "Okay, well, you don't have to be very skilled or anything like that. It's designed for beginners,",
+      "avgLogprob": -0.17850521636696962
+    },
+    {
+      "start": 302.65,
+      "end": 309.25,
+      "text": "actually. People who might see art as a hobby, rather than as a professional opportunity.",
+      "avgLogprob": -0.17850521636696962
+    },
+    {
+      "start": 309.25,
+      "end": 314.53,
+      "text": "That sounds like my wife. And, um, who do I talk to if I want to find out some more",
+      "avgLogprob": -0.17850521636696962
+    },
+    {
+      "start": 314.53,
+      "end": 317.57,
+      "text": "about the Maori language classes?",
+      "avgLogprob": -0.17850521636696962
+    },
+    {
+      "start": 317.57,
+      "end": 323.61,
+      "text": "best to talk to the tutor directly. He'll be in the office in about half an hour. His",
+      "avgLogprob": -0.1431108242740818
+    },
+    {
+      "start": 323.61,
+      "end": 328.61,
+      "text": "name's Jason Kui. That's K-A-H-U-I.",
+      "avgLogprob": -0.1431108242740818
+    },
+    {
+      "start": 328.61,
+      "end": 332.69,
+      "text": "Good. I'll give him a call.",
+      "avgLogprob": -0.1431108242740818
+    },
+    {
+      "start": 332.69,
+      "end": 338.41,
+      "text": "Oh, if you do decide to come to the photography class, don't forget to look at your camera",
+      "avgLogprob": -0.1431108242740818
+    },
+    {
+      "start": 338.41,
+      "end": 345.09,
+      "text": "battery and make sure it's charged. I know it sounds obvious, but I've seen a few people",
+      "avgLogprob": -0.1431108242740818
+    },
+    {
+      "start": 345.09,
+      "end": 349.37,
+      "text": "suddenly find the cameras stopped working right in the middle of class.",
+      "avgLogprob": -0.2050865505609596
+    },
+    {
+      "start": 349.37,
+      "end": 352.89,
+      "text": "Yes, I can imagine it'd be easy to forget that.",
+      "avgLogprob": -0.2050865505609596
+    },
+    {
+      "start": 352.89,
+      "end": 358.05,
+      "text": "Oh, that reminds me, in the final week of the photography course, is it right that there's",
+      "avgLogprob": -0.2050865505609596
+    },
+    {
+      "start": 358.05,
+      "end": 360.65,
+      "text": "a visit to a show in the local area?",
+      "avgLogprob": -0.2050865505609596
+    },
+    {
+      "start": 360.65,
+      "end": 365.33,
+      "text": "I work in the city, you see, so I might have to come home early for that one.",
+      "avgLogprob": -0.2050865505609596
+    },
+    {
+      "start": 365.33,
+      "end": 370.21,
+      "text": "Yes, they'll decide the date once the class has started.",
+      "avgLogprob": -0.2050865505609596
+    },
+    {
+      "start": 370.21,
+      "end": 374.94,
+      "text": "Is there anything else I can…",
+      "avgLogprob": -0.2050865505609596
+    },
+    {
+      "start": 374.94,
+      "end": 377.3,
+      "text": "That is the end of section 1.",
+      "avgLogprob": -0.1635803329817792
+    },
+    {
+      "start": 377.3,
+      "end": 410.05,
+      "text": "You now have half a minute to check your answers.",
+      "avgLogprob": -0.1635803329817792
+    },
+    {
+      "start": 410.05,
+      "end": 415.13,
+      "text": "Now turn to section 2.",
+      "avgLogprob": -0.1635803329817792
+    },
+    {
+      "start": 415.13,
+      "end": 416.71,
+      "text": "Section 2.",
+      "avgLogprob": -0.1635803329817792
+    },
+    {
+      "start": 416.71,
+      "end": 420.71,
+      "text": "You will hear a tour guide giving a talk about Westchester Castle.",
+      "avgLogprob": -0.1635803329817792
+    },
+    {
+      "start": 420.71,
+      "end": 460.8,
+      "text": "First, you have some time to look at questions 11, to 17.",
+      "avgLogprob": -0.1635803329817792
+    },
+    {
+      "start": 460.8,
+      "end": 467.12,
+      "text": "Now, listen carefully and answer questions 11, to 17.",
+      "avgLogprob": -0.1635803329817792
+    },
+    {
+      "start": 467.12,
+      "end": 470.4,
+      "text": "Welcome to Westchester Castle everyone.",
+      "avgLogprob": -0.1635803329817792
+    },
+    {
+      "start": 470.4,
+      "end": 476.4,
+      "text": "I know some of you have come a long way today, so I hope you will enjoy your time with us.",
+      "avgLogprob": -0.14970526706825182
+    },
+    {
+      "start": 476.4,
+      "end": 482.26,
+      "text": "Westchester Castle dates back to the 11th century and was home to the Westchester family",
+      "avgLogprob": -0.14970526706825182
+    },
+    {
+      "start": 482.26,
+      "end": 487.44,
+      "text": "until the 19th century, when it was donated to the National Trust.",
+      "avgLogprob": -0.14970526706825182
+    },
+    {
+      "start": 487.44,
+      "end": 490.48,
+      "text": "We are now standing at the main entrance.",
+      "avgLogprob": -0.14970526706825182
+    },
+    {
+      "start": 490.48,
+      "end": 498.22,
+      "text": "As you will have seen, the castle is rectangular-shaped, with four turrets or towers, one at each",
+      "avgLogprob": -0.14970526706825182
+    },
+    {
+      "start": 498.22,
+      "end": 499.22,
+      "text": "corner.",
+      "avgLogprob": -0.14970526706825182
+    },
+    {
+      "start": 499.22,
+      "end": 506.1,
+      "text": "So, as we enter, you'll see on your left, the Grand Hall, where bulls were held when",
+      "avgLogprob": -0.10714480925040941
+    },
+    {
+      "start": 506.1,
+      "end": 508.32,
+      "text": "the family lived here.",
+      "avgLogprob": -0.10714480925040941
+    },
+    {
+      "start": 508.32,
+      "end": 514.14,
+      "text": "If you walk through the Grand Hall, you can see one of the four turrets in the corner.",
+      "avgLogprob": -0.10714480925040941
+    },
+    {
+      "start": 514.14,
+      "end": 520.14,
+      "text": "You'll see that it's now a gift shop, though it used to be Lord Westchester's bedroom.",
+      "avgLogprob": -0.10714480925040941
+    },
+    {
+      "start": 520.14,
+      "end": 524.46,
+      "text": "It has a magnificent view of the aviary where the birds are kept.",
+      "avgLogprob": -0.10714480925040941
+    },
+    {
+      "start": 524.46,
+      "end": 529.3,
+      "text": "You will have plenty of time to purchase your souvenirs there after the tour.",
+      "avgLogprob": -0.10499207487514427
+    },
+    {
+      "start": 529.3,
+      "end": 535.26,
+      "text": "Now as we move out of the Grand Hall, notice this wonderful spiral staircase in front",
+      "avgLogprob": -0.10499207487514427
+    },
+    {
+      "start": 535.26,
+      "end": 536.62,
+      "text": "of you.",
+      "avgLogprob": -0.10499207487514427
+    },
+    {
+      "start": 536.62,
+      "end": 541.44,
+      "text": "It's not in use any more due to health and safety reasons, but at one time that was the",
+      "avgLogprob": -0.10499207487514427
+    },
+    {
+      "start": 541.44,
+      "end": 544.44,
+      "text": "only way to get to the upper level.",
+      "avgLogprob": -0.10499207487514427
+    },
+    {
+      "start": 544.44,
+      "end": 548.58,
+      "text": "Now we have a lift situated just down the hallway.",
+      "avgLogprob": -0.10499207487514427
+    },
+    {
+      "start": 548.58,
+      "end": 554.42,
+      "text": "If you would like to follow me, we will move straight ahead into the exhibition room.",
+      "avgLogprob": -0.10499207487514427
+    },
+    {
+      "start": 554.42,
+      "end": 559.38,
+      "text": "At the moment, as you can see, there's a fascinating exhibition of clothes from the",
+      "avgLogprob": -0.18672277558256278
+    },
+    {
+      "start": 559.38,
+      "end": 565.94,
+      "text": "15th and 16th centuries, which you can spend some time looking at later.",
+      "avgLogprob": -0.18672277558256278
+    },
+    {
+      "start": 565.94,
+      "end": 571.62,
+      "text": "Now please turn to your left and cross this little ante room to enter the next turret",
+      "avgLogprob": -0.18672277558256278
+    },
+    {
+      "start": 571.62,
+      "end": 574.26,
+      "text": "which is the Portrait Gallery.",
+      "avgLogprob": -0.18672277558256278
+    },
+    {
+      "start": 574.26,
+      "end": 579.22,
+      "text": "Here you can see portraits of all the Westchester lords and ladies through the ages.",
+      "avgLogprob": -0.18672277558256278
+    },
+    {
+      "start": 579.22,
+      "end": 585.06,
+      "text": "Right, I hope you've had enough time to look at those fantastic portraits. Please follow",
+      "avgLogprob": -0.09980142848058181
+    },
+    {
+      "start": 585.06,
+      "end": 590.18,
+      "text": "me back into the exhibition space. We're going to cross this room and you'll see that this",
+      "avgLogprob": -0.09980142848058181
+    },
+    {
+      "start": 590.18,
+      "end": 596.26,
+      "text": "corner of the castle is almost a mirror image of the portrait gallery. So again we're going",
+      "avgLogprob": -0.09980142848058181
+    },
+    {
+      "start": 596.26,
+      "end": 601.1,
+      "text": "to go through a little anti-room into the turret. You can see that this room has been",
+      "avgLogprob": -0.09980142848058181
+    },
+    {
+      "start": 601.1,
+      "end": 607.36,
+      "text": "designed to look like a room from the 14th century. All the furniture and even the drapes",
+      "avgLogprob": -0.09980142848058181
+    },
+    {
+      "start": 607.36,
+      "end": 614.6,
+      "text": "and tapestries are authentic. Can you guess what this room was used for? A sitting room?",
+      "avgLogprob": -0.1328490825092539
+    },
+    {
+      "start": 614.6,
+      "end": 623.2,
+      "text": "No. Well, people did sit in here but only the ladies. This was the sewing room. It has",
+      "avgLogprob": -0.1328490825092539
+    },
+    {
+      "start": 623.2,
+      "end": 630.4,
+      "text": "the best light in the castle. That's why it was used for this purpose. Next to us is the",
+      "avgLogprob": -0.1328490825092539
+    },
+    {
+      "start": 630.4,
+      "end": 635.2,
+      "text": "library, but we can't access it through here. We need to go back through the exhibition",
+      "avgLogprob": -0.1328490825092539
+    },
+    {
+      "start": 635.2,
+      "end": 641.96,
+      "text": "room and out into the hallway. The library has some ancient manuscripts which are really",
+      "avgLogprob": -0.12120539560375443
+    },
+    {
+      "start": 641.96,
+      "end": 649.18,
+      "text": "valuable. That's why you can only look through the door and not enter. But if you keep going,",
+      "avgLogprob": -0.12120539560375443
+    },
+    {
+      "start": 649.18,
+      "end": 654.88,
+      "text": "back towards the main entrance, there's a room you can enter on your left. This was",
+      "avgLogprob": -0.12120539560375443
+    },
+    {
+      "start": 654.88,
+      "end": 663.19,
+      "text": "the dining room, situated next to the kitchens, which I suppose makes sense.",
+      "avgLogprob": -0.12120539560375443
+    },
+    {
+      "start": 663.19,
+      "end": 668.11,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions eighteen",
+      "avgLogprob": -0.17135597691677584
+    },
+    {
+      "start": 668.11,
+      "end": 678.74,
+      "text": "to twenty.",
+      "avgLogprob": -0.17135597691677584
+    },
+    {
+      "start": 678.74,
+      "end": 684.5,
+      "text": "Now, listen carefully and answer questions eighteen to twenty.",
+      "avgLogprob": -0.17135597691677584
+    },
+    {
+      "start": 684.5,
+      "end": 690.9,
+      "text": "OK, so now you've had a look around inside, I'd like to tell you a little about the architecture",
+      "avgLogprob": -0.17135597691677584
+    },
+    {
+      "start": 690.9,
+      "end": 693.5,
+      "text": "of the Castle Building.",
+      "avgLogprob": -0.17135597691677584
+    },
+    {
+      "start": 693.5,
+      "end": 699.3,
+      "text": "Westchester Castle has its origins in the eleventh century, but it was unrecognizable",
+      "avgLogprob": -0.17135597691677584
+    },
+    {
+      "start": 699.3,
+      "end": 702.06,
+      "text": "as the castle we see before us.",
+      "avgLogprob": -0.17135597691677584
+    },
+    {
+      "start": 702.06,
+      "end": 706.7,
+      "text": "It was not until the twelfth century that living quarters were added.",
+      "avgLogprob": -0.09133090240799863
+    },
+    {
+      "start": 706.7,
+      "end": 713.34,
+      "text": "The castle was owned by the Westchester family from the thirteenth to the nineteenth centuries.",
+      "avgLogprob": -0.09133090240799863
+    },
+    {
+      "start": 713.34,
+      "end": 719.46,
+      "text": "As you probably know, the aim of a castle was to provide a secure base against attack.",
+      "avgLogprob": -0.09133090240799863
+    },
+    {
+      "start": 719.46,
+      "end": 724.66,
+      "text": "It needed to be easy to defend while preventing exposure to the attackers.",
+      "avgLogprob": -0.09133090240799863
+    },
+    {
+      "start": 724.66,
+      "end": 729.82,
+      "text": "It had to have thick, high walls and a secure entry gate.",
+      "avgLogprob": -0.09133090240799863
+    },
+    {
+      "start": 729.82,
+      "end": 734.7,
+      "text": "Yes, Chester, like other medieval castles, would have had a drawbridge at the main point",
+      "avgLogprob": -0.11250808323715247
+    },
+    {
+      "start": 734.7,
+      "end": 739.1,
+      "text": "of entry, but sadly it is no longer standing.",
+      "avgLogprob": -0.11250808323715247
+    },
+    {
+      "start": 739.1,
+      "end": 745.34,
+      "text": "The four turrets, the round towers at the corners, remain in a remarkably well-preserved",
+      "avgLogprob": -0.11250808323715247
+    },
+    {
+      "start": 745.34,
+      "end": 748.22,
+      "text": "state for such an ancient castle.",
+      "avgLogprob": -0.11250808323715247
+    },
+    {
+      "start": 748.22,
+      "end": 753.54,
+      "text": "You can see that there used to be a moat, another vital defence against invaders, but",
+      "avgLogprob": -0.11250808323715247
+    },
+    {
+      "start": 753.54,
+      "end": 758.1,
+      "text": "now all you can see around the building is a dry ditch.",
+      "avgLogprob": -0.11250808323715247
+    },
+    {
+      "start": 758.1,
+      "end": 763.58,
+      "text": "The castle would have had store-rooms in the basement to store enough food for many months",
+      "avgLogprob": -0.10177048073804125
+    },
+    {
+      "start": 763.58,
+      "end": 765.7,
+      "text": "in case of a siege.",
+      "avgLogprob": -0.10177048073804125
+    },
+    {
+      "start": 765.7,
+      "end": 771.18,
+      "text": "Unfortunately we are no longer able to enter the basement area as it is not safe, but we",
+      "avgLogprob": -0.10177048073804125
+    },
+    {
+      "start": 771.18,
+      "end": 778.1,
+      "text": "know that there are underground tunnels used for escape and for making sorties or attacking",
+      "avgLogprob": -0.10177048073804125
+    },
+    {
+      "start": 778.1,
+      "end": 781.14,
+      "text": "raids against the enemy.",
+      "avgLogprob": -0.10177048073804125
+    },
+    {
+      "start": 781.14,
+      "end": 787.26,
+      "text": "This castle is unusual in that there has been no evidence found of dungeons, underground",
+      "avgLogprob": -0.10177048073804125
+    },
+    {
+      "start": 787.26,
+      "end": 794.18,
+      "text": "prison cells. Perhaps, they never took any prisoners.",
+      "avgLogprob": -0.16363694838115148
+    },
+    {
+      "start": 794.18,
+      "end": 829.06,
+      "text": "That is the end of section 2. You now have half a minute to check your answers.",
+      "avgLogprob": -0.16363694838115148
+    },
+    {
+      "start": 829.06,
+      "end": 833.42,
+      "text": "Now turn to section 3.",
+      "avgLogprob": -0.16363694838115148
+    },
+    {
+      "start": 833.42,
+      "end": 835.22,
+      "text": "Section 3.",
+      "avgLogprob": -0.16363694838115148
+    },
+    {
+      "start": 835.22,
+      "end": 842.34,
+      "text": "You will hear three students, Ben, Jane, and Tom, having a discussion about their Architecture",
+      "avgLogprob": -0.16363694838115148
+    },
+    {
+      "start": 842.34,
+      "end": 845.7,
+      "text": "and Design Studies course.",
+      "avgLogprob": -0.16363694838115148
+    },
+    {
+      "start": 845.7,
+      "end": 870.25,
+      "text": "Next you have some time to look at questions 21 to 25.",
+      "avgLogprob": -0.20565990484872107
+    },
+    {
+      "start": 870.25,
+      "end": 876.63,
+      "text": "Now listen to the first part of the conversation, and answer questions 21 to 25.",
+      "avgLogprob": -0.20565990484872107
+    },
+    {
+      "start": 876.63,
+      "end": 883.94,
+      "text": "So, Tom, did you manage to get all your reading done?",
+      "avgLogprob": -0.20565990484872107
+    },
+    {
+      "start": 883.94,
+      "end": 885.98,
+      "text": "Yes, Ben, I did.",
+      "avgLogprob": -0.20565990484872107
+    },
+    {
+      "start": 885.98,
+      "end": 886.98,
+      "text": "What about you, Jane?",
+      "avgLogprob": -0.20565990484872107
+    },
+    {
+      "start": 886.98,
+      "end": 890.78,
+      "text": "Me too, though it took much longer than I thought it would.",
+      "avgLogprob": -0.20565990484872107
+    },
+    {
+      "start": 890.78,
+      "end": 891.78,
+      "text": "Yeah.",
+      "avgLogprob": -0.20565990484872107
+    },
+    {
+      "start": 891.78,
+      "end": 895.62,
+      "text": "Some of those dissertations are really long, aren't they?",
+      "avgLogprob": -0.20565990484872107
+    },
+    {
+      "start": 895.62,
+      "end": 897.86,
+      "text": "I'm not looking forward to having to write mine.",
+      "avgLogprob": -0.20565990484872107
+    },
+    {
+      "start": 897.86,
+      "end": 900.34,
+      "text": "Well, that's not till next year.",
+      "avgLogprob": -0.20419627298479495
+    },
+    {
+      "start": 900.34,
+      "end": 903.74,
+      "text": "So, shall we compare thoughts about our reading?",
+      "avgLogprob": -0.20419627298479495
+    },
+    {
+      "start": 903.74,
+      "end": 908.42,
+      "text": "Let's start with 20th century architecture.",
+      "avgLogprob": -0.20419627298479495
+    },
+    {
+      "start": 908.42,
+      "end": 910.58,
+      "text": "I thought it was pretty impressive.",
+      "avgLogprob": -0.20419627298479495
+    },
+    {
+      "start": 910.58,
+      "end": 912.02,
+      "text": "There was quite a bit of detail.",
+      "avgLogprob": -0.20419627298479495
+    },
+    {
+      "start": 912.02,
+      "end": 914.7,
+      "text": "Yeah, all very relevant.",
+      "avgLogprob": -0.20419627298479495
+    },
+    {
+      "start": 914.7,
+      "end": 917.86,
+      "text": "I enjoyed the pictures, the diagrams and photos.",
+      "avgLogprob": -0.20419627298479495
+    },
+    {
+      "start": 917.86,
+      "end": 919.9,
+      "text": "Hmm, they were quite strange.",
+      "avgLogprob": -0.20419627298479495
+    },
+    {
+      "start": 919.9,
+      "end": 922.62,
+      "text": "Not what you'd expect to find in a dissertation.",
+      "avgLogprob": -0.20419627298479495
+    },
+    {
+      "start": 922.62,
+      "end": 924.38,
+      "text": "But very helpful.",
+      "avgLogprob": -0.20419627298479495
+    },
+    {
+      "start": 924.38,
+      "end": 927.74,
+      "text": "Whereas sometimes I couldn't really follow the arguments.",
+      "avgLogprob": -0.20419627298479495
+    },
+    {
+      "start": 927.74,
+      "end": 934.74,
+      "text": "Yes, a bit of a mixed bag, really, while modern construction was very serious and thorough, wasn't it?",
+      "avgLogprob": -0.11608160500015531
+    },
+    {
+      "start": 934.74,
+      "end": 940.74,
+      "text": "Indeed. Actually, it was rather dense. I didn't find it particularly easy to read, either.",
+      "avgLogprob": -0.11608160500015531
+    },
+    {
+      "start": 940.74,
+      "end": 944.74,
+      "text": "The index was excellent, though, so I used that to guide me around.",
+      "avgLogprob": -0.11608160500015531
+    },
+    {
+      "start": 944.74,
+      "end": 950.74,
+      "text": "I still think it was a bit high level. I certainly wouldn't have wanted to try and cope with it in the first year.",
+      "avgLogprob": -0.11608160500015531
+    },
+    {
+      "start": 950.74,
+      "end": 959.74,
+      "text": "No. That's not who it's aimed at, of course. What about steel, glass and concrete? Not the world's most interesting title, of course.",
+      "avgLogprob": -0.09661714948321644
+    },
+    {
+      "start": 959.74,
+      "end": 968.74,
+      "text": "Again, the index was helpful. Though I think we could have done with more photos. There weren't really enough to support what he was saying in places.",
+      "avgLogprob": -0.09661714948321644
+    },
+    {
+      "start": 968.74,
+      "end": 974.74,
+      "text": "Yeah. But what he was saying was easy to follow, wasn't it? He takes you through step by step.",
+      "avgLogprob": -0.09661714948321644
+    },
+    {
+      "start": 974.74,
+      "end": 978.74,
+      "text": "It was hard to believe it had been translated. Seemed very natural.",
+      "avgLogprob": -0.09661714948321644
+    },
+    {
+      "start": 978.74,
+      "end": 983.18,
+      "text": "Actually, it was better written than the next one, the space we make.",
+      "avgLogprob": -0.19812170998616652
+    },
+    {
+      "start": 983.18,
+      "end": 988.22,
+      "text": "But we're supposed to be thinking about architectural ideas, not being literary critics.",
+      "avgLogprob": -0.19812170998616652
+    },
+    {
+      "start": 988.22,
+      "end": 989.66,
+      "text": "I like that one.",
+      "avgLogprob": -0.19812170998616652
+    },
+    {
+      "start": 989.66,
+      "end": 990.66,
+      "text": "Really?",
+      "avgLogprob": -0.19812170998616652
+    },
+    {
+      "start": 990.66,
+      "end": 993.06,
+      "text": "I just didn't think it covered the whole situation.",
+      "avgLogprob": -0.19812170998616652
+    },
+    {
+      "start": 993.06,
+      "end": 997.06,
+      "text": "It didn't put the question of housing into the context of the time.",
+      "avgLogprob": -0.19812170998616652
+    },
+    {
+      "start": 997.06,
+      "end": 1003.14,
+      "text": "You mean how in the 50s, economic austerity limited the finances available, while a growing",
+      "avgLogprob": -0.19812170998616652
+    },
+    {
+      "start": 1003.14,
+      "end": 1005.46,
+      "text": "population needed housing quickly?",
+      "avgLogprob": -0.19812170998616652
+    },
+    {
+      "start": 1005.46,
+      "end": 1006.46,
+      "text": "Exactly.",
+      "avgLogprob": -0.19812170998616652
+    },
+    {
+      "start": 1006.46,
+      "end": 1010.36,
+      "text": "Then I think you're asking too much of these dissertations.",
+      "avgLogprob": -0.17492609128119455
+    },
+    {
+      "start": 1010.36,
+      "end": 1011.36,
+      "text": "Perhaps you're right.",
+      "avgLogprob": -0.17492609128119455
+    },
+    {
+      "start": 1011.36,
+      "end": 1015.4,
+      "text": "Well, I did like change and tradition, anyway.",
+      "avgLogprob": -0.17492609128119455
+    },
+    {
+      "start": 1015.4,
+      "end": 1016.4,
+      "text": "Very focused.",
+      "avgLogprob": -0.17492609128119455
+    },
+    {
+      "start": 1016.4,
+      "end": 1020.28,
+      "text": "Yes, although I did think it was oddly arranged, in some ways.",
+      "avgLogprob": -0.17492609128119455
+    },
+    {
+      "start": 1020.28,
+      "end": 1024.12,
+      "text": "When you went to the index to track something down, you couldn't necessarily find what you",
+      "avgLogprob": -0.17492609128119455
+    },
+    {
+      "start": 1024.12,
+      "end": 1025.12,
+      "text": "wanted.",
+      "avgLogprob": -0.17492609128119455
+    },
+    {
+      "start": 1025.12,
+      "end": 1026.12,
+      "text": "I know what you mean.",
+      "avgLogprob": -0.17492609128119455
+    },
+    {
+      "start": 1026.12,
+      "end": 1030.32,
+      "text": "But, I have to say, I'd be very proud if I'd written any of these.",
+      "avgLogprob": -0.17492609128119455
+    },
+    {
+      "start": 1030.32,
+      "end": 1031.32,
+      "text": "True.",
+      "avgLogprob": -0.17492609128119455
+    },
+    {
+      "start": 1031.32,
+      "end": 1035.92,
+      "text": "And you will next year.",
+      "avgLogprob": -0.17492609128119455
+    },
+    {
+      "start": 1035.92,
+      "end": 1055.04,
+      "text": "Now you have some time to look at questions 26 to 30.",
+      "avgLogprob": -0.18492551398488272
+    },
+    {
+      "start": 1055.04,
+      "end": 1064.47,
+      "text": "Now listen to the rest of the conversation, and answer questions 26 to 30.",
+      "avgLogprob": -0.18492551398488272
+    },
+    {
+      "start": 1064.47,
+      "end": 1067.95,
+      "text": "Never mind next year, it's this year that's the problem.",
+      "avgLogprob": -0.18492551398488272
+    },
+    {
+      "start": 1067.95,
+      "end": 1070.15,
+      "text": "I'm never going to get this assignment done.",
+      "avgLogprob": -0.18492551398488272
+    },
+    {
+      "start": 1070.15,
+      "end": 1071.59,
+      "text": "Yes you are.",
+      "avgLogprob": -0.18492551398488272
+    },
+    {
+      "start": 1071.59,
+      "end": 1074.15,
+      "text": "Come on, let's make a plan for you.",
+      "avgLogprob": -0.18492551398488272
+    },
+    {
+      "start": 1074.15,
+      "end": 1078.35,
+      "text": "Please, I'm just not sure where to go from here.",
+      "avgLogprob": -0.18492551398488272
+    },
+    {
+      "start": 1078.35,
+      "end": 1082.35,
+      "text": "I could look at city plans, study the layout of housing developments.",
+      "avgLogprob": -0.18492551398488272
+    },
+    {
+      "start": 1082.35,
+      "end": 1087.67,
+      "text": "I think you need a closer focus. The approach to small houses won't necessarily tell you",
+      "avgLogprob": -0.16376306787133216
+    },
+    {
+      "start": 1087.67,
+      "end": 1093.07,
+      "text": "what you want to know. You'd be better to concentrate on large, private houses. Study",
+      "avgLogprob": -0.16376306787133216
+    },
+    {
+      "start": 1093.07,
+      "end": 1094.35,
+      "text": "the drawings of those.",
+      "avgLogprob": -0.16376306787133216
+    },
+    {
+      "start": 1094.35,
+      "end": 1098.99,
+      "text": "Okay. Though I don't know how much useful detail I'll be able to get from the kinds",
+      "avgLogprob": -0.16376306787133216
+    },
+    {
+      "start": 1098.99,
+      "end": 1101.95,
+      "text": "of plans that are easily available from that period.",
+      "avgLogprob": -0.16376306787133216
+    },
+    {
+      "start": 1101.95,
+      "end": 1106.67,
+      "text": "It's true. They can be limited. But what you could do as a next stage is go onto",
+      "avgLogprob": -0.16376306787133216
+    },
+    {
+      "start": 1106.67,
+      "end": 1109.55,
+      "text": "the web. There's loads of useful stuff there.",
+      "avgLogprob": -0.16376306787133216
+    },
+    {
+      "start": 1109.55,
+      "end": 1111.31,
+      "text": "detailed plans, you mean?",
+      "avgLogprob": -0.32459574034719757
+    },
+    {
+      "start": 1111.31,
+      "end": 1115.33,
+      "text": "Well, I was thinking more of illustrations, that kind of thing.",
+      "avgLogprob": -0.32459574034719757
+    },
+    {
+      "start": 1115.33,
+      "end": 1116.41,
+      "text": "Do a search for window-",
+      "avgLogprob": -0.32459574034719757
+    }
+  ]
+}

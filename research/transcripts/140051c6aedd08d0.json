@@ -1,0 +1,199 @@
+{
+  "source": "assets/audio/140051c6aedd08d0.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 5.26,
+      "text": "The tour is organized in the following order.",
+      "avgLogprob": -0.16672198499242466
+    },
+    {
+      "start": 5.26,
+      "end": 11.99,
+      "text": "One, introduction, approximately 10 minutes, 30 seconds.",
+      "avgLogprob": -0.16672198499242466
+    },
+    {
+      "start": 11.99,
+      "end": 19.99,
+      "text": "Two, America 1932, a nation in fear, approximately 2 minutes and 15 seconds.",
+      "avgLogprob": -0.16672198499242466
+    },
+    {
+      "start": 19.99,
+      "end": 28.82,
+      "text": "Three, promise of change, approximately 6 minutes and 45 seconds.",
+      "avgLogprob": -0.16672198499242466
+    },
+    {
+      "start": 28.82,
+      "end": 37.34,
+      "text": "Foundations of a Public Life, approximately 5 minutes and 15 seconds.",
+      "avgLogprob": -0.1418994426727295
+    },
+    {
+      "start": 37.34,
+      "end": 43.36,
+      "text": "5. A New Deal, approximately 23 minutes.",
+      "avgLogprob": -0.1418994426727295
+    },
+    {
+      "start": 43.36,
+      "end": 55.02,
+      "text": "During each section, you'll be directed at times to access additional textual material if you have an interest in hearing more about the particular area.",
+      "avgLogprob": -0.1418994426727295
+    },
+    {
+      "start": 55.02,
+      "end": 61.07,
+      "text": "You received your audio tour player at the museum's store.",
+      "avgLogprob": -0.1418994426727295
+    },
+    {
+      "start": 61.07,
+      "end": 65.07,
+      "text": "The museum is located in another building nearby.",
+      "avgLogprob": -0.1418994426727295
+    },
+    {
+      "start": 65.07,
+      "end": 70.81,
+      "text": "To reach the museum, from a position facing the museum store desk, please turn around",
+      "avgLogprob": -0.12784965700573392
+    },
+    {
+      "start": 70.81,
+      "end": 77.62,
+      "text": "180 degrees and proceed about 20 feet to the lobby.",
+      "avgLogprob": -0.12784965700573392
+    },
+    {
+      "start": 77.62,
+      "end": 85.72,
+      "text": "Be aware that there may be a display table directly in your path as you walk to the lobby.",
+      "avgLogprob": -0.12784965700573392
+    },
+    {
+      "start": 85.72,
+      "end": 91.62,
+      "text": "Please turn left and proceed about 60 feet.",
+      "avgLogprob": -0.12784965700573392
+    },
+    {
+      "start": 91.62,
+      "end": 97.66,
+      "text": "Turn to your right and move forward about 17 feet to a doormat and a vestibule with",
+      "avgLogprob": -0.12784965700573392
+    },
+    {
+      "start": 97.66,
+      "end": 106.25,
+      "text": "two sets of double doors. After passing through the doors, you'll be on a path of stone blocks.",
+      "avgLogprob": -0.1247904091730885
+    },
+    {
+      "start": 106.25,
+      "end": 112.81,
+      "text": "Move forward about thirty-three feet and turn to your right, off the path, onto a gravel",
+      "avgLogprob": -0.1247904091730885
+    },
+    {
+      "start": 112.81,
+      "end": 121.52,
+      "text": "surface. Proceed seventeen feet to a bronze statue of a seated Franklin and Eleanor Roosevelt",
+      "avgLogprob": -0.1247904091730885
+    },
+    {
+      "start": 121.52,
+      "end": 129.18,
+      "text": "with a small table between them. Feel free to explore the tableau with your hands. You",
+      "avgLogprob": -0.1247904091730885
+    },
+    {
+      "start": 129.18,
+      "end": 134.38,
+      "text": "You may have noticed the sounds of people approaching the museum.",
+      "avgLogprob": -0.12138270008928921
+    },
+    {
+      "start": 134.38,
+      "end": 139.08,
+      "text": "You're now standing in front of the museum building and its grassy courtyard, about thirty",
+      "avgLogprob": -0.12138270008928921
+    },
+    {
+      "start": 139.08,
+      "end": 142.19,
+      "text": "feet square.",
+      "avgLogprob": -0.12138270008928921
+    },
+    {
+      "start": 142.19,
+      "end": 150.03,
+      "text": "The museum is a two-story stone building that wraps around three sides of the courtyard.",
+      "avgLogprob": -0.12138270008928921
+    },
+    {
+      "start": 150.03,
+      "end": 156.47,
+      "text": "A steep slate roof extends down to the level of the top of the first floor, and six dormered",
+      "avgLogprob": -0.12138270008928921
+    },
+    {
+      "start": 156.47,
+      "end": 162.07,
+      "text": "windows pierce the roof at the second-story level.",
+      "avgLogprob": -0.12138270008928921
+    },
+    {
+      "start": 162.07,
+      "end": 167.43,
+      "text": "You're on a stone walkway that rings the perimeter of the courtyard, and the museum entrance",
+      "avgLogprob": -0.0930498985915768
+    },
+    {
+      "start": 167.43,
+      "end": 172.3,
+      "text": "is on the opposite side of the courtyard.",
+      "avgLogprob": -0.0930498985915768
+    },
+    {
+      "start": 172.3,
+      "end": 178.38,
+      "text": "Please note that there is a security guard station to your right.",
+      "avgLogprob": -0.0930498985915768
+    },
+    {
+      "start": 178.38,
+      "end": 186.4,
+      "text": "You'll need to show them your museum tickets, and all purses and bags will be searched.",
+      "avgLogprob": -0.0930498985915768
+    },
+    {
+      "start": 186.4,
+      "end": 190.96,
+      "text": "This concludes the introduction to our tour.",
+      "avgLogprob": -0.0930498985915768
+    },
+    {
+      "start": 190.96,
+      "end": 194.94,
+      "text": "Please walk about 10 feet forward to begin the next section of our tour.",
+      "avgLogprob": -0.0930498985915768
+    },
+    {
+      "start": 194.94,
+      "end": 200.38,
+      "text": "Please press the rightmost button in the top row of your player's keypad to move to the",
+      "avgLogprob": -0.19471795856952667
+    },
+    {
+      "start": 200.38,
+      "end": 205.42,
+      "text": "next message on the tour, or press 2 on your audio tour player.",
+      "avgLogprob": -0.19471795856952667
+    }
+  ]
+}

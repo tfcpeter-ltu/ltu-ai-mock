@@ -1,0 +1,145 @@
+{
+  "source": "assets/audio/4b56927a15e54006.mp3",
+  "model": "faster-whisper-small.en",
+  "machineTranscript": true,
+  "segments": [
+    {
+      "start": 1.14,
+      "end": 5.14,
+      "text": "Hello, and welcome all of you to the library tour.",
+      "avgLogprob": -0.12659701392764136
+    },
+    {
+      "start": 5.14,
+      "end": 9.14,
+      "text": "It's so lovely to see you first years here at UE.",
+      "avgLogprob": -0.12659701392764136
+    },
+    {
+      "start": 9.14,
+      "end": 14.14,
+      "text": "I hope you'll have a once-in-a-lifetime experience studying at our university.",
+      "avgLogprob": -0.12659701392764136
+    },
+    {
+      "start": 14.14,
+      "end": 22.14,
+      "text": "Now, before we start our tour, I'd like to give you some ideas about what we have here at French Library.",
+      "avgLogprob": -0.12659701392764136
+    },
+    {
+      "start": 22.14,
+      "end": 27.14,
+      "text": "The library has four levels, each of which has their own functions.",
+      "avgLogprob": -0.12659701392764136
+    },
+    {
+      "start": 27.14,
+      "end": 30.14,
+      "text": "Level one is the help zone.",
+      "avgLogprob": -0.12659701392764136
+    },
+    {
+      "start": 30.14,
+      "end": 38.14,
+      "text": "You can find help from our staff at the help desk, as well as borrow and return items using the self-service machines.",
+      "avgLogprob": -0.08567681263402566
+    },
+    {
+      "start": 38.14,
+      "end": 44.14,
+      "text": "There used to be vending machines here selling coffee and snacks for those in need during exam time,",
+      "avgLogprob": -0.08567681263402566
+    },
+    {
+      "start": 44.14,
+      "end": 49.14,
+      "text": "but they were moved to the corridor just outside the turnstiles.",
+      "avgLogprob": -0.08567681263402566
+    },
+    {
+      "start": 49.14,
+      "end": 52.14,
+      "text": "What if you're thirsty but don't wish to go out?",
+      "avgLogprob": -0.08567681263402566
+    },
+    {
+      "start": 52.14,
+      "end": 56.14,
+      "text": "There are drinking fountains by the stairs at every level.",
+      "avgLogprob": -0.08567681263402566
+    },
+    {
+      "start": 56.14,
+      "end": 60.14,
+      "text": "You might want to bring your own water bottle if you don't want to move back",
+      "avgLogprob": -0.12709252367314605
+    },
+    {
+      "start": 60.14,
+      "end": 66.86,
+      "text": "and forth though. If you need printing, scanning, or photocopying materials, there",
+      "avgLogprob": -0.12709252367314605
+    },
+    {
+      "start": 66.86,
+      "end": 73.74,
+      "text": "are two print hubs at level 1 and 3. Level 2 is the quiet zone, but our",
+      "avgLogprob": -0.12709252367314605
+    },
+    {
+      "start": 73.74,
+      "end": 79.18,
+      "text": "students often refer to it as the tech zone because you can borrow laptops, book",
+      "avgLogprob": -0.12709252367314605
+    },
+    {
+      "start": 79.18,
+      "end": 84.18,
+      "text": "an assistive technology room, or take advantage of two-screen computers to",
+      "avgLogprob": -0.12709252367314605
+    },
+    {
+      "start": 84.18,
+      "end": 90.26,
+      "text": "help you study, especially for design and programming students. If you wish to",
+      "avgLogprob": -0.12641564134049088
+    },
+    {
+      "start": 90.26,
+      "end": 96.26,
+      "text": "study alone, head straight to level four, the silent zone. We have multiple study",
+      "avgLogprob": -0.12641564134049088
+    },
+    {
+      "start": 96.26,
+      "end": 102.18,
+      "text": "pods with individual desk lamps for you there. The law library and research zone",
+      "avgLogprob": -0.12641564134049088
+    },
+    {
+      "start": 102.18,
+      "end": 108.5,
+      "text": "are also located there for law and postgraduate students. If you have to do",
+      "avgLogprob": -0.12641564134049088
+    },
+    {
+      "start": 108.5,
+      "end": 115.22,
+      "text": "a team presentation and need to work together, level 3 is for you. There are bookable rooms",
+      "avgLogprob": -0.13285022569914995
+    },
+    {
+      "start": 115.22,
+      "end": 119.94,
+      "text": "with built-in projectors so your team can practice your presentation and see how the",
+      "avgLogprob": -0.13285022569914995
+    },
+    {
+      "start": 119.94,
+      "end": 126.74,
+      "text": "project progresses. Articles from academic journals and magazines can also be found here.",
+      "avgLogprob": -0.13285022569914995
+    }
+  ]
+}

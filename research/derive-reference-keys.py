@@ -377,6 +377,49 @@ rows16=[
 (40,'C',"it's the content of speech that contributes most",'Ickes 認為言語內容最有幫助，對應 C。')]
 for row in rows16:add('mock-16',*row)
 
+rows17=[
+(1,'soil erosion','control soil erosion','題幹省略 control；原文完整片語 control soil erosion 超過兩字，需核對原題。','medium'),
+(2,'wildfires','fueling wildfires','草助長野火。'),
+(3,'noxious weed','officially labeled a noxious weed','正式列為有害雜草。'),
+(4,'chemical sprays|herbicides','chemical sprays and manual removal','兩種方式是化學噴劑與人工移除。'),
+(5,'well-anchored roots','well-anchored roots','根系穩固導致移除困難。'),
+(6,'seeds','remaining seeds can be viable for\nyears','種子可多年保持活性。'),
+(7,'90 percent|90%','90 percent','約九成。'),
+(8,'NOT GIVEN','volunteers of all ages','全文僅說各年齡層參與，未列退休者比例。'),
+(9,'FALSE','without much chit-chatting','原文是沒有太多閒聊，並非絕對不說話；保留語意強度歧義。','medium'),
+(10,'FALSE','Herbicides are only effective when the plant is\ngreen during the summer','化學除草僅在夏季草綠時有效，並非全年等效。'),
+(11,'TRUE','wield a crowbar or a pickaxe','徹底移除需使用工具。'),
+(12,'careless campfire|campfire','lightning strike or careless campfire','除了閃電，疏忽的營火也能引火。'),
+(13,'Prescribed burns','Prescribed burns show','以計畫性燃燒比較火勢。'),
+(14,'saguaro forests','we lose these amazing saguaro\nforests','無法控制便會失去巨人柱仙人掌林。'),
+(15,'E','compelling, oddly uplifting reading','E 段解釋作品為何引人入勝。'),
+(16,'H','Heightened emotions lead to heightened memories','H 段討論情緒與記憶。'),
+(17,'B','not very good at predicting','B 段說人們常誤判何者帶來快樂。'),
+(18,'D','thought experiment','D 段以極端假想旅程展示乐觀觀點。'),
+(19,'G','Researchers placed 19 participants','G 段以實驗說明 fading affect bias。'),
+(20,'Antarctica','expedition to Antarctica','目的地是南極洲。'),
+(21,'assistant zoologist','an\nassistant zoologist','作者擔任動物學助理。'),
+(22,'meager rations','meager rations','除嚴寒和黑暗外，還得面對食物配給不足。'),
+(23,'fluid','memory is much more fluid','記憶具有流動性。'),
+(24,'negativity bias','negativity bias','負面事件的印象較深。'),
+(25,'fading affect bias','fading affect bias','時間推移後淡忘負面、留下正面。'),
+(26,'emotions','Our emotions play a large role','當時情緒影響記憶。'),
+(27,'revised memory','revised\nstories lead to revised memory','修改的故事會改變記憶。'),
+(28,'individual cubicles|cubicles','individual cubicles','參與者分開坐在小隔間。'),
+(29,'intercom system|intercom','an intercom system','使用內部通話系統溝通。'),
+(30,'victim','participant and the\n‘victim’','預錄聲音扮演受害者。'),
+(31,'31%|31 percent','31% reported the emergency','最多旁觀者組僅31%回報。'),
+(32,'D','something trivial, like being in a hurry','細微情境如趕時間會讓人忽略求助。'),
+(33,'C','bystanders assume that nothing is wrong','多數無知有特定機制，並非任何錯誤解讀都必然造成。'),
+(34,'B','sense of responsibility decreases as the number','旁觀人數增加時個人責任感降低，非正比。'),
+(35,'C','Darley & Batson, 1973','趕時間實驗出自 Darley 與 Batson。'),
+(36,'D','diffusion\nof responsibility','Aronson 與 Akert 討論責任分散。'),
+(37,'D','pluralistic\nignorance','Aronson 與 Akert 討論以他人反應判斷緊急狀況。'),
+(38,'A','non-helpers are in general more\nupset than helpers','Darley 與 Latané 指不幫忙者反而更不安。'),
+(39,'B','Milgram & Hollander, 1964','援助時害怕受傷的論點由 Milgram 與 Hollander 引用。'),
+(40,'D|A','why does the number\nof bystanders influence','全文旨在說明旁觀者效應；原題最後選項誤標為 A，與第一項重複，不能自動判分。','medium')]
+for row in rows17:add('mock-17',*row)
+
 keys={m['id']:{'reading':{'status':'ai-derived','version':'2026-09-16-r1','source':'supplied-reading-passage','records':{}}} for m in mocks}
 for record in records:
  for m in mocks:
