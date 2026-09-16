@@ -16,6 +16,12 @@ export default defineSchema({
     createdAt: v.number(),
   }).index("by_user", ["userId"]).index("by_student_code", ["studentCode"]),
 
+  cloudState: defineTable({
+    userId: v.id("users"),
+    stateJson: v.string(),
+    updatedAt: v.number(),
+  }).index("by_user", ["userId"]),
+
   mockAttempts: defineTable({
     userId: v.id("users"),
     mockNumber: v.number(),
