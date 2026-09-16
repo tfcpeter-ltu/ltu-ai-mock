@@ -22,6 +22,7 @@ jobs:
         run: npx @convex-dev/auth --skip-git-check --web-server-url https://ltuaimock.uwetw.com
         env:
           CONVEX_DEPLOY_KEY: ${{ secrets.CONVEX_DEPLOY_KEY }}
+          CONVEX_DEPLOYMENT: prod:dashing-quail-760
       - name: Deploy Convex Backend
         run: npx convex deploy
         env:
