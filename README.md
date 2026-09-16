@@ -1,12 +1,16 @@
-# LTU EPT AI Homepage v9
+# LTU EPT AI Mock
 
-本版在 v8 完整品牌首頁上新增：
+正式網址：https://ltuaimock.uwetw.com
 
-- 正式學生登入入口流程（Beta 本機可操作；預留 Convex Auth）
-- 建立測試帳號 / Demo Student 體驗
-- 會員中心與 Learning Passport 畫面
-- NT$5,000 / 30 天方案資訊與到期保留資料邏輯說明
-- Dashboard 與首頁品牌體驗一致化
-- 指定學生連結仍可直接進指定 Mock
+目前架構：
+- GitHub Pages：公開前端
+- Convex Production：學生帳號與雲端資料
+- Convex Auth：Email / Password
+- `legacy.html`：原 v9 EPT 學習功能頁
+- `index.html`：正式登入、會員狀態、雲端 Dashboard 與跨裝置同步入口
 
-注意：目前帳號仍為前端 Beta 模擬。Convex cloud deployment 完成後，需將登入/會員資料改接 Convex Auth 與資料表。
+會員方案：NT$5,000 / 30 天。
+
+Convex Production 後端包含：profiles、cloudState、mockAttempts、answers、weaknesses、vocabulary、writingRecords、speakingRecords、assignments。
+
+下一步：完成 Production Convex Auth 的 JWT_PRIVATE_KEY / JWKS / SITE_URL 初始化，並上傳 `assets/ltu-ept-ai-cover.jpg`、`assets/ltu-logo.jpg` 視覺資產。
