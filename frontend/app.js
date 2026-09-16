@@ -6,7 +6,7 @@ import {ConvexAuthProvider,useAuthActions} from '@convex-dev/auth/react';
 import {anyApi} from 'convex/server';
 const html=htm.bind(React.createElement);
 const CONVEX_URL='https://dashing-quail-760.convex.cloud';
-const client=new ConvexReactClient(CONVEX_URL,{expectAuth:true});
+const client=new ConvexReactClient(CONVEX_URL);
 
 function PublicHome(){
  return html`<${React.Fragment}>
@@ -21,9 +21,22 @@ function PublicHome(){
 }
 
 function LoginForm(){
- const {signIn}=useAuthActions(); const [mode,setMode]=useState('signIn'); const [msg,setMsg]=useState(''); const [busy,setBusy]=useState(false);
- async function submit(e){e.preventDefault();setBusy(true);setMsg('');const f=new FormData(e.currentTarget);try{await signIn('password',{email:String(f.get('email')||'').trim().toLowerCase(),password:String(f.get('password')||''),name:String(f.get('name')||''),flow:mode});}catch(err){setMsg(mode==='signUp'?'建立帳號失敗：此 Email 可能已註冊，或密碼格式不符。':'登入失敗：請確認 Email 與密碼。');}finally{setBusy(false)}}
- return html`<form className="form" onSubmit=${submit}><div className="tabs"><button type="button" className=${mode==='signIn'?'active':''} onClick=${()=>setMode('signIn')}>登入</button><button type="button" className=${mode==='signUp'?'active':''} onClick=${()=>setMode('signUp')}>建立帳號</button></div><h3>${mode==='signIn'?'歡迎回來':'建立學生帳號'}</h3><p style=${{color:'#756c60',lineHeight:1.6}}>使用同一組 Email 登入，即可跨裝置同步進度。</p>${mode==='signUp'&&html`<div className="field"><label>姓名</label><input name="name" required placeholder="學生姓名"/></div>`}<div className="field"><label>Email</label><input name="email" type="email" required placeholder="student@example.com"/></div><div className="field"><label>密碼</label><input name="password" type="password" required minLength="8" placeholder="至少 8 個字元"/></div><button className="btn gold" disabled=${busy}>${busy?'處理中…':(mode==='signIn'?'登入學習系統':'建立帳號')}</button><div className="msg">${msg}</div></form>`;
+ const {signIn}=useAuthActions(); const [mode,setMode]=useState('signIn'); const [msg,setMsg]=useState(''); const [busy,setBusy]=useState(false); const [stalled,setStalled]=useState(false);
+ async function submit(e){
+ e.preventDefault();if(busy||stalled)return;setBusy(true);setMsg('');
+ const f=new FormData(e.currentTarget);let timeout;
+ try{
+  await Promise.race([
+   signIn('password',{email:String(f.get('email')||'').trim().toLowerCase(),password:String(f.get('password')||''),name:String(f.get('name')||''),flow:mode}),
+   new Promise((_,reject)=>{timeout=setTimeout(()=>reject(new Error('LTU_LOGIN_TIMEOUT')),20000)})
+  ]);
+ }catch(err){
+  if(err?.message==='LTU_LOGIN_TIMEOUT'){setStalled(true);setMsg('登入連線逾時。請重新載入頁面後再試一次。');}
+  else{setMsg(mode==='signUp'?'建立帳號失敗：此 Email 可能已註冊，或密碼格式不符。':'登入未成功。請確認 Email 與密碼；若尚未註冊，請先選擇「建立帳號」。');}
+ }finally{clearTimeout(timeout);setBusy(false)}
+ }
+
+ return html`<form className="form" onSubmit=${submit}><div className="tabs"><button type="button" className=${mode==='signIn'?'active':''} onClick=${()=>setMode('signIn')}>登入</button><button type="button" className=${mode==='signUp'?'active':''} onClick=${()=>setMode('signUp')}>建立帳號</button></div><h3>${mode==='signIn'?'歡迎回來':'建立學生帳號'}</h3><p style=${{color:'#756c60',lineHeight:1.6}}>使用同一組 Email 登入，即可跨裝置同步進度。</p>${mode==='signUp'&&html`<div className="field"><label>姓名</label><input name="name" required placeholder="學生姓名"/></div>`}<div className="field"><label>Email</label><input name="email" type="email" required placeholder="student@example.com"/></div><div className="field"><label>密碼</label><input name="password" type="password" required minLength="8" placeholder="至少 8 個字元"/></div><button className="btn gold" disabled=${busy||stalled}>${busy?'處理中…':(mode==='signIn'?'登入學習系統':'建立帳號')}</button><div className="msg" role="status" aria-live="polite">${msg}</div>${stalled&&html`<button type="button" className="btn gold" onClick=${()=>location.reload()}>重新載入</button>`}</form>`;
 }
 
 function StudentCloud(){
