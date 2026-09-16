@@ -1,0 +1,18 @@
+name: Configure Convex Auth Production
+
+on:
+  workflow_dispatch:
+
+jobs:
+  configure-auth:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm install
+      - name: Configure Convex Auth keys and site URL
+        run: npx @convex-dev/auth --skip-git-check --web-server-url https://ltuaimock.uwetw.com
+        env:
+          CONVEX_DEPLOY_KEY: ${{ secrets.CONVEX_DEPLOY_KEY }}
