@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "convex/**"
+      - "shared/**"
       - "package.json"
       - ".github/workflows/convex-deploy.yml"
   workflow_dispatch:
@@ -22,6 +23,10 @@ jobs:
       - run: node frontend/build.mjs
       - run: node tests/assessment.test.cjs
       - run: node tests/free-writing-sync.test.cjs
+      - run: node tests/grammar-gateway.test.mjs
+      - run: node tests/grammar-bridge.test.cjs
+      - run: node tests/grammar-state.test.cjs
+      - run: node tests/grammar-ui.test.cjs
       - name: Deploy Convex Backend
         run: npx convex deploy
         env:

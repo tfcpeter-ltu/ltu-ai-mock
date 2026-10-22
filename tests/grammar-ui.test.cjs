@@ -1,0 +1,10 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const essay='She go to school.';let saves=0;const messages=[];
+const state={answers:{'mock-01:writing':{essay}},notesPending:[],notesConfirmed:[],grammarReviews:{'mock-01':{reviewedEssay:essay,result:{engineVersion:'6.6',language:'en-GB',matches:[{offset:0,length:3,ruleId:'TEST',category:'GRAMMAR',message:'<script>bad</script>',replacements:['They']}],truncated:false}}}};
+const box={window:{addEventListener:()=>{}},location:{origin:'https://example.invalid'},crypto:{randomUUID:()=>''},setTimeout:()=>1,clearTimeout:()=>{},state,current:{mock:{id:'mock-01',code:'Mock 01'}},key:(...x)=>x.join(':'),escapeHtml:x=>String(x).replaceAll('<','&lt;').replaceAll('>','&gt;'),save:()=>saves++,toast:t=>messages.push(t),Date};
+vm.createContext(box);vm.runInContext(fs.readFileSync('assets/grammar-ui.js','utf8'),box);
+assert.ok(box.window.renderGrammarPanel().includes('&lt;script&gt;'));
+box.window.addGrammarWeakness(0);assert.equal(saves,1);assert.equal(state.notesPending.length,1);assert.equal(state.notesPending[0].source,'LanguageTool-selfhost');assert.equal(state.notesConfirmed.length,0);
+box.window.addGrammarWeakness(0);assert.equal(state.notesPending.length,1);
+state.answers['mock-01:writing'].essay+=' Changed';assert.ok(box.window.renderGrammarPanel().includes('作文已更動'));box.window.addGrammarWeakness(0);assert.equal(saves,1);
+console.log('PASS grammar UI escaping, student-confirmed weakness workflow, duplicate suppression and changed-essay report invalidation.');

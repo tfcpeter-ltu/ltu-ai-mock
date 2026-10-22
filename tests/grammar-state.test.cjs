@@ -1,0 +1,20 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
+(async()=>{
+ const esbuild=require('../frontend/node_modules/esbuild');
+ let source=fs.readFileSync('convex/grammarState.ts','utf8').replace(/^import .*;\r?\n/gm,'').replace(/export const /g,'const ');source+=';globalThis.handlers={reserve,complete}';
+ let now=1000000;const box={Date:{now:()=>now},getAuthUserId:async c=>c.user,internalMutation:x=>x,grammarResult:{},v:new Proxy({},{get:()=>()=>({})})};vm.createContext(box);vm.runInContext(esbuild.transformSync(source,{loader:'ts'}).code,box);
+ const rows=new Map();let next=0;
+ const ctx=user=>({user,db:{query(){let uid;return {withIndex(_n,fn){fn({eq(_k,v){uid=v;return this}});return this},unique:async()=>[...rows.values()].find(x=>x.userId===uid)||null}},insert:async(_t,r)=>{const id=String(++next);rows.set(id,{...r,_id:id});return id},patch:async(id,p)=>rows.set(id,{...rows.get(id),...p})}});
+ const reserve=box.handlers.reserve.handler,complete=box.handlers.complete.handler;
+ await assert.rejects(reserve(ctx(null),{cacheKey:'a'}),/Authentication/);
+ assert.equal((await reserve(ctx('student-a'),{cacheKey:'a'})).cached,false);
+ await assert.rejects(reserve(ctx('student-a'),{cacheKey:'b'}),/15/);
+ const result={engine:'LanguageTool-selfhost',engineVersion:'6.6',language:'en-GB',matches:[],truncated:false,band:null};
+ await complete(ctx('student-a'),{cacheKey:'a',result});assert.equal((await reserve(ctx('student-a'),{cacheKey:'a'})).cached,true);
+ assert.equal((await reserve(ctx('student-b'),{cacheKey:'a'})).cached,false);
+ now+=16000;await reserve(ctx('student-a'),{cacheKey:'b'});await complete(ctx('student-a'),{cacheKey:'a',result});
+ const row=[...rows.values()].find(r=>r.userId==='student-a');assert.equal(row.pendingKey,'b');assert.equal(row.cacheKey,'a');
+ now+=7*86400000;assert.equal((await reserve(ctx('student-a'),{cacheKey:'a'})).cached,false);
+ assert.equal(rows.size,2);
+ console.log('PASS grammar state authentication, per-student cache isolation, rate limiting, expiry, stale-result protection and one-row-per-student storage.');
+})().catch(e=>{console.error(e);process.exitCode=1});

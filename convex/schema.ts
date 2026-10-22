@@ -1,9 +1,11 @@
 import { authTables } from "@convex-dev/auth/server";
 import { defineSchema, defineTable } from "convex/server";
 import { v } from "convex/values";
+import { grammarResult } from './grammarValidators';
 
 export default defineSchema({
   ...authTables,
+  grammarState: defineTable({userId:v.id('users'),lastStartedAt:v.number(),windowStartedAt:v.number(),windowCount:v.number(),pendingKey:v.string(),cacheKey:v.optional(v.string()),cachedAt:v.optional(v.number()),result:v.optional(grammarResult)}).index('by_user',['userId']),
   profiles: defineTable({
     userId: v.id("users"),
     displayName: v.optional(v.string()),
