@@ -7,6 +7,7 @@ const {getDocument}=await import(pathToFileURL(workspace+'/node_modules/pdfjs-di
 const source='https://ielts.org/cdn/computer-delivered-sample-tests-academic-writing/ielts-academic-writing-example-responses-to-parts-1-and-2-with-band-scores-and-examiner-comments.pdf';
 const pdf=await getDocument({data:new Uint8Array(await(await fetch(source)).arrayBuffer()),useSystemFonts:true}).promise;
 const rows=[];
+const runDirectory=workspace+'/official-runs/'+new Date().toISOString().replace(/[:.]/g,'-');mkdirSync(runDirectory,{recursive:true});
 for(const pageNo of [4,5]){
  const page=await pdf.getPage(pageNo),content=await page.getTextContent();
  // PDF hasEOL marks printed line wraps, not paragraph boundaries. Reconstruct
@@ -22,11 +23,14 @@ for(const pageNo of [4,5]){
  // Paraphrased topic; this is explicitly not a verbatim-task fidelity benchmark.
  const prompt='Argue whether future populations will be less healthy than those alive today. Explain your degree of agreement, with reasons and examples, in at least 250 words.';
  const start=Date.now();
+ try{
  const result=await fetch('http://127.0.0.1:8782/review',{method:'POST',headers:{'Content-Type':'application/json','Origin':'http://127.0.0.1:8782','X-LTU-Assessor':'1'},body:JSON.stringify({skill:'writing',taskType:'task2',prompt,response}),signal:AbortSignal.timeout(970000)});
  const data=await result.json();if(!result.ok)throw Error(data.error);
- writeFileSync(workspace+'/review-'+pageNo+'.json',JSON.stringify(data,null,2));
+ writeFileSync(runDirectory+'/review-'+pageNo+'.json',JSON.stringify(data,null,2));
  rows.push({id:'academic-task2-response-'+(pageNo-3),model:data.review.model,source,page:pageNo,expected,predicted:data.operatorCandidateBand,criteria:data.operatorCriteria,seconds:Math.round((Date.now()-start)/1000),studentBand:data.review.band});
+ }catch(e){rows.push({id:'academic-task2-response-'+(pageNo-3),source,page:pageNo,expected,predicted:null,status:'rejected',error:String(e.message).slice(0,200),seconds:Math.round((Date.now()-start)/1000),studentBand:null});}
  console.log(JSON.stringify(rows.at(-1)));
 }
-const report={testedAt:new Date().toISOString(),rubricVersion,model:rows[0].model,strategy:'per-criterion-full-official-v1',layout:'pdf-baseline-paragraph-spacing-v2',independent:false,calibrationPassed:false,note:'Topic is paraphrased. Public samples may have occurred in model training. Two scripts are a smoke benchmark, not independent calibration or EPT validation.',...benchmark(rows),rows};
+const scored=rows.filter(r=>Number.isFinite(r.predicted));
+const report={testedAt:new Date().toISOString(),rubricVersion,model:scored[0]?.model??null,strategy:'per-criterion-full-official-v1',layout:'pdf-baseline-paragraph-spacing-v2',independent:false,calibrationPassed:false,note:'Topic is paraphrased. Public samples may have occurred in model training. Two scripts are a smoke benchmark, not independent calibration or EPT validation. MAE covers completed reports only; rejection rate must be considered separately.',...(scored.length?benchmark(scored):{sampleCount:0,mae:null,withinOne:null,maxError:null}),attempted:rows.length,rejected:rows.length-scored.length,rejectionRate:(rows.length-scored.length)/rows.length,rows};
 mkdirSync(workspace,{recursive:true});writeFileSync(workspace+'/official-benchmark.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));
