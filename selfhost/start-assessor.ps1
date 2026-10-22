@@ -1,13 +1,13 @@
 #requires -Version 7.0
-param([string]$RuntimeRoot=(Join-Path $env:LOCALAPPDATA 'LTU\Assessor'),[ValidateSet('8B','14B')][string]$Model='8B')
+param([string]$RuntimeRoot=(Join-Path $env:LOCALAPPDATA 'LTU\Assessor'),[ValidateSet('8B','14B','3.5-9B')][string]$Model='8B')
 $ErrorActionPreference='Stop'
 $root=[IO.Path]::GetFullPath($RuntimeRoot)
 foreach($port in @(8782,8783)){if(Get-NetTCPConnection -LocalPort $port -State Listen -ErrorAction SilentlyContinue){throw "Port $port already in use; existing process retained."}}
 $engine=Get-ChildItem -LiteralPath (Join-Path $root 'llama-b11827') -Filter llama-server.exe -Recurse | Select-Object -First 1
 if(!$engine){throw 'Run install-assessor.ps1 first'}
-$modelFile=Join-Path $root ('Qwen3-'+$Model+'-Q4_K_M.gguf')
+$modelFile=Join-Path $root $(if($Model -eq '3.5-9B'){'Qwen3.5-9B-Q4_K_M.gguf'}else{'Qwen3-'+$Model+'-Q4_K_M.gguf'})
 if(!(Test-Path -LiteralPath $modelFile)){throw 'Selected model is not installed; run install-assessor.ps1 with the same -Model option.'}
-$modelId=if($Model -eq '14B'){'Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd'}else{'Qwen3-8B-Q4_K_M@7c41481f57cb95916b40956ab2f0b139b296d974'}
+$modelId=if($Model -eq '3.5-9B'){'Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5'}elseif($Model -eq '14B'){'Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd'}else{'Qwen3-8B-Q4_K_M@7c41481f57cb95916b40956ab2f0b139b296d974'}
 $layers=if($Model -eq '14B'){'24'}else{'99'}
 $keyFile=Join-Path $root 'engine-key.txt'
 if(!(Test-Path -LiteralPath $keyFile)){[Convert]::ToHexString([Security.Cryptography.RandomNumberGenerator]::GetBytes(32)).ToLower() | Set-Content -LiteralPath $keyFile -NoNewline}

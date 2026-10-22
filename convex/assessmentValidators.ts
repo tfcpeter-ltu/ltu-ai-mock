@@ -1,0 +1,11 @@
+import {v} from 'convex/values';
+export const partNumber=v.union(v.literal(1),v.literal(2),v.literal(3));
+export const speakingPart=v.object({part:partNumber,prompt:v.string(),answerText:v.string(),audioId:v.optional(v.id('speakingAudio'))});
+export const speechCriterion=v.union(v.literal('fluency'),v.literal('lexical'),v.literal('grammar'),v.literal('pronunciation'));
+export const speechMark=v.object({band:v.number(),comment:v.string()});
+export const speechEvidence=v.object({part:partNumber,startSeconds:v.number(),endSeconds:v.number(),quote:v.string(),note:v.string(),criterion:speechCriterion});
+export const humanReview=v.object({fluency:speechMark,lexical:speechMark,grammar:speechMark,pronunciation:speechMark,overallComment:v.string(),evidence:v.array(speechEvidence),listenedOriginal:v.literal(true),reviewerId:v.id('users'),reviewedAt:v.number(),band:v.number()});
+export const criterion=v.object({name:v.string(),band:v.number(),comment:v.string(),evidence:v.array(v.object({quote:v.string(),explanation:v.string()}))});
+export const workerReport=v.object({summary:v.string(),nextSteps:v.array(v.string()),criteria:v.array(criterion)});
+export const jobKind=v.union(v.literal('writing'),v.literal('speaking-text'));
+export const jobState=v.union(v.literal('pending'),v.literal('leased'),v.literal('complete'),v.literal('failed'));

@@ -12,6 +12,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
+      - run: npm ci
       - run: npm ci --prefix frontend
       - run: node frontend/build.mjs
       - run: node tests/assessment.test.cjs
@@ -23,3 +24,5 @@ jobs:
       - run: node tests/grammar-ui.test.cjs
       - run: node tests/rubric-audio.test.mjs
       - run: node tests/speaking-save.test.mjs
+      - run: node tests/assessment-backend.test.cjs
+      - run: node tests/assessment-worker.test.mjs

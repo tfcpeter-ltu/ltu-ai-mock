@@ -2,9 +2,16 @@ import { authTables } from "@convex-dev/auth/server";
 import { defineSchema, defineTable } from "convex/server";
 import { v } from "convex/values";
 import { grammarResult } from './grammarValidators';
+import {speakingPart,partNumber,humanReview,workerReport,jobKind,jobState} from './assessmentValidators';
 
 export default defineSchema({
   ...authTables,
+  speakingSessions:defineTable({userId:v.id('users'),setNumber:v.optional(v.number()),status:v.union(v.literal('draft'),v.literal('submitted'),v.literal('reviewed')),parts:v.array(speakingPart),createdAt:v.number(),submittedAt:v.optional(v.number()),humanReview:v.optional(humanReview)}).index('by_user',['userId']).index('by_status',['status']),
+  speakingAudio:defineTable({userId:v.id('users'),sessionId:v.id('speakingSessions'),part:partNumber,bytes:v.number(),mimeType:v.string(),state:v.union(v.literal('reserved'),v.literal('stored'),v.literal('cancelled')),storageId:v.optional(v.id('_storage')),createdAt:v.number()}).index('by_user',['userId']).index('by_session_and_part_and_state',['sessionId','part','state']),
+  assessmentBudget:defineTable({key:v.string(),bytes:v.number(),pending:v.number()}).index('by_key',['key']),
+  assessmentJobs:defineTable({userId:v.id('users'),kind:jobKind,task:v.string(),prompt:v.string(),text:v.string(),model:v.string(),rubric:v.string(),cacheKey:v.string(),status:jobState,createdAt:v.number(),leaseUntil:v.number(),leaseToken:v.optional(v.string()),attempts:v.number(),report:v.optional(workerReport),completedAt:v.optional(v.number()),error:v.optional(v.string())}).index('by_user',['userId']).index('by_user_and_cacheKey',['userId','cacheKey']).index('by_status_and_leaseUntil',['status','leaseUntil']),
+  assessmentRate:defineTable({userId:v.id('users'),lastAt:v.number(),windowAt:v.number(),count:v.number()}).index('by_user',['userId']),
+  assessmentCalibration:defineTable({model:v.string(),rubric:v.string(),task:v.string(),enabled:v.boolean(),independent:v.literal(true),sampleCount:v.number(),mae:v.number(),withinOne:v.number(),evidenceUrl:v.string(),updatedAt:v.number()}).index('by_model_and_rubric_and_task',['model','rubric','task']),
   grammarState: defineTable({userId:v.id('users'),lastStartedAt:v.number(),windowStartedAt:v.number(),windowCount:v.number(),pendingKey:v.string(),cacheKey:v.optional(v.string()),cachedAt:v.optional(v.number()),result:v.optional(grammarResult)}).index('by_user',['userId']),
   profiles: defineTable({
     userId: v.id("users"),

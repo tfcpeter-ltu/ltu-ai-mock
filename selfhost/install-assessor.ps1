@@ -1,5 +1,5 @@
 #requires -Version 7.0
-param([string]$RuntimeRoot=(Join-Path $env:LOCALAPPDATA 'LTU\Assessor'),[ValidateSet('8B','14B')][string]$Model='8B')
+param([string]$RuntimeRoot=(Join-Path $env:LOCALAPPDATA 'LTU\Assessor'),[ValidateSet('8B','14B','3.5-9B')][string]$Model='8B')
 $ErrorActionPreference='Stop'
 $root=[IO.Path]::GetFullPath($RuntimeRoot)
 if($root.StartsWith([IO.Path]::GetFullPath($env:OneDrive),[StringComparison]::OrdinalIgnoreCase)){throw 'Keep model weights outside OneDrive.'}
@@ -9,6 +9,7 @@ $files=@(
  @{name='Qwen3-8B-Q4_K_M.gguf';url='https://huggingface.co/Qwen/Qwen3-8B-GGUF/resolve/7c41481f57cb95916b40956ab2f0b139b296d974/Qwen3-8B-Q4_K_M.gguf';sha='d98cdcbd03e17ce47681435b5150e34c1417f50b5c0019dd560e4882c5745785'}
 )
 if($Model -eq '14B'){$files[1]=@{name='Qwen3-14B-Q4_K_M.gguf';url='https://huggingface.co/Qwen/Qwen3-14B-GGUF/resolve/530227a7d994db8eca5ab5ced2fb692b614357fd/Qwen3-14B-Q4_K_M.gguf';sha='500a8806e85ee9c83f3ae08420295592451379b4f8cf2d0f41c15dffeb6b81f0'}}
+if($Model -eq '3.5-9B'){$files[1]=@{name='Qwen3.5-9B-Q4_K_M.gguf';url='https://huggingface.co/unsloth/Qwen3.5-9B-GGUF/resolve/3885219b6810b007914f3a7950a8d1b469d598a5/Qwen3.5-9B-Q4_K_M.gguf';sha='03b74727a860a56338e042c4420bb3f04b2fec5734175f4cb9fa853daf52b7e8'}}
 foreach($file in $files){
  $target=Join-Path $root $file.name
  if(!(Test-Path -LiteralPath $target)){
@@ -21,5 +22,5 @@ foreach($file in $files){
 }
 $bin=Join-Path $root 'llama-b11827'
 if(!(Test-Path -LiteralPath $bin)){Expand-Archive -LiteralPath (Join-Path $root $files[0].name) -DestinationPath $bin}
-@{model=('Qwen3-'+$Model+'-Q4_K_M');revision=$(if($Model -eq '14B'){'530227a7d994db8eca5ab5ced2fb692b614357fd'}else{'7c41481f57cb95916b40956ab2f0b139b296d974'});llama='b11827';files=$files} | ConvertTo-Json -Depth 4 | Set-Content -LiteralPath (Join-Path $root ('runtime-manifest-'+$Model+'.json')) -Encoding utf8
+@{model=([IO.Path]::GetFileNameWithoutExtension($files[1].name));revision=$(if($Model -eq '3.5-9B'){'3885219b6810b007914f3a7950a8d1b469d598a5'}elseif($Model -eq '14B'){'530227a7d994db8eca5ab5ced2fb692b614357fd'}else{'7c41481f57cb95916b40956ab2f0b139b296d974'});llama='b11827';files=$files} | ConvertTo-Json -Depth 4 | Set-Content -LiteralPath (Join-Path $root ('runtime-manifest-'+$Model+'.json')) -Encoding utf8
 Write-Output 'Verified local assessor installed. No external listener or paid API was enabled.'

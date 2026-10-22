@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {processOne} from '../selfhost/assessment-worker.mjs';
+import {rubricVersion} from '../shared/rubric.mjs';
+const token='x'.repeat(64),model='fixed-model',job={jobId:'j1',kind:'writing',task:'ielts-writing-task2',prompt:'Discuss learning.',text:'Students learn through practice.',model,rubric:rubricVersion,leaseToken:'lease1'};
+const good={review:{version:rubricVersion,model,nextStep:'Develop the example in your second paragraph.',criteria:['task','coherence','lexical','grammar'].map(name=>({name,reason:'The argument has clear relevant support.',revision:'Develop the example with a concrete outcome.',evidence:job.text}))},operatorCriteria:[6,6,6,6]};
+async function run(overrides={},result=good){const calls=[];const fetchImpl=async(url,options)=>{calls.push({url,options,body:JSON.parse(options.body)});if(url.endsWith('/pull'))return Response.json({job:{...job,...overrides}});if(url.startsWith('http://127.0.0.1'))return Response.json(result);return Response.json({ok:true})};const output=await processOne({token,model,fetchImpl});return {calls,output};}
+let r=await run();assert.equal(r.output.state,'complete');assert.equal(r.calls.length,3);assert.equal(r.calls[1].options.headers.Authorization,undefined);assert.equal(r.calls[1].options.headers.Origin,'http://127.0.0.1:8782');assert.equal(r.calls[2].options.headers.Authorization,'Bearer '+token);assert.equal(r.calls[2].body.leaseToken,'lease1');assert.equal(r.calls[2].body.report.criteria[0].evidence[0].quote,job.text);
+r=await run({model:'different-model'});assert.equal(r.output.state,'failed');assert.equal(r.calls.length,2);assert.ok(r.calls[1].url.endsWith('/fail'));assert.equal(r.calls[1].body.error,'unsupported-model');
+r=await run({},{});assert.equal(r.output.state,'failed');assert.equal(r.calls.at(-1).body.error,'unsupported-model');
+r=await run({kind:'speaking-text',task:'speaking-text'},{...good,review:{...good.review,criteria:good.review.criteria.slice(1)},operatorCriteria:[6,6,6]});assert.deepEqual(r.calls.at(-1).body.report.criteria.map(c=>c.name),['coherence','lexical','grammar']);assert.ok(!JSON.stringify(r.calls.at(-1).body.report).includes('pronunciation'));
+await assert.rejects(()=>processOne({token:'short',model}),/secret/);
+console.log('PASS local worker: outbound lease flow, model/rubric pinning, no local secret forwarding, exact evidence and explicit failure handling.');

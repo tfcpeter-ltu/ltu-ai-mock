@@ -29,7 +29,18 @@ jobs:
       - run: node tests/grammar-ui.test.cjs
       - run: node tests/rubric-audio.test.mjs
       - run: node tests/speaking-save.test.mjs
+      - run: node tests/assessment-backend.test.cjs
+      - run: node tests/assessment-worker.test.mjs
       - name: Deploy Convex Backend
         run: npx convex deploy
         env:
           CONVEX_DEPLOY_KEY: ${{ secrets.CONVEX_DEPLOY_KEY }}
+      - name: Configure outbound local assessor authentication
+        if: success()
+        run: |
+          if [ -n "$ASSESSOR_WORKER_TOKEN" ]; then
+            npx convex env set ASSESSOR_WORKER_TOKEN "$ASSESSOR_WORKER_TOKEN"
+          fi
+        env:
+          CONVEX_DEPLOY_KEY: ${{ secrets.CONVEX_DEPLOY_KEY }}
+          ASSESSOR_WORKER_TOKEN: ${{ secrets.ASSESSOR_WORKER_TOKEN }}
