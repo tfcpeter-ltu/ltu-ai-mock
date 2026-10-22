@@ -3,8 +3,8 @@ let engine,selected,loading;
 export async function review({essay,prompt,target=250,model,grammarFindings=[],onProgress=()=>{}}){
  if(!navigator.gpu)throw Error('此裝置不支援 WebGPU；請使用免費檢查，或改用支援 WebGPU 的電腦。');
  if(essay.length>16000||prompt.length>12000)throw Error('作文或題目過長，請縮短後重試。');
- if(loading)throw Error('已有本機評閱進行中，請稍候。');
- loading=true;
+ if(loading||window.LTULocalInferenceBusy)throw Error('已有本機評閱進行中，請稍候。');
+ loading=true;window.LTULocalInferenceBusy=true;
  try{
   const webllm=await import('https://esm.run/@mlc-ai/web-llm@0.2.86');
   const allowed=['Qwen2.5-1.5B-Instruct-q4f16_1-MLC','Llama-3.2-3B-Instruct-q4f16_1-MLC','Phi-3.5-mini-instruct-q4f16_1-MLC'];
@@ -29,5 +29,5 @@ export async function review({essay,prompt,target=250,model,grammarFindings=[],o
   for(const c of parsed.criteria){if(!Number.isInteger(c.evidenceIndex)||!evidence[c.evidenceIndex])throw Error('模型未選取有效作文證據，本次不產生成績。');c.evidence=evidence[c.evidenceIndex];}
   const assessment=window.LTUWriting.validate(JSON.stringify(parsed),essay);
   return {...assessment,model};
- }finally{loading=false;}
+ }finally{try{if(engine)await engine.unload();}finally{engine=null;selected=null;loading=false;window.LTULocalInferenceBusy=false;}}
 }

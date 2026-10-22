@@ -27,6 +27,7 @@ jobs:
       - run: node tests/grammar-bridge.test.cjs
       - run: node tests/grammar-state.test.cjs
       - run: node tests/grammar-ui.test.cjs
+      - run: node tests/rubric-audio.test.mjs
       - name: Deploy Convex Backend
         run: npx convex deploy
         env:
