@@ -39,7 +39,7 @@
 <meta name="referrer" content="strict-origin-when-cross-origin"><meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests"></head>
 <body><div id="root"><div class="loader"><div><div class="spinner"></div><p id="boot-message">正在載入 LTU 學習系統…</p><noscript>請開啟瀏覽器的 JavaScript 以使用學習系統。</noscript></div></div></div>
 <script type="module">
-import('./assets/app.js?v=18').catch(error=>{
+import('./assets/app.js?v=19').catch(error=>{
  console.error('LTU application loading failed',error);
  document.getElementById('boot-message').textContent='載入失敗，請重新整理頁面，或稍後再試。';
 });
