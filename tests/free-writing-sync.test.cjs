@@ -3,14 +3,16 @@ const box={window:{}};vm.createContext(box);vm.runInContext(fs.readFileSync('ass
 const W=box.window.LTUWriting,essay='Public transport can reduce traffic.\n\nFor example, reliable buses help workers travel.\n\nCities should improve bus services.';
 assert.equal(W.inspect(essay).band,null);
 const raw={criteria:Array.from({length:4},()=>({band:6,evidence:'Public transport',reason:'Addresses transport but needs development'})),nextStep:'Develop a concrete example.'};
-assert.equal(W.validate(JSON.stringify(raw),essay).band,6);
+assert.equal(W.validate(JSON.stringify(raw),essay).band,null);
 assert.throws(()=>W.validate(JSON.stringify({...raw,criteria:raw.criteria.slice(0,3)}),essay));
 assert.throws(()=>W.validate(JSON.stringify({...raw,criteria:raw.criteria.map(c=>({...c,band:6.5}))}),essay));
 assert.throws(()=>W.validate(JSON.stringify({...raw,criteria:raw.criteria.map(c=>({...c,evidence:'Invented quotation'}))}),essay));
 assert.throws(()=>W.validate(JSON.stringify({...raw,nextStep:''}),essay));
 vm.runInContext(fs.readFileSync('assets/assessment.js','utf8'),box);
 const review=W.validate(JSON.stringify(raw),essay);
-assert.equal(box.window.LTUAssessment.writing(essay,review).taskBand,6);
+assert.equal(box.window.LTUAssessment.writing(essay,review).taskBand,null);
+assert.equal(box.window.LTUAssessment.writing(essay,review).status,'uncalibrated_draft');
+assert.throws(()=>W.validate(JSON.stringify({...raw,nextStep:'one personalised revision task'}),essay));
 assert.equal(box.window.LTUAssessment.writing(essay+' changed',review).taskBand,null);
 assert.equal(box.window.LTUAssessment.writing(essay,W.inspect(essay)).taskBand,null);
 // Exercise the actual backend mutation with an authenticated per-user indexed store.

@@ -21,8 +21,8 @@
    if(!Number.isInteger(c.band)||c.band<1||c.band>9||typeof c.reason!=='string'||!c.reason.trim()||typeof c.evidence!=='string'||c.evidence.trim().length<8||!sentences.includes(c.evidence.toLowerCase()))throw Error('模型評分缺少有效分數或作文原句依據；本次不產生成績。');
    c.name=criteria[i];
   }
-  if(typeof r.nextStep!=='string'||!r.nextStep.trim())throw Error('模型未提供個人化改善任務，請重新評閱。');
-  return {assessmentVersion:version,provider:'browser-local-ai',reviewedEssay:essay,criteria:r.criteria,nextStep:r.nextStep,band:Math.round(r.criteria.reduce((n,c)=>n+c.band,0)/4*2)/2,provisional:true,createdAt:new Date().toISOString()};
+  if(typeof r.nextStep!=='string'||!r.nextStep.trim()||/^(one personalised revision task|nextStep|revision task)$/i.test(r.nextStep.trim()))throw Error('模型未提供個人化改善任務，請重新評閱。');
+  return {assessmentVersion:version,provider:'browser-local-ai',reviewedEssay:essay,criteria:r.criteria,nextStep:r.nextStep,band:null,status:'uncalibrated-draft',provisional:true,createdAt:new Date().toISOString()};
  }
  root.LTUWriting={version,criteria,inspect,validate};
 })(typeof window==='undefined'?globalThis:window);

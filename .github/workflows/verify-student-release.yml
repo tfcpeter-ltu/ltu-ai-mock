@@ -1,0 +1,19 @@
+name: Verify Student Release
+on:
+  push:
+    branches: [main]
+    paths: ["frontend/**", "assets/**", "legacy.html", "index.html", "tests/**", ".github/workflows/verify-student-release.yml"]
+  workflow_dispatch:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm ci --prefix frontend
+      - run: node frontend/build.mjs
+      - run: node tests/assessment.test.cjs
+      - run: node tests/free-writing-sync.test.cjs
+      - run: node tests/cloud-client.test.cjs
