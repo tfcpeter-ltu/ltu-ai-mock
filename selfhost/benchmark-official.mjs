@@ -9,7 +9,13 @@ const pdf=await getDocument({data:new Uint8Array(await(await fetch(source)).arra
 const rows=[];
 for(const pageNo of [4,5]){
  const page=await pdf.getPage(pageNo),content=await page.getTextContent();
- const text=content.items.map(item=>item.str+(item.hasEOL?'\n':' ')).join('').replace(/[ \t]+/g,' ');
+ // PDF hasEOL marks printed line wraps, not paragraph boundaries. Reconstruct
+ // the original single-column paragraph spacing before judging cohesion.
+ const lines=[];
+ for(const item of content.items){if(!item.str?.trim())continue;const y=item.transform[5],x=item.transform[4];let line=lines.find(l=>Math.abs(l.y-y)<2);if(!line){line={y,items:[]};lines.push(line)}line.items.push({x,text:item.str});}
+ lines.sort((a,b)=>b.y-a.y);
+ const gaps=lines.slice(1).map((l,i)=>lines[i].y-l.y).filter(v=>v>3&&v<25).sort((a,b)=>a-b),spacing=gaps[Math.floor(gaps.length/2)]||12;
+ const text=lines.map((l,i)=>(i?(lines[i-1].y-l.y>spacing*1.45?'\n\n':' '):'')+l.items.sort((a,b)=>a.x-b.x).map(x=>x.text).join(' ')).join('').replace(/[ \t]+/g,' ');
  const expected=Number(text.match(/Band\s*(\d(?:\.\d)?)/)?.[1]);
  const response=text.split(/Candidate Response \d\s*/)[1]?.split(/Examiner comment/)[0]?.replace(/^\s*WRITING TASK 2\s*/,'').trim();
  if(!Number.isFinite(expected)||!response)throw Error('Official sample parsing failed');
@@ -22,5 +28,5 @@ for(const pageNo of [4,5]){
  rows.push({id:'academic-task2-response-'+(pageNo-3),model:data.review.model,source,page:pageNo,expected,predicted:data.operatorCandidateBand,criteria:data.operatorCriteria,seconds:Math.round((Date.now()-start)/1000),studentBand:data.review.band});
  console.log(JSON.stringify(rows.at(-1)));
 }
-const report={testedAt:new Date().toISOString(),rubricVersion,model:rows[0].model,strategy:'per-criterion-full-official-v1',independent:false,calibrationPassed:false,note:'Topic is paraphrased. Public samples may have occurred in model training. Two scripts are a smoke benchmark, not independent calibration or EPT validation.',...benchmark(rows),rows};
+const report={testedAt:new Date().toISOString(),rubricVersion,model:rows[0].model,strategy:'per-criterion-full-official-v1',layout:'pdf-baseline-paragraph-spacing-v2',independent:false,calibrationPassed:false,note:'Topic is paraphrased. Public samples may have occurred in model training. Two scripts are a smoke benchmark, not independent calibration or EPT validation.',...benchmark(rows),rows};
 mkdirSync(workspace,{recursive:true});writeFileSync(workspace+'/official-benchmark.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));
