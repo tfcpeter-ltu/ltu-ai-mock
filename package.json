@@ -6,7 +6,11 @@
     "convex:deploy": "convex deploy"
   },
   "dependencies": {
-    "@convex-dev/auth": "latest",
-    "convex": "latest"
+    "@convex-dev/auth": "0.0.96",
+    "convex": "1.47.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "typescript": "5.9.3"
   }
 }

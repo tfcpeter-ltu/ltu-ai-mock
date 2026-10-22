@@ -99,12 +99,19 @@ export const activateMembership30Days = mutation({
 });
 
 export const saveCloudState = mutation({
-  args: { stateJson: v.string() },
-  handler: async (ctx, { stateJson }) => {
+  args: { stateJson: v.string(), expectedUpdatedAt: v.number() },
+  returns: v.object({ id: v.id("cloudState"), updatedAt: v.number(), conflict: v.optional(v.boolean()) }),
+  handler: async (ctx, { stateJson, expectedUpdatedAt }) => {
     const userId = await requireUser(ctx);
     if (stateJson.length > 900_000) throw new Error("Cloud state is too large");
     const existing = await ctx.db.query("cloudState").withIndex("by_user", q => q.eq("userId", userId)).unique();
-    const updatedAt = Date.now();
+    const parsed = JSON.parse(stateJson);
+    if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) throw new Error("Invalid learning state");
+    if (existing && expectedUpdatedAt !== undefined && expectedUpdatedAt !== existing.updatedAt) {
+      return { id: existing._id, updatedAt: existing.updatedAt, conflict: true };
+    }
+    if (existing?.stateJson === stateJson) return { id: existing._id, updatedAt: existing.updatedAt };
+    const updatedAt = Math.max(Date.now(), (existing?.updatedAt ?? 0) + 1);
     if (existing) {
       await ctx.db.patch(existing._id, { stateJson, updatedAt });
       return { id: existing._id, updatedAt };
@@ -116,6 +123,7 @@ export const saveCloudState = mutation({
 
 export const getCloudState = query({
   args: {},
+  returns: v.union(v.null(), v.object({ stateJson: v.string(), updatedAt: v.number() })),
   handler: async (ctx) => {
     const userId = await requireUser(ctx);
     const row = await ctx.db.query("cloudState").withIndex("by_user", q => q.eq("userId", userId)).unique();

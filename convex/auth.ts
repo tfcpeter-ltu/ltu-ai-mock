@@ -7,7 +7,7 @@ export const { auth, signIn, signOut, store, isAuthenticated } = convexAuth({
       profile(params) {
         return {
           email: String(params.email ?? "").trim().toLowerCase(),
-          name: params.name ? String(params.name) : undefined,
+          ...(params.name ? { name: String(params.name) } : {}),
         };
       },
     }),

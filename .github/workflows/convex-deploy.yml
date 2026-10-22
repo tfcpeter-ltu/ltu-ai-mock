@@ -17,12 +17,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
-      - run: npm install
-      - name: Configure Convex Auth
-        run: npx @convex-dev/auth --skip-git-check --web-server-url https://ltuaimock.uwetw.com
-        env:
-          CONVEX_DEPLOY_KEY: ${{ secrets.CONVEX_DEPLOY_KEY }}
-          CONVEX_DEPLOYMENT: prod:dashing-quail-760
+      - run: npm ci
+      - run: npm ci --prefix frontend
+      - run: node frontend/build.mjs
+      - run: node tests/assessment.test.cjs
+      - run: node tests/free-writing-sync.test.cjs
       - name: Deploy Convex Backend
         run: npx convex deploy
         env:
