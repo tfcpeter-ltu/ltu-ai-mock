@@ -2,7 +2,7 @@ const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('nod
 let source=fs.readFileSync('frontend/app.js','utf8');source=source.slice(source.indexOf('function StudentCloud()'),source.indexOf(' const status=',source.indexOf('function StudentCloud()')))+' return {pushState,resolveCloud,keepLocal,ready,syncText,conflict,dash:null,session}; }';
 const slots=[],effects=[],storage=new Map(),listeners={};let cursor=0,cloud,code='STUDENT-A',writes=0;
 function equal(a,b){return a&&b&&a.length===b.length&&a.every((v,i)=>v===b[i])}
-const sandbox={console,Date,JSON,encodeURIComponent,localStorage:{getItem:k=>storage.get(k)??null,setItem:(k,v)=>storage.set(k,String(v))},window:{addEventListener:(n,f)=>listeners[n]=f,removeEventListener:()=>{}},setInterval:()=>1,clearInterval:()=>{},setTimeout:()=>1,clearTimeout:()=>{},anyApi:{student:{ensureProfile:'ensure',saveCloudState:'save',me:'me',getCloudState:'cloud'}},
+const sandbox={console,Date,JSON,encodeURIComponent,useRef:()=>({current:null}),useGrammarBridge:()=>{},localStorage:{getItem:k=>storage.get(k)??null,setItem:(k,v)=>storage.set(k,String(v))},window:{addEventListener:(n,f)=>listeners[n]=f,removeEventListener:()=>{}},setInterval:()=>1,clearInterval:()=>{},setTimeout:()=>1,clearTimeout:()=>{},anyApi:{student:{ensureProfile:'ensure',saveCloudState:'save',me:'me',getCloudState:'cloud'}},
 useAuthActions:()=>({signOut:async()=>{}}),useQuery:n=>n==='me'?{profile:{studentCode:code}}:cloud,
 useMutation:n=>n==='ensure'?async()=>{}:async a=>{writes++;return {updatedAt:200,conflict:false}},
 useState(initial){const i=cursor++;if(!(i in slots))slots[i]=initial;return [slots[i],v=>slots[i]=typeof v==='function'?v(slots[i]):v]},

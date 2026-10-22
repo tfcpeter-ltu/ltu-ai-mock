@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import {once} from 'node:events';
+import http from 'node:http';
 import {createGateway} from '../selfhost/gateway.mjs';
 import {normalizeGrammar} from '../shared/grammar.mjs';
 const token='synthetic-test-token-not-used-in-production-123456789';
@@ -19,3 +20,15 @@ try{
  assert.throws(()=>createGateway({token,engineUrl:'https://api.languagetool.org/v2/check'}),/local/);
  console.log('PASS gateway auth, local-only upstream, language and length limits, response sanitization, and no Band conversion.');
 }finally{server.close();server.closeAllConnections();}
+const local=createGateway({token,allowLocalPage:true,fetchImpl:async()=>new Response(JSON.stringify(raw))});
+local.listen(0,'127.0.0.1');await once(local,'listening');const localBase='http://127.0.0.1:'+local.address().port;
+try{
+ assert.equal((await fetch(localBase+'/')).status,200);
+ const options={method:'POST',headers:{'Content-Type':'application/json','X-LTU-Local-Check':'1',Origin:localBase},body:JSON.stringify({text:'She go to school.',language:'en-GB'})};
+ assert.equal((await fetch(localBase+'/local-check',options)).status,200);
+ assert.equal((await fetch(localBase+'/local-check',{...options,headers:{...options.headers,Origin:'https://attacker.invalid'}})).status,401);
+ assert.equal((await fetch(localBase+'/local-check',{...options,headers:{'Content-Type':'application/json',Origin:localBase}})).status,401);
+ const badHost=await new Promise((resolve,reject)=>{const request=http.request(localBase+'/local-check',{method:'POST',headers:{...options.headers,Host:'attacker.invalid','Content-Length':Buffer.byteLength(options.body)}},response=>{response.resume();resolve(response.statusCode)});request.on('error',reject);request.end(options.body);});
+ assert.equal(badHost,401);
+ console.log('PASS local page stays loopback-only and rejects cross-origin requests, missing local header and DNS-rebinding Host values.');
+}finally{local.close();local.closeAllConnections();}

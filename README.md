@@ -20,3 +20,5 @@ Convex Production 後端包含：profiles、cloudState、mockAttempts、answers�
 原始碼、相依清單、鎖定檔與必要音檔保留 OneDrive；安裝與建置在 OneDrive 外的工作副本執行，勿把 node_modules 放入同步資料夾。
 
 驗證：`node frontend/build.mjs`、`node tests/assessment.test.cjs`、`node tests/free-writing-sync.test.cjs`、`node tests/cloud-client.test.cjs`；後端使用 Convex CLI 產生型別後以 `tsc --noEmit -p convex/tsconfig.json` 核對。
+
+2026-10-23：新增 LanguageTool 自架文法接線、個別學生快取與限流、文法待確認弱點及 Cambridge 免費練習入口。LanguageTool 已在本機實測；公開主機尚待指定，未配置 HTTPS 入口時不向學生宣稱已連線。安裝與資料流詳見 `selfhost/README.md`，執行環境只安裝於目前電腦的 LocalAppData，不在 OneDrive。

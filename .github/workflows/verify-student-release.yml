@@ -2,7 +2,7 @@ name: Verify Student Release
 on:
   push:
     branches: [main]
-    paths: ["frontend/**", "assets/**", "legacy.html", "index.html", "tests/**", ".github/workflows/verify-student-release.yml"]
+    paths: ["frontend/**", "assets/**", "shared/**", "selfhost/**", "legacy.html", "index.html", "tests/**", ".github/workflows/verify-student-release.yml"]
   workflow_dispatch:
 jobs:
   verify:
@@ -17,3 +17,7 @@ jobs:
       - run: node tests/assessment.test.cjs
       - run: node tests/free-writing-sync.test.cjs
       - run: node tests/cloud-client.test.cjs
+      - run: node tests/grammar-gateway.test.mjs
+      - run: node tests/grammar-bridge.test.cjs
+      - run: node tests/grammar-state.test.cjs
+      - run: node tests/grammar-ui.test.cjs

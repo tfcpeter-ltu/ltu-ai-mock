@@ -1,0 +1,10 @@
+{
+  "languageToolVersion": "6.6",
+  "languageToolUrl": "https://languagetool.org/download/LanguageTool-6.6.zip",
+  "languageToolSha256": "53600506b399bb5ffe1e4c8dec794fd378212f14aaf38ccef9b6f89314d11631",
+  "javaVersion": "21.0.12.1+1-LTS",
+  "javaUrl": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_x64_windows_hotspot_21.0.12.1_1.zip",
+  "javaSha256": "d35f31e712f0fcf6ac5a093edc90204fbff22f720ba3950bd09d331d5e621636",
+  "javaPackageName": "OpenJDK21U-jre_x64_windows_hotspot_21.0.12.1_1.zip",
+  "checksumNote": "Locally computed; official HTTPS download, no independently published digest verified."
+}
