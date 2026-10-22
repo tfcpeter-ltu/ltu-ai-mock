@@ -58,3 +58,15 @@ node ./benchmark-official.mjs '<本機驗證目錄>'
 - [IELTS Speaking 規準](https://ielts.org/cdn/ielts-guides/ielts-speaking-band-descriptors.pdf)
 - [Qwen3 官方執行參數](https://huggingface.co/Qwen/Qwen3-8B)
 - [Transformers.js 音訊管線](https://huggingface.co/docs/transformers.js/api/pipelines)
+# 雲端取件與教師評論（2026-10-23）
+
+新增 `assessment-worker.mjs`：從本站 Convex 私人排程向外取件，呼叫已啟動的 127.0.0.1:8782 本機模型，再以有期限的租約回傳。沒有公開本機連接埠或自動啟動；電腦離線時學生看到等待狀態。
+
+工作金鑰設定尚未執行：自動核准審查要求使用者明確同意金鑰用途與目的地。核准後才可將專用隨機金鑰放在 `%LOCALAPPDATA%/LTU/Assessor/worker-token.txt`、本站 GitHub repository 的加密 `ASSESSOR_WORKER_TOKEN` secret，及 Convex 同名環境變數。金鑰可取回待評文字並提交評論，須保密；不可放在 OneDrive、前端或 Git。`start-worker.ps1` 必須有私人設定才會啟動；`stop-worker.ps1` 核對 PID 後停止。
+
+`install-assessor.ps1 -Model 3.5-9B` 與 `start-assessor.ps1 -Model 3.5-9B` 支援固定 revision 的 Qwen3.5 9B Unsloth Q4_K_M，下載後核對 SHA-256。兩篇官方開發樣本結果為 5.5/6.0（考官 5.5/7.5），MAE 0.75、最大誤差 1.5；未通過正式採分門檻。8B 為 6/6，MAE 1.0。不得將同一批調整用公開樣本稱為獨立校準。
+
+學生評閱中心支援三部分原音提交、草稿失敗續傳、私人播放及完整教師評論。每段上限 8 MiB，總預留上限 200 MiB，不自動刪除。授權教師須聆聽三段原音，填四項規準評語與三部分時間證據。正式教師身份仍待擁有者指定、核對現有帳號後以內部操作授權；不可依未驗證 Email 自動提升權限。
+
+後端自動分數預設隱藏。只有管理員登錄同一模型／規準版本／題型的獨立驗證政策才可開啟，工程門檻為至少 20 件、MAE ≤0.5、誤差不超過 1 Band 比例 ≥95%；這是本站發布門檻，不是 IELTS 官方認證標準。逐字稿 AI 永不提供完整口說或發音 Band。
+

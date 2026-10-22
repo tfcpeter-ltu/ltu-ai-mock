@@ -1,0 +1,10 @@
+import assert from 'node:assert/strict';
+import {submitSpeakingAttempt} from '../frontend/assessment-client.mjs';
+const saved=[],uploaded=[],audio=new Blob(['synthetic audio'],{type:'audio/webm'});let id='',created=0,submitted=0,broken=true;
+const options={setNumber:1,readPart:async p=>({prompt:'Question '+p,answerText:'Answer '+p,audio}),loadSession:async()=>({status:'draft',setNumber:1,parts:uploaded.map(part=>({part,audioId:'a'+part}))}),create:async()=>{created++;return's1'},save:async a=>saved.push(a),upload:async({part})=>{if(part===3&&broken)throw Error('offline');uploaded.push(part)},submit:async()=>submitted++,onSession:value=>id=value};
+await assert.rejects(()=>submitSpeakingAttempt(options),/offline/);assert.equal(created,1);assert.equal(id,'s1');assert.deepEqual(uploaded,[1,2]);assert.equal(submitted,0);
+broken=false;await submitSpeakingAttempt({...options,sessionId:id});assert.equal(created,1);assert.deepEqual(uploaded,[1,2,3]);assert.equal(submitted,1);assert.deepEqual(saved.map(p=>p.part),[1,2,3,3]);
+await assert.rejects(()=>submitSpeakingAttempt({...options,sessionId:'wrong',loadSession:async()=>({status:'reviewed',setNumber:1,parts:[]})}),/已提交/);
+let touched=false;await assert.rejects(()=>submitSpeakingAttempt({...options,create:async()=>{touched=true},readPart:async p=>({prompt:'Q',answerText:'A',audio:p===3?null:audio})}),/原音/);assert.equal(touched,false);
+await assert.rejects(()=>submitSpeakingAttempt({...options,readPart:async()=>({prompt:'Q',answerText:'A',audio:new Blob([new Uint8Array(8*1024*1024+1)],{type:'audio/webm'})})}),/8 MB/);
+console.log('PASS speaking cloud client: validate all originals first, preserve interrupted session, skip stored audio on retry, never submit partial recordings.');
