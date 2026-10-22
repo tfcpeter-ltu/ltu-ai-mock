@@ -4,6 +4,8 @@ const W=box.window.LTUWriting,essay='Public transport can reduce traffic.\n\nFor
 assert.equal(W.inspect(essay).band,null);
 const raw={criteria:Array.from({length:4},()=>({band:6,evidence:'Public transport',reason:'Addresses transport but needs development'})),nextStep:'Develop a concrete example.'};
 assert.equal(W.validate(JSON.stringify(raw),essay).band,null);
+const scoreLeak=W.validate(JSON.stringify({...raw,criteria:raw.criteria.map(c=>({...c,reason:'Lexical resource is limited to Band 6.'}))}),essay);
+assert.equal(scoreLeak.criteria[0].band,null);assert.ok(!scoreLeak.criteria[0].reason.includes('Band 6'));
 assert.throws(()=>W.validate(JSON.stringify({...raw,criteria:raw.criteria.slice(0,3)}),essay));
 assert.throws(()=>W.validate(JSON.stringify({...raw,criteria:raw.criteria.map(c=>({...c,band:6.5}))}),essay));
 assert.throws(()=>W.validate(JSON.stringify({...raw,criteria:raw.criteria.map(c=>({...c,evidence:'Invented quotation'}))}),essay));

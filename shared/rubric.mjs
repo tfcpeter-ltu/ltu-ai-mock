@@ -34,9 +34,11 @@ export function validateReview(raw,request,{model='unknown',calibration=null}={}
  const candidateBand=Math.round(criteria.reduce((sum,c)=>sum+c.candidateBand,0)/criteria.length*2)/2;
  return {version:rubricVersion,skill:request.skill,provider:'local-llama',model,reviewedResponse:request.response,reviewedPrompt:request.prompt,taskType:request.taskType,criteria,nextStep:data.nextStep,band:calibrated?candidateBand:null,candidateBand,status:request.skill==='speaking'?'partial-transcript-review':calibrated?'validated-practice-estimate':'awaiting-calibration',pronunciation:request.skill==='speaking'?{band:null,status:'requires-audio-review',message:'請由教師聆聽原音，核對可理解度、重音、節奏與語調。文字模型不能評定發音。'}:null,official:false,createdAt:new Date().toISOString()};
 }
+export function hideUnvalidatedScoreText(text){return text.replace(/\b(?:IELTS\s+)?(?:band(?:\s+score)?|score)\s*(?:(?:of|is|at|around|approximately)\s*)?[:=]?\s*\d+(?:\.\d+)?(?:\s*(?:\/|out\s+of)\s*9\b)?/gi,'[分數待驗證]').replace(/\b\d+(?:\.\d+)?\s+bands?\b/gi,'[分數待驗證]').replace(/\b[0-9](?:\.\d+)?\s*\/\s*9\b/g,'[分數待驗證]');}
 export function studentReview(review){
  const {candidateBand,...safe}=review;
- return {...safe,criteria:review.criteria.map(({candidateBand,...criterion})=>({...criterion,band:review.band===null?null:candidateBand}))};
+ const text=value=>review.band===null?hideUnvalidatedScoreText(value):value;
+ return {...safe,nextStep:text(review.nextStep),criteria:review.criteria.map(({candidateBand,...criterion})=>({...criterion,reason:text(criterion.reason),revision:text(criterion.revision),band:review.band===null?null:candidateBand}))};
 }
 export function benchmark(rows){
  if(!rows.length)throw Error('No benchmark rows');

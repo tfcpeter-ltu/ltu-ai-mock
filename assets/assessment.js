@@ -50,7 +50,7 @@ window.LTUAssessment = (() => {
   }
   function writing(essay,review){
     const words=String(essay||'').trim().split(/\s+/).filter(Boolean).length;
-    const local=review?.assessmentVersion==='local-ielts-20261022'&&review.provider==='browser-local-ai'&&review.reviewedEssay===essay&&Array.isArray(review.criteria)&&review.criteria.length===4&&review.criteria.every(c=>Number.isInteger(c.band)&&c.band>=1&&c.band<=9&&typeof c.evidence==='string'&&c.evidence.length>=8&&essay.toLowerCase().includes(c.evidence.toLowerCase()));
+    const local=review?.assessmentVersion==='local-ielts-20261023-prose1'&&review.provider==='browser-local-ai'&&review.reviewedEssay===essay&&Array.isArray(review.criteria)&&review.criteria.length===4&&review.criteria.every(c=>c.band===null&&typeof c.evidence==='string'&&c.evidence.length>=8&&essay.toLowerCase().includes(c.evidence.toLowerCase()));
     const valid=review?.assessmentVersion==='ielts-rubric-v1'&&review.reviewedEssay===essay&&review.provider==='remote-ai';
     const names=['taskResponse','coherence','vocabularyScore','grammar'],values=valid?names.map(k=>review[k]):[];
     const numeric=values.length===4&&values.every(v=>typeof v==='number'&&Number.isFinite(v)&&v>=0&&v<=9);

@@ -184,6 +184,20 @@ async function bodyTests() {
   assert(!rules.audioHeaderMatches(new TextEncoder().encode('not an audio recording'),'audio/webm'));
   assert(rules.audioHeaderMatches(Uint8Array.from([26,69,223,163,0,0,0,0,0,0,0,0]),'audio/webm'));
   assert(!rules.validBand(NaN));assert(!rules.validBand(9.5));assert(!rules.validBand(-0.5));
+  for(const label of ['Band 6','band score:7.5','score of 8/9','7.5 bands','7/9']) {
+    const hidden=rules.hideUnvalidatedScoreText(`Draft feedback: ${label}.`);
+    assert(hidden.includes('[unvalidated score hidden]'));assert(!hidden.includes(label));
+  }
+  const ordinary='Use 2 examples in 4 paragraphs and write 250 words. Review lesson 19/9.';
+  assert.equal(rules.hideUnvalidatedScoreText(ordinary),ordinary,'Ordinary quantities must remain intact');
+  const leaking=report({summary:'Overall Band 6.',nextSteps:['Move beyond band score:7.5.']});
+  leaking.criteria[0].comment='limiting lexical resource to Band 6.';
+  leaking.criteria[0].evidence[0]={quote:'Public transport',explanation:'This suggests a score of 8/9.'};
+  const hidden=rules.publicReport(leaking,false);
+  assert(!hidden.summary.includes('Band 6'));assert(!hidden.nextSteps[0].includes('7.5'));
+  assert(!hidden.criteria[0].comment.includes('Band 6'));assert(!hidden.criteria[0].evidence[0].explanation.includes('8/9'));
+  assert.equal(hidden.criteria[0].evidence[0].quote,'Public transport','Evidence quotations must remain exact');
+  const allowed=rules.publicReport(leaking,true);assert.equal(allowed.criteria[0].comment,'limiting lexical resource to Band 6.');assert.equal(allowed.summary,'Overall Band 6.');
 }
 
 (async()=>{await speakingTests();await queueTests();await bodyTests();console.log('PASS assessment backend handlers: account/teacher authorization, complete original-audio review, storage quota, cache/rates, leases/evidence, independent exact-policy gating, and bounded uploads.');})().catch(error=>{console.error(error);process.exitCode=1;});

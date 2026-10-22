@@ -1,5 +1,6 @@
 (function(root){
- const version='local-ielts-20261022';
+ const version='local-ielts-20261023-prose1';
+ function hideScore(text){return text.replace(/\b(?:IELTS\s+)?(?:band(?:\s+score)?|score)\s*(?:(?:of|is|at|around|approximately)\s*)?[:=]?\s*\d+(?:\.\d+)?(?:\s*(?:\/|out\s+of)\s*9\b)?/gi,'[分數待驗證]').replace(/\b\d+(?:\.\d+)?\s+bands?\b/gi,'[分數待驗證]').replace(/\b[0-9](?:\.\d+)?\s*\/\s*9\b/g,'[分數待驗證]');}
  const criteria=['Task Achievement / Response','Coherence & Cohesion','Lexical Resource','Grammatical Range & Accuracy'];
  function inspect(essay,target=250){
   const words=String(essay).match(/[A-Za-z]+(?:['’-][A-Za-z]+)*/g)||[];
@@ -22,7 +23,7 @@
    c.name=criteria[i];
   }
   if(typeof r.nextStep!=='string'||!r.nextStep.trim()||/^(one personalised revision task|nextStep|revision task)$/i.test(r.nextStep.trim()))throw Error('模型未提供個人化改善任務，請重新評閱。');
-  return {assessmentVersion:version,provider:'browser-local-ai',reviewedEssay:essay,criteria:r.criteria,nextStep:r.nextStep,band:null,status:'uncalibrated-draft',provisional:true,createdAt:new Date().toISOString()};
+  return {assessmentVersion:version,provider:'browser-local-ai',reviewedEssay:essay,criteria:r.criteria.map(c=>({...c,reason:hideScore(c.reason),band:null})),nextStep:hideScore(r.nextStep),band:null,status:'uncalibrated-draft',provisional:true,createdAt:new Date().toISOString()};
  }
  root.LTUWriting={version,criteria,inspect,validate};
 })(typeof window==='undefined'?globalThis:window);

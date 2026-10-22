@@ -27,3 +27,4 @@ jobs:
       - run: node tests/assessment-backend.test.cjs
       - run: node tests/assessment-worker.test.mjs
       - run: node tests/assessment-client.test.mjs
+      - run: node tests/score-text.test.mjs

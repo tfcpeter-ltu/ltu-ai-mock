@@ -16,4 +16,11 @@ export function validateReport(report:any,text:string,kind:string){
  if(report.criteria.length!==names.length||new Set(report.criteria.map((c:any)=>c.name)).size!==names.length)throw Error('Invalid criterion set');
  for(const c of report.criteria){if(!names.includes(c.name)||!validBand(c.band))throw Error('Invalid criterion');boundedText(c.comment,4000,'criterion comment');if(!c.evidence.length||c.evidence.length>8)throw Error('Evidence required');for(const e of c.evidence){boundedText(e.quote,1000,'quote');boundedText(e.explanation,2000,'explanation');if(!text.includes(e.quote))throw Error('Evidence must quote submitted text exactly');}}
 }
-export function publicReport(report:any,allowed:boolean){if(!report)return null;return {summary:report.summary,nextSteps:report.nextSteps,criteria:report.criteria.map((c:any)=>({name:c.name,comment:c.comment,evidence:c.evidence,band:allowed?c.band:null}))};}
+export function hideUnvalidatedScoreText(text:string){
+ const hidden='[unvalidated score hidden]';
+ return text
+  .replace(/\b(?:IELTS\s+)?(?:band(?:\s+score)?|score)\s*(?:(?:of|is|at|around|approximately)\s*)?[:=]?\s*\d+(?:\.\d+)?(?:\s*(?:\/|out\s+of)\s*9\b)?/gi,hidden)
+  .replace(/\b\d+(?:\.\d+)?\s+bands?\b/gi,hidden)
+  .replace(/\b[0-9](?:\.\d+)?\s*\/\s*9\b/g,hidden);
+}
+export function publicReport(report:any,allowed:boolean){if(!report)return null;const text=(value:string)=>allowed?value:hideUnvalidatedScoreText(value);return {summary:text(report.summary),nextSteps:report.nextSteps.map(text),criteria:report.criteria.map((c:any)=>({name:c.name,comment:text(c.comment),evidence:c.evidence.map((e:any)=>({quote:e.quote,explanation:text(e.explanation)})),band:allowed?c.band:null}))};}
