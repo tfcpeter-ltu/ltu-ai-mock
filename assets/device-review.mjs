@@ -1,6 +1,7 @@
 import {makeRequest,validateReview,studentReview} from '../shared/rubric.mjs?v=3';
 let engine,busy=false;
 export async function reviewText({onProgress=()=>{},signal,...input}){
+ signal?.throwIfAborted();
  if(busy||window.LTULocalInferenceBusy)throw Error('已有裝置端評閱進行中');if(!navigator.gpu)throw Error('此裝置不支援 WebGPU，請保存作答供教師評閱。');
  const request=makeRequest(input),model='Phi-3.5-mini-instruct-q4f16_1-MLC';busy=true;window.LTULocalInferenceBusy=true;const interrupt=()=>engine?.interruptGenerate();signal?.addEventListener('abort',interrupt,{once:true});
  try{
