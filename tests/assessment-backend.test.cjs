@@ -22,7 +22,7 @@ function harness() {
       Date:class extends Date {static now() {return now;}},
       require(specifier) {
         if (specifier === 'convex/values') return {v};
-        if (specifier === 'convex/server') return {paginationOptsValidator:{}};
+        if (specifier === 'convex/server') return {paginationOptsValidator:{},paginationResultValidator:pageValidator=>({pageValidator})};
         if (specifier === '@convex-dev/auth/server') return {getAuthUserId:async ctx => ctx.uid ?? null};
         if (specifier === './_generated/server') return Object.fromEntries(['query','mutation','internalQuery','internalMutation','action','httpAction'].map(n => [n, definition => definition]));
         if (specifier === './_generated/api') return {internal};
@@ -55,7 +55,7 @@ function harness() {
         take:async count => selected().slice(0, count),
         first:async () => selected()[0] ?? null,
         unique:async () => {const found = selected(); assert(found.length <= 1, 'Unique index lookup returned duplicate records'); return found[0] ?? null;},
-        paginate:async options => ({page:selected().slice(0, options.numItems), isDone:selected().length <= options.numItems, continueCursor:''}),
+        paginate:async options => ({page:selected().slice(0, options.numItems), isDone:selected().length <= options.numItems, continueCursor:'',splitCursor:null,pageStatus:null}),
       };
       return query;
     },
@@ -100,6 +100,9 @@ async function speakingTests() {
   await assert.rejects(s.savePart.handler(student,{sessionId,part:1,prompt:'Changed',answerText:'Changed'}), /already submitted/);
   const queue=await s.teacherQueue.handler(teacher,{paginationOpts:{numItems:10,cursor:null}});
   assert.equal(queue.page.length,1);assert.equal(queue.page[0].owner.studentCode,'A001');
+  assert.equal(queue.splitCursor,null);assert.equal(queue.pageStatus,null);
+  const mine=await s.mySessions.handler(student,{paginationOpts:{numItems:10,cursor:null}});
+  assert.equal(mine.splitCursor,null);assert.equal(mine.pageStatus,null);assert.equal(mine.page.length,1);
   assert.equal((await s.session.handler(student,{sessionId})).owner,null);
   const review=reviewArgs(sessionId);
   await assert.rejects(s.review.handler(student,review), /Teacher/);
@@ -143,6 +146,8 @@ async function queueTests() {
   await a.complete.handler(user,{jobId,leaseToken:'renewed',report:report()});
   assert.equal(h.table('assessmentBudget')[0].pending,1);
   const safe=await a.job.handler(user,{jobId});assert.equal(safe.scorePermitted,false);assert(safe.report.criteria.every(c=>c.band===null));
+  const mine=await a.mine.handler(user,{paginationOpts:{numItems:10,cursor:null}});
+  assert.equal(mine.splitCursor,null);assert.equal(mine.pageStatus,null);assert.equal(mine.page.length,1);
   await assert.rejects(a.job.handler(h.ctx('student-b'),{jobId}), /not found/);
   const policy={model:'tested-model-1',rubric:'ielts-public-2023',task:'ielts-writing-task2',enabled:true,independent:true,sampleCount:20,mae:0.5,withinOne:0.95,evidenceUrl:'https://example.edu/independent-benchmark'};
   await assert.rejects(a.configureCalibration.handler(user,{...policy,sampleCount:19}), /thresholds/);
