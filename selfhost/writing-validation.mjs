@@ -15,7 +15,7 @@ export function verifyResearchCorpus(corpus){
  if(!Array.isArray(corpus)||!corpus.length)throw Error('Empty corpus');
  const ids=new Set(),responses=new Set();
  for(const sample of corpus){
-  if(!/^[A-Za-z0-9-]+$/.test(sample.id)||sample.taskType!=='task2'||sample.transcriptionVerified!==true||sample.taskVerified!==true||sample.exclusion||sample.referenceConflict)throw Error('Unverified, conflicting or unsupported sample');
+  if(typeof sample.id!=='string'||!/^[A-Za-z0-9-]+$/.test(sample.id)||sample.taskType!=='task2'||sample.transcriptionVerified!==true||sample.taskVerified!==true||sample.exclusion||sample.referenceConflict)throw Error('Unverified, conflicting or unsupported sample');
   const identity=identifySample(sample);if(ids.has(sample.id)||responses.has(identity.responseHash))throw Error('Duplicate sample');ids.add(sample.id);responses.add(identity.responseHash);
   if(!Number.isFinite(sample.expected)||sample.expected<0||sample.expected>9||sample.expected*2%1!==0)throw Error('Invalid reference');
  }

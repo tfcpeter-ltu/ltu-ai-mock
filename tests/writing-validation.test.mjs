@@ -20,7 +20,7 @@ const one=report([samples[0]],runs.filter(r=>r.id==='s0'));assert.equal(one.samp
 assert.equal(report(samples.map(s=>({...s,taskType:'letter'}))).sampleCount,0);
 const verified=samples.map(s=>({...s,taskType:'task2'}));
 assert.equal(verifyResearchCorpus(verified).length,20);
-for(const patch of [{referenceConflict:{}},{exclusion:'pending'},{taskVerified:false},{transcriptionVerified:false},{id:'../bad'},{expected:NaN}])assert.throws(()=>verifyResearchCorpus([{...verified[0],...patch}]));
+for(const patch of [{referenceConflict:{}},{exclusion:'pending'},{taskVerified:false},{transcriptionVerified:false},{id:'../bad'},{id:undefined},{expected:NaN}])assert.throws(()=>verifyResearchCorpus([{...verified[0],...patch}]));
 assert.throws(()=>verifyResearchCorpus([verified[0],{...verified[0],id:'copy'}]),/Duplicate/);
 const anchor={...verified[0],split:'development'};
 assertNoAnchorLeakage([verified[1]],[anchor]);
