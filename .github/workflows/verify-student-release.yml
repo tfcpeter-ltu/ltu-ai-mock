@@ -29,3 +29,5 @@ jobs:
       - run: node tests/assessment-client.test.mjs
       - run: node tests/score-text.test.mjs
       - run: node tests/teacher-ticket.test.cjs
+      - run: node tests/writing-validation.test.mjs
+      - run: node tests/writing-experiment-export.test.mjs

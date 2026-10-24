@@ -1,5 +1,5 @@
 #requires -Version 7.0
-param([string]$RuntimeRoot=(Join-Path $env:LOCALAPPDATA 'LTU\Assessor'),[ValidateSet('8B','14B','3.5-9B')][string]$Model='8B')
+param([string]$RuntimeRoot=(Join-Path $env:LOCALAPPDATA 'LTU\Assessor'),[ValidateSet('8B','14B','3.5-9B')][string]$Model='8B',[ValidateRange(-1,32768)][int]$ReasoningBudget=-1)
 $ErrorActionPreference='Stop'
 $root=[IO.Path]::GetFullPath($RuntimeRoot)
 foreach($port in @(8782,8783)){if(Get-NetTCPConnection -LocalPort $port -State Listen -ErrorAction SilentlyContinue){throw "Port $port already in use; existing process retained."}}
@@ -11,7 +11,7 @@ $modelId=if($Model -eq '3.5-9B'){'Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8
 $layers=if($Model -eq '14B'){'24'}else{'99'}
 $keyFile=Join-Path $root 'engine-key.txt'
 if(!(Test-Path -LiteralPath $keyFile)){[Convert]::ToHexString([Security.Cryptography.RandomNumberGenerator]::GetBytes(32)).ToLower() | Set-Content -LiteralPath $keyFile -NoNewline}
-$arguments=@('-m',('"'+$modelFile+'"'),'--host','127.0.0.1','--port','8783','-c','8192','-ngl',$layers,'--parallel','1','--jinja','--no-webui','--no-slots','--log-disable','--api-key-file',('"'+$keyFile+'"'),'--cors-origins','http://127.0.0.1:8782','--no-cors-credentials')
+$arguments=@('-m',('"'+$modelFile+'"'),'--host','127.0.0.1','--port','8783','-c','8192','-ngl',$layers,'--parallel','1','--jinja','--reasoning-budget',"$ReasoningBudget",'--no-webui','--no-slots','--log-disable','--api-key-file',('"'+$keyFile+'"'),'--cors-origins','http://127.0.0.1:8782','--no-cors-credentials')
 $nodeCommand=Get-Command node -ErrorAction SilentlyContinue
 $node=if($nodeCommand){$nodeCommand.Source}else{$null}
 if(!$node){$languageManifest=Join-Path $env:LOCALAPPDATA 'LTU\LanguageTool\runtime-manifest.json';if(Test-Path -LiteralPath $languageManifest){$node=(Get-Content -LiteralPath $languageManifest -Raw | ConvertFrom-Json).nodeExecutable}}

@@ -1,0 +1,735 @@
+{
+  "testedAt": "2026-10-24T04:04:53.406Z",
+  "independent": false,
+  "calibrationPassed": false,
+  "paidInferenceApiCalls": 0,
+  "note": "Research only. Two typed health scripts and three provisionally transcribed scanned scripts; not 20 independent validated scripts. Repeats do not add essays. Methods have different sample sets, so their aggregate metrics are not a fair model ranking. No criterion-level reference scores are available. Interrupted unlimited thinking trial is recorded separately.",
+  "sources": [
+    "https://ielts.org/cdn/computer-delivered-sample-tests-academic-writing/ielts-academic-writing-example-responses-to-parts-1-and-2-with-band-scores-and-examiner-comments.pdf",
+    "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf"
+  ],
+  "comparisons": [
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "strategy": "score-only",
+      "uniqueScripts": 5,
+      "attempted": 15,
+      "completedScripts": 5,
+      "mae": 0.7,
+      "maxError": 1.5,
+      "maxRepeatSpread": 0
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "strategy": "thinking",
+      "uniqueScripts": 3,
+      "attempted": 3,
+      "completedScripts": 3,
+      "mae": 0.8333333333333334,
+      "maxError": 1.5,
+      "maxRepeatSpread": 0
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "evidence-first",
+      "uniqueScripts": 2,
+      "attempted": 2,
+      "completedScripts": 2,
+      "mae": 1,
+      "maxError": 2,
+      "maxRepeatSpread": 0
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "official-exemplars",
+      "uniqueScripts": 3,
+      "attempted": 3,
+      "completedScripts": 3,
+      "mae": 1.5,
+      "maxError": 2,
+      "maxRepeatSpread": 0
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "score-only",
+      "uniqueScripts": 5,
+      "attempted": 15,
+      "completedScripts": 5,
+      "mae": 1.1666666666666665,
+      "maxError": 2,
+      "maxRepeatSpread": 1
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "thinking",
+      "uniqueScripts": 3,
+      "attempted": 3,
+      "completedScripts": 3,
+      "mae": 1.5,
+      "maxError": 2,
+      "maxRepeatSpread": 0
+    }
+  ],
+  "rows": [
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "strategy": "score-only",
+      "id": "academic-2023-2A-A",
+      "expected": 4,
+      "runs": [
+        {
+          "seed": 17,
+          "predicted": 4,
+          "criteria": [
+            6,
+            4,
+            3,
+            3
+          ],
+          "seconds": 2.46,
+          "status": "completed"
+        },
+        {
+          "seed": 91,
+          "predicted": 4,
+          "criteria": [
+            6,
+            4,
+            3,
+            3
+          ],
+          "seconds": 2.469,
+          "status": "completed"
+        },
+        {
+          "seed": 42,
+          "predicted": 4,
+          "criteria": [
+            6,
+            4,
+            3,
+            3
+          ],
+          "seconds": 2.521,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "strategy": "score-only",
+      "id": "academic-2023-2A-C",
+      "expected": 8.5,
+      "runs": [
+        {
+          "seed": 17,
+          "predicted": 7,
+          "criteria": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "seconds": 2.576,
+          "status": "completed"
+        },
+        {
+          "seed": 91,
+          "predicted": 7,
+          "criteria": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "seconds": 2.519,
+          "status": "completed"
+        },
+        {
+          "seed": 42,
+          "predicted": 7,
+          "criteria": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "seconds": 2.593,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "strategy": "score-only",
+      "id": "academic-2023-2B-B",
+      "expected": 7.5,
+      "runs": [
+        {
+          "seed": 17,
+          "predicted": 7,
+          "criteria": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "seconds": 2.673,
+          "status": "completed"
+        },
+        {
+          "seed": 91,
+          "predicted": 7,
+          "criteria": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "seconds": 2.734,
+          "status": "completed"
+        },
+        {
+          "seed": 42,
+          "predicted": 7,
+          "criteria": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "seconds": 2.671,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "strategy": "score-only",
+      "id": "academic-health-4",
+      "expected": 5.5,
+      "runs": [
+        {
+          "seed": 17,
+          "predicted": 6.5,
+          "criteria": [
+            7,
+            6,
+            6,
+            6
+          ],
+          "seconds": 2.572,
+          "status": "completed"
+        },
+        {
+          "seed": 91,
+          "predicted": 6.5,
+          "criteria": [
+            7,
+            6,
+            6,
+            6
+          ],
+          "seconds": 2.461,
+          "status": "completed"
+        },
+        {
+          "seed": 42,
+          "predicted": 6.5,
+          "criteria": [
+            7,
+            6,
+            6,
+            6
+          ],
+          "seconds": 5.748,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "strategy": "score-only",
+      "id": "academic-health-5",
+      "expected": 7.5,
+      "runs": [
+        {
+          "seed": 17,
+          "predicted": 7,
+          "criteria": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "seconds": 2.817,
+          "status": "completed"
+        },
+        {
+          "seed": 91,
+          "predicted": 7,
+          "criteria": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "seconds": 2.74,
+          "status": "completed"
+        },
+        {
+          "seed": 42,
+          "predicted": 7,
+          "criteria": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "seconds": 2.758,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "strategy": "thinking",
+      "id": "academic-2023-2A-A",
+      "expected": 4,
+      "runs": [
+        {
+          "seed": 42,
+          "predicted": 4,
+          "criteria": [
+            4,
+            4,
+            4,
+            3
+          ],
+          "seconds": 49.875,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "strategy": "thinking",
+      "id": "academic-2023-2A-C",
+      "expected": 8.5,
+      "runs": [
+        {
+          "seed": 42,
+          "predicted": 7,
+          "criteria": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "seconds": 85.031,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "strategy": "thinking",
+      "id": "academic-2023-2B-B",
+      "expected": 7.5,
+      "runs": [
+        {
+          "seed": 42,
+          "predicted": 6.5,
+          "criteria": [
+            7,
+            7,
+            6,
+            6
+          ],
+          "seconds": 66.932,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "evidence-first",
+      "id": "academic-health-4",
+      "expected": 5.5,
+      "runs": [
+        {
+          "seed": 42,
+          "predicted": 5.5,
+          "criteria": [
+            6,
+            6,
+            5,
+            5
+          ],
+          "seconds": 10.327,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "evidence-first",
+      "id": "academic-health-5",
+      "expected": 7.5,
+      "runs": [
+        {
+          "seed": 42,
+          "predicted": 5.5,
+          "criteria": [
+            6,
+            6,
+            5,
+            5
+          ],
+          "seconds": 11.041,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "official-exemplars",
+      "id": "academic-2023-2A-A",
+      "expected": 4,
+      "runs": [
+        {
+          "seed": 42,
+          "predicted": 3,
+          "criteria": [
+            3,
+            3,
+            3,
+            2
+          ],
+          "seconds": 1.208,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "official-exemplars",
+      "id": "academic-2023-2A-C",
+      "expected": 8.5,
+      "runs": [
+        {
+          "seed": 42,
+          "predicted": 6.5,
+          "criteria": [
+            7,
+            7,
+            6,
+            6
+          ],
+          "seconds": 0.951,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "official-exemplars",
+      "id": "academic-2023-2B-B",
+      "expected": 7.5,
+      "runs": [
+        {
+          "seed": 42,
+          "predicted": 6,
+          "criteria": [
+            6,
+            6,
+            6,
+            6
+          ],
+          "seconds": 0.821,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "score-only",
+      "id": "academic-2023-2A-A",
+      "expected": 4,
+      "runs": [
+        {
+          "seed": 17,
+          "predicted": 4,
+          "criteria": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "seconds": 0.867,
+          "status": "completed"
+        },
+        {
+          "seed": 42,
+          "predicted": 3,
+          "criteria": [
+            4,
+            3,
+            3,
+            2
+          ],
+          "seconds": 0.716,
+          "status": "completed"
+        },
+        {
+          "seed": 91,
+          "predicted": 3.5,
+          "criteria": [
+            4,
+            3,
+            3,
+            3
+          ],
+          "seconds": 0.708,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "score-only",
+      "id": "academic-2023-2A-C",
+      "expected": 8.5,
+      "runs": [
+        {
+          "seed": 17,
+          "predicted": 6.5,
+          "criteria": [
+            7,
+            6,
+            6,
+            6
+          ],
+          "seconds": 0.93,
+          "status": "completed"
+        },
+        {
+          "seed": 42,
+          "predicted": 6.5,
+          "criteria": [
+            7,
+            6,
+            6,
+            6
+          ],
+          "seconds": 0.768,
+          "status": "completed"
+        },
+        {
+          "seed": 91,
+          "predicted": 6.5,
+          "criteria": [
+            7,
+            6,
+            6,
+            6
+          ],
+          "seconds": 0.775,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "score-only",
+      "id": "academic-2023-2B-B",
+      "expected": 7.5,
+      "runs": [
+        {
+          "seed": 17,
+          "predicted": 6,
+          "criteria": [
+            6,
+            6,
+            6,
+            6
+          ],
+          "seconds": 0.783,
+          "status": "completed"
+        },
+        {
+          "seed": 42,
+          "predicted": 6,
+          "criteria": [
+            6,
+            6,
+            6,
+            6
+          ],
+          "seconds": 0.8,
+          "status": "completed"
+        },
+        {
+          "seed": 91,
+          "predicted": 6,
+          "criteria": [
+            6,
+            6,
+            6,
+            6
+          ],
+          "seconds": 0.79,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "score-only",
+      "id": "academic-health-4",
+      "expected": 5.5,
+      "runs": [
+        {
+          "seed": 17,
+          "predicted": 5.5,
+          "criteria": [
+            6,
+            5,
+            5,
+            5
+          ],
+          "seconds": 0.717,
+          "status": "completed"
+        },
+        {
+          "seed": 42,
+          "predicted": 5.5,
+          "criteria": [
+            6,
+            6,
+            5,
+            5
+          ],
+          "seconds": 2.125,
+          "status": "completed"
+        },
+        {
+          "seed": 91,
+          "predicted": 4.5,
+          "criteria": [
+            5,
+            5,
+            4,
+            4
+          ],
+          "seconds": 0.861,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "score-only",
+      "id": "academic-health-5",
+      "expected": 7.5,
+      "runs": [
+        {
+          "seed": 17,
+          "predicted": 6,
+          "criteria": [
+            6,
+            6,
+            6,
+            6
+          ],
+          "seconds": 0.778,
+          "status": "completed"
+        },
+        {
+          "seed": 42,
+          "predicted": 6,
+          "criteria": [
+            6,
+            6,
+            6,
+            6
+          ],
+          "seconds": 0.817,
+          "status": "completed"
+        },
+        {
+          "seed": 91,
+          "predicted": 6,
+          "criteria": [
+            6,
+            6,
+            6,
+            6
+          ],
+          "seconds": 0.779,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "thinking",
+      "id": "academic-2023-2A-A",
+      "expected": 4,
+      "runs": [
+        {
+          "seed": 42,
+          "predicted": 3,
+          "criteria": [
+            3,
+            3,
+            3,
+            3
+          ],
+          "seconds": 18.552,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "thinking",
+      "id": "academic-2023-2A-C",
+      "expected": 8.5,
+      "runs": [
+        {
+          "seed": 42,
+          "predicted": 6.5,
+          "criteria": [
+            7,
+            7,
+            6,
+            6
+          ],
+          "seconds": 17.279,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5",
+      "strategy": "thinking",
+      "id": "academic-2023-2B-B",
+      "expected": 7.5,
+      "runs": [
+        {
+          "seed": 42,
+          "predicted": 6,
+          "criteria": [
+            6,
+            6,
+            6,
+            6
+          ],
+          "seconds": 17.287,
+          "status": "completed"
+        }
+      ]
+    }
+  ]
+}
