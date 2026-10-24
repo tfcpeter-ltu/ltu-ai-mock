@@ -11,6 +11,22 @@ export function inferenceInput(sample){
  // Explicit allowlist: reference scores and examiner comments cannot enter target inference.
  return {skill:'writing',taskType:sample.taskType||'task2',prompt:sample.prompt,response:sample.response};
 }
+export function verifyResearchCorpus(corpus){
+ if(!Array.isArray(corpus)||!corpus.length)throw Error('Empty corpus');
+ const ids=new Set(),responses=new Set();
+ for(const sample of corpus){
+  if(!/^[A-Za-z0-9-]+$/.test(sample.id)||sample.taskType!=='task2'||sample.transcriptionVerified!==true||sample.taskVerified!==true||sample.exclusion||sample.referenceConflict)throw Error('Unverified, conflicting or unsupported sample');
+  const identity=identifySample(sample);if(ids.has(sample.id)||responses.has(identity.responseHash))throw Error('Duplicate sample');ids.add(sample.id);responses.add(identity.responseHash);
+  if(!Number.isFinite(sample.expected)||sample.expected<0||sample.expected>9||sample.expected*2%1!==0)throw Error('Invalid reference');
+ }
+ return corpus;
+}
+export function assertNoAnchorLeakage(corpus,anchors){
+ verifyResearchCorpus(corpus);verifyResearchCorpus(anchors);
+ if(anchors.some(s=>s.split!=='development'))throw Error('Development anchors required');
+ const ids=new Set(anchors.map(s=>identifySample(s).responseHash)),tasks=new Set(anchors.map(s=>identifySample(s).promptHash));
+ if(corpus.some(s=>s.split!=='validation'||ids.has(identifySample(s).responseHash)||tasks.has(identifySample(s).promptHash)))throw Error('Anchor/validation task or response leakage');
+}
 export function evaluateWritingRuns(samples,runs,{model,protocol,taskType='task2',minimum=20}={}){
  if(!model||!protocol)throw Error('Pinned model and protocol required');
  if(!['task2','letter','ept'].includes(taskType))throw Error('Unsupported validation task');

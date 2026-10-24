@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {summarizeCorpusRuns} from '../selfhost/summarize-corpus-runs.mjs';
+const row={id:'sample',responseHash:'hash',expected:8,predicted:6,status:'completed',response:'PRIVATE ESSAY',prompt:'PRIVATE PROMPT',error:'PRIVATE ERROR'};
+const report={model:'fixed-model',strategy:'test',protocol:'fixed',corpusHash:'one',seed:1,complete:true,rows:[row],token:'PRIVATE TOKEN'};
+let result=summarizeCorpusRuns([report,{...report,seed:2}]);
+assert.equal(result.methods[0].uniqueScripts,1);assert.equal(result.methods[0].attempts,2);assert.equal(result.methods[0].mae,2);assert.equal(result.calibrationPassed,false);assert.ok(!JSON.stringify(result).includes('PRIVATE'));
+assert.throws(()=>summarizeCorpusRuns([report,report]),/Duplicate seed/);
+assert.throws(()=>summarizeCorpusRuns([report,{...report,seed:2,rows:[{...row,expected:7}]}]),/Inconsistent/);
+assert.equal(summarizeCorpusRuns([report,{...report,protocol:'changed'}]).methods.length,2);
+assert.equal(summarizeCorpusRuns([report,{...report,corpusHash:'new-transcript'}]).methods.length,2);
+assert.equal(summarizeCorpusRuns([{...report,complete:false}]).methods.length,0);
+result=summarizeCorpusRuns([report,{...report,seed:2,rows:[{...row,predicted:null,status:'failed'}]}]);assert.equal(result.methods[0].failed,1);assert.equal(result.methods[0].uniqueScripts,1);
+console.log('PASS: corpus/protocol isolation, unique essays, repeat/failure accounting, no raw text export, no release authorization.');

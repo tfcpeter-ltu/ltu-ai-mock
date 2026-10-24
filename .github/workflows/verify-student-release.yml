@@ -31,3 +31,4 @@ jobs:
       - run: node tests/teacher-ticket.test.cjs
       - run: node tests/writing-validation.test.mjs
       - run: node tests/writing-experiment-export.test.mjs
+      - run: node tests/writing-corpus.test.mjs

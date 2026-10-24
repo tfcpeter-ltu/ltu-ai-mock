@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import {identifySample,inferenceInput,evaluateWritingRuns} from '../selfhost/writing-validation.mjs';
+import {identifySample,inferenceInput,evaluateWritingRuns,verifyResearchCorpus,assertNoAnchorLeakage} from '../selfhost/writing-validation.mjs';
 const model='pinned-model',protocol='frozen-protocol';
 const samples=Array.from({length:20},(_,i)=>({id:'s'+i,prompt:'Different task '+i,response:'Original candidate essay '+i,expected:6,split:'validation',provenance:'independently-marked',trainingExposure:'excluded',transcriptionVerified:true,taskVerified:true}));
 const runs=samples.flatMap(s=>[1,2,3].map(seed=>({id:s.id,seed,model,protocol,predicted:6})));
@@ -18,4 +18,12 @@ assert.ok(report(samples,runs.map(r=>({...r,predicted:4}))).reasons.includes('ma
 assert.ok(report(samples,runs.map((r,i)=>i===0?{...r,predicted:8}:r)).reasons.includes('unstable-repeat-scoring'));
 const one=report([samples[0]],runs.filter(r=>r.id==='s0'));assert.equal(one.sampleCount,1);assert.equal(one.passed,false);
 assert.equal(report(samples.map(s=>({...s,taskType:'letter'}))).sampleCount,0);
+const verified=samples.map(s=>({...s,taskType:'task2'}));
+assert.equal(verifyResearchCorpus(verified).length,20);
+for(const patch of [{referenceConflict:{}},{exclusion:'pending'},{taskVerified:false},{transcriptionVerified:false},{id:'../bad'},{expected:NaN}])assert.throws(()=>verifyResearchCorpus([{...verified[0],...patch}]));
+assert.throws(()=>verifyResearchCorpus([verified[0],{...verified[0],id:'copy'}]),/Duplicate/);
+const anchor={...verified[0],split:'development'};
+assertNoAnchorLeakage([verified[1]],[anchor]);
+assert.throws(()=>assertNoAnchorLeakage([{...verified[1],prompt:anchor.prompt}],[anchor]),/leakage/);
+assert.throws(()=>assertNoAnchorLeakage([{...verified[1],response:anchor.response}],[anchor]),/leakage/);
 console.log('PASS: no reference leakage, task/response deduplication, repeats never inflate sample count, failures/stability/provenance block release.');

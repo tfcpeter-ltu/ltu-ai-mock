@@ -1,0 +1,623 @@
+{
+  "testedAt": "2026-10-24T04:36:39.079Z",
+  "independent": false,
+  "calibrationPassed": false,
+  "paidInferenceApiCalls": 0,
+  "note": "Public official research samples; same-assistant visual transcription review, not independent human double marking. Development and new-topic cohorts are reported separately by corpus hash. Repeats do not add essays. This report cannot authorize production scores.",
+  "methods": [
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "protocol": "29903b7a62634c834c77e7925ab1920f3db0f4aea351570756628e579f13df6a",
+      "corpusHash": "248f73800887a451219f91d8634f75010559a98fde9f973a7226bbfe124eee4a",
+      "strategy": "criterion-evidence",
+      "uniqueScripts": 3,
+      "attempts": 3,
+      "minRunsPerScript": 1,
+      "failed": 0,
+      "mae": 1.1666666666666667,
+      "bias": -0.5,
+      "withinOne": 0.6666666666666666,
+      "maxError": 2,
+      "maxRepeatSpread": null,
+      "rows": [
+        {
+          "id": "gt-2023-2B-A",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+          "pages": [
+            20
+          ],
+          "split": "validation",
+          "responseHash": "4a3535933c7afdd9f6d3f2e9c32ef078dff54191211e77ebb7f9aa3c167efdb3",
+          "promptHash": "16a427cc72b6e115e46ebd4006d2b180968b39c895c11d3f3be4b7a033267b94",
+          "expected": 4,
+          "runs": [
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 5,
+              "criteria": [
+                5,
+                5,
+                5,
+                5
+              ],
+              "seconds": 24.763
+            }
+          ]
+        },
+        {
+          "id": "gt-2023-2B-B",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+          "pages": [
+            21,
+            22
+          ],
+          "split": "validation",
+          "responseHash": "999f9b0678d79779365bb4c8b47e3cbbe6d6707df6915679277b9abf01b41ce0",
+          "promptHash": "16a427cc72b6e115e46ebd4006d2b180968b39c895c11d3f3be4b7a033267b94",
+          "expected": 6,
+          "runs": [
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 5.5,
+              "criteria": [
+                6,
+                6,
+                5,
+                5
+              ],
+              "seconds": 26.338
+            }
+          ]
+        },
+        {
+          "id": "gt-2023-2A-B",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+          "pages": [
+            18,
+            19
+          ],
+          "split": "validation",
+          "responseHash": "bb04b5f633ad54bd943e051053ec81404eef78608421a72465865b72d4537d2a",
+          "promptHash": "9db5fe415a9745efbf95146e29406742740db63840cc0fe1d22412f3fe08e884",
+          "expected": 8,
+          "runs": [
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 6,
+              "criteria": [
+                6,
+                6,
+                6,
+                6
+              ],
+              "seconds": 32.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "protocol": "29903b7a62634c834c77e7925ab1920f3db0f4aea351570756628e579f13df6a",
+      "corpusHash": "6e4352d6a14c4883ef09b5f55e967d289245d2bfc3d60a3cdf9a2949c611c2e3",
+      "strategy": "criterion-evidence",
+      "uniqueScripts": 3,
+      "attempts": 3,
+      "minRunsPerScript": 1,
+      "failed": 0,
+      "mae": 1,
+      "bias": -0.3333333333333333,
+      "withinOne": 0.6666666666666666,
+      "maxError": 1.5,
+      "maxRepeatSpread": null,
+      "rows": [
+        {
+          "id": "academic-2023-2A-A",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+          "pages": [
+            18
+          ],
+          "split": "development",
+          "responseHash": "db8e935ae7b09a1b9394887d7531fa3b9d322cbdb4ad84d6774b7101684374c7",
+          "promptHash": "66e3c426a8aef159c6dff1f82ce6cbef1b2a5899ae90dc561eea582cc6440ef5",
+          "expected": 4,
+          "runs": [
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 5,
+              "criteria": [
+                5,
+                5,
+                5,
+                5
+              ],
+              "seconds": 25.885
+            }
+          ]
+        },
+        {
+          "id": "academic-2023-2A-C",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+          "pages": [
+            21,
+            22
+          ],
+          "split": "development",
+          "responseHash": "f5ae9b65b27387523435cc489b3beef170a55371a9ccffb81270903638378804",
+          "promptHash": "66e3c426a8aef159c6dff1f82ce6cbef1b2a5899ae90dc561eea582cc6440ef5",
+          "expected": 8.5,
+          "runs": [
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 7,
+              "criteria": [
+                7,
+                7,
+                7,
+                7
+              ],
+              "seconds": 28.936
+            }
+          ]
+        },
+        {
+          "id": "academic-2023-2B-B",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+          "pages": [
+            25,
+            26
+          ],
+          "split": "development",
+          "responseHash": "426ceee6c0926a641b285699709803c9af94f370a0fb128133d1856ba005dcee",
+          "promptHash": "c2a5cfd3ee8fc529144f97eeb9887ec7b9f991b88a0e7156a916c77c91f540fd",
+          "expected": 7.5,
+          "runs": [
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 7,
+              "criteria": [
+                7,
+                7,
+                7,
+                7
+              ],
+              "seconds": 28.119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "protocol": "847aaa21dd3ce1e01013a86883e735d677a62e53a82011fc1cc1b7c6568adc5e",
+      "corpusHash": "248f73800887a451219f91d8634f75010559a98fde9f973a7226bbfe124eee4a",
+      "strategy": "official-anchors",
+      "uniqueScripts": 3,
+      "attempts": 9,
+      "minRunsPerScript": 3,
+      "failed": 0,
+      "mae": 1.3333333333333333,
+      "bias": -1.3333333333333333,
+      "withinOne": 0.3333333333333333,
+      "maxError": 2,
+      "maxRepeatSpread": 0,
+      "rows": [
+        {
+          "id": "gt-2023-2B-A",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+          "pages": [
+            20
+          ],
+          "split": "validation",
+          "responseHash": "4a3535933c7afdd9f6d3f2e9c32ef078dff54191211e77ebb7f9aa3c167efdb3",
+          "promptHash": "16a427cc72b6e115e46ebd4006d2b180968b39c895c11d3f3be4b7a033267b94",
+          "expected": 4,
+          "runs": [
+            {
+              "seed": 17,
+              "status": "completed",
+              "predicted": 4,
+              "criteria": [
+                4,
+                4,
+                4,
+                4
+              ],
+              "seconds": 4.734
+            },
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 4,
+              "criteria": [
+                4,
+                4,
+                4,
+                4
+              ],
+              "seconds": 4.769
+            },
+            {
+              "seed": 91,
+              "status": "completed",
+              "predicted": 4,
+              "criteria": [
+                4,
+                4,
+                4,
+                4
+              ],
+              "seconds": 2.687
+            }
+          ]
+        },
+        {
+          "id": "gt-2023-2B-B",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+          "pages": [
+            21,
+            22
+          ],
+          "split": "validation",
+          "responseHash": "999f9b0678d79779365bb4c8b47e3cbbe6d6707df6915679277b9abf01b41ce0",
+          "promptHash": "16a427cc72b6e115e46ebd4006d2b180968b39c895c11d3f3be4b7a033267b94",
+          "expected": 6,
+          "runs": [
+            {
+              "seed": 17,
+              "status": "completed",
+              "predicted": 4,
+              "criteria": [
+                4,
+                4,
+                4,
+                4
+              ],
+              "seconds": 2.725
+            },
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 4,
+              "criteria": [
+                4,
+                4,
+                4,
+                4
+              ],
+              "seconds": 2.636
+            },
+            {
+              "seed": 91,
+              "status": "completed",
+              "predicted": 4,
+              "criteria": [
+                4,
+                4,
+                4,
+                4
+              ],
+              "seconds": 2.678
+            }
+          ]
+        },
+        {
+          "id": "gt-2023-2A-B",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+          "pages": [
+            18,
+            19
+          ],
+          "split": "validation",
+          "responseHash": "bb04b5f633ad54bd943e051053ec81404eef78608421a72465865b72d4537d2a",
+          "promptHash": "9db5fe415a9745efbf95146e29406742740db63840cc0fe1d22412f3fe08e884",
+          "expected": 8,
+          "runs": [
+            {
+              "seed": 17,
+              "status": "completed",
+              "predicted": 6,
+              "criteria": [
+                6,
+                6,
+                6,
+                6
+              ],
+              "seconds": 3.18
+            },
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 6,
+              "criteria": [
+                6,
+                6,
+                6,
+                6
+              ],
+              "seconds": 2.963
+            },
+            {
+              "seed": 91,
+              "status": "completed",
+              "predicted": 6,
+              "criteria": [
+                6,
+                6,
+                6,
+                6
+              ],
+              "seconds": 2.872
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "protocol": "4d4fa88dcfb7cbbf3e330ff44bd1f70a2ff85e09a9ef9398911497763b85233d",
+      "corpusHash": "248f73800887a451219f91d8634f75010559a98fde9f973a7226bbfe124eee4a",
+      "strategy": "score-only",
+      "uniqueScripts": 3,
+      "attempts": 9,
+      "minRunsPerScript": 3,
+      "failed": 0,
+      "mae": 1.5,
+      "bias": -0.16666666666666666,
+      "withinOne": 0.3333333333333333,
+      "maxError": 2.5,
+      "maxRepeatSpread": 0,
+      "rows": [
+        {
+          "id": "gt-2023-2B-A",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+          "pages": [
+            20
+          ],
+          "split": "validation",
+          "responseHash": "4a3535933c7afdd9f6d3f2e9c32ef078dff54191211e77ebb7f9aa3c167efdb3",
+          "promptHash": "16a427cc72b6e115e46ebd4006d2b180968b39c895c11d3f3be4b7a033267b94",
+          "expected": 4,
+          "runs": [
+            {
+              "seed": 17,
+              "status": "completed",
+              "predicted": 5.5,
+              "criteria": [
+                6,
+                5,
+                5,
+                5
+              ],
+              "seconds": 2.656
+            },
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 5.5,
+              "criteria": [
+                6,
+                5,
+                5,
+                5
+              ],
+              "seconds": 2.924
+            },
+            {
+              "seed": 91,
+              "status": "completed",
+              "predicted": 5.5,
+              "criteria": [
+                6,
+                5,
+                5,
+                5
+              ],
+              "seconds": 2.477
+            }
+          ]
+        },
+        {
+          "id": "gt-2023-2B-B",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+          "pages": [
+            21,
+            22
+          ],
+          "split": "validation",
+          "responseHash": "999f9b0678d79779365bb4c8b47e3cbbe6d6707df6915679277b9abf01b41ce0",
+          "promptHash": "16a427cc72b6e115e46ebd4006d2b180968b39c895c11d3f3be4b7a033267b94",
+          "expected": 6,
+          "runs": [
+            {
+              "seed": 17,
+              "status": "completed",
+              "predicted": 6.5,
+              "criteria": [
+                7,
+                6,
+                6,
+                6
+              ],
+              "seconds": 2.425
+            },
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 6.5,
+              "criteria": [
+                7,
+                6,
+                6,
+                6
+              ],
+              "seconds": 2.41
+            },
+            {
+              "seed": 91,
+              "status": "completed",
+              "predicted": 6.5,
+              "criteria": [
+                7,
+                6,
+                6,
+                6
+              ],
+              "seconds": 2.581
+            }
+          ]
+        },
+        {
+          "id": "gt-2023-2A-B",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+          "pages": [
+            18,
+            19
+          ],
+          "split": "validation",
+          "responseHash": "bb04b5f633ad54bd943e051053ec81404eef78608421a72465865b72d4537d2a",
+          "promptHash": "9db5fe415a9745efbf95146e29406742740db63840cc0fe1d22412f3fe08e884",
+          "expected": 8,
+          "runs": [
+            {
+              "seed": 17,
+              "status": "completed",
+              "predicted": 5.5,
+              "criteria": [
+                6,
+                5,
+                5,
+                5
+              ],
+              "seconds": 2.9
+            },
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 5.5,
+              "criteria": [
+                6,
+                5,
+                5,
+                5
+              ],
+              "seconds": 2.678
+            },
+            {
+              "seed": 91,
+              "status": "completed",
+              "predicted": 5.5,
+              "criteria": [
+                6,
+                5,
+                5,
+                5
+              ],
+              "seconds": 2.753
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "model": "Qwen3-14B-Q4_K_M@530227a7d994db8eca5ab5ced2fb692b614357fd",
+      "protocol": "4d4fa88dcfb7cbbf3e330ff44bd1f70a2ff85e09a9ef9398911497763b85233d",
+      "corpusHash": "6e4352d6a14c4883ef09b5f55e967d289245d2bfc3d60a3cdf9a2949c611c2e3",
+      "strategy": "score-only",
+      "uniqueScripts": 3,
+      "attempts": 3,
+      "minRunsPerScript": 1,
+      "failed": 0,
+      "mae": 1.1666666666666667,
+      "bias": -0.16666666666666666,
+      "withinOne": 0.3333333333333333,
+      "maxError": 1.5,
+      "maxRepeatSpread": null,
+      "rows": [
+        {
+          "id": "academic-2023-2A-A",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+          "pages": [
+            18
+          ],
+          "split": "development",
+          "responseHash": "db8e935ae7b09a1b9394887d7531fa3b9d322cbdb4ad84d6774b7101684374c7",
+          "promptHash": "66e3c426a8aef159c6dff1f82ce6cbef1b2a5899ae90dc561eea582cc6440ef5",
+          "expected": 4,
+          "runs": [
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 5.5,
+              "criteria": [
+                6,
+                5,
+                5,
+                5
+              ],
+              "seconds": 5.674
+            }
+          ]
+        },
+        {
+          "id": "academic-2023-2A-C",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+          "pages": [
+            21,
+            22
+          ],
+          "split": "development",
+          "responseHash": "f5ae9b65b27387523435cc489b3beef170a55371a9ccffb81270903638378804",
+          "promptHash": "66e3c426a8aef159c6dff1f82ce6cbef1b2a5899ae90dc561eea582cc6440ef5",
+          "expected": 8.5,
+          "runs": [
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 7,
+              "criteria": [
+                7,
+                7,
+                7,
+                7
+              ],
+              "seconds": 2.511
+            }
+          ]
+        },
+        {
+          "id": "academic-2023-2B-B",
+          "source": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+          "pages": [
+            25,
+            26
+          ],
+          "split": "development",
+          "responseHash": "426ceee6c0926a641b285699709803c9af94f370a0fb128133d1856ba005dcee",
+          "promptHash": "c2a5cfd3ee8fc529144f97eeb9887ec7b9f991b88a0e7156a916c77c91f540fd",
+          "expected": 7.5,
+          "runs": [
+            {
+              "seed": 42,
+              "status": "completed",
+              "predicted": 7,
+              "criteria": [
+                7,
+                7,
+                7,
+                7
+              ],
+              "seconds": 2.82
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

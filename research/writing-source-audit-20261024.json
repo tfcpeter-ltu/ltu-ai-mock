@@ -1,0 +1,135 @@
+{
+  "checkedAt": "2026-10-24T04:34:39.321Z",
+  "independent": false,
+  "reviewMethod": "Same assistant, visual page review and enlarged reading. Not independent human double marking.",
+  "completedOriginalTranscripts": [
+    {
+      "id": "academic-2023-2A-A",
+      "pages": [
+        18
+      ],
+      "originalSha256": "a9c7b01c89f72ec16d7b96b7b46eb6a93afa1533a3e44526f8be64d9b5d4b8fb",
+      "reviewedSha256": "d9fe56243fdc590eafd31dfbfa0cd4be40fc266b1602d2bf1a30a30984de6d59",
+      "taskVerified": true,
+      "visualChecked": true,
+      "notes": [
+        "Printed line wraps joined; original grammatical and spelling errors retained."
+      ]
+    },
+    {
+      "id": "academic-2023-2A-C",
+      "pages": [
+        21,
+        22
+      ],
+      "originalSha256": "ea16148c31bbc0cf4d077e9b67e0ad4b18c6a398cb42e7eee7ee2930442a270e",
+      "reviewedSha256": "aa96b853b561feb8bf05c19e2f96f812edd5635ce8e4704479e05f5a58fba951",
+      "taskVerified": true,
+      "visualChecked": true,
+      "notes": [
+        "Possessive apostrophe and final punctuation checked.",
+        "Crossed-out words omitted; inline insertions retained."
+      ]
+    },
+    {
+      "id": "academic-2023-2B-B",
+      "pages": [
+        25,
+        26
+      ],
+      "originalSha256": "21cda0e68b666e1ef7ffeb06a7fc093a79dfa575e7976da166206e25e7e02a75",
+      "reviewedSha256": "a45134c8ba43b89ad8d4fb366f98a6be614b0418de1944fcb010299c6cfea602",
+      "taskVerified": true,
+      "visualChecked": true,
+      "notes": [
+        "Cancelled pronoun omitted; inline insertions retained.",
+        "Other visible grammar and spelling errors retained."
+      ]
+    }
+  ],
+  "newEligibleSamples": [
+    {
+      "id": "gt-2023-2B-A",
+      "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+      "pages": [
+        20
+      ],
+      "promptPage": 6,
+      "expected": 4,
+      "sha256": "267a66fa913a02b6b30db203126d54797faa66cb6bf21b54ae4cad4d33682575",
+      "taskVerified": true,
+      "visualChecked": true
+    },
+    {
+      "id": "gt-2023-2B-B",
+      "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+      "pages": [
+        21,
+        22
+      ],
+      "promptPage": 6,
+      "expected": 6,
+      "sha256": "dd94ce768db1ef9b79bf1fcdfcaad1e2ee72215f5bce2009833765b19564bc1a",
+      "taskVerified": true,
+      "visualChecked": true
+    },
+    {
+      "id": "gt-2023-2A-B",
+      "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+      "pages": [
+        18,
+        19
+      ],
+      "promptPage": 5,
+      "expected": 8,
+      "sha256": "49845b49db2df13d9abd322ea3f4c99312f2198905bfce0b314e774eaf591a55",
+      "taskVerified": true,
+      "visualChecked": true
+    }
+  ],
+  "excluded": [
+    {
+      "id": "idp-serial-dramas-B",
+      "source": "https://info.ielts.idp.com/rs/561-EIU-022/images/IELTS%20Focus%20-%20GT%20Writing%20T2%20-%20Student%20updated.pdf",
+      "pages": [
+        43
+      ],
+      "reason": "Unresolved handwritten revisions and programme names; not eligible for inference until checked.",
+      "referenceConflict": null
+    },
+    {
+      "id": "idp-shopping-C",
+      "source": "https://info.ielts.idp.com/rs/561-EIU-022/images/IELTS%20Focus%20-%20GT%20Writing%20T2%20-%20Student%20updated.pdf",
+      "pages": [
+        48
+      ],
+      "reason": "Same essay has conflicting official reference bands (8 and 8.5); excluded pending reference reconciliation.",
+      "referenceConflict": {
+        "sources": [
+          {
+            "source": "https://info.ielts.idp.com/rs/561-EIU-022/images/IELTS%20Focus%20-%20GT%20Writing%20T2%20-%20Student%20updated.pdf",
+            "pages": [
+              48
+            ],
+            "band": 8
+          },
+          {
+            "source": "https://ielts.org/cdn/Sample-tests/ielts-general-training-writing-sample-tasks-2023.pdf",
+            "pages": [
+              23,
+              24
+            ],
+            "band": 8.5
+          }
+        ],
+        "excludedFromPrimaryValidation": true
+      }
+    }
+  ],
+  "sourceAccess": {
+    "idpFocus": "public PDF downloaded",
+    "generalTraining2023": "public PDF downloaded",
+    "scoresGuideS3": "HTTP 403, not bypassed"
+  },
+  "formalReleasePermitted": false
+}
