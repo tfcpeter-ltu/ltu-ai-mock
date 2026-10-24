@@ -1,0 +1,25 @@
+name: Configure verified teacher account
+on:
+  workflow_dispatch:
+    inputs:
+      encrypted_request:
+        description: Expiring encrypted account request from the local operator utility
+        required: true
+        type: string
+permissions:
+  contents: read
+jobs:
+  provision:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm ci
+      - name: Confirm existing account and grant teacher access
+        run: node selfhost/provision-teacher-ci.cjs
+        env:
+          PROVISIONING_REQUEST: ${{ inputs.encrypted_request }}
+          ASSESSOR_WORKER_TOKEN: ${{ secrets.ASSESSOR_WORKER_TOKEN }}
+          CONVEX_DEPLOY_KEY: ${{ secrets.CONVEX_DEPLOY_KEY }}

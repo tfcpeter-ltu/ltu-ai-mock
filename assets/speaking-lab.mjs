@@ -1,4 +1,4 @@
-import {rubricVersion,hideUnvalidatedScoreText} from '../shared/rubric.mjs?v=4';
+import {rubricVersion,hideUnvalidatedScoreText} from '../shared/rubric.mjs?v=5';
 import {analysePCM,speechPractice} from '../shared/audio-analysis.mjs';
 let cleanup=()=>{};
 function dbOpen(){return new Promise((resolve,reject)=>{const r=indexedDB.open('ltu-speaking-audio-v1',1);r.onupgradeneeded=()=>r.result.createObjectStore('clips');r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error);});}

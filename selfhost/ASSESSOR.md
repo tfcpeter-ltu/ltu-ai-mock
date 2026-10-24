@@ -62,7 +62,7 @@ node ./benchmark-official.mjs '<本機驗證目錄>'
 
 新增 `assessment-worker.mjs`：從本站 Convex 私人排程向外取件，呼叫已啟動的 127.0.0.1:8782 本機模型，再以有期限的租約回傳。沒有公開本機連接埠或自動啟動；電腦離線時學生看到等待狀態。
 
-工作金鑰設定尚未執行：自動核准審查要求使用者明確同意金鑰用途與目的地。核准後才可將專用隨機金鑰放在 `%LOCALAPPDATA%/LTU/Assessor/worker-token.txt`、本站 GitHub repository 的加密 `ASSESSOR_WORKER_TOKEN` secret，及 Convex 同名環境變數。金鑰可取回待評文字並提交評論，須保密；不可放在 OneDrive、前端或 Git。`start-worker.ps1` 必須有私人設定才會啟動；`stop-worker.ps1` 核對 PID 後停止。
+工作金鑰已於 2026-10-24 依使用者繼續指示完成設定；僅保存在本機私人 runtime、本站 GitHub 加密 Secrets 及 Convex 環境變數。實際合成學生測試已通過雲端提交、本機取件、四項評論回傳及未驗證分數隱藏。`start-worker.ps1` 啟動背景取件，`stop-worker.ps1` 核對 PID 後停止；電腦關機、休眠或工作程式停止時保留等待，不會自動使用付費 AI。不要把金鑰或 worker-config.json 複製到 OneDrive。
 
 `install-assessor.ps1 -Model 3.5-9B` 與 `start-assessor.ps1 -Model 3.5-9B` 支援固定 revision 的 Qwen3.5 9B Unsloth Q4_K_M，下載後核對 SHA-256。兩篇官方開發樣本結果為 5.5/6.0（考官 5.5/7.5），MAE 0.75、最大誤差 1.5；未通過正式採分門檻。8B 為 6/6，MAE 1.0。不得將同一批調整用公開樣本稱為獨立校準。
 
@@ -70,3 +70,8 @@ node ./benchmark-official.mjs '<本機驗證目錄>'
 
 後端自動分數預設隱藏。只有管理員登錄同一模型／規準版本／題型的獨立驗證政策才可開啟，工程門檻為至少 20 件、MAE ≤0.5、誤差不超過 1 Band 比例 ≥95%；這是本站發布門檻，不是 IELTS 官方認證標準。逐字稿 AI 永不提供完整口說或發音 Band。
 
+
+
+規準版本更新為 ielts-practice-20261024-v4，分離任務、連貫、字彙、文法的判斷焦點。相同兩篇官方開發樣本皆完成，模型5.5/5.5、考官5.5/7.5，MAE1.0、最大誤差2.0；仍未達正式採分門檻。
+
+教師授權使用內部 provisionTeacherAccount，必須核對擁有者指定的 Email 與登入後學生代碼；只允許現有帳號提升為 teacher，保留既有 admin，不建立帳號。操作請求採短效加密封裝，GitHub 公開工作流程不印出帳號資訊。尚未取得學生代碼時不得執行授權。

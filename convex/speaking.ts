@@ -26,5 +26,23 @@ export const finishAudio=internalMutation({args:{audioId:v.id('speakingAudio'),s
 export const cancelAudio=internalMutation({args:{audioId:v.id('speakingAudio')},returns:v.null(),handler:async(ctx,args)=>{const row=await ctx.db.get(args.audioId);if(row?.state==='reserved'){const budget=await ctx.db.query('assessmentBudget').withIndex('by_key',q=>q.eq('key','global')).unique();if(budget)await ctx.db.patch(budget._id,{bytes:Math.max(0,budget.bytes-row.bytes)});await ctx.db.patch(row._id,{state:'cancelled'});}return null;}});
 export const audioAccess=internalQuery({args:{audioId:v.id('speakingAudio')},returns:v.union(v.null(),v.object({storageId:v.id('_storage'),mimeType:v.string()})),handler:async(ctx,args)=>{const uid=await user(ctx),row=await ctx.db.get(args.audioId);if(!row||row.state!=='stored'||!row.storageId||(row.userId!==uid&&!await teacher(ctx,uid)))throw Error('Recording not found');return {storageId:row.storageId,mimeType:row.mimeType};}});
 export const provisionTeacher=internalMutation({args:{userId:v.id('users'),role:v.union(v.literal('teacher'),v.literal('admin'))},returns:v.null(),handler:async(ctx,args)=>{const row=await ctx.db.query('profiles').withIndex('by_user',q=>q.eq('userId',args.userId)).unique();if(!row)throw Error('Existing account profile required');await ctx.db.patch(row._id,{role:args.role});return null;}});
+// Operator-only confirmation of a user-supplied account code and email. This
+// never creates identities, searches by email, or downgrades an existing admin.
+export const provisionTeacherAccount=internalMutation({
+ args:{email:v.string(),studentCode:v.string()},
+ returns:v.object({role:v.union(v.literal('teacher'),v.literal('admin'))}),
+ handler:async(ctx,args)=>{
+  const email=args.email.trim().toLowerCase(),studentCode=args.studentCode.trim();
+  boundedText(email,254,'email');boundedText(studentCode,100,'student code');
+  if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email))throw Error('Invalid email');
+  const profile=await ctx.db.query('profiles').withIndex('by_student_code',q=>q.eq('studentCode',studentCode)).unique();
+  if(!profile)throw Error('Existing account details do not match');
+  const account=await ctx.db.get(profile.userId);
+  if(!account?.email||account.email.trim().toLowerCase()!==email)throw Error('Existing account details do not match');
+  if(profile.role==='admin')return {role:'admin' as const};
+  if(profile.role!=='teacher')await ctx.db.patch(profile._id,{role:'teacher'});
+  return {role:'teacher' as const};
+ },
+});
 // Operator recovery only: inspect storage before confirming absence. Never delete recordings.
 export const recoverAbandonedReservation=internalMutation({args:{audioId:v.id('speakingAudio'),verifiedNoStoredFile:v.literal(true)},returns:v.null(),handler:async(ctx,args)=>{const row=await ctx.db.get(args.audioId);if(!row||row.state!=='reserved'||row.storageId||Date.now()-row.createdAt<3600000)throw Error('Not an abandoned reservation');const budget=await ctx.db.query('assessmentBudget').withIndex('by_key',q=>q.eq('key','global')).unique();if(budget)await ctx.db.patch(budget._id,{bytes:Math.max(0,budget.bytes-row.bytes)});await ctx.db.patch(row._id,{state:'cancelled'});return null;}});

@@ -200,4 +200,27 @@ async function bodyTests() {
   const allowed=rules.publicReport(leaking,true);assert.equal(allowed.criteria[0].comment,'limiting lexical resource to Band 6.');assert.equal(allowed.summary,'Overall Band 6.');
 }
 
-(async()=>{await speakingTests();await queueTests();await bodyTests();console.log('PASS assessment backend handlers: account/teacher authorization, complete original-audio review, storage quota, cache/rates, leases/evidence, independent exact-policy gating, and bounded uploads.');})().catch(error=>{console.error(error);process.exitCode=1;});
+async function teacherProvisioningTests() {
+  const h=harness(), s=h.load('speaking'), operator=h.ctx(null);
+  const userId=await h.insert('users',{email:'teacher@example.edu'});
+  const profileId=await h.insert('profiles',{userId,studentCode:'LTU-ABC123',role:'student',displayName:'Existing teacher',membershipStatus:'trial'});
+  const initialSize=h.rows.size;
+  await assert.rejects(s.provisionTeacherAccount.handler(operator,{email:'teacher@example.edu',studentCode:'LTU-WRONG'}),/details do not match/);
+  await assert.rejects(s.provisionTeacherAccount.handler(operator,{email:'wrong@example.edu',studentCode:'LTU-ABC123'}),/details do not match/);
+  assert.equal(h.rows.get(profileId).role,'student','Mismatched account details must not grant a role');
+  const result=await s.provisionTeacherAccount.handler(operator,{email:' Teacher@Example.EDU ',studentCode:' LTU-ABC123 '});
+  assert.equal(result.role,'teacher');assert.equal(h.rows.get(profileId).role,'teacher');
+  assert.equal(h.rows.get(profileId).displayName,'Existing teacher');assert.equal(h.rows.get(profileId).membershipStatus,'trial');
+  assert.equal(h.rows.size,initialSize,'Provisioning must not create an identity or profile');
+  assert.equal((await s.provisionTeacherAccount.handler(operator,{email:'teacher@example.edu',studentCode:'LTU-ABC123'})).role,'teacher','Teacher provisioning is idempotent');
+  h.rows.get(profileId).role='admin';
+  assert.equal((await s.provisionTeacherAccount.handler(operator,{email:'teacher@example.edu',studentCode:'LTU-ABC123'})).role,'admin');
+  assert.equal(h.rows.get(profileId).role,'admin','Existing admin must never be downgraded');
+  await h.insert('users',{email:'without-profile@example.edu'});
+  await assert.rejects(s.provisionTeacherAccount.handler(operator,{email:'without-profile@example.edu',studentCode:'LTU-NOPROFILE'}),/details do not match/);
+  const orphan=await h.insert('profiles',{userId:'missing-auth-user',studentCode:'LTU-ORPHAN',role:'student'});
+  await assert.rejects(s.provisionTeacherAccount.handler(operator,{email:'teacher@example.edu',studentCode:'LTU-ORPHAN'}),/details do not match/);
+  assert.equal(h.rows.get(orphan).role,'student');
+}
+
+(async()=>{await speakingTests();await queueTests();await bodyTests();await teacherProvisioningTests();console.log('PASS assessment backend handlers: account/teacher authorization, complete original-audio review, storage quota, cache/rates, leases/evidence, independent exact-policy gating, bounded uploads, and verified existing-account teacher provisioning.');})().catch(error=>{console.error(error);process.exitCode=1;});

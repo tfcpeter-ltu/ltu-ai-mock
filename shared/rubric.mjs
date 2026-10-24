@@ -1,5 +1,5 @@
 // These are our operational paraphrases, not copies of the official descriptors.
-export const rubricVersion='ielts-practice-20261023-v3';
+export const rubricVersion='ielts-practice-20261024-v4';
 export const sources={writing:'https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf',speaking:'https://ielts.org/cdn/ielts-guides/ielts-speaking-band-descriptors.pdf'};
 export const writingCriteria=['Task Response / Achievement','Coherence and Cohesion','Lexical Resource','Grammatical Range and Accuracy'];
 export const speakingCriteria=['Fluency and Coherence','Lexical Resource','Grammatical Range and Accuracy','Pronunciation'];

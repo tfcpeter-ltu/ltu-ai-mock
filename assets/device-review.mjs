@@ -1,4 +1,4 @@
-import {makeRequest,validateReview,studentReview} from '../shared/rubric.mjs?v=4';
+import {makeRequest,validateReview,studentReview} from '../shared/rubric.mjs?v=5';
 let engine,busy=false;
 export async function reviewText({onProgress=()=>{},signal,...input}){
  signal?.throwIfAborted();

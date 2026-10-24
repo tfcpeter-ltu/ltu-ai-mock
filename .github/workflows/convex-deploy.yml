@@ -33,6 +33,7 @@ jobs:
       - run: node tests/assessment-worker.test.mjs
       - run: node tests/assessment-client.test.mjs
       - run: node tests/score-text.test.mjs
+      - run: node tests/teacher-ticket.test.cjs
       - name: Deploy Convex Backend
         run: npx convex deploy
         env:

@@ -5,7 +5,7 @@ import {useAuthToken} from '@convex-dev/auth/react';
 import {anyApi} from 'convex/server';
 import {submitSpeakingAttempt} from './assessment-client.mjs';
 const html=htm.bind(React.createElement),site='https://dashing-quail-760.convex.site';
-const model='Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5',rubric='ielts-practice-20261023-v3';
+const model='Qwen3.5-9B-Q4_K_M@3885219b6810b007914f3a7950a8d1b469d598a5',rubric='ielts-practice-20261024-v4';
 const labels={task:'任務回應',coherence:'連貫與銜接',fluency:'流暢與連貫',lexical:'字彙',grammar:'文法',pronunciation:'發音'};
 async function clip(key){return new Promise((resolve,reject)=>{const req=indexedDB.open('ltu-speaking-audio-v1',1);req.onupgradeneeded=()=>req.result.createObjectStore('clips');req.onerror=()=>reject(Error('無法開啟裝置錄音'));req.onsuccess=()=>{const db=req.result,tx=db.transaction('clips'),r=tx.objectStore('clips').get(key);r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error);tx.oncomplete=()=>db.close();};});}
 async function audioFetch(token,path,options={}){if(!token)throw Error('登入已失效，請重新登入');const res=await fetch(site+path,{...options,headers:{...options.headers,Authorization:'Bearer '+token},cache:'no-store',redirect:'error'});if(!res.ok)throw Error('原音傳輸失敗；請確認檔案格式、8 MB 上限與本站儲存額度。已保存的原音會保留。');return res;}
